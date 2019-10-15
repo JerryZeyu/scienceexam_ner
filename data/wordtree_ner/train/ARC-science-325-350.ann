@@ -1,0 +1,606 @@
+T3	LevelOfInclusion 157 161	full
+T7	InnerPlanets 3998 4003	Earth
+T8	InnerPlanets 4356 4361	Earth
+T9	InnerPlanets 7532 7537	Earth
+T11	PlanetParts 2062 2067	crust
+T15	Satellite 6414 6423	satellite
+T26	Force 658 663	force
+T31	ChangeInLocation 4470 4476	forced
+T33	Gravity 5410 5429	Gravitational force
+T35	Pressure 3424 3432	pressure
+T42	EnergyWaves 7612 7617	waves
+T44	CombineAdd 5445 5451	fusion
+T48	ThermalEnergy 5556 5560	heat
+T57	Human 7567 7573	people
+T60	GroupsOfScientists 2731 2736	class
+T64	Human 2716 2728	Mr. Thompson
+T69	OtherDescriptionsForPlantsBiennialLeafyEtc 6576 6582	grassy
+T74	GeographicFormationProcess 4866 4874	activity
+T81	ConstructiveDestructiveForces 4786 4792	growth
+T87	LiquidMatter 2501 2506	water
+T106	Measurements 4843 4846	per
+T107	Measurements 4765 4773	measured
+T108	MeasuringSpeed 4778 4782	rate
+T113	DistanceUnit 4840 4842	cm
+T116	TimeUnit 4847 4851	year
+T134	PhysicalChange 7235 7242	cooling
+T136	Examine 4765 4773	measured
+T138	WaterVehicle 494 498	boat
+T139	WaterVehicle 582 586	boat
+T140	WaterVehicle 684 688	boat
+T141	WaterVehiclePart 571 576	sails
+T142	WaterVehiclePart 671 676	sails
+T143	Validity 5325 5335	supporting
+T150	GeographicFormations 5814 5821	feature
+T152	Property 7184 7191	feature
+T154	Property 3986 3994	features
+T156	Property 2311 2326	characteristics
+T158	Age 2058 2061	new
+T159	Age 6792 6795	new
+T160	Age 7650 7653	new
+T188	Temperature 5567 5582	unevenly heated
+T189	Temperature 7235 7242	cooling
+T194	Temperature 7140 7145	cools
+T197	Mass 5630 5641	lightweight
+T198	Shape 175 183	circular
+T199	Shape 1666 1674	U-shaped
+T200	Shape 4106 4114	U-shaped
+T209	Size 1201 1206	small
+T210	Size 5455 5460	small
+T211	Size 900 905	large
+T212	Depth 1207 1211	deep
+T213	Depth 4332 4339	deepest
+T214	Width 1647 1651	wide
+T216	ElectricalProperty 5607 5614	charged
+T218	Quality 2292 2296	best
+T219	Quality 1933 1937	best
+T220	Quality 9065 9069	best
+T221	Quality 1262 1266	best
+T222	Quality 7883 7887	best
+T223	Quality 1593 1597	best
+T224	Quality 5299 5306	crucial
+T225	Speed 6764 6769	quick
+T226	Speed 3667 3673	slowly
+T227	Speed 7080 7086	slowly
+T228	Speed 8252 8258	slowly
+T253	CardinalNumber 2797 2801	four
+T254	CardinalNumber 2875 2878	two
+T255	CardinalNumber 4498 4501	two
+T256	CardinalNumber 4544 4547	two
+T257	CardinalNumber 6472 6475	two
+T258	CardinalNumber 4838 4839	3
+T259	CardinalNumber 4833 4834	2
+T260	CardinalNumber 4412 4415	one
+T261	CardinalNumber 4451 4454	one
+T263	RelativeNumber 286 290	half
+T269	RelativeNumber 1168 1172	Many
+T272	EarthPartsGrossGroundAtmosphere 7540 7547	surface
+T287	LayersOfTheEarth 2062 2067	crust
+T289	LayersOfTheEarth 4006 4011	crust
+T290	LayersOfTheEarth 5494 5498	core
+T291	TectonicPlates 4416 4421	plate
+T295	TectonicPlates 4455 4460	plate
+T296	PartsOfEarthLayers 4387 4401	plate boundary
+T298	TectonicPlates 4502 4508	plates
+T299	TectonicPlates 6476 6482	plates
+T301	TectonicPlates 4548 4554	plates
+T306	PartsOfEarthLayers 4127 4146	continental shelves
+T312	TectonicPlates 5851 5865	tectonic plate
+T313	TectonicPlates 5096 5110	tectonic plate
+T315	TectonicPlates 6159 6173	tectonic plate
+T316	TectonicPlates 4042 4056	tectonic plate
+T317	TectonicPlates 8236 8250	tectonic plate
+T318	TectonicPlates 2879 2893	tectonic plate
+T326	TectonicPlates 3788 3799	continental
+T327	TectonicPlates 5059 5070	continental
+T328	TectonicPlates 3763 3774	continental
+T345	GeographicFormations 1699 1704	caves
+T348	GeographicFormations 7914 7921	geysers
+T349	GeographicFormations 1341 1359	glacial depression
+T350	GeographicFormations 6222 6231	rift zone
+T353	GeographicFormations 3059 3074	Marianas Trench
+T354	GeographicFormations 4091 4101	sand dunes
+T355	UnderwaterEcosystem 2450 2457	marshes
+T356	GeographicFormations 3598 3614	geologic feature
+T357	GeographicFormations 8205 8221	geologic feature
+T359	GeographicFormations 8273 8281	hot spot
+T360	GeographicFormations 6583 6589	plains
+T361	GeographicFormations 6529 6537	plateaus
+T362	GeographicFormations 8287 8295	plateaus
+T363	GeographicFormations 6188 6198	island arc
+T365	GeographicFormations 5893 5904	rift valley
+T366	GeographicFormations 6558 6569	rift valley
+T367	GeographicFormations 5366 5376	continents
+T368	GeographicFormations 8843 8850	ravines
+T369	GeographicFormations 3001 3010	Continent
+T370	GeographicFormations 7317 7321	reef
+T371	GeographicFormations 1612 1620	glaciers
+T372	GeographicFormations 8529 8537	glaciers
+T377	GeographicFormations 8855 8862	caverns
+T378	GeographicFormations 1011 1017	crater
+T380	GeographicFormations 868 875	glacier
+T382	GeographicFormations 4907 4913	ridges
+T383	GeographicFormations 1024 1032	sinkhole
+T384	GeographicFormations 4368 4374	trench
+T387	GeographicFormations 5882 5888	trench
+T389	GeographicFormations 4346 4352	trench
+T390	GeographicFormations 2036 2042	trench
+T392	GeographicFormations 7328 7335	sandbar
+T394	GeographicFormations 3743 3758	mid-ocean ridge
+T395	GeographicFormations 5925 5940	mid-ocean ridge
+T396	GeographicFormations 4063 4078	mid-ocean ridge
+T397	GeographicFormations 6236 6252	folded mountains
+T399	GeographicFormations 3015 3033	Mid-Atlantic Ridge
+T400	GeographicFormations 9201 9219	Mid-Atlantic Ridge
+T401	GeographicFormations 6849 6856	volcano
+T402	GeographicFormations 7056 7063	volcano
+T403	GeographicFormations 7636 7643	volcano
+T404	GeographicFormations 7291 7296	fault
+T405	GeographicFormations 8504 8511	valleys
+T406	GeographicFormations 4115 4122	valleys
+T407	GeographicFormations 1675 1682	valleys
+T408	GeographicFormations 8831 8838	valleys
+T411	GeographicFormations 6543 6552	mountains
+T412	GeographicFormations 8867 8876	mountains
+T414	GeographicFormations 4310 4324	Mariana Trench
+T415	GeographicFormations 7304 7310	island
+T416	GeographicFormations 2825 2833	landform
+T417	GeographicFormations 2902 2910	landform
+T418	GeographicFormations 6113 6121	landform
+T420	GeographicFormations 985 991	valley
+T422	GeographicFormations 3047 3054	Islands
+T423	GeographicFormations 8300 8307	islands
+T424	GeographicFormations 8312 8319	canyons
+T425	GeographicFormations 8516 8523	canyons
+T433	BodiesOfWater 7693 7696	bay
+T439	BodiesOfWater 2450 2457	marshes
+T440	BodiesOfWater 2371 2376	river
+T441	BodiesOfWater 2565 2570	river
+T442	BodiesOfWater 2332 2337	river
+T443	BodiesOfWater 2489 2494	river
+T444	BodiesOfWater 516 521	river
+T445	BodiesOfWater 2422 2428	rivers
+T446	BodiesOfWater 8542 8548	rivers
+T447	BodiesOfWater 1612 1620	glaciers
+T448	BodiesOfWater 8529 8537	glaciers
+T449	BodiesOfWater 5385 5390	ocean
+T450	BodiesOfWater 7262 7267	ocean
+T452	BodiesOfWater 6809 6814	ocean
+T453	BodiesOfWater 5909 5914	ocean
+T454	BodiesOfWater 7074 7079	ocean
+T455	BodiesOfWater 4921 4926	ocean
+T456	BodiesOfWater 4340 4345	ocean
+T457	BodiesOfWater 7165 7170	ocean
+T458	BodiesOfWater 3726 3731	ocean
+T462	BodiesOfWater 2522 2527	ocean
+T463	BodiesOfWater 8013 8029	artesian springs
+T464	BodiesOfWater 998 1004	kettle
+T466	BodiesOfWater 868 875	glacier
+T468	BodiesOfWater 2436 2445	estuaries
+T469	BodiesOfWater 2385 2396	tributaries
+T470	BodiesOfWater 1212 1217	ponds
+T472	BodiesOfWater 1299 1304	ponds
+T475	BodiesOfWater 1721 1728	springs
+T479	SpecificNamedBodiesOfWater 4800 4814	Atlantic Ocean
+T480	TypesOfWaterInBodiesOfWater 1709 1720	groundwater
+T481	TypesOfWaterInBodiesOfWater 8771 8782	groundwater
+T482	PartsOfBodiesOfWater 6886 6891	waves
+T484	PartsOfBodiesOfWater 7711 7715	wave
+T485	PartsOfBodiesOfWater 7268 7273	floor
+T488	PartsOfBodiesOfWater 4927 4932	floor
+T489	PartsOfBodiesOfWater 7171 7176	floor
+T490	PartsOfBodiesOfWater 5391 5397	basins
+T491	PartsOfBodiesOfWater 2478 2483	mouth
+T492	PartsOfBodiesOfWater 1652 1661	riverbeds
+T493	PartsOfBodiesOfWater 8324 8330	deltas
+T494	PartsOfBodiesOfWater 2338 2343	basin
+T495	PartsOfBodiesOfWater 4815 4820	basin
+T496	PartsOfBodiesOfWater 5915 5920	basin
+T497	Currents 5534 5542	Currents
+T498	Currents 522 529	current
+T499	TidesHighTideLowTide 8562 8567	tides
+T502	ActionsForTides 4999 5011	tidal action
+T503	GeographicFormationProcess 1953 1969	geologic process
+T504	GeographicFormationProcess 3319 3335	geologic process
+T505	ChangeInLocation 4513 4520	collidi
+T506	ChangeInLocation 2862 2871	collision
+T509	ChangeInLocation 4425 4432	sliding
+T510	ChangeInLocation 5867 5876	diverging
+T511	ChangeInLocation 6835 6844	landslide
+T512	ChangeInLocation 7676 7685	landslide
+T513	ChangeInLocation 7975 7986	earthquakes
+T514	ChangeInLocation 3363 3372	transport
+T515	ChangeInLocation 4030 4038	shifting
+T517	ChangeInLocation 6488 6496	diverged
+T518	ChangeInLocation 3674 3683	subducted
+T519	ChangeInLocation 6820 6830	earthquake
+T520	ChangeInLocation 7595 7605	earthquake
+T521	ChangeInLocation 2100 2110	subducting
+T522	ChangeInLocation 2138 2148	subducting
+T523	ChangeInComposition 3386 3405	chemical weathering
+T524	ChangeInComposition 7150 7157	hardens
+T525	ChangeInComposition 6857 6865	erupting
+T526	ConstructiveDestructiveForces 3410 3420	compaction
+T529	ConstructiveDestructiveForces 4986 4993	erosion
+T530	ConstructiveDestructiveForces 7963 7970	erosion
+T531	ConstructiveDestructiveForces 9156 9163	erosion
+T532	ConstructiveDestructiveForces 3395 3405	weathering
+T533	ConstructiveDestructiveForces 6870 6880	weathering
+T534	ConstructiveDestructiveForces 9144 9154	weathering
+T536	ConstructiveDestructiveForces 5020 5030	deposition
+T537	ConstructiveDestructiveForces 9169 9179	deposition
+T538	Minerals 3249 3253	gold
+T539	Minerals 3258 3264	silver
+T542	MineralFormations 3232 3245	Vein deposits
+T543	Rock 8797 8801	rock
+T544	Rock 7096 7100	lava
+T545	Rock 7119 7123	lava
+T546	Rock 7250 7254	lava
+T547	Rock 7664 7668	lava
+T548	Igneous 5071 5077	basalt
+T549	Igneous 3341 3358	igneous intrusion
+T551	Sedimentary 8816 8825	limestone
+T552	Sedimentary 1364 1372	sediment
+T553	Sedimentary 5034 5042	sediment
+T554	Sedimentary 9183 9191	sediment
+T556	Soil 941 947	ground
+T561	NaturalPhenomena 7991 8008	volcanic activity
+T562	NaturalPhenomena 2571 2579	flooding
+T564	NaturalPhenomena 7676 7685	landslide
+T565	GeographicFormations 9040 9057	natural formation
+T566	NaturalPhenomena 7975 7986	earthquakes
+T571	NaturalPhenomena 1310 1319	avalanche
+T576	NaturalPhenomena 7595 7605	earthquake
+T578	NaturalPhenomena 7555 7560	flood
+T580	WeatherPhenomena 551 555	wind
+T581	WeatherPhenomena 632 636	wind
+T582	WeatherPhenomena 1324 1328	wind
+T583	WeatherPhenomena 8553 8557	wind
+T590	ExamplesOfHabitats 6796 6800	land
+T591	ExamplesOfHabitats 2405 2409	land
+T592	ExamplesOfHabitats 2466 2470	land
+T593	ExamplesOfHabitats 2536 2540	land
+T594	GeographicFormations 7654 7658	land
+T596	ExamplesOfHabitats 2353 2357	land
+T600	TypesOfTerrestrialEcosystems 4084 4090	desert
+T601	TypesOfTerrestrialEcosystems 9256 9262	Desert
+T602	TypesOfTerrestrialEcosystems 6583 6589	plains
+T605	UnderwaterEcosystem 7317 7321	reef
+T606	UnderwaterEcosystem 2436 2445	estuaries
+T620	Compound 8754 8767	carbonic acid
+T621	ElementalComponents 5615 5619	ions
+T622	ElementalComponents 5461 5466	atoms
+T638	PhasesOfWater 2501 2506	water
+T639	PhasesOfWater 3376 3381	water
+T640	PhasesOfWater 916 919	ice
+T641	PhasesOfWater 969 972	ice
+T642	LiquidMatter 5583 5589	liquid
+T648	MetalSolids 5489 5493	iron
+T650	LiquidMatter 3376 3381	water
+T652	GaseousMatter 5642 5647	gases
+T654	Group 5597 5603	stream
+T656	GeographicFormationProcess 7504 7510	change
+T657	ChangeInComposition 8806 8815	dissolves
+T658	PhaseChangingActions 973 977	melt
+T667	ActUponSomething 649 657	applying
+T668	ActUponSomething 1626 1633	covered
+T678	LocationChangingActions 556 563	blowing
+T689	Classify 1218 1224	called
+T692	ContainBeComposedOf 1626 1633	covered
+T693	Associate 4885 4889	with
+T694	Source 7659 7663	with
+T695	Communicate 2741 2751	discussing
+T697	Communicate 2791 2796	asked
+T699	Communicate 1267 1275	explains
+T700	Communicate 7888 7896	explains
+T701	Position 198 204	facing
+T702	Position 255 261	facing
+T703	ContainBeComposedOf 1196 1200	have
+T709	Create 4016 4022	caused
+T710	Create 7697 7702	makes
+T711	Cause 7561 7566	makes
+T712	Create 7511 7516	makes
+T713	Create 7606 7611	makes
+T714	Create 7644 7649	makes
+T715	Create 1280 1289	formation
+T716	Create 4894 4903	formation
+T719	Create 2429 2435	create
+T720	Create 1580 1588	provides
+T721	Create 2046 2053	forming
+T722	Create 2071 2078	forming
+T725	Create 3627 3632	forms
+T726	Create 8493 8498	forms
+T727	Create 7922 7928	formed
+T728	Create 3275 3281	formed
+T729	Create 2541 2547	formed
+T730	Create 2410 2416	formed
+T731	Create 2843 2849	formed
+T732	Create 2949 2955	formed
+T733	Create 6137 6143	formed
+T734	Create 5398 5404	formed
+T736	Create 7209 7213	form
+T737	Create 6787 6791	form
+T739	Create 5831 5835	form
+T740	Differentiate 5474 5488	differentiated
+T742	Help 6434 6438	help
+T743	Help 5325 5335	supporting
+T744	Identify 1938 1948	identifies
+T745	Identify 2814 2822	identify
+T746	Identify 2931 2939	identify
+T747	Indicate 6500 6507	showing
+T753	Move 587 594	travels
+T754	Move 8259 8265	moving
+T758	Move 5082 5090	movement
+T760	ChangeInLocation 5543 5555	redistribute
+T761	GaseousMovement 556 563	blowing
+T762	LiquidMovement 2571 2579	flooding
+T763	LiquidMovement 2358 2365	drained
+T764	LiquidMovement 2507 2512	flows
+T765	LiquidMovement 530 537	flowing
+T766	LiquidMovement 5051 5055	flow
+T767	LiquidMovement 8783 8788	seeps
+T768	LiquidMovement 7555 7560	flood
+T771	Transportation 3363 3372	transport
+T775	Occur 3301 3312	experienced
+T776	Occur 4875 4884	coincides
+T777	Occur 1970 1982	taking place
+T778	Occur 1885 1891	occurs
+T779	Occur 2022 2028	occurs
+T780	Occur 4375 4381	occurs
+T781	Occur 6512 6521	existence
+T782	ActionsForAnimals 147 154	running
+T786	PerformAnActivity 5499 5508	expresses
+T787	PerformAnActivity 5822 5826	does
+T788	Represent 2297 2306	describes
+T791	Create 929 933	left
+T795	Separate 1875 1884	spreading
+T797	Separate 7574 7579	leave
+T798	Separate 886 891	leave
+T799	Release 7127 7135	released
+T800	Release 7087 7095	releases
+T801	Release 7223 7230	release
+T804	Release 5620 5629	disperses
+T805	Start 220 226	starts
+T806	Succeed 276 285	completed
+T809	GeographicFormationProcess 6770 6777	process
+T819	GeographicFormationProcess 4972 4980	activity
+T821	ResponseType 1923 1932	statement
+T823	WordsForData 1598 1606	evidence
+T824	WordsForData 5316 5324	evidence
+T827	RelativeTime 876 885	sometimes
+T828	RelativeTime 262 267	after
+T830	Year 4847 4851	year
+T832	Frequency 3269 3274	often
+T835	Locations 1637 1641	area
+T836	Locations 6461 6465	area
+T837	Locations 1990 1995	point
+T842	Locations 1173 1178	areas
+T843	Locations 3285 3290	areas
+T846	ManmadeLocations 184 189	track
+T848	ManmadeLocations 7582 7586	town
+T856	TerrestrialLocations 7623 7628	field
+T857	TerrestrialLocations 1687 1698	underground
+T858	TerrestrialLocations 1865 1874	Sea-floor
+T859	TerrestrialLocations 2002 2011	sea-floor
+T860	RelativeLocations 3684 3691	beneath
+T861	RelativeLocations 4477 4484	beneath
+T862	RelativeLocations 893 899	behind
+T863	RelativeLocations 5561 5563	in
+T864	RelativeLocations 934 936	in
+T865	RelativeLocations 606 608	In
+T867	RelativeLocations 3282 3284	in
+T868	RelativeLocations 8768 8770	in
+T869	RelativeLocations 7929 7931	in
+T870	RelativeLocations 7618 7620	in
+T872	RelativeLocations 1892 1894	at
+T873	RelativeLocations 1983 1985	at
+T874	RelativeLocations 2471 2473	at
+T875	RelativeLocations 4382 4384	at
+T879	RelativeLocations 4353 4355	on
+T881	RelativeLocations 7158 7160	on
+T882	RelativeLocations 7529 7531	on
+T883	RelativeLocations 4914 4916	on
+T884	RelativeLocations 7255 7257	on
+T886	RelativeLocations 511 513	by
+T888	Cause 3421 3423	by
+T889	Cause 6497 6499	by
+T890	Cause 6144 6146	by
+T891	Cause 548 550	by
+T893	Cause 3373 3375	by
+T894	Cause 2366 2368	by
+T895	RelativeLocations 7064 7069	under
+T896	Directions 233 242	direction
+T897	Directions 615 624	direction
+T898	CardinalDirectionsNorthEastSouthWest 595 604	northeast
+T899	CardinalDirectionsNorthEastSouthWest 334 338	west
+T900	CardinalDirectionsNorthEastSouthWest 694 698	west
+T901	CardinalDirectionsNorthEastSouthWest 538 543	north
+T903	CardinalDirectionsNorthEastSouthWest 205 210	north
+T904	CardinalDirectionsNorthEastSouthWest 712 717	north
+T905	CardinalDirectionsNorthEastSouthWest 305 310	north
+T906	CardinalDirectionsNorthEastSouthWest 315 320	south
+T907	CardinalDirectionsNorthEastSouthWest 722 727	south
+T908	CardinalDirectionsNorthEastSouthWest 325 329	east
+T909	CardinalDirectionsNorthEastSouthWest 703 707	east
+T911	Cause 5091 5095	from
+T912	Cause 4994 4998	from
+T913	Cause 6881 6885	from
+T914	RelativeDirection 4573 4577	from
+T915	Cause 8231 8235	from
+T916	Cause 7214 7218	from
+T917	RelativeDirection 2513 2517	into
+T918	RelativeDirection 4523 4527	into
+T919	RelativeDirection 7686 7690	into
+T920	PrepositionalDirections 166 172	around
+T925	Cause 2850 2857	through
+T926	PrepositionalDirections 8789 8796	through
+T929	PrepositionalDirections 8266 8270	over
+T936	PrepositionalDirections 564 566	on
+T937	PrepositionalDirections 4433 4437	past
+T939	GeopoliticalLocations 3038 3054	Hawaiian Islands
+T940	GeopoliticalLocations 7932 7957	Yellowstone National Park
+T941	GeopoliticalLocations 9249 9262	Mojave Desert
+T942	States 1182 1195	Massachusetts
+T946	VerbsForLocate 6450 6456	locate
+T947	Comparisons 4533 4538	other
+T948	Comparisons 4583 4588	other
+T949	QualityComparison 2292 2296	best
+T950	QualityComparison 1933 1937	best
+T951	QualityComparison 9065 9069	best
+T952	QualityComparison 1262 1266	best
+T953	QualityComparison 7883 7887	best
+T954	QualityComparison 1593 1597	best
+T955	AmountComparison 7197 7201	most
+T956	AmountComparison 3615 3619	most
+T957	AmountComparison 637 641	most
+T958	AmountComparison 4946 4950	most
+T959	AmountComparison 6125 6129	most
+T961	DistanceComparison 6801 6805	near
+T962	ScientificTheoryExperimentationAndHistory 5348 5354	theory
+T963	ScientificTheoryExperimentationAndHistory 2756 2761	topic
+T976	GroupsOfScientists 2802 2810	students
+T977	GroupsOfScientists 2922 2930	students
+T978	GroupsOfScientists 4749 4759	Scientists
+T979	GroupsOfScientists 5336 5346	scientists
+T980	GroupsOfScientists 6439 6449	scientists
+T1001	GeographicFormations 7519 7528	structure
+T1003	Representation 6424 6429	image
+T1044	Cause 2956 2958	by
+T1048	Exemplar 4858 4862	type
+T1049	Exemplar 6105 6109	type
+T1054	Exemplar 9070 9077	example
+T1055	StateOfBeing 2737 2740	was
+T1056	StateOfBeing 2839 2842	was
+T1057	StateOfBeing 1525 1533	presence
+T1058	StateOfBeing 2943 2948	being
+T1066	TypesOfEvent 162 165	lap
+T1067	TypesOfEvent 296 299	lap
+T1072	ObjectQuantification 906 912	chunks
+T1073	ObjectQuantification 959 965	chunks
+T1074	ObjectQuantification 5307 5312	piece
+T1075	Negations 5827 5830	not
+T1076	Result 9085 9091	result
+T1077	Result 2553 2559	result
+T1079	Result 5841 5847	result
+T1083	Result 8223 8230	results
+T1084	Create 8741 8748	results
+T1085	Cause 4023 4025	by
+T1086	Cause 4958 4963	cause
+T1087	Cause 7901 7906	cause
+T1089	ProbabilityAndCertainty 6130 6136	likely
+T1090	ProbabilityAndCertainty 4951 4957	likely
+T1091	ProbabilityAndCertainty 642 648	likely
+T1092	ProbabilityAndCertainty 7202 7208	likely
+T1093	ProbabilityAndCertainty 3620 3626	likely
+T1094	ProbabilityAndCertainty 4827 4832	about
+T1095	TemporalProperty 1621 1625	once
+T1096	LevelOfInclusion 876 885	sometimes
+T1097	LevelOfInclusion 286 290	half
+T1115	PERSON 135 143	Margaret
+T1117	LOCATION 1182 1195	Massachusetts
+T1120	NUMBER 2797 2801	four
+T1121	NUMBER 2875 2878	two
+T1122	LOCATION 3015 3033	Mid-Atlantic Ridge
+T1123	LOCATION 3038 3054	Hawaiian Islands
+T1126	NUMBER 4412 4415	one
+T1128	NUMBER 4451 4454	one
+T1129	NUMBER 4498 4501	two
+T1130	NUMBER 4544 4547	two
+T1134	NUMBER 6472 6475	two
+T2	StateOfBeing 144 146	is
+T438	StateOfBeing 195 197	is
+T741	RelativeTime 211 215	when
+T871	StateOfBeing 252 254	be
+T707	ActUponSomething 502 510	acted on
+T238	StateOfBeing 499 501	is
+T16	StateOfBeing 625 627	is
+T17	RelativeDirection 664 666	to
+T20	StateOfBeing 926 928	is
+T50	RelativeTime 948 952	when
+T1	BodiesOfWater 1225 1237	kettle ponds
+T21	LevelOfInclusion 1248 1261	the following
+T68	LevelOfInclusion 1293 1298	these
+T18	ConstructiveDestructiveForces 1324 1336	wind erosion
+T83	ConstructiveDestructiveForces 1364 1383	sediment deposition
+T147	LevelOfInclusion 1546 1559	the following
+T169	GeographicFormations 1560 1579	geological features
+T53	PartsOfEarthLayers 1895 1915	divergent boundaries
+T71	RelativeLocations 1996 2001	where
+T89	ChangeInLocation 2002 2021	sea-floor spreading
+T114	ChangeInLocation 1865 1884	Sea-floor spreading
+T145	Separate 2012 2021	spreading
+T149	StateOfBeing 2043 2045	is
+T153	PartsOfEarthLayers 2083 2096	oceanic crust
+T12	StateOfBeing 2068 2070	is
+T172	StateOfBeing 2097 2099	is
+T201	StateOfBeing 2135 2137	is
+T4	TectonicPlates 2117 2134	continental plate
+T119	RelativeTime 2417 2421	when
+T52	RelativeLocations 2495 2500	where
+T49	PartsOfEarthLayers 2765 2786	convergent boundaries
+T55	PartsOfEarthLayers 2959 2980	convergent boundaries
+T58	Continents 2986 3010	North American Continent
+T59	ContainBeComposedOf 3246 3248	of
+T65	StateOfBeing 3265 3268	are
+T70	ActUponSomething 3301 3312	experienced
+T56	ChangeInComposition 3341 3358	igneous intrusion
+T27	RelativeTime 3633 3637	when
+T37	TectonicPlates 3641 3663	oceanic tectonic plate
+T40	StateOfBeing 3664 3666	is
+T72	TectonicPlates 3694 3720	continental tectonic plate
+T78	GeographicFormations 3726 3738	ocean trench
+T88	GeographicFormations 3763 3783	continental hot spot
+T90	GeographicFormations 3788 3811	continental rift valley
+T92	PartsOfBodiesOfWater 3743 3752	mid-ocean
+T94	LevelOfInclusion 3980 3985	these
+T13	StateOfBeing 4012 4015	are
+T95	PartsOfBodiesOfWater 4063 4072	mid-ocean
+T96	StateOfBeing 4325 4327	is
+T97	Comparisons 4332 4339	deepest
+T98	RelativeLocations 4402 4407	where
+T103	StateOfBeing 4422 4424	is
+T109	ObjectQuantification 4438 4445	another
+T115	StateOfBeing 4461 4469	is being
+T118	ObjectQuantification 4485 4492	another
+T120	StateOfBeing 4509 4512	are
+T121	LevelOfInclusion 4528 4532	each
+T122	ObjectQuantification 4555 4558	are
+T36	ChangeInLocation 4559 4572	pulling apart
+T102	LevelOfInclusion 4578 4582	each
+T54	StateOfBeing 4824 4826	be
+T61	LevelOfInclusion 4835 4837	to
+T105	StateOfBeing 4939 4941	is
+T32	LevelOfInclusion 5280 5293	the following
+T39	StateOfBeing 5294 5296	is
+T23	Method 5358 5361	how
+T51	Continents 5366 5376	continents
+T29	Cause 5431 5440	result in
+T62	Element 5489 5493	iron
+T14	Magnetic 5509 5528	magnetic properties
+T24	AmountComparison 5567 5575	unevenly
+T34	ContainBeComposedOf 5604 5606	of
+T45	Cause 5848 5850	of
+T46	StateOfBeing 5836 5838	as
+T47	PartsOfBodiesOfWater 5925 5934	mid-ocean
+T67	StateOfBeing 6122 6124	is
+T75	PartsOfEarthLayers 6149 6182	divergent tectonic plate boundary
+T80	GeographicFormations 6203 6217	oceanic trench
+T66	Ability 6430 6433	can
+T63	RelativeLocations 6466 6471	where
+T25	StateOfBeing 6759 6761	is
+T73	Ability 6783 6786	can
+T5	TemporalProperty 7101 7110	over time
+T41	StateOfBeing 7124 7126	is
+T82	PhysicalChange 7140 7145	cools
+T84	TemporalProperty 7274 7283	over time
+T6	NaturalPhenomena 7705 7715	tidal wave
+T10	LevelOfInclusion 8199 8204	these
+T22	LevelOfInclusion 8499 8503	both
+T19	GeographicFormations 8731 8740	land form
+T28	RelativeTime 8749 8753	when
+T38	StateOfBeing 9058 9060	is
+T43	LevelOfInclusion 9095 9099	both
+T76	ConstructiveDestructiveForces 9100 9135	constructive and destructive forces
+T30	Exemplar 9136 9143	such as
+T77	GeographicFormations 9228 9240	Grand Canyon
+T79	GeographicFormations 9271 9290	Himalayan Mountains

@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[MSA_2013_8_44] [SCI_INFERENCE_OBSERV]
+Students are investigating which type of fruit attracts the most fruit flies. Equally sized pieces of ripe apple, peach, and banana are placed in separate containers. The containers allow fruit flies to enter, but the fruit flies are unable to escape. The containers are placed outside on a picnic table for two days. The most reliable method for collecting data is to count the number of fruit flies
+(A) on all three types of fruit every two hours
+(B) on all three types of fruit after each fruit spoils
+(C) on the banana on Day 1, the apple on Day 2, and the peach on Day 3
+(D) on the banana after Hour 1, the apple after Hour 2, and the peach after Hour 3
+----------------------------------------------------------------------------------------------
+[Mercury_7016433] [SCI_INFERENCE_OBSERV]
+What is generated when the students count and record the number of organisms in the pond water?
+(A) data
+(B) variables
+(C) a hypothesis
+(D) a conclusion
+----------------------------------------------------------------------------------------------
+[Mercury_7206413] [SCI_INFERENCE_OBSERV]
+Which of these is unique to the process of scientific investigation?
+(A) observing an event as it occurs
+(B) discussing results with other experts
+(C) publishing the results on a webpage
+(D) collecting data in an experiment
+----------------------------------------------------------------------------------------------
+[Mercury_7270305] [SCI_INFERENCE_OBSERV]
+Many horses grow a heavy coat in autumn and shed that coat in spring. Scientists were not sure if temperature or the amount of daylight per day (called the photoperiod) caused the change. So, they conducted an experiment and concluded that the change in photoperiod was responsible for the biological changes. Shedding caused by which set of conditions would have helped them arrive at this conclusion?
+(A) a constant photoperiod, but varied temperatures
+(B) a varied photoperiod, and varied temperatures
+(C) a constant photoperiod, and a constant temperature
+(D) a varied photoperiod, but a constant temperature
+----------------------------------------------------------------------------------------------
+[Mercury_184485] [SCI_INFERENCE_OBSERV]
+Scientists measured the patterns of spectral lines given off by distant galaxies and concluded that almost all of these galaxies are moving away from Earth. What did the scientists observe directly?
+(A) a shift toward longer wavelengths of light
+(B) a shift toward shorter wavelengths of light
+(C) the absence of wavelengths in the visible light range
+(D) the compression of wavelengths in the visible light range
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407695] [SCI_INFERENCE_OBSERV]
+Juan and LaKeisha roll a few objects down a ramp. They want to see which object rolls the farthest. What should they do so they can repeat their investigation?
+(A) Put the objects in groups.
+(B) Change the height of the ramp.
+(C) Choose different objects to roll.
+(D) Record the details of the investigation.
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_4_pg90] [SCI_INFERENCE_OBSERV]
+Sue measured how much sugar would dissolve in a cup of cold water, a cup of warm water, and a cup of hot water. What did she most likely observe?
+(A) The cold water dissolved the most sugar.
+(B) The warm water dissolved the most sugar.
+(C) The hot water dissolved the most sugar.
+(D) The cold water, warm water and hot water all dissolved the same amount of sugar.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_410964] [SCI_INFERENCE_OBSERV]
+Students are investigating how a doorbell works. Which is most likely an observation made during the investigation?
+(A) All doorbells make pretty sounds.
+(B) A battery is the best power source for a doorbell.
+(C) Most people prefer to use a doorbell over knocking.
+(D) The doorbell uses a piece of wire wrapped around a magnet.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2009_5_14] [SCI_INFERENCE_OBSERV]
+Joyce is conducting a traffic survey and needs to find out how many cars cross the crosswalk in the morning before the school bell rings. How should she collect this data?
+(A) Make a tally chart
+(B) Draw a pictograph
+(C) Take a picture of each passing car
+(D) Write down the cars' license plate numbers
+----------------------------------------------------------------------------------------------
+[MEA_2016_5_7] [SCI_INFERENCE_OBSERV]
+A student observes that a one-celled organism and a plant leaf have similar green parts. The student thinks that both organisms use the green parts to live. Which evidence supports the conclusion that both organisms need the green parts to live?
+(A) Both organisms use the green parts to move.
+(B) Both organisms die if the green parts are removed.
+(C) The green parts in both organisms are observed making light.
+(D) The green parts in both organisms can make more green parts.
+----------------------------------------------------------------------------------------------
+[Mercury_7207410] [SCI_INFERENCE_OBSERV]
+Storm chasers are people who get close to storms in order to observe them and take measurements. What knowledge have storm chasers added to the study of storms that has helped most modify theories of storm formation?
+(A) their views of storm damages
+(B) their personal experiences in storms
+(C) their data collected at the beginning of storms
+(D) their enthusiasm for studying different storms

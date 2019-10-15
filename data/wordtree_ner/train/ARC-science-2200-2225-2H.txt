@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_8_19] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ANIMCELL]
+A single human body cell typically contains thousands of
+(A) genes
+(B) nuclei
+(C) chloroplasts
+(D) bacteria
+----------------------------------------------------------------------------------------------
+[Mercury_405467] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ANIMCELL, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_PLANTCELL, LIFE_INTERDEP_FOODCHAIN_PLANTPROD]
+Which function makes a plant cell different from an animal cell?
+(A) ability to use energy
+(B) ability to absorb nutrients
+(C) ability to divide into two cells
+(D) ability to convert sunlight into energy
+----------------------------------------------------------------------------------------------
+[ACTAAP_2010_7_7] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ANIMCELL, SCI_INFERENCE_OBSERV]
+Which is the best evidence that cell division is occurring constantly in our bodies?
+(A) The body has to keep breathing around the clock.
+(B) Active people often require more food than inactive ones.
+(C) There are many different types of tissues in the human body.
+(D) Human beings shed millions of
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408710] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+Jonny climbed an apple tree. How are Jonny and the apple tree similar to each other?
+(A) Both are made of cells.
+(B) Both take in carbon dioxide.
+(C) Both get nutrients directly from soil.
+(D) Both get energy from other organisms.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2015_5_4] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+A student observes cells in an object by using a microscope. The student thinks that the object was part of a living thing. Which statement explains why cell theory can be used to support the student's thinking?
+(A) Cell theory was developed using a microscope.
+(B) Cell theory was developed to study living things.
+(C) Cell theory states that all living things are made of cells.
+(D) Cell theory states that scientists may classify things as living or nonliving.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_409907] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+Charisma has a goldfish she keeps in a tank. She planted several underwater plants in the bottom of the tank. How are the goldfish and the plants in the tank similar?
+(A) Both add oxygen to the water.
+(B) Both perform photosynthesis.
+(C) Both are made up of cells.
+(D) Both eat food.
+----------------------------------------------------------------------------------------------
+[Mercury_404794] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+A characteristic that all living organisms have in common is they
+(A) need similar food.
+(B) have the same life span.
+(C) live in the same climate.
+(D) are made of cells.
+----------------------------------------------------------------------------------------------
+[Mercury_405938] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+Where do many of the basic life functions take place in organisms?
+(A) brain
+(B) cells
+(C) heart
+(D) nerves
+----------------------------------------------------------------------------------------------
+[Mercury_7074883] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+Which statement about all living organisms is true?
+(A) They have limbs.
+(B) They produce their own food.
+(C) They breathe air.
+(D) They have at least one cell.
+----------------------------------------------------------------------------------------------
+[Mercury_7268188] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+Which of these is found in all organisms?
+(A) a cell
+(B) a tissue
+(C) an organ
+(D) an organ system
+----------------------------------------------------------------------------------------------
+[Mercury_7268223] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+Which of these is a function of all cells?
+(A) to absorb nutrients and gases from blood
+(B) to extract energy from food to sustain life
+(C) to produce food using water and carbon dioxide
+(D) to give shape and structural support to an organism
+----------------------------------------------------------------------------------------------
+[Mercury_7084210] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+A researcher examines a marine organism that is the size of an average human hand. Without more information, which statement about the organism is most likely accurate?
+(A) It is mobile.
+(B) It has organ systems.
+(C) It is made of many cells.
+(D) It makes its own food.
+----------------------------------------------------------------------------------------------
+[Mercury_7168630] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+Cells are the basic unit of structure and function in all living organisms. Which describes the greatest difference between the cells of a baby gorilla and the cells of an adult gorilla?
+(A) The adult has more cells than the baby.
+(B) The baby has simpler cells than an adult.
+(C) The baby has smaller cells than the adult.
+(D) The adult has different types of cells than the baby.
+----------------------------------------------------------------------------------------------
+[Mercury_7167020] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY]
+An elephant is a multicellular organism that weighs about 200 pounds at birth and can grow to weigh as much as 15,000 pounds. What increases as the elephant grows into an adult?
+(A) the size of each body cell
+(B) the number of cells in its body
+(C) the amount of energy in its cells
+(D) the collection of water in each cell

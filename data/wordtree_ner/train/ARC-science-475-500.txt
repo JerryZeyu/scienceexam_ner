@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7093275] [EARTH_GEO_ROCK_META]
+Two tectonic plates pushing toward each other cause intense heat and pressure in Earth's crust. Into which will crust material be changed by heat and pressure?
+(A) fossils
+(B) sediments
+(C) igneous rock
+(D) metamorphic rock
+----------------------------------------------------------------------------------------------
+[TAKS_2009_8_31] [EARTH_GEO_ROCK_META]
+A group of students found metamorphic rocks near a campsite. The presence of metamorphic rocks is most likely evidence of
+(A) dinosaur activity
+(B) sediment deposition
+(C) high pressure
+(D) wind-borne sand
+----------------------------------------------------------------------------------------------
+[ACTAAP_2010_5_16] [EARTH_GEO_ROCK_SED]
+Jennifer has collected rocks while hiking. As she attempts to classify her rocks, which will she put in the pile of sedimentary rocks?
+(A) Black-and-gray crystalline rocks
+(B) Shiny rocks with smooth textures
+(C) Rocks with visible pieces of shells in them
+(D) Rocks with small interlocking crystals in them
+----------------------------------------------------------------------------------------------
+[Mercury_7085365] [EARTH_GEO_ROCK_SED]
+One process in the formation of sedimentary rocks is when rocks are
+(A) compressed by moving plates.
+(B) heated and subjected to high pressure.
+(C) broken up and deposited in layers.
+(D) moved up along fault planes.
+----------------------------------------------------------------------------------------------
+[Mercury_7086730] [EARTH_GEO_ROCK_SED]
+Sedimentary deposits formed from organic material tend to include a high amount of
+(A) iron.
+(B) nickel.
+(C) carbon.
+(D) silicon.
+----------------------------------------------------------------------------------------------
+[Mercury_7171518] [EARTH_GEO_ROCK_SED]
+Most sedimentary rock is made from sediments of other rock. Which of these processes would the sediments most likely go through to form sedimentary rock?
+(A) compaction and cementation
+(B) folding and recrystallization
+(C) melting and solidifying
+(D) heating and pressure
+----------------------------------------------------------------------------------------------
+[Mercury_7086030] [EARTH_GEO_ROCK_SED]
+When buried sediments are subjected to pressure, the mineral grains are squeezed together. What is the result of this action?
+(A) volcanoes
+(B) earthquakes
+(C) new rock is formed
+(D) layers rise to the surface
+----------------------------------------------------------------------------------------------
+[Mercury_7207515] [EARTH_GEO_ROCK_SED]
+Which of these must occur for sediments to form new rock?
+(A) precipitation
+(B) evaporation
+(C) partial melting
+(D) recrystallization
+----------------------------------------------------------------------------------------------
+[Mercury_7214288] [EARTH_GEO_ROCK_SED]
+The Great Basin in Nevada is characterized by uplifted, tilted blocks forming mountain ranges and downthrown blocks forming basins. What rock type is MOST likely to form in the basins?
+(A) metamorphic
+(B) sedimentary
+(C) intrusive igneous
+(D) extrusive igneous
+----------------------------------------------------------------------------------------------
+[Mercury_7206115] [EARTH_GEO_ROCK_SED]
+In order for sediments to become rock, the sediments are generally
+(A) mixed with organic material.
+(B) returned to their origins.
+(C) compacted.
+(D) liquefied.
+----------------------------------------------------------------------------------------------
+[Mercury_7015645] [EARTH_GEO_ROCK_SED]
+What is the first step of the process in the formation of sedimentary rocks?
+(A) erosion
+(B) deposition
+(C) compaction
+(D) cementation
+----------------------------------------------------------------------------------------------
+[OHAT_2011_8_2] [EARTH_GEO_ROCK_SED]
+Which kind of rock is produced by deposition and cementation?
+(A) marble, a metamorphic rock
+(B) sandstone, a sedimentary rock
+(C) granite, an intrusive igneous rock
+(D) pumice, an extrusive igneous rock
+----------------------------------------------------------------------------------------------
+[Mercury_7085505] [EARTH_GEO_ROCK_SED]
+Which of these structures form when materials are deposited, buried, and cemented?
+(A) intrusive structures
+(B) metamorphic rocks
+(C) volcanic mountains
+(D) sedimentary rocks
+----------------------------------------------------------------------------------------------
+[Mercury_7207200] [EARTH_GEO_ROCK_SED]
+There are several different types of rock. Each type of rock is formed under different conditions. How are sedimentary rocks, such as shale and sandstone, formed?
+(A) Particles are heated by the Sun.
+(B) Particles are melted together by magma.
+(C) Particles are compressed into layers.
+(D) Particles are changed into liquids.
+----------------------------------------------------------------------------------------------
+[MCAS_2000_8_11] [EARTH_GEO_ROCK_SED]
+Typically, sedimentary rocks are formed
+(A) only in erupting volcanoes.
+(B) only under great pressure and high temperatures.
+(C) below Earth's surface as magma cools and crystallizes.
+(D) from materials that settle.
+----------------------------------------------------------------------------------------------
+[Mercury_7206080] [EARTH_GEO_ROCK_SED]
+Which of these best indicates that sediments can be changed into rock?
+(A) layers of sandstone
+(B) igneous intrusions
+(C) lava beds
+(D) mountains with gneiss
+----------------------------------------------------------------------------------------------
+[Mercury_7206098] [EARTH_GEO_ROCK_SED]
+Oceans have many layers of sediments. These layers become compacted when they are buried under other layers of sediments. Which is most likely to happen to the deepest layers?
+(A) They will be squeezed out onto deltas.
+(B) They will recrystallize into new rock.
+(C) They will become part of Earth's outer core.
+(D) They will melt in magma chambers.
+----------------------------------------------------------------------------------------------
+[Mercury_7233695] [EARTH_GEO_ROCK_SED]
+A fold observed in layers of sedimentary rock most likely resulted from the
+(A) cooling of flowing magma.
+(B) converging of crustal plates.
+(C) deposition of river sediments.
+(D) solution of carbonate minerals.
+----------------------------------------------------------------------------------------------
+[MCAS_2012_5_23632] [EARTH_GEO_ROCK_SED]
+A student observed a rock made up of many small particles of sand arranged in light-colored layers and dark-colored layers. Which of the following statements describes how this type of rock most likely formed?
+(A) Clay was crushed and frozen under a glacier.
+(B) Lava from a volcano cooled quickly in water.
+(C) River sediments were slowly compacted and cemented together.
+(D) Mineral deposits hardened into solid rock in underground caves.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2011_5_10] [EARTH_GEO_ROCK_SED]
+During a walk through the Arkansas River Valley, Alex found a rock that she determined was a sedimentary rock. Which characteristics of the rock would lead Alex to this conclusion?
+(A) thin flaky sheets and very hard
+(B) glassy texture and a shiny black color
+(C) very rough texture with obvious crystals
+(D) sand-sized particles and a light brown color
+----------------------------------------------------------------------------------------------
+[Mercury_7016625] [EARTH_GEO_ROCK_SED, EARTH_WEATHER_ERO_WEATHERING, EARTH_WEATHER_ERO_EROSION]
+In the rock cycle, weathering and erosion begin the process of the formation of
+(A) sediments.
+(B) magma.
+(C) minerals.
+(D) crystals.
+----------------------------------------------------------------------------------------------
+[Mercury_7086188] [EARTH_GEO_ROCK_SED, EARTH_WEATHER_ERO_WEATHERING, EARTH_WEATHER_ERO_EROSION]
+Which of these is directly formed as a result of weathering and erosion?
+(A) crystals
+(B) sediments
+(C) igneous rocks
+(D) metamorphic rocks
+----------------------------------------------------------------------------------------------
+[MCAS_1999_4_8] [EARTH_HUMIMP_RES]
+Which item below is NOT made from a material grown in nature?
+(A) a cotton shirt
+(B) a wooden chair
+(C) a plastic spoon
+(D) a grass basket
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405459] [EARTH_HUMIMP_RES]
+Corn can be used to make ethanol, which is a fuel for some cars. What problem could be caused by the increased use of ethanol?
+(A) increase in fossil fuel production
+(B) decrease in corn production
+(C) increase in severe weather
+(D) decrease in nutrients in soil
+----------------------------------------------------------------------------------------------
+[Mercury_7201933] [EARTH_HUMIMP_RES]
+Census data show that the human population doubled from 2.65 billion in 1953 to 5.3 billion in 1990. If it continues to double at this rate, the human population could reach 10 billion by the year 2020. Which best explains how this rate of human growth can harm the environment on which humans depend?
+(A) by gradually making up more available energy
+(B) by using resources faster than they can be replaced
+(C) by changing how matter cycles through an ecosystem
+(D) by increasing the variety of ecosystems that are supported

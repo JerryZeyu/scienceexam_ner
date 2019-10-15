@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_4_pg48] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+Tommy cut his finger. His body needed energy to help heal the cut. Where did the energy come from to heal the cut?
+(A) from the bandage he put on the cut
+(B) from the antiseptic cream he put on the cut
+(C) from the food he ate
+(D) from the water he drank
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10477] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+Protein is used by the human body to
+(A) build strong bones.
+(B) absorb vitamins.
+(C) repair cells.
+(D) provide fiber.
+----------------------------------------------------------------------------------------------
+[MSA_2012_5_31] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+Humans need food to grow and survive. Food that is not used immediately by the body for energy is
+(A) stored for future use
+(B) converted to water for energy
+(C) used to remove wastes from cells
+(D) transformed into oxygen for survival
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_59] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+Which food provides the most energy for the body in the shortest amount of time?
+(A) potato
+(B) meat
+(C) milk
+(D) fruit
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_60] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+Why is protein an important part of a healthy diet?
+(A) It is needed to change glucose to energy.
+(B) It is needed to store nutrients.
+(C) It is needed to repair tissue.
+(D) It is needed to produce water.
+----------------------------------------------------------------------------------------------
+[Mercury_7252193] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+How are the functions of a carbohydrate and a lipid similar?
+(A) Both are a source of energy.
+(B) Both are replicated during meiosis.
+(C) Both lower the activation energy of reactions.
+(D) Both dissolve nutrients in the digestive system.
+----------------------------------------------------------------------------------------------
+[Mercury_184678] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+Which of the following foods is highest in polysaccharides?
+(A) broccoli
+(B) potatoes
+(C) cheese
+(D) fish
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416133] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+Which describes a material that is not a food?
+(A) It stores energy but not nutrients.
+(B) It does not store energy or nutrients.
+(C) It stores energy and nutrients.
+(D) It does not store energy but stores nutrients.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400691] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+A television commercial claims that an all-natural cereal will provide the daily nutrition needed for adults. Which information on the cereal box best supports this claim?
+(A) the average serving size
+(B) the list of ingredients in the cereal
+(C) the number of ounces of cereal in the box
+(D) the amount of sugar in the cereal
+----------------------------------------------------------------------------------------------
+[Mercury_404901] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+Which of these must be absorbed by animal cells in order to grow?
+(A) genes
+(B) sunlight
+(C) nutrients
+(D) chromosomes
+----------------------------------------------------------------------------------------------
+[Mercury_7245088] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION]
+Which describes the composition of carbohydrates?
+(A) lipids bonding to form phospholipids
+(B) monomers bonding to form polymers
+(C) amino acids bonding to form polypeptides
+(D) saccharides bonding to form polysaccharides
+----------------------------------------------------------------------------------------------
+[Mercury_7017658] [LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION, LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL]
+Which statement best describes why a calcium-fortified juice would advertise that it is good for growing children?
+(A) Calcium helps the growth of bones.
+(B) Calcium provides energy for growth.
+(C) Children need to drink a lot of fluids.
+(D) Children need calcium to prevent allergies.
+----------------------------------------------------------------------------------------------
+[Mercury_7245140] [LIFE_FUNCT_FUNCT_ANIMESS, CEL_SPACEEX_HUMAN]
+Why do astronauts need oxygen in the backpacks of their spacesuits?
+(A) to help astronauts breathe in outer space
+(B) to help with the weight of astronauts during space walks
+(C) to manage carbon dioxide that astronauts breathe out
+(D) to mix with the thin atmosphere for astronauts during space walks
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_31] [LIFE_FUNCT_FUNCT_ANIMESS, LIFE_FUNCT_FUNCT_PLANTESS]
+In order to survive, all organisms must have
+(A) chlorophyll
+(B) carbon dioxide
+(C) energy
+(D) blood
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_8_10] [LIFE_FUNCT_FUNCT_ANIMESS, LIFE_FUNCT_FUNCT_PLANTESS]
+A green plant absorbs light. A frog eats flies. These are both examples of how organisms
+(A) obtain energy
+(B) escape predators
+(C) produce offspring
+(D) excrete waste
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407724] [LIFE_FUNCT_FUNCT_PLANTESS]
+What do plants take from the air that helps them make food?
+(A) oxygen
+(B) nitrogen
+(C) carbon dioxide
+(D) hydrogen peroxide
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408702] [LIFE_FUNCT_FUNCT_PLANTESS]
+Howie put his plants under a plant light. What was he helping his plants do by providing light?
+(A) make food
+(B) attract insects
+(C) release pollen
+(D) grow roots
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408374] [LIFE_FUNCT_FUNCT_PLANTESS]
+Martin grew some bean plants. He made a list of what the bean plants needed to survive and grow. Which gas do the plants need when they make their own food?
+(A) oxygen
+(B) nitrogen
+(C) hydrogen
+(D) carbon dioxide
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400339] [LIFE_FUNCT_FUNCT_PLANTESS]
+Which statement is not a reason why trees would be growing at different heights in a forest?
+(A) Some require less sunlight than others.
+(B) The trees were planted in different years.
+(C) Birds are building nests in the shorter trees.
+(D) The taller trees only have leaves on the top branches.
+----------------------------------------------------------------------------------------------
+[Mercury_7170835] [LIFE_FUNCT_FUNCT_PLANTESS]
+Mr. Harris mows his lawn twice each month. He claims that it is better to leave the clippings on the ground. Which long term effect will this most likely have on his lawn?
+(A) It will eventually cause the grass to stop growing.
+(B) It will prevent bacteria from invading the lawn.
+(C) It will provide the lawn with needed nutrients.
+(D) It will reduce the insect population.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401652] [LIFE_FUNCT_FUNCT_PLANTESS, EARTH_SOIL_ECOSYSTEM]
+Before large trees could grow on Earth, what had to happen first?
+(A) Rocks were eroded to form soil.
+(B) Molten rock warmed Earth's interior.
+(C) Earth's gravity accumulated to modern levels.
+(D) Volcanoes exploded to form mountaintop lakes.
+----------------------------------------------------------------------------------------------
+[Mercury_7068828] [LIFE_FUNCT_FUNCT_PLANTESS, SCI_INFERENCE_INFERENCE]
+A plant sitting on a windowsill has wilted. A student explained that the plant wilted because it is in direct sunlight. What is another possible reason the plant wilted?
+(A) The noise in the room was too loud.
+(B) There was too much space for the plant to grow.
+(C) The plant did not receive enough water.
+(D) There was too much carbon dioxide in the room.
+----------------------------------------------------------------------------------------------
+[Mercury_401003] [LIFE_HEALTH_DIESEASE]
+In what way does society benefit from research on diseases?
+(A) New illnesses will develop.
+(B) Doctors will visit their patients at home.
+(C) More families will move closer to hospitals.
+(D) Many illnesses will be prevented or cured.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_411900] [LIFE_HEALTH_DIESEASE_INFECT]
+Which action has most helped scientists find cures to some diseases?
+(A) buying new equipment
+(B) learning about bacteria
+(C) finding chemicals in plants
+(D) avoiding poisonous animals
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10953] [LIFE_HEALTH_DIESEASE_INFECT]
+Which of these would help to prevent infections from occurring in small cuts and scrapes?
+(A) apply a cold ice pack
+(B) raise the injured area
+(C) apply pressure to stop bleeding
+(D) wash the area with warm, soapy water

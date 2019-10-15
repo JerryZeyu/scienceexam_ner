@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400373] [CEL_FEATURES_MOONS]
+The features below are all present on Earth. Which feature could also be found on the Moon?
+(A) crater
+(B) clouds
+(C) electrical storms
+(D) nitrogen based atmosphere
+----------------------------------------------------------------------------------------------
+[MCAS_2008_8_5707] [CEL_FEATURES_MOONS]
+Which of the following statements best describes one way that the Moon is different from Earth?
+(A) The Moon is not solid.
+(B) The Moon has no gravity.
+(C) The Moon has almost no atmosphere.
+(D) The Moon receives almost no solar light.
+----------------------------------------------------------------------------------------------
+[Mercury_7210613] [CEL_FEATURES_MOONS]
+A large, solid spherical body in the solar system is classified as a moon. Which characteristic of the body gives it this classification?
+(A) It rotates on its axis.
+(B) It lacks liquid water.
+(C) It orbits a nearby planet.
+(D) It reflects light from a star.
+----------------------------------------------------------------------------------------------
+[Mercury_7207498] [CEL_FEATURES_MOONS]
+The Moon lacks weather and climate changes like those on Earth. What causes the lack of weather on the Moon?
+(A) the lack of water
+(B) the presence of igneous rock
+(C) the very thin atmosphere
+(D) the lack of magnetic poles
+----------------------------------------------------------------------------------------------
+[TAKS_2009_8_33] [CEL_FEATURES_MOONS]
+Rhea is a moon of Saturn. Which of these facts about Rhea best indicates that it does not have a water cycle in which water changes state?
+(A) Its radius is 765 km.
+(B) Its density is about 1.3 kg/m3.
+(C) Its period of rotation is about 4.5 Earth days.
+(D) Its temperature is between -174°C and -220°C.
+----------------------------------------------------------------------------------------------
+[Mercury_7222653] [CEL_FEATURES_MOONS]
+Phobos is one of two large objects that orbit the planet Mars. Because Phobos orbits Mars, Phobos should be classified as which type of body?
+(A) asteroid
+(B) moon
+(C) comet
+(D) meteor
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400194] [CEL_FEATURES_MOONS]
+One difference between the Moon and Earth is that the Moon
+(A) has a thick atmosphere.
+(B) revolves around a planet.
+(C) has liquid water on the surface.
+(D) is composed entirely of sedimentary rock.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400612] [CEL_FEATURES_MOONS]
+The surface of Earth changes constantly from weathering and erosion. Compared to Earth, there is little weathering and erosion on the Moon because of
+(A) the lack of gravity on the Moon.
+(B) the thin atmosphere on the Moon.
+(C) the lack of air and water on the Moon.
+(D) the lack of living creatures on the Moon.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_417675] [CEL_FEATURES_MOONS, CEL_BRIGHTNESS]
+At night, the Moon is the brightest object in the sky. Where does the Moon's light come from?
+(A) The Moon reflects light from Earth.
+(B) The Moon reflects light from the Sun.
+(C) The Moon makes light beneath its surface.
+(D) The Moon has rocks on its surface that glow.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400064] [CEL_FEATURES_MOONS, CEL_FEATURES_PLANET]
+Which physical characteristic of Earth is similar to a physical characteristic of the Moon?
+(A) its climate
+(B) its great seas
+(C) its atmosphere
+(D) its mountain ranges
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402101] [CEL_FEATURES_MOONS, CEL_FEATURES_PLANET]
+Which features can be found on the surface of both Earth and the Moon?
+(A) plants
+(B) oceans
+(C) animals
+(D) mountains
+----------------------------------------------------------------------------------------------
+[WASL_2004_8_16] [CEL_FEATURES_MOONS, CEL_FEATURES_PLANET]
+Some scientists have suggested that the Moon was formed when a large body struck Earth and broke off a piece of Earth billions of years ago. Which observation would best support this suggestion?
+(A) The rocks of the Moon are older than Earth rocks.
+(B) The Earth has free standing water, but the Moon does not.
+(C) The Earth and the Moon are gravitationally locked together.
+(D) The chemical composition of Moon rocks is similar to Earth rocks.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_8_25] [CEL_FEATURES_MOONS, ENG_LIGHT_REFLECT]
+The Moon is visible to observers on Earth because of
+(A) reflected sunlight
+(B) absorbed light from Earth's atmosphere
+(C) gases in the Moon's interior
+(D) volcanic eruptions on the Moon's surface
+----------------------------------------------------------------------------------------------
+[Mercury_7188913] [CEL_FEATURES_NEBULAE]
+While on a field trip to NASA, Felicia saw a short film on materials that make up nebulae. Which topic was most likely presented in the film?
+(A) asteroid development
+(B) stellar formation
+(C) planetary orbits
+(D) galaxy shapes
+----------------------------------------------------------------------------------------------
+[Mercury_7210578] [CEL_FEATURES_NEBULAE]
+Which of these is only found outside the solar system?
+(A) planets
+(B) moons
+(C) nebulae
+(D) comets
+----------------------------------------------------------------------------------------------
+[Mercury_7173845] [CEL_FEATURES_NEBULAE]
+Jenna gave a report to her class about the Orion Nebula. She told the class that it was discovered in 1610. Which was most likely the topic of her paper?
+(A) young stars
+(B) neutron stars
+(C) the death of stars
+(D) the classification of stars
+----------------------------------------------------------------------------------------------
+[MCAS_2003_8_30] [CEL_FEATURES_OTHER]
+The surface gravity of Pluto is the weakest of the nine planets because Pluto
+(A) has the lowest temperature.
+(B) has the smallest mass.
+(C) rotates the slowest.
+(D) is farthest from the Sun.
+----------------------------------------------------------------------------------------------
+[Mercury_7181615] [CEL_FEATURES_OTHER]
+In 1987, a supernova was detected in the Large Magellanic Cloud galaxy, which is approximately 169,000 light years from Earth. Which event produces a supernova?
+(A) the explosion of a massive star
+(B) the birth of a main-sequence star
+(C) the collapse of a medium-sized star
+(D) the collision of one star with another
+----------------------------------------------------------------------------------------------
+[MSA_2015_5_24] [CEL_FEATURES_PLANET]
+Scientists compared Pluto with other objects in the solar system and found that Pluto is smaller than Earth's moon. This finding caused scientists to question whether Pluto is a planet because
+(A) Pluto gets less sunlight than Earth's moon
+(B) the other planets are much larger than Pluto
+(C) the other planets have moons and Pluto does not
+(D) Pluto rotates on its axis and the other planets do not
+----------------------------------------------------------------------------------------------
+[Mercury_7267820] [CEL_FEATURES_PLANET]
+Which of the following is a reason life in the outermost planets is less likely than life on planets nearer the Sun?
+(A) They have too little mass.
+(B) They have too much mass.
+(C) Their surfaces are extremely hot.
+(D) Their surfaces are extremely cold.
+----------------------------------------------------------------------------------------------
+[Mercury_186218] [CEL_FEATURES_PLANET]
+What is the composition of Saturn's rings?
+(A) hydrogen and helium
+(B) ammonia and methane
+(C) clusters of space debris
+(D) chunks of ice and rock
+----------------------------------------------------------------------------------------------
+[Mercury_7230195] [CEL_FEATURES_PLANET]
+Which change resulted from the heating of the planets as they formed?
+(A) Their masses increased.
+(B) They lost most of their radioactive isotopes.
+(C) Their structures differentiated into distinct layers.
+(D) They started to revolve around the Sun.
+----------------------------------------------------------------------------------------------
+[Mercury_7235743] [CEL_FEATURES_PLANET]
+The atmosphere of Mars is almost entirely composed of a greenhouse gas. Compared with Earth, which factor accounts for the low, nighttime surface temperatures on Mars?
+(A) Mars is much farther from the Sun than Earth.
+(B) The atmosphere on Mars has an extremely low density.
+(C) The atmosphere on Mars lacks global circulation.
+(D) Mars has more glacial activity than Earth.
+----------------------------------------------------------------------------------------------
+[Mercury_7267785] [CEL_FEATURES_PLANET]
+Which planet has characteristics that make it the most likely planet for the discovery of extra-terrestrial life?
+(A) Jupiter
+(B) Venus
+(C) Saturn
+(D) Mars
+----------------------------------------------------------------------------------------------
+[Mercury_7215408] [CEL_FEATURES_PLANET]
+Which object is a planet found in the Milky Way Galaxy?
+(A) Orion
+(B) Earth
+(C) Polaris
+(D) Titan

@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7008190] [CEL_DISTANCES_UNITS]
+An astronomical unit (AU) refers to the distance between
+(A) Earth and the Sun.
+(B) the Moon and the Sun.
+(C) Earth and the Moon.
+(D) the Sun and the nearest star.
+----------------------------------------------------------------------------------------------
+[Mercury_7163888] [CEL_DISTANCES_UNITS]
+During a presentation on astronomy, Professor Williams discussed various measurements in space. Which objects was she referring to when she talked about how astronomical units (AU) were determined?
+(A) the Sun and Earth
+(B) the Moon and Earth
+(C) the inner and outer planets
+(D) the Sun and the closest star
+----------------------------------------------------------------------------------------------
+[Mercury_7122570] [CEL_DISTANCES_UNITS]
+What unit do scientists use to measure the distance between stars?
+(A) light-year
+(B) angstrom unit
+(C) astronomical unit
+(D) apparent magnitude
+----------------------------------------------------------------------------------------------
+[Mercury_7026670] [CEL_DISTANCES_UNITS]
+Which distance is the smallest for which it is most practical to use the light-year as a unit of measurement?
+(A) the distance between Earth and its Moon
+(B) the distance between Jupiter and the Sun
+(C) the distance between the Milky Way and the nearest galaxy
+(D) the distance between the Sun and the center of the Milky Way
+----------------------------------------------------------------------------------------------
+[Mercury_400096] [CEL_DISTANCES_UNITS]
+How far from Earth is an object that is 10 light years from Earth?
+(A) 10,000 km
+(B) 10,000,000 km
+(C) the distance light can travel in 10 years
+(D) ten times the distance from Earth to the Sun
+----------------------------------------------------------------------------------------------
+[Mercury_7043663] [CEL_DISTANCES_UNITS]
+The distance from Earth to the Sun is about 150,000,000 km. What abbreviation do scientists use to describe this distance?
+(A) meters per second (m/s)
+(B) light-year (ly)
+(C) astronomical unit (AU)
+(D) electromagnetic unit (EMU)
+----------------------------------------------------------------------------------------------
+[Mercury_7156520] [CEL_DISTANCES_UNITS]
+Helen is preparing a presentation about objects in the solar system. She includes facts about the order of the planets and their distances from the Sun. Which statement could she include in an accurate presentation?
+(A) Mars is closer to the Sun than Earth.
+(B) Neptune is one light-year from the Sun.
+(C) Jupiter is farther from the Sun than Uranus.
+(D) Earth is one astronomical unit from the Sun.
+----------------------------------------------------------------------------------------------
+[Mercury_7011358] [CEL_DISTANCES_UNITS]
+Which unit is used to record distances between stars?
+(A) miles
+(B) kilometers
+(C) light years
+(D) astronomical units
+----------------------------------------------------------------------------------------------
+[Mercury_7016590] [CEL_DISTANCES_UNITS]
+Scientists use the term "light year" to describe
+(A) how fast light travels in space.
+(B) the distance light travels in one year.
+(C) how large the diameters of different stars are.
+(D) the time it takes the Sun to move through the galaxy.
+----------------------------------------------------------------------------------------------
+[Mercury_7194285] [CEL_DISTANCES_UNITS]
+Different units of measurement are more useful in some settings than in others. Which unit of measurement is most used when comparing distances within the solar system?
+(A) the mile
+(B) the kilometer
+(C) the light year
+(D) the astronomical unit
+----------------------------------------------------------------------------------------------
+[Mercury_7111248] [CEL_DISTANCES_UNITS]
+One astronomical unit is the average distance between the Earth and the Sun. This unit is most often used to describe the distance between which two objects?
+(A) from galaxy to galaxy
+(B) from Saturn to Mercury
+(C) from the Sun to Proxima Centauri
+(D) from the Big Dipper to the Little Dipper
+----------------------------------------------------------------------------------------------
+[Mercury_7173513] [CEL_DISTANCES_UNITS]
+Astronomers measure distances using very large units called light years. Which distance between celestial objects would most likely be measured in light years?
+(A) distance between the Sun and Earth
+(B) distance between the Moon and Earth
+(C) distance between two stars in the same galaxy
+(D) distance between two planets in the same solar system
+----------------------------------------------------------------------------------------------
+[Mercury_7042508] [CEL_DISTANCES_UNITS]
+When astronomers want to measure the distance between nearby stars, they often use
+(A) quasars.
+(B) parallax.
+(C) visible light.
+(D) spectrographs.
+----------------------------------------------------------------------------------------------
+[Mercury_7033653] [CEL_DISTANCES_UNITS]
+Which is the best unit to measure distances between Earth and other solar systems in the universe?
+(A) miles
+(B) kilometers
+(C) light years
+(D) astronomical units
+----------------------------------------------------------------------------------------------
+[Mercury_7123480] [CEL_DISTANCES_UNITS]
+Which measurement is best expressed in light-years?
+(A) the rate at which the universe is expanding
+(B) the distance between stars in the Milky Way
+(C) the time it takes for planets to complete their orbits
+(D) the speed at which light travels through the universe
+----------------------------------------------------------------------------------------------
+[Mercury_400905] [CEL_DISTANCES_UNITS]
+The Sun is approximately 1.5 x 10^8 km from Earth. The speed of light is 3.0 x 10^8 m/sec. What is the distance from the Sun to Earth in light-seconds?
+(A) 2.0 light-seconds
+(B) 0.5 light-seconds
+(C) 2.0 x 10^-3 light-seconds
+(D) 5.0 x 10^2 light-seconds
+----------------------------------------------------------------------------------------------
+[ACTAAP_2008_7_15] [CEL_DISTANCES, SCI_MODELS]
+Which would a scientist use in trying to model the cause of planetary years?
+(A) planetary mass
+(B) planetary color
+(C) a planet's core temperature
+(D) a planet's distance from the Sun
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10907] [CEL_ECLIPSE]
+During which phase of the Moon could a solar eclipse take place?
+(A) full
+(B) new
+(C) quarter
+(D) crescent
+----------------------------------------------------------------------------------------------
+[Mercury_7092418] [CEL_ECLIPSE]
+The changing appearances of the nighttime sky over the surface of Earth and eclipses of the Moon have provided evidence that
+(A) Earth is a sphere.
+(B) Earth supports life.
+(C) Earth has a layered atmosphere.
+(D) Earth is covered mostly with water.
+----------------------------------------------------------------------------------------------
+[Mercury_7166933] [CEL_FEATURES_BLACKHOLE]
+Astronomers have found evidence for the existence of a super-massive black hole in the center of the giant elliptical galaxy M87. What is thought to cause black holes to form?
+(A) the death of a low-mass star
+(B) the gravity of a large nebula
+(C) the collapse of a high-mass star
+(D) the combining of material from planets
+----------------------------------------------------------------------------------------------
+[Mercury_7269045] [CEL_FEATURES_COMET]
+What best describes objects orbiting in the Kuiper Belt?
+(A) metallic
+(B) rocky
+(C) hot
+(D) icy
+----------------------------------------------------------------------------------------------
+[CSZ20680] [CEL_FEATURES_COMET]
+An object composed mainly of ice is orbiting the Sun in an elliptical path. This object is most likely
+(A) a planet.
+(B) an asteroid.
+(C) a meteor.
+(D) a comet.
+----------------------------------------------------------------------------------------------
+[Mercury_7233363] [CEL_FEATURES_COMET]
+Scientists track an icy object with an orbit that ranges from the Kuiper Belt to a path between Earth and the Sun. How would this object best be classified?
+(A) an asteroid
+(B) a comet
+(C) a meteor
+(D) a star
+----------------------------------------------------------------------------------------------
+[Mercury_7008138] [CEL_FEATURES_COMET, CEL_FEATURES_OTHER]
+Which statement describes asteroids and comets?
+(A) Asteroids are gaseous, and comets are solid.
+(B) Asteroids are solid, and comets are gaseous.
+(C) Both asteroids and comets are solids.
+(D) Both asteroids and comets are gaseous.
+----------------------------------------------------------------------------------------------
+[Mercury_7112175] [CEL_FEATURES_COMET, ENG_CONV_CONV]
+The comet Shoemaker-Levy struck the planet Jupiter in July of 1994. The process of a comet striking a planet is an example of a net decrease in kinetic energy. Kinetic energy was ultimately converted into
+(A) light.
+(B) radiation.
+(C) thermal energy.
+(D) electromagnetic energy.

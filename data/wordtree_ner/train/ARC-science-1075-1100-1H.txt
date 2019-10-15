@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400534] [EARTH_WEATHER_ERO_WEATHERING]
+Water causes weathering when it
+(A) melts rock.
+(B) forms deltas.
+(C) erodes rock in its path.
+(D) moves rock along a fault.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_413305] [EARTH_WEATHER_ERO_WEATHERING]
+How does ice change the shape of rocks?
+(A) It dissolves the rocks by pooling on surfaces.
+(B) It breaks the rocks by expanding in openings.
+(C) It smooths the rocks by colliding with them.
+(D) It moves the rocks by pressing on them.
+----------------------------------------------------------------------------------------------
+[CSZ_2008_5_CSZ20469] [EARTH_WEATHER_ERO_WEATHERING]
+The freezing and thawing action of water affects a rock by
+(A) transforming the rock into igneous rock.
+(B) chemically changing the rock.
+(C) gradually breaking down the rock into smaller pieces.
+(D) leaving behind sedimentary particles from evaporated solutions.
+----------------------------------------------------------------------------------------------
+[MSA_2013_5_12] [EARTH_WEATHER_ERO_WEATHERING]
+A large rock breaks into small pieces within 10 years. Which process is most likely responsible for breaking the large rock into small pieces within 10 years?
+(A) steady winds blowing throughout the years
+(B) gentle rain falling during each spring and fall
+(C) lack of rain falling during a four-year drought
+(D) water repeatedly freezing and thawing in a crack
+----------------------------------------------------------------------------------------------
+[MCAS_2011_5_17664] [EARTH_WEATHER_ERO_WEATHERING]
+Which of the following can be caused by weathering?
+(A) cracks forming in a boulder
+(B) rocks melting to form magma
+(C) glaciers forming on a mountainside
+(D) pebbles combining to form a large rock
+----------------------------------------------------------------------------------------------
+[MCAS_2006_5_8] [EARTH_WEATHER_ERO_WEATHERING]
+All of the processes listed below cause changes in Earth's surface. Which of the following is the slowest to change Earth's surface?
+(A) earthquake activity
+(B) landslide
+(C) volcanic eruption
+(D) weathering
+----------------------------------------------------------------------------------------------
+[TAKS_2009_5_23] [EARTH_WEATHER_ERO_WEATHERING]
+The Davis Mountains in West Texas used to be taller than they are now. Which of the following conditions most likely caused the mountains to become shorter over time?
+(A) Heat and pressure
+(B) Soil deposition
+(C) Rain and wind
+(D) River formation
+----------------------------------------------------------------------------------------------
+[MEA_2013_5_2] [EARTH_WEATHER_ERO_WEATHERING]
+A student climbs up a rocky mountain trail in Maine. She sees many small pieces of rock on the path. Which action most likely made the small pieces of rock?
+(A) sand blowing into cracks
+(B) leaves pressing down tightly
+(C) ice breaking large rocks apart
+(D) shells and bones sticking together
+----------------------------------------------------------------------------------------------
+[Mercury_410744] [EARTH_WEATHER_ERO_WEATHERING]
+Some events on Earth happen instantly while others take thousands of years to occur. Which process takes the longest time to complete?
+(A) rivers rising due to storms and floods
+(B) evaporation of water from the leaves of a plant
+(C) weathering of a rock to form small rocks and sand
+(D) movement of small pieces of rock by flowing water
+----------------------------------------------------------------------------------------------
+[Mercury_7086713] [EARTH_WEATHER_ERO_WEATHERING]
+The sediments found in a riverbed are most likely a result of which action on nearby rock?
+(A) heat
+(B) faulting
+(C) pressure
+(D) weathering
+----------------------------------------------------------------------------------------------
+[Mercury_7166600] [EARTH_WEATHER_ERO_WEATHERING]
+Growth and activities of organisms can speed up the chemical weathering of rocks. Which organisms naturally cause most of the chemical weathering of rocks?
+(A) small mammals
+(B) plant seedlings
+(C) mosses
+(D) insects

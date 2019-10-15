@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_175665] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+Which of the following allows materials to enter and leave a cell?
+(A) cell wall
+(B) mitochondria
+(C) vacuole
+(D) cell membrane
+----------------------------------------------------------------------------------------------
+[Mercury_7219905] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+Cell membranes are described as selectively permeable. Four students were asked to explain what this means and provided the answers given below.Student 1: Cell membranes prevent all materials from entering the cell.Student 2: Cell membranes only provide structural support for the cell.Student 3: Cell membranes regulate which substances can enter and exit the cell.Student 4: Cell membranes allow water and water-soluble substances to enter the cell.Which student correctly identified the function of the selectively permeable membrane?
+(A) Student 1
+(B) Student 2
+(C) Student 3
+(D) Student 4
+----------------------------------------------------------------------------------------------
+[Mercury_7220903] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+A cell that is unable to import substances required to process chemical energy is most likely a result of a malfunctioning
+(A) cell membrane.
+(B) endoplasmic reticulum.
+(C) Golgi body.
+(D) nuclear envelope.
+----------------------------------------------------------------------------------------------
+[Mercury_7216843] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+Water enters a cell and waste material leaves a cell through the cell membrane. Based on this information, the cell membrane is
+(A) semi-permeable.
+(B) transparent.
+(C) rigid.
+(D) impermeable.
+----------------------------------------------------------------------------------------------
+[Mercury_7216825] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+The thin, semi-permeable membrane that encloses a cell allows nutrients to enter and wastes to be
+(A) digested.
+(B) recycled.
+(C) protected.
+(D) excreted.
+----------------------------------------------------------------------------------------------
+[Mercury_7216405] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+Which characteristic of a cell membrane allows it to control materials entering and leaving a cell?
+(A) A cell membrane is surrounded by fluid.
+(B) A cell membrane is semipermeable.
+(C) A cell membrane holds organelles in place.
+(D) A cell membrane is found in plant and animal cells.
+----------------------------------------------------------------------------------------------
+[Mercury_7210998] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+What structure surrounds the cell and regulates materials that enter and leave the cell?
+(A) nucleus
+(B) chloroplast
+(C) mitochondrion
+(D) cell membrane
+----------------------------------------------------------------------------------------------
+[Mercury_7216230] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+All of the following are functions of a cell membrane except
+(A) surrounding and protecting the contents of the cell.
+(B) releasing waste products from the cell.
+(C) producing energy for cell processes.
+(D) allowing gases to enter the cell.
+----------------------------------------------------------------------------------------------
+[Mercury_192238] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+Materials must pass through a cell's semi-permeable membrane in order for energy to be utilized. This process is called
+(A) diffusion.
+(B) oxidation.
+(C) respiration.
+(D) reproduction.
+----------------------------------------------------------------------------------------------
+[Mercury_7203543] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+Which process moves an ion across a cell membrane against the concentration gradient?
+(A) diffusion
+(B) exocytosis
+(C) facilitated diffusion
+(D) active transport
+----------------------------------------------------------------------------------------------
+[Mercury_7083388] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+Which term best describes the movement of water through cell membranes?
+(A) respiration
+(B) osmosis
+(C) mitosis
+(D) condensation
+----------------------------------------------------------------------------------------------
+[Mercury_7219415] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+Which example is a function of the selectively permeable membrane of a cell?
+(A) supporting the shape of the cell
+(B) manufacturing proteins for the cell
+(C) limiting chemicals that diffuse out of the cell
+(D) storing waste products for the cell
+----------------------------------------------------------------------------------------------
+[Mercury_7227850] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+What virus structure is similar in function to a cell membrane?
+(A) protein shell
+(B) internal protein
+(C) tail sheath
+(D) end plate
+----------------------------------------------------------------------------------------------
+[Mercury_7248115] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CYTOPLCYTOSKEL]
+In eukaryotic organisms, interaction between which organelles is most important for cell shape, tensile strength, and communication between cells?
+(A) cytoskeleton and cell membrane
+(B) cytoplasm and Golgi apparatus
+(C) nucleus and endoplasmic reticulum
+(D) ribosome and central vacuole
+----------------------------------------------------------------------------------------------
+[VASoL_2008_5_31] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLWALL]
+Which of these is the main function of a cell wall?
+(A) To make food
+(B) To store water
+(C) To provide support
+(D) To make the plant green
+----------------------------------------------------------------------------------------------
+[OHAT_2007_8_25] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLWALL]
+Which cell structure carries out a function for a cell that is similar to the function that bark carries out for a tree?
+(A) cell wall
+(B) nucleus
+(C) chloroplast
+(D) mitochondrion
+----------------------------------------------------------------------------------------------
+[Mercury_7012565] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLWALL]
+Water enters a plant cell through the
+(A) cell wall.
+(B) chloroplasts.
+(C) mitochondria.
+(D) nucleus.
+----------------------------------------------------------------------------------------------
+[Mercury_7228183] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLWALL]
+A researcher determines a cell has a flexible cell wall composed of peptidoglycan. This observation narrows possible classifications of the cell to which taxonomic group?
+(A) archaea
+(B) bacteria
+(C) fungi
+(D) plants
+----------------------------------------------------------------------------------------------
+[MCAS_1998_8_2] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLWALL]
+The cell structure that makes a plant cell more rigid than an animal cell is the
+(A) cell membrane.
+(B) cytoplasm.
+(C) cell wall.
+(D) ribosome.
+----------------------------------------------------------------------------------------------
+[MCAS_2013_8_29432] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLWALL]
+Which of the following parts of a plant cell has a function that is most similar to the function of an animal skeleton?
+(A) cell membrane
+(B) cell wall
+(C) chloroplast
+(D) nucleus
+----------------------------------------------------------------------------------------------
+[Mercury_7239680] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHLOROPLAST]
+Which process drives most of the ATP synthesis in a chloroplast?
+(A) flow of protons across an electrochemical gradient
+(B) flow of tRNA across an electrochemical gradient
+(C) exposure of ADP to electromagnetic waves
+(D) exposure of carbohydrates to electromagnetic waves
+----------------------------------------------------------------------------------------------
+[Mercury_7064523] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHLOROPLAST]
+Which organelle in a plant cell captures sunlight and converts the energy into food?
+(A) nucleus
+(B) chloroplast
+(C) cell membrane
+(D) cell wall
+----------------------------------------------------------------------------------------------
+[Mercury_7185220] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHLOROPLAST]
+The cells of a plant help the plant maintain its life functions. What part of a plant cell has the function of producing sugar in the presence of sunlight?
+(A) chloroplast
+(B) cytoplasm
+(C) mitochondria
+(D) nucleus
+----------------------------------------------------------------------------------------------
+[Mercury_7213640] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHLOROPLAST]
+Which plant cell structures capture sunlight to produce sugars?
+(A) vacuoles
+(B) ribosomes
+(C) mitochondria
+(D) chloroplasts
+----------------------------------------------------------------------------------------------
+[Mercury_SC_409381] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHLOROPLAST, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_PLANTCELL]
+Which of these can only be found in a plant cell?
+(A) a nucleus
+(B) a vacuole
+(C) a chloroplast
+(D) a mitochondrion

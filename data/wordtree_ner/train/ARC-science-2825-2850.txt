@@ -1,0 +1,174 @@
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5189] [LIFE_INTERDEP_RELSPECIES]
+Lichens are symbiotic organisms made of green algae and fungi. What do the green algae supply to the fungi in this symbiotic relationship?
+(A) carbon dioxide
+(B) food
+(C) protection
+(D) water
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_8_28] [LIFE_INTERDEP_RELSPECIES]
+Competition is most likely to occur between which two organisms?
+(A) deer and butterflies
+(B) owls and bacteria
+(C) goldfish and rabbits
+(D) grass and strawberry plants
+----------------------------------------------------------------------------------------------
+[Mercury_7284078] [LIFE_INTERDEP_RELSPECIES]
+What is true of mutualistic relationships among organisms?
+(A) The organisms ignore each other.
+(B) The organisms cooperate with each other.
+(C) The organisms prey on each other.
+(D) The organisms compete with each other.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_8_37] [LIFE_INTERDEP_RELSPECIES]
+Some microorganisms cause human disease. Other microorganisms are used in making cheese, yogurt, and bread. Based on this information, the relationship between humans and microorganisms can be
+(A) beneficial, only
+(B) harmful, only
+(C) beneficial or harmful
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_26] [LIFE_INTERDEP_RELSPECIES]
+Different species of carnivorous animals that share the same habitat in an ecosystem may
+(A) become decomposers
+(B) compete for food
+(C) produce their own food
+(D) mate with each other
+----------------------------------------------------------------------------------------------
+[AIMS_2008_8_10] [LIFE_INTERDEP_RELSPECIES]
+In a desert environment, cactus wrens often build their nests in cholla cacti to avoid predators. This behavior does not hurt the cacti. Which type of relationship do cactus wrens and cholla cacti demonstrate?
+(A) competitive
+(B) commensalism
+(C) mutualism
+(D) parasitism
+----------------------------------------------------------------------------------------------
+[Mercury_7283955] [LIFE_INTERDEP_RELSPECIES]
+Two populations of reef fish live in biological coexistence with each other. Which sentence best describes their relationship?
+(A) The species compete with each other.
+(B) One species preys on the other.
+(C) The species ignore each other.
+(D) One species benefits from the other.
+----------------------------------------------------------------------------------------------
+[MCAS_2016_8_12] [LIFE_INTERDEP_RELSPECIES]
+Wolves kill many elk every year and often attack old, sick, and injured members of a herd. Which of the following best describes the role of the wolves in the wolf-elk relationship?
+(A) competitor
+(B) host
+(C) parasite
+(D) predator
+----------------------------------------------------------------------------------------------
+[OHAT_2008_8_13] [LIFE_INTERDEP_RELSPECIES]
+Termites eat wood but cannot digest it. Protozoans live in the termites' stomachs and use enzymes to break down the wood. The digested wood provides nutrition for both the termites and the protozoans. What type of relationship is this?
+(A) mutualism
+(B) parasitism
+(C) predation
+(D) commensalism
+----------------------------------------------------------------------------------------------
+[Mercury_7283938] [LIFE_INTERDEP_RELSPECIES]
+Carolina wrens and painted buntings are two bird species that live in overlapping territories. They have different requirements for food and nesting. Which term best describes the relationship between the two species?
+(A) parasitism
+(B) symbiosis
+(C) coexistence
+(D) mutualism
+----------------------------------------------------------------------------------------------
+[MCAS_2001_8_6] [LIFE_INTERDEP_RELSPECIES]
+Which organisms benefit in the relationship between bees and flowering plants?
+(A) only the bees
+(B) only the flowering plants
+(C) both the bees and the flowering plants
+(D) neither the bees nor the flowering plants
+----------------------------------------------------------------------------------------------
+[Mercury_7142398] [LIFE_INTERDEP_RELSPECIES]
+A dung beetle is an insect that gathers waste from animals, rolls it into a compact ball, lays eggs in it, and buries it in the soil. This gives the eggs a warm, safe place to hatch and provides a food source for the developing larvae. Which impact does the dung beetle most likely have on its ecosystem?
+(A) It helps return nutrients to the soil.
+(B) It makes animal waste harder to degrade.
+(C) It causes an unhealthy accumulation of animal waste.
+(D) It depletes nutrients from the soil to benefit its young.
+----------------------------------------------------------------------------------------------
+[Mercury_7175840] [LIFE_INTERDEP_RELSPECIES]
+Hookworms live inside the intestines of dogs. As the dog eats, the hookworms consume partially digested food. As a result of this nutrient diversion, the dog can become malnourished and weakened. Which best describes the relationship between the hookworms and the dog?
+(A) a parasitic relationship
+(B) a mutualistic relationship
+(C) a predator-prey relationship
+(D) a producer-consumer relationship
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415366] [LIFE_INTERDEP_RELSPECIES]
+Trees need oxygen. Roots close to the surface of the ground take in the oxygen the tree needs. Which organisms help trees get oxygen?
+(A) woodpeckers making holes in the tree
+(B) earthworms making holes in the ground near the tree
+(C) mushrooms growing at the base of the tree
+(D) squirrels eating walnuts on the ground near the tree
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400002] [LIFE_INTERDEP_RELSPECIES]
+A bee depends on certain flowers for food. The flowers depend on the bee to
+(A) carry pollen for reproduction.
+(B) make sugars for photosynthesis.
+(C) remove wastes for healthy growth.
+(D) sting herbivores for protection.
+----------------------------------------------------------------------------------------------
+[Mercury_406736] [LIFE_INTERDEP_RELSPECIES]
+Which of these is the best example of organisms interacting with each other in an ecosystem?
+(A) a buffalo drinking water
+(B) a bear catching a fish
+(C) a rabbit running across the sand
+(D) a pig rolling in the mud
+----------------------------------------------------------------------------------------------
+[Mercury_7114940] [LIFE_INTERDEP_RELSPECIES]
+Which is an example of symbiosis?
+(A) a tick feeding on a deer
+(B) a lion hunting a zebra
+(C) a dandelion growing in a grass lawn
+(D) a dolphin communicating with another dolphin
+----------------------------------------------------------------------------------------------
+[Mercury_7267995] [LIFE_INTERDEP_RELSPECIES]
+Some plant species and animal species depend on each other. Which of these animals help thousands of plant species to reproduce?
+(A) squirrels
+(B) earthworms
+(C) honeybees
+(D) beetles
+----------------------------------------------------------------------------------------------
+[Mercury_7284043] [LIFE_INTERDEP_RELSPECIES]
+Elephants on the African savanna eat shrubs and small trees. This behavior clears land and enables grass to grow. Grazers such as gazelles eat the grass. Lions prey on the gazelles. Which two organisms in this scenario are in the most cooperative relationship?
+(A) the elephants and the shrubs
+(B) the shrubs and the lions
+(C) the elephants and the gazelles
+(D) the gazelles and the lions
+----------------------------------------------------------------------------------------------
+[Mercury_7131828] [LIFE_INTERDEP_RELSPECIES]
+In many tropical areas, mosquitoes may carry a parasite that can cause an infectious disease among humans. What best describes this type of relationship between mosquitoes and humans?
+(A) predator-prey
+(B) competition for resources
+(C) biotic factors interacting with each other
+(D) energy transfer between producer and consumer
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_8_3] [LIFE_INTERDEP_RELSPECIES]
+Which type of relationship exists when a certain type of tree's roots need a fungus present in order to grow normally?
+(A) beneficial
+(B) competitive
+(C) harmful
+(D) infectious
+----------------------------------------------------------------------------------------------
+[Mercury_7176155] [LIFE_INTERDEP_RELSPECIES]
+Wolves have adapted skills for hunting large hoofed animals such as elk, deer, or moose. Wolves tend to target prey animals that are sick or weak. The wolf benefits from this strategy because it uses less energy to hunt. How would the prey animal population also benefit from this strategy?
+(A) by promoting detrimental genes
+(B) by stimulating beneficial DNA mutations
+(C) by preventing the introduction of other predator species
+(D) by increasing the reproductive success of healthy prey animals
+----------------------------------------------------------------------------------------------
+[Mercury_7158865] [LIFE_INTERDEP_RELSPECIES]
+The bacteria Escherichia coli (E. coli) live in the intestines of humans and make vitamins such as vitamin K and B-complex vitamins. Which would best describe the relationship between E. coli and humans?
+(A) The E. coli benefit and humans are harmed.
+(B) There is only a benefit for the humans.
+(C) There is only a benefit for the E. coli.
+(D) The E. coli and humans both benefit.
+----------------------------------------------------------------------------------------------
+[OHAT_2010_5_20] [LIFE_INTERDEP_RELSPECIES, LIFE_FUNCT_FEATANDFUNCT_PLANT_REPRODUCTION]
+Nectar is a sweet liquid that some flowering plants produce. A hummingbird drinks nectar from a flower. When a hummingbird drinks nectar, pollen from the flower sticks to the hummingbird's beak. The picture shows a hummingbird drinking nectar from a flower. Which statement explains the role of a hummingbird in the life cycle of a flowering plant?
+(A) A hummingbird carries food to the plant.
+(B) A hummingbird helps the plant reproduce.
+(C) A hummingbird protects the plant from predators.
+(D) A hummingbird makes the flowers produce nectar.
+----------------------------------------------------------------------------------------------
+[Mercury_406549] [LIFE_INTERDEP_RELSPECIES, LIFE_FUNCT_FEATANDFUNCT_PLANT_REPRODUCTION]
+Bees use pollen from flowers to make honey. Bees help flowers by
+(A) providing them with fertilizer.
+(B) helping them grow taller.
+(C) aiding them in reproduction.
+(D) increasing photosynthesis.

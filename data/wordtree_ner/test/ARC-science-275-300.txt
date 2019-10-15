@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_179813] [CEL_ORBIT]
+Which of the following allows the planets to stay in orbit?
+(A) the Moon's gravity
+(B) the Sun's gravity
+(C) magnetism
+(D) rotation
+----------------------------------------------------------------------------------------------
+[Mercury_178115] [CEL_ORBIT]
+Which of the following helps keep the Moon in its orbit?
+(A) friction
+(B) gravity
+(C) longitude
+(D) latitude
+----------------------------------------------------------------------------------------------
+[Mercury_7122465] [CEL_ORBIT]
+The gravitational force of the Sun affects the planets in our solar system. Which of these is influenced the most by this force?
+(A) axial tilt
+(B) orbital path
+(C) the masses of the planets
+(D) the number of moons per planet
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5158] [CEL_ORBIT]
+Which of the following keeps the planets in our solar system in orbit around the Sun?
+(A) atmospheric pressure
+(B) gravitational force
+(C) electromagnetic energy
+(D) thermal energy
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_8_28] [CEL_ORBIT]
+Which force keeps the planets in their orbits around the Sun?
+(A) gravity
+(B) magnetism
+(C) electricity
+(D) friction
+----------------------------------------------------------------------------------------------
+[Mercury_7097388] [CEL_ORBIT]
+Uranus is one of the outer planets of the solar system. The average distance of Uranus from the Sun is 2.87 billion kilometers. Which best explains why Uranus revolves in its orbit instead of moving out into space?
+(A) The orbit of Neptune limits Uranus.
+(B) Gravity pulls Uranus toward the Sun.
+(C) Electromagnetic energy pulls on Uranus.
+(D) Other planets have the same mass as Uranus.
+----------------------------------------------------------------------------------------------
+[Mercury_7043733] [CEL_ORBIT]
+Which best describes the orbit of the Moon around Earth?
+(A) circular with a period of about one month
+(B) circular with a period of about one week
+(C) elliptical with a period of about one month
+(D) elliptical with a period of about one week
+----------------------------------------------------------------------------------------------
+[Mercury_7177695] [CEL_ORBIT]
+When studying planetary data, Jackie found some similarities and differences among the planets that make up the solar system. Which generalization is true about the orbits of the major planets in the solar system?
+(A) Planetary orbits have the same plane.
+(B) Planetary orbits are mostly elliptical in shape.
+(C) Planets orbit at the same speed around the Sun.
+(D) Planets orbit in different directions around the Sun.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401367] [CEL_ORBIT]
+The force necessary to keep planets in orbit around the Sun is
+(A) gravity.
+(B) friction.
+(C) magnetism.
+(D) nuclear.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_403016] [CEL_ORBIT]
+What keeps the Moon orbiting Earth?
+(A) the Sun's gravity
+(B) the Moon's rotation
+(C) Earth's rotation
+(D) Earth's gravity
+----------------------------------------------------------------------------------------------
+[Mercury_7164658] [CEL_ORBIT]
+Earth, along with the other planets, revolves around the Sun. The planets revolve in a counterclockwise direction. The cause of the revolution is mostly due to which force?
+(A) electrical
+(B) frictional
+(C) gravitational
+(D) magnetic
+----------------------------------------------------------------------------------------------
+[Mercury_7122448] [CEL_ORBIT]
+Planets in the solar system are in constant motion. What factor has the greatest effect on the orbits of the planets?
+(A) the size of the planets
+(B) gravitational pull of the Sun
+(C) the composition of the planets
+(D) electromagnetic radiation from the Sun
+----------------------------------------------------------------------------------------------
+[Mercury_7122763] [CEL_ORBIT, CEL_FEATURES_COMET]
+The orbit of Earth is almost circular and has a period of about 365 days. Compared to the orbit of Earth, which of these objects usually have highly elliptical orbits and can have periods of over 1000 years?
+(A) asteroids
+(B) meteorites
+(C) comets
+(D) moons
+----------------------------------------------------------------------------------------------
+[Mercury_7267750] [CEL_SEARCHLIFE]
+What is significant about the discovery of water on Mars?
+(A) It proves there is life on Mars.
+(B) It provides evidence there may be life on Mars.
+(C) It proves there was an advanced civilization on Mars.
+(D) It provides evidence of an advanced civilization on Mars.
+----------------------------------------------------------------------------------------------
+[Mercury_7267768] [CEL_SEARCHLIFE, LIFE_FUNCT_FUNCT_ANIMESS, LIFE_FUNCT_FUNCT_PLANTESS]
+Life is more likely to be found on a planet whose atmosphere contains abundant
+(A) neon.
+(B) oxygen.
+(C) hydrogen.
+(D) sulfur dioxide.
+----------------------------------------------------------------------------------------------
+[Mercury_7267873] [CEL_SEARCHLIFE, LIFE_FUNCT_FUNCT_ANIMESS, LIFE_FUNCT_FUNCT_PLANTESS]
+Which of these provide the best evidence that life could develop on Mars?
+(A) its atmospheric gases
+(B) its surface temperatures
+(C) its craters and rocky surface
+(D) its ice and organic molecules
+----------------------------------------------------------------------------------------------
+[CSZ_2005_5_CSZ20330] [CEL_SIZES]
+The largest body in our solar system is
+(A) Earth.
+(B) the Sun.
+(C) Jupiter.
+(D) the Moon.
+----------------------------------------------------------------------------------------------
+[OHAT_2011_5_19] [CEL_SIZES]
+The sun is a star of average size and brightness. From Earth, the sun appears as a round, yellow object in the daytime sky. At night, we see other stars. They appear as tiny points of light. Why does the sun appear larger than stars that we see at night?
+(A) Daylight brightens the sun, making it appear larger.
+(B) Starlight bends as it passes planets, making the stars appear smaller.
+(C) The sun is closer to Earth than other stars, making the sun appear larger.
+(D) Earth's atmosphere filters out light from other stars, making them appear smaller.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_8_1] [CEL_SIZES]
+Which statement best explains why the Sun and the Moon appear to be about the same size in the sky?
+(A) The Sun and the Moon have the same diameter.
+(B) The Moon is larger in diameter and farther from Earth than the Sun.
+(C) The Moon is smaller in diameter and is closer to Earth than the Sun.
+(D) The Sun and the Moon are the same distance from Earth.
+----------------------------------------------------------------------------------------------
+[Mercury_406518] [CEL_SIZES]
+Which lists the diameter of the planets in order from smallest to largest?
+(A) Venus, Earth, Mercury, Mars
+(B) Earth, Mars, Venus, Mercury
+(C) Mars, Mercury, Earth, Venus
+(D) Mercury, Mars, Venus, Earth
+----------------------------------------------------------------------------------------------
+[Mercury_7182893] [CEL_SIZES]
+Most of the volume of the universe is found in the space between galaxies. Objects found in the regions between galaxies are most likely to be closest in size to which of these?
+(A) a dust particle
+(B) an asteroid
+(C) a planet
+(D) a star
+----------------------------------------------------------------------------------------------
+[Mercury_7032830] [CEL_SIZES]
+What object is made of hot gas and is the most massive object in our solar system?
+(A) the Sun
+(B) an asteroid
+(C) a comet
+(D) a terrestrial planet
+----------------------------------------------------------------------------------------------
+[OHAT_2007_5_34] [CEL_SIZES, CEL_DISTANCES]
+From Earth, we see the sun in the day sky and other stars in the night sky. Nighttime stars look like tiny points of light. Which statement explains why nighttime stars appear so much smaller than the sun?
+(A) The stars are much smaller.
+(B) The sky is much darker at night.
+(C) The stars are much farther away.
+(D) The moon blocks out most starlight.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_1] [CEL_SIZES, CEL_DISTANCES]
+The Sun appears larger than other stars because of its
+(A) yellow color
+(B) high temperature
+(C) distance from Earth
+(D) chemical composition
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_8_37] [CEL_SIZES, CEL_DISTANCES]
+An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?
+(A) Star X is larger than star Y.
+(B) Star Y is larger than star X.
+(C) Star X reflects the Sun’s light better than star Y.
+(D) Star Y reflects the Sun’s light better than star X.

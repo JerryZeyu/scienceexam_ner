@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7029838] [EARTH_OUTER_ATMOS]
+Why is the ozone content of the stratosphere important to living organisms?
+(A) Ozone absorbs infrared radiation from the Sun.
+(B) Ozone absorbs ultraviolet radiation from the Sun.
+(C) Ozone is necessary to create oxygen for living things.
+(D) Ozone in the atmosphere prevents radiation of heat from Earth.
+----------------------------------------------------------------------------------------------
+[TIMSS_1995_8_O12] [EARTH_OUTER_ATMOS]
+Air is made up of many gases. Which gas is found in the greatest amount?
+(A) Nitrogen
+(B) Oxygen
+(C) Carbon dioxide
+(D) Hydrogen
+----------------------------------------------------------------------------------------------
+[Mercury_7271635] [EARTH_OUTER_ATMOS]
+Humans cannot survive without clean, fresh water. Reservoirs of liquid water vary, but all water spends time as a gas in the atmosphere. What is the source of most of the water in the atmosphere?
+(A) lakes
+(B) oceans
+(C) rivers
+(D) glaciers
+----------------------------------------------------------------------------------------------
+[Mercury_7217788] [EARTH_OUTER_ATMOS]
+Which gas accounts for the largest percentage of greenhouse gases in the atmosphere?
+(A) carbon monoxide
+(B) carbon dioxide
+(C) nitrous oxide
+(D) water vapor
+----------------------------------------------------------------------------------------------
+[Mercury_7213063] [EARTH_OUTER_ATMOS]
+Which layer of the atmosphere contains the greatest amount of water vapor?
+(A) thermosphere
+(B) mesosphere
+(C) stratosphere
+(D) troposphere
+----------------------------------------------------------------------------------------------
+[MCAS_2003_8_16] [EARTH_OUTER_ATMOS]
+Harmful ultraviolet rays from the Sun are primarily absorbed by
+(A) dust.
+(B) ozone.
+(C) land masses.
+(D) water vapor.
+----------------------------------------------------------------------------------------------
+[NAEP_2009_8_S10+3] [EARTH_OUTER_ATMOS]
+Why do mountain climbers at high elevations use oxygen tanks to help them breathe?
+(A) At high elevations the ozone layer draws oxygen out of the atmosphere.
+(B) The atmosphere is less dense at higher elevations so there is less oxygen available.
+(C) Oxygen is heavier than the other gases in the atmosphere and sinks to lower elevations.
+(D) Radiation from the Sun splits oxygen molecules into atoms making the oxygen unbreathable.
+----------------------------------------------------------------------------------------------
+[NAEP_2005_8_S11+9] [EARTH_OUTER_ATMOS]
+What two gases make up most of the Earth's atmosphere?
+(A) Hydrogen and oxygen
+(B) Hydrogen and nitrogen
+(C) Oxygen and carbon dioxide
+(D) Oxygen and nitrogen
+----------------------------------------------------------------------------------------------
+[Mercury_7217928] [EARTH_OUTER_ATMOS]
+Which gas makes up the greatest percentage of Earth's atmosphere?
+(A) argon
+(B) nitrogen
+(C) nitrous oxide
+(D) carbon dioxide
+----------------------------------------------------------------------------------------------
+[Mercury_7230370] [EARTH_OUTER_ATMOS]
+Which provides the oldest evidence for oxygen accumulation in Earth's atmosphere?
+(A) the earliest fossils of animals
+(B) the earliest sediments of oxidized rock
+(C) impact craters of oxidized-iron asteroids
+(D) extensive volcanic calderas of similar age
+----------------------------------------------------------------------------------------------
+[Mercury_7263708] [EARTH_OUTER_ATMOS]
+Which atmospheric phenomena are created by the interaction of charged particles with Earth's magnetosphere?
+(A) auroras
+(B) tornadoes
+(C) rainbows
+(D) inversions
+----------------------------------------------------------------------------------------------
+[MEAP_2005_5_1] [EARTH_OUTER_ATMOS]
+Water vapor exists in the atmosphere as ___.
+(A) a visible gas
+(B) a visible liquid
+(C) an invisible gas
+(D) an invisible liquid
+----------------------------------------------------------------------------------------------
+[Mercury_7213080] [EARTH_OUTER_ATMOS]
+Which of these gases, on average, has the lowest volume in the atmosphere of Earth?
+(A) oxygen
+(B) nitrogen
+(C) water vapor
+(D) carbon dioxide
+----------------------------------------------------------------------------------------------
+[Mercury_7213150] [EARTH_OUTER_ATMOS, EARTH_HUMIMP_WHAT_GLOBALWARMING]
+When compared to current average conditions, which term would best describe conditions in Earth's lower atmosphere if greenhouse gases were absent?
+(A) denser
+(B) cooler
+(C) wetter
+(D) cloudier
+----------------------------------------------------------------------------------------------
+[Mercury_7217945] [EARTH_OUTER_ATMOS, EARTH_HUMIMP_WHAT_GLOBALWARMING]
+Atmospheric greenhouse gases help heat the atmosphere by
+(A) increasing the amount of solar radiation reaching Earth.
+(B) storing energy produced by human activity.
+(C) absorbing infrared radiation released by Earth.
+(D) increasing the average density of air.
+----------------------------------------------------------------------------------------------
+[MCAS_1998_8_4] [EARTH_OUTER_ATMOS, EARTH_WEATHER_WATERCYC_EVAPCOND]
+Which statement best describes the relationship between the total amount of water vapor the atmosphere can hold and the temperature of the atmosphere?
+(A) The amount of water vapor is not related to atmospheric temperature.
+(B) The amount of water vapor increases as the atmospheric temperature increases.
+(C) The amount of water vapor increases as the atmospheric temperature decreases.
+(D) The amount of water vapor decreases as the atmospheric temperature increases.
+----------------------------------------------------------------------------------------------
+[Mercury_188563] [EARTH_OUTER_ATMOS, LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+Which of the following best describes a change in Earth's atmosphere made by early photosynthetic life?
+(A) increased level of oxygen
+(B) increased level of carbon dioxide
+(C) decreased ability to support life
+(D) decreased ability to transmit light
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_4_pg39] [EARTH_OUTER_HYDRO]
+Most of Earth's surface is covered by
+(A) sand
+(B) trees
+(C) water
+(D) mountains
+----------------------------------------------------------------------------------------------
+[CSZ10053] [EARTH_OUTER_HYDRO]
+Where is most of Earth's water located?
+(A) glaciers
+(B) lakes
+(C) oceans
+(D) rivers
+----------------------------------------------------------------------------------------------
+[OHAT_2007_5_23] [EARTH_OUTER_HYDRO]
+About how much of Earth's surface is covered by oceans?
+(A) less than 20%
+(B) about 50%
+(C) about 70%
+(D) more than 90%
+----------------------------------------------------------------------------------------------
+[Mercury_7168560] [EARTH_OUTER_HYDRO]
+The water cycle describes the movement of the water of Earth. About 96% of the water of Earth is the salt water found in the oceans while the remaining 4% is fresh water. Where would the majority of the freshwater on Earth be found?
+(A) groundwater and aquifers
+(B) swamps and wetlands
+(C) ice caps and glaciers
+(D) lakes and rivers
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_8_4] [EARTH_OUTER_HYDRO]
+The surface of Earth is covered by a relatively thin layer of water called the
+(A) crust
+(B) mantle
+(C) hydrosphere
+(D) atmosphere
+----------------------------------------------------------------------------------------------
+[Mercury_417139] [EARTH_OUTER_HYDRO]
+When fresh water and salt water meet in an estuary, the salt water typically flows underneath the fresh water because the salt water is denser. What effect does this most likely have on the nutrients concentrated in the fresh water?
+(A) They are kept close to the shore.
+(B) They are spread out from the shore.
+(C) They are diluted by the ocean water.
+(D) They are inactivated by the ocean water.
+----------------------------------------------------------------------------------------------
+[Mercury_7213115] [EARTH_OUTER_HYDRO]
+Which type of water reservoir contains the largest volume of fresh water?
+(A) lakes
+(B) rivers
+(C) ice sheets
+(D) aquifers
+----------------------------------------------------------------------------------------------
+[Mercury_7218645] [EARTH_OUTER_HYDRO]
+Near Earth's equator, water generally exists naturally in the liquid and gas states. In which other part of Earth is water usually found naturally in only two states?
+(A) Indian Ocean
+(B) interior of Africa
+(C) South Pole
+(D) Tropic of Cancer

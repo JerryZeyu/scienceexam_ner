@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_4] [MAT_CHEM_CONSMASS]
+Which best explains why the total mass of the product(s) would be less than the total weight of the reactant(s) after a chemical reaction?
+(A) A physical change occurred.
+(B) Atoms involved in the reaction lost mass.
+(C) Precipitates were created in the new solution.
+(D) Gases were released to the atmosphere.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_8_20] [MAT_CHEM_CONSMASS]
+The equation below shows the products formed when a solution of silver nitrate (AgNO3) reacts with a solution of sodium chloride (NaCl). AgNO3 + NaCl (Reactants) -> NaNO3 + AgCl (Products) In this equation, the total mass of the reactants is
+(A) greater than the total mass of the products
+(B) equal to the total mass of the products
+(C) equal to the mass of AgCl
+(D) less than the mass of AgCl
+----------------------------------------------------------------------------------------------
+[OHAT_2011_8_41] [MAT_CHEM_CONSMASS, ENG_CONSERVATION]
+In any physical or chemical process, what two quantities are always conserved?
+(A) matter and total energy
+(B) light and acoustic energy
+(C) density and thermal energy
+(D) gravity and potential energy
+----------------------------------------------------------------------------------------------
+[Mercury_403680] [MAT_CHEM_ELEMVSCOMP]
+Rust is a compound with the formula Fe_{2}O_{3}. Which elements combine to form rust?
+(A) iron and water
+(B) iron and oxygen
+(C) iron and air
+(D) iron and acid
+----------------------------------------------------------------------------------------------
+[ACTAAP_2009_7_2] [MAT_CHEM_ELEMVSCOMP]
+Sodium chloride, commonly called "table salt," is made up of sodium and chlorine that have been combined chemically. Which term best describes sodium chloride?
+(A) Acid
+(B) Atom
+(C) Element
+(D) Compound
+----------------------------------------------------------------------------------------------
+[ACTAAP_2009_7_14] [MAT_CHEM_ELEMVSCOMP]
+Which nongaseous compound can be made from two elements that are gases at room temperature?
+(A) water
+(B) table salt
+(C) iron oxide
+(D) carbon dioxide
+----------------------------------------------------------------------------------------------
+[Mercury_7008838] [MAT_CHEM_ELEMVSCOMP]
+Which compound does not contain individual molecules?
+(A) salt
+(B) water
+(C) hydrogen gas
+(D) carbon monoxide
+----------------------------------------------------------------------------------------------
+[MCAS_2008_8_5690] [MAT_CHEM_ELEMVSCOMP]
+Which of the following is formed when two elements combine chemically?
+(A) an atom
+(B) a compound
+(C) an electron
+(D) a mixture
+----------------------------------------------------------------------------------------------
+[Mercury_7003938] [MAT_CHEM_ELEMVSCOMP]
+Sodium (Na) and chlorine (Cl) combine to form sodium chloride (NaCl), which is commonly known as
+(A) soap.
+(B) vinegar.
+(C) table salt.
+(D) baking soda.
+----------------------------------------------------------------------------------------------
+[MEAP_2005_8_40] [MAT_CHEM_ELEMVSCOMP]
+Which of the following is NOT a description of compounds?
+(A) They can exist in the form of atoms or molecules.
+(B) They consist of atoms of two or more elements bonded together.
+(C) They have properties that are different from their component elements.
+(D) They can be broken down into elements by chemical means but not physical means.
+----------------------------------------------------------------------------------------------
+[NAEP_2011_8_S11+2] [MAT_CHEM_ELEMVSCOMP]
+What atoms combine to make up a molecule of water? 1. 1 hydrogen, 1 oxygen 2.
+(A) hydrogen,
+(B) oxygen
+(C) 2 hydrogen, 1 oxygen
+(D) 2 hydrogen, 2 oxygen
+----------------------------------------------------------------------------------------------
+[Mercury_7024168] [MAT_CHEM_ELEMVSCOMP]
+When oxygen combines with hydrogen, which substance is formed?
+(A) water
+(B) vinegar
+(C) hydrochloric acid
+(D) hydrogen dioxide
+----------------------------------------------------------------------------------------------
+[Mercury_401993] [MAT_CHEM_ELEMVSCOMP]
+The chemical formula for water is H_{2}O. What does the formula show about each element in the compound?
+(A) the number of valence electrons
+(B) the charge of the compound
+(C) the mass of protons in each atom
+(D) the number of atoms of each element
+----------------------------------------------------------------------------------------------
+[MCAS_2009_8_8] [MAT_CHEM_ELEMVSCOMP]
+Which of the following is an example of a container that is filled with a pure substance rather than with a mixture?
+(A) a tire filled with air
+(B) a jar filled with salt water
+(C) a balloon filled with helium
+(D) a glass filled with chocolate milk
+----------------------------------------------------------------------------------------------
+[Mercury_7014123] [MAT_CHEM_ELEMVSCOMP]
+Oxygen reacts with iron to produce rust and with hydrogen to produce water. Which statement describes both reactions?
+(A) A different mixture is formed in each case.
+(B) A different solution is formed in each case.
+(C) Both a change of state and of elements is involved.
+(D) New molecules are formed but the same elements exist.
+----------------------------------------------------------------------------------------------
+[MCAS_2005_8_15] [MAT_CHEM_ELEMVSCOMP]
+Sulfur (S), oxygen (O2), water (H2O), and sodium chloride (NaCl) are all examples of pure substances. Which of the following describes all pure substances?
+(A) A pure substance consists of only one type of element.
+(B) A pure substance has a definite chemical composition.
+(C) A pure substance cannot be broken down into simpler substances.
+(D) A pure substance is normally found as a solid at room temperature.
+----------------------------------------------------------------------------------------------
+[MDSA_2007_8_54] [MAT_CHEM_ELEMVSCOMP]
+When Chemical X is added to a certain liquid, the chemical breaks into Substances Y and Z. It is not possible to break Substances Y and Z into simpler particles. Which statement is best supported by this evidence?
+(A) Chemical X is an element.
+(B) Chemical X is soluble in water.
+(C) Substances Y and Z are elements.
+(D) Substances Y and Z are compounds.
+----------------------------------------------------------------------------------------------
+[MCAS_2008_8_5713] [MAT_CHEM_ELEMVSCOMP]
+Sugar is composed of carbon, hydrogen, and oxygen. Sugar is an example of which of the following?
+(A) an atom
+(B) a compound
+(C) an electron
+(D) a mixture
+----------------------------------------------------------------------------------------------
+[Mercury_7082740] [MAT_CHEM_ELEMVSCOMP]
+When two nitrogen atoms combine, they form a
+(A) mixture.
+(B) compound.
+(C) molecule.
+(D) liquid.
+----------------------------------------------------------------------------------------------
+[Mercury_400978] [MAT_CHEM_ELEMVSCOMP]
+The element cesium, Cs, is an alkali metal. Which chemical formula represents a cesium compound that is likely to exist?
+(A) CsCl
+(B) CsCl_{2}
+(C) CsO
+(D) CsO_{2}
+----------------------------------------------------------------------------------------------
+[Mercury_7264075] [MAT_CHEM_ELEMVSCOMP, MAT_CHEM_PERIODICTAB]
+Which of these elements is likely to be found in an organic compound?
+(A) helium
+(B) hydrogen
+(C) mercury
+(D) tin
+----------------------------------------------------------------------------------------------
+[Mercury_7007980] [MAT_CHEM_ENDOEXO]
+Which reaction is endothermic?
+(A) cold pack
+(B) coal burning
+(C) striking a match
+(D) charcoal grill fire
+----------------------------------------------------------------------------------------------
+[CSZ30457] [MAT_CHEM_ENDOEXO]
+Which of the following forms of energy is released or absorbed in most chemical reactions?
+(A) light energy
+(B) electrical energy
+(C) sound energy
+(D) heat energy
+----------------------------------------------------------------------------------------------
+[Mercury_7043803] [MAT_CHEM_ENDOEXO]
+What type of chemical reaction occurs when the body breaks down fats and sugars that supply it with energy?
+(A) endothermic
+(B) exothermic
+(C) electrical
+(D) physical
+----------------------------------------------------------------------------------------------
+[Mercury_7024308] [MAT_CHEM_ENDOEXO]
+When sodium hydroxide reacts with a copper nitrate solution, the reaction vessel needs to be kept on ice to slow down the reaction. What best describes this reaction?
+(A) an exothermic reaction that absorbs energy
+(B) an exothermic reaction that releases energy
+(C) an endothermic reaction that absorbs energy
+(D) an endothermic reaction that releases energy

@@ -1,0 +1,247 @@
+T5	Force 3820 3825	force
+T7	Pressure 3034 3042	pressure
+T8	Energy 1627 1633	energy
+T10	ElectricalEnergy 4174 4184	electrical
+T11	ElectricalEnergy 3211 3218	voltage
+T15	TransferEnergy 968 975	conduct
+T36	AnimalPart 3011 3015	body
+T37	AnimalPart 2662 2666	body
+T38	AnimalPart 2753 2757	body
+T39	AnimalPart 3940 3944	body
+T41	AnimalPart 1561 1565	body
+T43	AnimalPart 2834 2838	body
+T44	AnimalPart 520 525	organ
+T45	AnimalPart 728 733	organ
+T48	AnimalPart 3436 3439	arm
+T49	AnimalPart 2599 2605	organs
+T51	AnimalPart 1322 1328	glands
+T64	Human 1886 1891	human
+T65	Human 2325 2330	human
+T66	Human 1229 1235	person
+T71	HumanPart 1892 1896	body
+T81	HumanPart 1286 1290	eyes
+T87	Cell 957 962	Cells
+T88	Cell 1039 1044	cells
+T92	Cell 1056 1061	cells
+T93	Cell 3149 3160	muscle cell
+T94	Cell 530 536	neuron
+T95	Cell 1017 1028	nerve cells
+T96	Cell 1520 1530	Nerve cell
+T97	Cell 1002 1011	skin cell
+T103	CellsAndGenetics 2788 2795	gametes
+T115	Transportation 2800 2810	conducting
+T118	PrenatalOrganismStates 2788 2795	gametes
+T120	Toxins 2716 2722	wastes
+T121	Toxins 1683 1688	waste
+T122	SubstancesProducedByPlantProcesses 3098 3106	hormones
+T123	DigestiveSystem 4247 4263	digestive system
+T124	DigestionActions 1697 1707	absorption
+T125	PartsOfTheDigestiveSystem 771 778	stomach
+T127	RespiratorySystem 260 271	respiratory
+T128	RespiratorySystem 2390 2401	respiratory
+T129	PartsOfTheRespiratorySystem 783 787	lung
+T130	ExcretorySystem 232 241	excretory
+T131	ExcretorySystem 2364 2373	excretory
+T132	ExcretorySystem 4548 4564	excretory system
+T133	PartsOfTheExcretorySystem 1049 1055	kidney
+T135	PartsOfTheExcretorySystem 3110 3114	skin
+T136	CirculatorySystem 2348 2359	circulatory
+T137	CirculatorySystem 4224 4242	circulatory system
+T138	CirculationActions 2695 2707	transporting
+T139	PartsOfTheCirculatorySystem 1309 1317	arteries
+T140	PartsOfTheCirculatorySystem 1356 1361	veins
+T141	Blood 1033 1038	blood
+T142	EndocrineSystem 246 255	endocrine
+T144	PartsOfEndocrineSystem 771 778	stomach
+T145	PartsOfEndocrineSystem 1049 1055	kidney
+T146	NervousSystem 741 755	nervous system
+T148	NervousSystem 3782 3796	nervous system
+T149	NervousSystem 4288 4302	nervous system
+T150	NervousSystem 490 504	nervous system
+T151	NervousSystem 4570 4584	nervous system
+T153	NervousSystem 220 227	nervous
+T154	NervousSystem 2378 2385	nervous
+T155	NervousSystem 1915 1937	central nervous system
+T156	NervousSystem 1980 2002	central nervous system
+T157	PartsOfTheNervousSystem 2008 2016	dendrite
+T158	PartsOfTheNervousSystem 3179 3193	sensory neuron
+T159	PartsOfTheNervousSystem 3480 3494	sensory neuron
+T160	PartsOfTheNervousSystem 3535 3557	mechanoreceptor neuron
+T161	PartsOfTheNervousSystem 530 536	neuron
+T162	PartsOfTheNervousSystem 172 183	spinal cord
+T163	PartsOfTheNervousSystem 541 552	spinal cord
+T164	PartsOfTheNervousSystem 2049 2060	spinal cord
+T165	PartsOfTheNervousSystem 2571 2582	spinal cord
+T166	PartsOfTheNervousSystem 3927 3932	brain
+T167	PartsOfTheNervousSystem 4500 4505	brain
+T168	PartsOfTheNervousSystem 1298 1303	brain
+T169	PartsOfTheNervousSystem 761 766	brain
+T170	PartsOfTheNervousSystem 162 167	brain
+T171	PartsOfTheNervousSystem 2564 2569	brain
+T172	PartsOfTheNervousSystem 510 515	brain
+T173	PartsOfTheNervousSystem 3411 3416	brain
+T174	PartsOfTheNervousSystem 1345 1351	nerves
+T175	PartsOfTheNervousSystem 1958 1964	nerves
+T176	PartsOfTheNervousSystem 2588 2594	nerves
+T177	PartsOfTheNervousSystem 1017 1028	nerve cells
+T178	PartsOfTheNervousSystem 1520 1530	Nerve cell
+T179	PartsOfTheNervousSystem 2034 2044	cerebellum
+T185	PartsOfTheNervousSystem 3517 3529	motor neuron
+T186	PartsOfTheNervousSystem 3761 3773	motor neuron
+T187	PartsOfTheNervousSystem 3222 3234	interneurons
+T188	PartsOfTheNervousSystem 3500 3512	interneurons
+T189	MuscularSystem 4268 4283	muscular system
+T190	MuscularSystem 2262 2277	muscular system
+T191	PartsOfTheMuscularSystem 1333 1340	muscles
+T192	PartsOfTheMuscularSystem 3983 3990	muscles
+T193	PartsOfTheMuscularSystem 3149 3160	muscle cell
+T194	PartsOfTheMuscularSystem 2021 2029	cerebrum
+T195	PartsOfTheMuscularSystem 2034 2044	cerebellum
+T196	PartsOfTheMuscularSystem 3422 3428	muscle
+T197	IntegumentarySystem 4611 4631	integumentary system
+T198	PartsOfTheIntegumentarySystem 1002 1011	skin cell
+T199	PartsOfTheIntegumentarySystem 3110 3114	skin
+T200	SkeletalSystem 3833 3848	skeletal system
+T201	SkeletalSystem 4590 4605	skeletal system
+T202	SkeletalSystem 2249 2257	skeletal
+T203	PartsOfTheSkeletalSystem 792 796	bone
+T206	Sickness 4483 4492	infection
+T207	TypesOfIllness 4461 4467	Rabies
+T208	Nutrition 1711 1720	nutrients
+T209	Nutrition 2728 2737	nutrients
+T210	NutritiveSubstancesForAnimalsOrPlants 3141 3144	fat
+T212	ActionsForNutrition 1697 1707	absorption
+T241	Gender 2781 2787	female
+T242	Gender 2772 2776	male
+T244	PhysicalProperty 3131 3137	volume
+T246	Size 443 451	smallest
+T248	Size 3131 3137	volume
+T252	Quality 1566 1570	best
+T254	Complexity 3067 3073	direct
+T256	Complexity 3952 3960	directly
+T257	Complexity 4512 4520	directly
+T272	GenericTerms 1241 1250	something
+T275	Element 2708 2714	oxygen
+T277	GaseousMatter 1654 1659	gases
+T289	TransferEnergy 1615 1623	transfer
+T290	CombineAdd 3814 3819	apply
+T291	ActUponSomething 2230 2241	interaction
+T295	ActUponSomething 1642 1650	exchange
+T301	Classify 989 994	known
+T302	Alter 3119 3127	changing
+T303	Alter 3199 3207	changing
+T304	Collect 3856 3862	gather
+T306	CombineAdd 1947 1951	with
+T307	Communicate 976 984	messages
+T308	Communicate 1545 1553	messages
+T309	Communicate 2811 2819	messages
+T310	Communicate 3909 3917	messages
+T311	Communicate 4185 4192	signals
+T312	Communicate 3166 3175	signaling
+T313	Communicate 1269 1276	message
+T314	Communicate 3395 3401	signal
+T315	Create 2282 2289	produce
+T316	Create 2762 2771	producing
+T318	Help 2647 2657	supporting
+T319	Help 2671 2679	enabling
+T320	Identify 3027 3033	detect
+T321	Indicate 4185 4192	signals
+T322	Indicate 3166 3175	signaling
+T323	Indicate 3395 3401	signal
+T324	Move 2686 2690	move
+T326	Move 2290 2300	locomotion
+T328	Transportation 4168 4173	sends
+T329	Transportation 1257 1264	carries
+T330	Transportation 1642 1650	exchange
+T331	Transportation 2695 2707	transporting
+T335	Transportation 3900 3908	transmit
+T336	Transportation 1532 1544	transmitting
+T337	Transportation 3443 3454	transmitted
+T338	Observe 1236 1240	sees
+T339	Permit 2671 2679	enabling
+T340	PerformAnActivity 1571 1582	demonstrate
+T342	PerformAnActivity 2304 2315	coordinated
+T346	PerformAnActivity 2823 2833	coordinate
+T347	PerformAnActivity 2611 2618	perform
+T350	Release 3085 3094	releasing
+T353	StopRemove 1668 1677	eliminati
+T354	Touch 1938 1946	connects
+T355	Cause 4472 4479	lead to
+T358	Position 2647 2657	supporting
+T359	ActUponSomething 3961 3968	control
+T360	WordsForData 3863 3874	information
+T361	RelativeDirection 2738 2748	throughout
+T363	RelativeTime 1222 1226	When
+T364	RelativeLocations 1879 1881	In
+T365	RelativeLocations 3429 3431	in
+T366	RelativeLocations 3775 3777	in
+T367	RelativeLocations 4537 4539	in
+T368	RelativeLocations 3219 3221	in
+T369	RelativeLocations 3107 3109	in
+T371	RelativeLocations 1965 1972	outside
+T372	RelativeLocations 3043 3045	on
+T373	Cause 2316 2318	by
+T374	Cause 3058 3060	by
+T375	Cause 3176 3178	by
+T376	Cause 3455 3457	by
+T377	RelativeDirection 1554 1556	to
+T378	RelativeDirection 3417 3419	to
+T379	RelativeDirection 3826 3828	to
+T381	RelativeDirection 1291 1293	to
+T390	RelativeDirection 4193 4195	to
+T391	RelativeDirection 3933 3935	to
+T393	RelativeDirection 1277 1281	from
+T394	RelativeDirection 3402 3406	from
+T395	RelativeDirection 3918 3922	from
+T396	RelativeDirection 3805 3813	directly
+T401	Comparisons 1952 1957	other
+T402	Comparisons 4200 4205	other
+T403	QualityComparison 1566 1570	best
+T407	ImportanceComparison 722 727	major
+T408	ImportanceComparison 1589 1596	primary
+T409	ImportanceComparison 2625 2632	primary
+T412	AbilityAvailability 3019 3023	able
+T413	AbilityAvailability 4468 4471	can
+T414	Relations 2230 2241	interaction
+T434	SystemAndFunctions 1597 1605	function
+T435	SystemAndFunctions 2633 2641	function
+T436	SystemAndFunctions 3745 3753	function
+T437	SystemAndFunctions 2839 2848	functions
+T438	SystemAndFunctions 467 477	functional
+T439	SystemParts 3464 3474	structures
+T440	SystemParts 452 462	structural
+T441	SystemParts 478 482	unit
+T485	Actions 3973 3979	action
+T497	ObjectPart 3050 3057	surface
+T499	ObjectPart 1903 1907	part
+T500	ObjectPart 188 193	parts
+T508	Cause 4521 4527	causes
+T509	Cause 3885 3893	stimuli
+T529	Method 3074 3079	means
+T530	Relevant 3875 3880	about
+T531	LevelOfInclusion 4196 4199	all
+T532	LevelOfInclusion 3717 3722	Which
+T533	LevelOfInclusion 3061 3066	which
+T534	LevelOfInclusion 197 202	which
+T535	LevelOfInclusion 711 716	Which
+T536	LevelOfInclusion 3458 3463	which
+T537	LevelOfInclusion 2319 2324	which
+T538	LevelOfInclusion 1583 1588	which
+T539	LevelOfInclusion 4150 4155	Which
+T540	LevelOfInclusion 2619 2624	which
+T543	Problem 4528 4536	problems
+T23	StateOfBeing 184 187	are
+T40	AnimalSystemsProcesses 203 214	body system
+T56	StateOfBeing 436 438	is
+T76	Comparisons 443 451	smallest
+T3	StateOfBeing 717 719	is
+T22	StateOfBeing 985 988	are
+T9	StateOfBeing 2301 2303	is
+T13	AnimalSystemsProcesses 2331 2342	body system
+T17	StateOfBeing 2595 2598	are
+T4	StateOfBeing 3016 3018	is
+T1	StateOfBeing 3440 3442	is
+T2	LevelOfInclusion 3726 3739	the following
+T6	StateOfBeing 3740 3742	is
+T12	AnimalSystemsProcesses 4156 4167	body system
+T14	AnimalSystemsProcesses 4206 4218	body systems

@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[MCAS_1998_4_25] [MAT_COS_EVAP]
+At 10 A.M. the Sun is shining on a puddle of water on the road. At 2 P.M. the Sun is still shining and the puddle has disappeared. What happened to the water?
+(A) It rained.
+(B) It condensed.
+(C) It evaporated.
+(D) It froze.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_4] [MAT_COS_EVAP, MAT_CONDENSING]
+In which way are evaporation and condensation similar?
+(A) Both cause decreases in air temperature.
+(B) Both cause increases in air temperature.
+(C) Both are caused by the warming of the atmosphere.
+(D) Both are caused by changes in heat energy.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400200] [MAT_COS_EVAP, MAT_COS_TEMP]
+At what temperature is water most likely to be in vapor form?
+(A) -10°C
+(B) 20°C
+(C) 90°C
+(D) 120°C
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_8_36] [MAT_COS_EVAP, MAT_COS_TEMP]
+Water at 20°C in an uncovered pan is evaporating very slowly. What could be done to the water to make it evaporate more quickly?
+(A) Cover it.
+(B) Heat it.
+(C) Place it in the dark.
+(D) Put salt in it.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401223] [MAT_COS_EVAP, MAT_MIXTURES_COMPOUNDS]
+A shallow container of salt water is placed in sunlight for a day. Which is the most likely result?
+(A) All of the mixture will evaporate.
+(B) The salt will keep the water from evaporating.
+(C) The salt will separate from the water and float at the top of the container.
+(D) Only the water will evaporate and the salt will remain in the container.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2004_4_3] [MAT_COS_FREEZING]
+Water freezing is an example of a
+(A) liquid changing to a solid
+(B) solid changing to a liquid
+(C) gas changing to a solid
+(D) gas changing to a liquid
+----------------------------------------------------------------------------------------------
+[MEAP_2005_5_38] [MAT_COS_FREEZING]
+As an airplane climbs in the sky, the pilot notices ice crystals forming on the windshield. This happens because
+(A) blizzards occur more often at higher altitudes.
+(B) friction with the atmosphere causes ice to develop.
+(C) water evaporates faster at higher altitudes, resulting in ice crystals.
+(D) moisture on the outside of the plane freezes due to colder air at higher altitudes.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402615] [MAT_COS_FREEZING]
+What happens to the physical state of water when it freezes?
+(A) expands
+(B) contracts
+(C) changes color
+(D) becomes warm
+----------------------------------------------------------------------------------------------
+[MCAS_2007_5_4772] [MAT_COS_FREEZING]
+Delilah put a container of water in the freezer and left it there overnight. The next morning she saw that the water in the container had changed to ice. Which of the following statements best explains why the water changed to ice?
+(A) The water gained energy.
+(B) The water absorbed light.
+(C) Mass was released from the water.
+(D) Heat was taken away from the water.
+----------------------------------------------------------------------------------------------
+[Mercury_7205118] [MAT_COS_FREEZING]
+Which change in the state of water particles causes the particles to become arranged in a fixed position?
+(A) boiling
+(B) melting
+(C) freezing
+(D) evaporating
+----------------------------------------------------------------------------------------------
+[CSZ30112] [MAT_COS_FREEZING]
+As a sample of water turns to ice,
+(A) new molecules are formed.
+(B) the mass of the sample is increased.
+(C) the arrangement of the molecules changes.
+(D) energy is absorbed by the molecules.
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5171] [MAT_COS_FREEZING]
+Laura adds 50 mL of boiling water to 100 mL of ice water. If the 150 mL of water is then put into a freezer, at what temperature will the water freeze?
+(A) 0°C
+(B) 15°C
+(C) 37°C
+(D) 50°C
+----------------------------------------------------------------------------------------------
+[Mercury_7037695] [MAT_COS_FREEZING]
+Which action is an example of an exothermic process?
+(A) baking bread
+(B) cooking an egg
+(C) making ice cubes
+(D) evaporation of water
+----------------------------------------------------------------------------------------------
+[MEA_2010_8_11] [MAT_COS_FREEZING]
+When the motion of liquid water molecules slows, what most likely happens?
+(A) The liquid water forms a solid.
+(B) The liquid water condenses.
+(C) The liquid water undergoes a chemical change.
+(D) The liquid water becomes a vapor.
+----------------------------------------------------------------------------------------------
+[Mercury_7213378] [MAT_COS_FREEZING]
+A sample of sulfur forms crystals when it
+(A) melts.
+(B) freezes.
+(C) evaporates.
+(D) condenses.
+----------------------------------------------------------------------------------------------
+[Mercury_7085820] [MAT_COS_FREEZING]
+As water starts to freeze, the molecules of water
+(A) gain thermal energy.
+(B) move more freely.
+(C) increase in size.
+(D) decrease in speed.
+----------------------------------------------------------------------------------------------
+[Mercury_7205958] [MAT_COS_FREEZING, EARTH_WEATHER_ERO_WEATHERING]
+Water is a very important part of the physical weathering of rock. Which of these properties of water is most important in causing some of the physical weathering of rock?
+(A) Water is a liquid at room temperature.
+(B) Water can contain different minerals.
+(C) Water expands when it freezes.
+(D) Water dissolves many chemicals.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_413300] [MAT_COS_FREEZING, MAT_COS_TEMP]
+The temperature of water in a glass changes from 5°C to -1°C. How will the water most likely change?
+(A) It will boil.
+(B) It will melt.
+(C) It will freeze.
+(D) It will condense.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415079] [MAT_COS_FREEZING, MAT_COS_TEMP]
+How can you make liquid water become solid?
+(A) Put the water in a very cold place.
+(B) Heat the water on the stove.
+(C) Shake the water container very fast.
+(D) Add a lot of salt to the water.
+----------------------------------------------------------------------------------------------
+[Mercury_7082688] [MAT_COS_FREEZING, MAT_COS_TEMP]
+As water cools to a temperature of zero degrees Celsius and forms ice, water molecules tend to
+(A) move farther apart.
+(B) vibrate rapidly.
+(C) flow more randomly.
+(D) gradually expand.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_414080] [MAT_COS_FREEZING, MAT_STATES_SOLID]
+A student poured water into a plastic tray. The student then put the tray into the freezer. What property of the water changed as the water froze?
+(A) The water became a gas.
+(B) The mass of water increased.
+(C) The water took a definite shape.
+(D) The flavor of the water changed.
+----------------------------------------------------------------------------------------------
+[MCAS_2013_5_29405] [MAT_COS_FREEZING, MAT_STATES_SOLID]
+A student freezes some orange juice. Which of the following statements best describes how the orange juice is different after it is frozen?
+(A) It is a liquid.
+(B) It weighs more.
+(C) It stays in one shape.
+(D) It takes up less space.
+----------------------------------------------------------------------------------------------
+[VASoL_2008_3_17] [MAT_COS_MELTING]
+An ice cube placed in sunlight melts quickly. Which BEST explains this event?
+(A) The Sun is far away.
+(B) The Sun makes heat.
+(C) The ice cube is a solid.
+(D) The ice cube looks clear.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_4_4] [MAT_COS_MELTING]
+When an ice cube melts, its state of matter changes from a
+(A) gas to a liquid
+(B) solid to a liquid
+(C) liquid to a solid
+(D) solid to a gas
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10244] [MAT_COS_MELTING]
+Which list gives the correct order of substances from the lowest melting point to the highest?
+(A) oxygen, water, iron
+(B) water, iron, oxygen
+(C) oxygen, iron, water
+(D) iron, oxygen, water

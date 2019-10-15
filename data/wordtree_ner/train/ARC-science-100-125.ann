@@ -1,0 +1,706 @@
+T1	CelestialObject 4377 4393	celestial object
+T2	Asteroid 7578 7589	Kuiper Belt
+T3	Asteroid 8118 8129	Kuiper Belt
+T4	Asteroid 7881 7889	asteroid
+T5	Asteroid 8216 8224	asteroid
+T6	Asteroid 8467 8476	Asteroids
+T7	Asteroid 8441 8450	asteroids
+T8	Asteroid 8612 8621	asteroids
+T9	Asteroid 8516 8525	Asteroids
+T10	Asteroid 8570 8579	asteroids
+T12	BlackHole 7232 7242	black hole
+T13	BlackHole 7132 7156	super-massive black hole
+T14	Comet 8494 8500	comets
+T15	Comet 8455 8461	comets
+T16	Comet 8626 8632	comets
+T17	Comet 8541 8547	comets
+T18	Comet 8584 8590	comets
+T19	Comet 8805 8819	Shoemaker-Levy
+T20	Comet 8880 8885	comet
+T21	Comet 8799 8804	comet
+T22	Comet 7911 7916	comet
+T23	Comet 8231 8236	comet
+T24	Constellation 4114 4124	Big Dipper
+T28	Constellation 4132 4145	Little Dipper
+T29	Galaxy 1385 1394	Milky Way
+T30	Galaxy 1473 1482	Milky Way
+T31	Galaxy 5482 5491	Milky Way
+T32	Galaxy 1411 1417	galaxy
+T33	Galaxy 4030 4036	galaxy
+T34	Galaxy 4563 4569	galaxy
+T35	Galaxy 3330 3336	galaxy
+T36	Galaxy 4020 4026	galaxy
+T37	Galaxy 7195 7201	galaxy
+T38	Galaxy 7202 7205	M87
+T46	Light 9004 9009	light
+T48	Light 3201 3206	light
+T51	Light 1733 1738	light
+T54	Light 3160 3165	light
+T62	Light 5574 5579	light
+T63	Meteor 7897 7903	meteor
+T64	Meteor 8243 8249	meteor
+T65	Moon 6482 6486	Moon
+T66	Moon 1306 1310	Moon
+T67	Moon 662 666	Moon
+T68	Moon 259 263	Moon
+T69	Moon 4505 4509	Moon
+T70	Moon 223 227	Moon
+T71	Moon 6782 6786	Moon
+T72	LunarPhases 6469 6474	phase
+T73	LunarPhases 6525 6529	full
+T74	LunarPhases 6542 6549	quarter
+T75	LunarPhases 6534 6537	new
+T76	LunarPhases 6554 6562	crescent
+T77	Nebula 7313 7319	nebula
+T78	Planet 7866 7872	planet
+T79	Planet 8831 8837	planet
+T80	Planet 6262 6268	planet
+T81	Planet 8897 8903	planet
+T82	Planet 6294 6300	planet
+T83	Planet 5518 5525	planets
+T84	Planet 4595 4602	planets
+T86	Planet 2421 2428	planets
+T87	Planet 7392 7399	planets
+T89	Planet 6221 6230	planetary
+T90	Planet 6240 6249	planetary
+T91	InnerPlanets 2530 2534	Mars
+T92	InnerPlanets 4056 4063	Mercury
+T93	InnerPlanets 685 690	inner
+T94	InnerPlanets 6819 6824	Earth
+T95	InnerPlanets 196 201	Earth
+T96	InnerPlanets 4514 4519	Earth
+T97	InnerPlanets 5787 5792	Earth
+T98	InnerPlanets 1677 1682	Earth
+T99	InnerPlanets 5098 5103	Earth
+T100	InnerPlanets 1794 1799	Earth
+T101	InnerPlanets 1964 1969	Earth
+T102	InnerPlanets 1292 1297	Earth
+T103	InnerPlanets 2561 2566	Earth
+T104	InnerPlanets 6756 6761	Earth
+T105	InnerPlanets 245 250	Earth
+T106	InnerPlanets 1630 1635	Earth
+T107	InnerPlanets 2665 2670	Earth
+T108	InnerPlanets 648 653	Earth
+T109	InnerPlanets 5871 5876	Earth
+T110	InnerPlanets 8148 8153	Earth
+T111	InnerPlanets 671 676	Earth
+T112	InnerPlanets 6867 6872	Earth
+T113	InnerPlanets 3911 3916	Earth
+T114	InnerPlanets 6903 6908	Earth
+T115	InnerPlanets 4474 4479	Earth
+T116	InnerPlanets 6842 6847	Earth
+T117	OuterPlanets 1336 1343	Jupiter
+T118	OuterPlanets 2616 2623	Jupiter
+T119	OuterPlanets 8838 8845	Jupiter
+T120	OuterPlanets 695 707	outer planet
+T121	OuterPlanets 2653 2659	Uranus
+T122	OuterPlanets 2572 2579	Neptune
+T123	OuterPlanets 4046 4052	Saturn
+T126	PlanetParts 6271 6275	core
+T127	SolarSystem 2365 2377	solar system
+T128	SolarSystem 3628 3640	solar system
+T129	SolarSystem 4615 4627	solar system
+T130	SolarSystem 5114 5126	solar system
+T135	Star 5469 5474	stars
+T136	Star 4824 4829	stars
+T137	Star 937 942	stars
+T138	Star 3269 3274	stars
+T139	Star 4545 4550	stars
+T140	Star 2892 2897	stars
+T141	Star 2644 2647	Sun
+T142	Star 2607 2610	Sun
+T143	Star 2552 2555	Sun
+T144	Star 1447 1450	Sun
+T145	Star 2705 2708	Sun
+T146	Star 4466 4469	Sun
+T147	Star 7806 7809	Sun
+T148	Star 5747 5750	Sun
+T149	Star 3306 3309	Sun
+T150	Star 3925 3928	Sun
+T151	Star 4077 4080	Sun
+T152	Star 236 239	Sun
+T153	Star 6321 6324	Sun
+T154	Star 640 643	Sun
+T155	Star 717 720	Sun
+T156	Star 2458 2461	Sun
+T157	Star 1807 1810	Sun
+T158	Star 5864 5867	Sun
+T159	Star 8162 8165	Sun
+T160	Star 273 276	Sun
+T161	Star 210 213	Sun
+T162	Star 1352 1355	Sun
+T163	Star 1977 1980	Sun
+T164	Star 4084 4100	Proxima Centauri
+T165	Star 8256 8260	star
+T166	Star 293 297	star
+T167	Star 7281 7285	star
+T168	Star 737 741	star
+T169	Star 7352 7356	star
+T171	StarTypes 4850 4857	quasars
+T173	TheUniverseUniverseAndItsParts 523 528	space
+T174	TheUniverseUniverseAndItsParts 3177 3182	space
+T175	TheUniverseUniverseAndItsParts 5135 5143	universe
+T176	TheUniverseUniverseAndItsParts 5422 5430	universe
+T177	TheUniverseUniverseAndItsParts 5600 5608	universe
+T179	EclipseEvents 6495 6508	solar eclipse
+T181	EclipseEvents 6766 6774	eclipses
+T182	Gravity 7294 7301	gravity
+T184	Energy 8939 8953	kinetic energy
+T185	Energy 8955 8969	Kinetic energy
+T190	ThermalEnergy 9030 9044	thermal energy
+T193	ElectricalEnergy 9050 9072	electromagnetic energy
+T195	MagneticEnergy 9050 9072	electromagnetic energy
+T196	ThermalEnergy 9015 9024	radiation
+T198	TransferEnergy 8985 8994	converted
+T199	ElectromagneticSpectrum 4877 4890	visible light
+T200	LivingThing 6857 6861	life
+T203	Human 6154 6163	scientist
+T205	Human 5538 5543	their
+T206	Human 890 900	scientists
+T207	Human 2027 2037	scientists
+T208	Human 3098 3108	Scientists
+T209	Human 8052 8062	Scientists
+T210	Human 2310 2315	Helen
+T216	Death 7261 7266	death
+T217	Death 7328 7336	collapse
+T222	Measurements 4788 4795	measure
+T223	Measurements 4293 4300	measure
+T224	Measurements 5072 5079	measure
+T225	Measurements 908 915	measure
+T227	Measurements 507 519	measurements
+T231	Measurements 5350 5361	measurement
+T232	Measurements 4416 4424	measured
+T233	CelestialMeasurements 1003 1021	apparent magnitude
+T234	CelestialMeasurements 4863 4871	parallax
+T236	MeasuringSpeed 5404 5408	rate
+T237	MeasuringSpeed 5798 5812	speed of light
+T239	MeasuringSpeed 3155 3159	fast
+T241	MeasuringSpeed 5559 5564	speed
+T242	Unit 1246 1265	unit of measurement
+T243	Unit 3559 3578	unit of measurement
+T245	Unit 4328 4333	units
+T250	Unit 5064 5068	unit
+T255	Unit 3935 3939	unit
+T256	Unit 2851 2855	unit
+T259	Unit 882 886	unit
+T261	DistanceUnit 591 609	astronomical units
+T262	DistanceUnit 2944 2962	astronomical units
+T263	DistanceUnit 5190 5208	astronomical units
+T264	DistanceUnit 3681 3691	light year
+T265	DistanceUnit 3123 3133	light year
+T266	DistanceUnit 948 958	light-year
+T267	DistanceUnit 2101 2111	light-year
+T268	DistanceUnit 1230 1240	light-year
+T269	DistanceUnit 2587 2597	light-year
+T270	DistanceUnit 2903 2908	miles
+T271	DistanceUnit 5149 5154	miles
+T272	DistanceUnit 138 155	astronomical unit
+T273	DistanceUnit 981 998	astronomical unit
+T274	DistanceUnit 3857 3874	astronomical unit
+T275	DistanceUnit 2121 2138	astronomical unit
+T276	DistanceUnit 3700 3717	astronomical unit
+T277	DistanceUnit 2678 2695	astronomical unit
+T278	DistanceUnit 2913 2923	kilometers
+T279	DistanceUnit 5159 5169	kilometers
+T280	DistanceUnit 3650 3654	mile
+T281	DistanceUnit 157 159	AU
+T282	DistanceUnit 611 613	AU
+T283	DistanceUnit 2140 2142	AU
+T284	DistanceUnit 5903 5916	light-seconds
+T285	DistanceUnit 5925 5938	light-seconds
+T286	DistanceUnit 5984 5997	light-seconds
+T287	DistanceUnit 5880 5893	light-seconds
+T288	DistanceUnit 5955 5968	light-seconds
+T290	DistanceUnit 3663 3672	kilometer
+T291	DistanceUnit 963 976	angstrom unit
+T292	DistanceUnit 2113 2115	ly
+T293	DistanceUnit 1695 1697	km
+T294	DistanceUnit 1713 1715	km
+T295	DistanceUnit 2002 2004	km
+T296	DistanceUnit 5779 5781	km
+T297	DistanceUnit 5383 5394	light-years
+T298	DistanceUnit 1660 1671	light years
+T299	DistanceUnit 4428 4439	light years
+T300	DistanceUnit 5174 5185	light years
+T301	DistanceUnit 4341 4352	light years
+T302	DistanceUnit 2928 2939	light years
+T304	TimeUnit 1756 1761	years
+T317	TimeUnit 6200 6214	planetary year
+T318	TimeUnit 3222 3226	year
+T328	SpeedUnit 2073 2090	meters per second
+T329	SpeedUnit 2092 2095	m/s
+T330	ElectricalUnit 2148 2168	electromagnetic unit
+T343	Calculations 8923 8926	net
+T348	PerformingResearch 4788 4795	measure
+T349	PerformingResearch 4293 4300	measure
+T350	Examine 5072 5079	measure
+T357	PerformingResearch 4416 4424	measured
+T358	LightExaminingTool 4896 4909	spectrographs
+T375	Temperature 6276 6287	temperature
+T378	Temperature 7618 7621	hot
+T380	Composition 7595 7603	metallic
+T381	Composition 7626 7629	icy
+T382	Composition 8072 8075	icy
+T384	Composition 7608 7613	rocky
+T385	Mass 6231 6235	mass
+T386	Mass 7276 7280	mass
+T387	Mass 7347 7351	mass
+T413	Distance 4301 4310	distances
+T414	Distance 5080 5089	distances
+T415	Distance 3607 3616	distances
+T416	Distance 2874 2883	distances
+T417	Distance 2439 2448	distances
+T418	Distance 1950 1958	distance
+T419	Distance 1426 1434	distance
+T420	Distance 1275 1283	distance
+T421	Distance 1724 1732	distance
+T422	Distance 4524 4532	distance
+T423	Distance 1319 1327	distance
+T424	Distance 5846 5854	distance
+T425	Distance 920 928	distance
+T426	Distance 1163 1171	distance
+T427	Distance 6303 6311	distance
+T428	Distance 3890 3898	distance
+T429	Distance 4445 4453	distance
+T430	Distance 3192 3200	distance
+T431	Distance 1364 1372	distance
+T432	Distance 3975 3983	distance
+T433	Distance 5452 5460	distance
+T434	Distance 4360 4368	distance
+T435	Distance 1780 1788	distance
+T436	Distance 4800 4808	distance
+T437	Distance 175 183	distance
+T438	Distance 4574 4582	distance
+T439	Distance 4484 4492	distance
+T440	Distance 2059 2067	distance
+T441	Shape 7184 7194	elliptical
+T442	Shape 7816 7826	elliptical
+T443	Size 7178 7183	giant
+T444	Size 1179 1187	smallest
+T450	Size 3246 3255	diameters
+T451	Size 3236 3241	large
+T453	Size 7307 7312	large
+T456	Texture 7608 7613	rocky
+T460	Quality 5059 5063	best
+T461	Quality 5365 5369	best
+T462	Quality 7539 7543	best
+T465	Quality 1209 1218	practical
+T466	Quality 3513 3519	useful
+T468	Speed 3155 3159	fast
+T471	VisualProperty 6703 6714	appearances
+T475	Color 6250 6255	color
+T478	TemporalProperty 8974 8984	ultimately
+T479	PropertyOfMotion 5404 5408	rate
+T480	PropertyOfMotion 5559 5564	speed
+T492	PhysicalProperty 6879 6886	layered
+T496	CardinalNumber 3998 4001	two
+T497	CardinalNumber 4541 4544	two
+T498	CardinalNumber 4591 4594	two
+T505	CardinalNumber 1753 1755	10
+T508	CardinalNumber 1657 1659	10
+T519	CardinalNumber 2583 2586	one
+T520	CardinalNumber 2674 2677	one
+T521	CardinalNumber 3218 3221	one
+T522	CardinalNumber 3853 3856	One
+T523	ArithmeticMeasure 1766 1775	ten times
+T530	RelativeNumber 7272 7275	low
+T534	RelativeNumber 7342 7346	high
+T535	Calculations 5772 5773	x
+T536	Calculations 5820 5821	x
+T537	Calculations 5947 5948	x
+T538	Calculations 5977 5978	x
+T541	Calculations 5500 5504	time
+T542	Calculations 3882 3889	average
+T543	EarthPartsGrossGroundAtmosphere 6745 6752	surface
+T544	EarthPartsGrossGroundAtmosphere 6887 6897	atmosphere
+T609	Sky 6732 6735	sky
+T611	Matter 7378 7386	material
+T640	PhasesOfWater 6932 6937	water
+T641	PhasesOfWater 7786 7789	ice
+T642	StateOfMatter 8505 8510	solid
+T643	StateOfMatter 8530 8535	solid
+T644	StateOfMatter 8481 8488	gaseous
+T645	StateOfMatter 8552 8559	gaseous
+T646	StateOfMatter 8637 8644	gaseous
+T647	StateOfMatter 8595 8601	solids
+T648	SolidMatter 7786 7789	ice
+T649	LiquidMatter 6932 6937	water
+T651	Changes 6694 6702	changing
+T656	AmountChangingActions 5508 5513	takes
+T658	Believe 7215 7222	thought
+T659	ChangeInto 8995 8999	into
+T661	ChangeInto 8985 8994	converted
+T662	Classify 8197 8207	classified
+T663	Classify 4334 4340	called
+T664	Choose 620 630	determined
+T665	ContainBeComposedOf 6912 6919	covered
+T666	CombineAdd 6927 6931	with
+T667	ContainBeComposedOf 8083 8087	with
+T668	CombineAdd 2489 2496	include
+T669	CombineAdd 2383 2391	includes
+T670	CombineAdd 7365 7374	combining
+T673	Communicate 552 561	referring
+T674	Communicate 489 498	discussed
+T676	Communicate 443 455	presentation
+T677	Communicate 2331 2343	presentation
+T678	Communicate 2512 2524	presentation
+T681	ContainBeComposedOf 6873 6876	has
+T682	ContainBeComposedOf 7767 7775	composed
+T684	Create 6792 6800	provided
+T685	Create 2319 2328	preparing
+T688	Create 7247 7251	form
+T691	Examine 8063 8068	track
+T694	Help 6848 6856	supports
+T695	Identify 620 630	determined
+T696	Identify 7094 7099	found
+T698	IncreaseDecrease 8927 8935	decrease
+T707	CelestialMovement 3313 3317	move
+T708	CelestialMovement 7562 7570	orbiting
+T709	CelestialMovement 7793 7801	orbiting
+T710	CelestialMovement 8091 8096	orbit
+T711	CelestialMovement 5544 5550	orbits
+T716	LightMovement 3166 3173	travels
+T717	LightMovement 3207 3214	travels
+T718	LightMovement 5580 5587	travels
+T719	LightMovement 1743 1749	travel
+T721	Occur 6509 6519	take place
+T722	Occur 7117 7126	existence
+T723	Represent 5370 5379	expressed
+T724	PerformAnActivity 887 889	do
+T725	PerformAnActivity 2024 2026	do
+T727	PerformAnActivity 6171 6177	trying
+T728	Represent 161 167	refers
+T729	Represent 3962 3970	describe
+T730	Represent 3138 3146	describe
+T731	Represent 2045 2053	describe
+T733	Represent 7544 7553	describes
+T734	Represent 8431 8440	describes
+T736	Require 3296 3301	takes
+T737	Require 5508 5513	takes
+T739	Succeed 5529 5537	complete
+T740	Touch 8886 8894	striking
+T741	Touch 8820 8826	struck
+T745	Uptake 5508 5513	takes
+T746	Use 2859 2863	used
+T747	Use 3587 3591	used
+T748	Use 3954 3958	used
+T749	Use 4311 4316	using
+T750	Use 1222 1225	use
+T751	Use 4842 4845	use
+T752	Use 901 904	use
+T753	Use 6164 6167	use
+T754	Use 2038 2041	use
+T755	Use 3109 3112	use
+T756	Hypothesizing 7215 7222	thought
+T758	Measurements 2867 2873	record
+T760	AnalyzingResearch 8197 8207	classified
+T761	AnalyzingResearch 3597 3606	comparing
+T763	ContainBeComposedOf 6848 6856	supports
+T764	ConcludingResearch 6801 6809	evidence
+T765	ConcludingResearch 7100 7108	evidence
+T766	ConcludingResearch 443 455	presentation
+T767	ConcludingResearch 2331 2343	presentation
+T768	ConcludingResearch 2512 2524	presentation
+T769	ResponseType 2392 2397	facts
+T770	ResponseType 3117 3121	term
+T771	ResponseType 2469 2478	statement
+T772	ResponseType 8421 8430	statement
+T773	WordsForData 6801 6809	evidence
+T774	WordsForData 7100 7108	evidence
+T775	Communicate 574 580	talked
+T777	MarkersOfTime 3288 3292	time
+T778	MarkersOfTime 5500 5504	time
+T779	TimesOfDayDayNight 6722 6731	nighttime
+T801	RelativeTime 434 440	During
+T802	RelativeTime 6456 6462	During
+T803	RelativeTime 565 569	when
+T804	RelativeTime 3592 3596	when
+T805	RelativeTime 4763 4767	When
+T806	Months 8849 8853	July
+T827	YearNumerals 8857 8861	1994
+T843	Frequency 3948 3953	often
+T844	Frequency 4836 4841	often
+T847	Frequency 5500 5504	time
+T848	Event 3528 3535	setting
+T851	RelativeTime 1750 1752	in
+T852	RelativeLocations 4603 4605	in
+T853	RelativeLocations 3542 3544	in
+T854	RelativeLocations 4551 4553	in
+T856	RelativeLocations 5475 5477	in
+T857	StateOfBeing 4425 4427	in
+T858	StateOfBeing 5380 5382	in
+T859	RelativeLocations 2497 2499	in
+T860	RelativeTime 3215 3217	in
+T861	RelativeTime 8846 8848	in
+T862	RelativeLocations 2358 2360	in
+T863	RelativeDirection 7810 7812	in
+T864	RelativeLocations 520 522	in
+T865	RelativeLocations 7571 7573	in
+T867	RelativeLocations 3174 3176	in
+T868	RelativeLocations 3520 3522	in
+T869	RelativeLocations 7157 7159	in
+T870	RelativeLocations 5128 5130	in
+T871	StateOfBeing 5877 5879	in
+T872	RelativeLocations 3617 3623	within
+T877	RelativeLocations 184 191	between
+T878	RelativeLocations 5461 5468	between
+T879	RelativeLocations 4583 4590	between
+T880	RelativeLocations 1373 1380	between
+T881	RelativeLocations 4454 4461	between
+T882	RelativeLocations 2884 2891	between
+T883	RelativeLocations 3899 3906	between
+T884	RelativeLocations 3984 3991	between
+T885	RelativeLocations 4493 4500	between
+T886	RelativeLocations 1328 1335	between
+T887	RelativeLocations 5090 5097	between
+T888	RelativeLocations 4369 4376	between
+T889	RelativeLocations 1435 1442	between
+T890	RelativeLocations 1284 1291	between
+T891	RelativeLocations 8140 8147	between
+T892	RelativeLocations 929 936	between
+T893	RelativeLocations 4809 4816	between
+T894	RelativeLocations 4533 4540	between
+T896	Directions 7827 7831	path
+T897	Directions 8135 8139	path
+T905	RelativeDirection 1800 1802	to
+T906	RelativeDirection 5868 5870	to
+T907	RelativeDirection 5526 5528	to
+T912	RelativeDirection 4053 4055	to
+T913	RelativeDirection 4027 4029	to
+T914	RelativeDirection 1970 1972	to
+T915	RelativeDirection 4081 4083	to
+T920	RelativeDirection 2545 2547	to
+T921	RelativeDirection 4125 4127	to
+T924	RelativeDirection 8130 8132	to
+T925	RelativeDirection 4015 4019	from
+T926	RelativeDirection 4105 4109	from
+T927	RelativeDirection 5782 5786	from
+T928	RelativeDirection 2635 2639	from
+T929	RelativeDirection 8109 8113	from
+T930	RelativeDirection 1672 1676	from
+T931	RelativeDirection 2598 2602	from
+T932	RelativeDirection 4068 4072	from
+T933	RelativeDirection 1959 1963	from
+T934	RelativeDirection 5855 5859	from
+T935	RelativeDirection 4041 4045	from
+T936	RelativeDirection 6312 6316	from
+T937	RelativeDirection 2449 2453	from
+T938	RelativeDirection 2696 2700	from
+T939	RelativeDirection 1625 1629	from
+T940	RelativeDirection 1789 1793	from
+T941	Source 7387 7391	from
+T945	PrepositionalDirections 3318 3325	through
+T946	PrepositionalDirections 5588 5595	through
+T947	PrepositionalDirections 6736 6740	over
+T951	Comparisons 2556 2560	than
+T952	Comparisons 2648 2652	than
+T953	Comparisons 3537 3541	than
+T954	Comparisons 3259 3268	different
+T955	Comparisons 3473 3482	Different
+T956	Comparisons 3545 3551	others
+T957	Comparisons 4558 4562	same
+T958	Comparisons 4610 4614	same
+T959	Comparisons 5108 5113	other
+T960	QualityComparison 5059 5063	best
+T961	QualityComparison 5365 5369	best
+T962	QualityComparison 7539 7543	best
+T963	QualityComparison 8189 8193	best
+T965	AmountComparison 3582 3586	most
+T967	AmountComparison 4401 4405	most
+T968	AmountComparison 3943 3947	most
+T969	AmountComparison 7848 7852	most
+T970	AmountComparison 1204 1208	most
+T971	AmountComparison 3508 3512	more
+T973	ImportanceComparison 7776 7782	mainly
+T974	DistanceComparison 285 292	nearest
+T975	DistanceComparison 1403 1410	nearest
+T976	DistanceComparison 2538 2544	closer
+T977	DistanceComparison 2627 2634	farther
+T978	Distance 4817 4823	nearby
+T979	DistanceComparison 729 736	closest
+T990	AstronomyAeronautics 459 468	astronomy
+T991	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 591 609	astronomical units
+T992	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 2944 2962	astronomical units
+T993	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 5190 5208	astronomical units
+T994	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 3681 3691	light year
+T995	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 3123 3133	light year
+T996	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 948 958	light-year
+T997	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 2101 2111	light-year
+T998	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 1230 1240	light-year
+T999	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 2587 2597	light-year
+T1000	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 157 159	AU
+T1001	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 611 613	AU
+T1002	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 2140 2142	AU
+T1003	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 2113 2115	ly
+T1004	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 5383 5394	light-years
+T1005	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 1660 1671	light years
+T1006	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 4428 4439	light years
+T1007	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 5174 5185	light years
+T1008	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 4341 4352	light years
+T1009	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 2928 2939	light years
+T1011	WordsRelatingToCosmologicalTheoriesExpandContract 5434 5443	expanding
+T1012	Occupation 470 479	Professor
+T1014	Scientists 4281 4292	Astronomers
+T1015	Scientists 4768 4779	astronomers
+T1016	Scientists 7077 7088	Astronomers
+T1017	GroupsOfScientists 890 900	scientists
+T1018	GroupsOfScientists 2027 2037	scientists
+T1019	GroupsOfScientists 3098 3108	Scientists
+T1020	GroupsOfScientists 8052 8062	Scientists
+T1021	Discovery 7094 7099	found
+T1023	GenericTerms 3117 3121	term
+T1024	AbilityAvailability 1739 1742	can
+T1025	AbilityAvailability 2479 2484	could
+T1026	AbilityAvailability 6487 6492	could
+T1051	Represent 6181 6186	model
+T1052	Representation 2011 2023	abbreviation
+T1057	Pattern 2408 2413	order
+T1064	Exemplar 8910 8917	example
+T1072	Method 587 590	how
+T1073	Numbers 3151 3154	how
+T1074	Method 8167 8170	How
+T1075	Numbers 1617 1620	How
+T1076	Numbers 3232 3235	how
+T1079	StateOfBeing 544 547	was
+T1080	StateOfBeing 8970 8973	was
+T1084	StateOfBeing 615 619	were
+T1086	Event 8867 8874	process
+T1088	GeometricSpatialObjects 6830 6836	sphere
+T1089	CelestialObject 8182 8188	object
+T1090	GenericTerms 7760 7766	object
+T1091	CelestialObject 7838 7844	object
+T1092	GenericTerms 1642 1648	object
+T1094	GenericTerms 2350 2357	objects
+T1095	CelestialObject 7554 7561	objects
+T1097	GenericTerms 536 543	objects
+T1098	GeometricSpatialObjects 4002 4009	objects
+T1101	ObjectPart 1459 1465	center
+T1102	ObjectPart 7164 7170	center
+T1105	Goal 4780 4784	want
+T1110	CelestialObject 8076 8082	object
+T1115	Goal 4002 4009	objects
+T1116	Cause 6191 6196	cause
+T1117	Cause 7226 7231	cause
+T1123	Group 4831 4835	they
+T1124	ProbabilityAndCertainty 4406 4412	likely
+T1125	ProbabilityAndCertainty 7853 7859	likely
+T1126	ProbabilityAndCertainty 4395 4400	would
+T1127	ProbabilityAndCertainty 6146 6151	would
+T1128	ProbabilityAndCertainty 8171 8176	would
+T1129	ProbabilityAndCertainty 5754 5767	approximately
+T1130	Validity 2503 2511	accurate
+T1133	ProbabilityAndCertainty 1984 1989	about
+T1135	Relations 2398 2403	about
+T1136	LevelOfInclusion 499 506	various
+T1142	LevelOfInclusion 5529 5537	complete
+T1143	LevelOfInclusion 8565 8569	Both
+T1144	LevelOfInclusion 8607 8611	Both
+T1146	LevelOfInclusion 8415 8420	Which
+T1147	LevelOfInclusion 6463 6468	which
+T1152	LevelOfInclusion 4354 4359	Which
+T1153	LevelOfInclusion 6140 6145	Which
+T1156	LevelOfInclusion 3992 3997	which
+T1157	LevelOfInclusion 5046 5051	Which
+T1158	LevelOfInclusion 5344 5349	Which
+T1161	LevelOfInclusion 8102 8108	ranges
+T1162	LevelOfInclusion 3523 3527	some
+T1163	LevelOfInclusion 6920 6926	mostly
+T1179	Distance 1621 1624	far
+T1183	PERSON 480 488	Williams
+T1184	LOCATION 1292 1297	Earth
+T1185	LOCATION 1336 1343	Jupiter
+T1186	LOCATION 1630 1635	Earth
+T1187	NUMBER 1657 1659	10
+T1189	LOCATION 1677 1682	Earth
+T1190	NUMBER 1688 1694	10,000
+T1191	NUMBER 1702 1712	10,000,000
+T1192	DURATION 1753 1761	10 years
+T1195	LOCATION 1794 1799	Earth
+T1196	LOCATION 1964 1969	Earth
+T1197	NUMBER 1990 2001	150,000,000
+T1199	ElectricalUnit 2170 2173	EMU
+T1200	PERSON 2310 2315	Helen
+T1201	LOCATION 2530 2534	Mars
+T1202	LOCATION 2561 2566	Earth
+T1203	LOCATION 2572 2579	Neptune
+T1204	NUMBER 2583 2586	one
+T1205	LOCATION 2616 2623	Jupiter
+T1206	LOCATION 2665 2670	Earth
+T1207	NUMBER 2674 2677	one
+T1210	DURATION 3218 3226	one year
+T1212	NUMBER 3853 3856	One
+T1213	LOCATION 3911 3916	Earth
+T1214	NUMBER 3998 4001	two
+T1217	NUMBER 4541 4544	two
+T1218	NUMBER 4591 4594	two
+T1219	LOCATION 5098 5103	Earth
+T1221	NUMBER 5768 5771	1.5
+T1222	NUMBER 5774 5778	10^8
+T1223	LOCATION 5787 5792	Earth
+T1224	NUMBER 5816 5819	3.0
+T1225	NUMBER 5822 5826	10^8
+T1226	LOCATION 5871 5876	Earth
+T1227	NUMBER 5899 5902	2.0
+T1228	NUMBER 5921 5924	0.5
+T1229	NUMBER 5943 5946	2.0
+T1230	NUMBER 5949 5954	10^-3
+T1231	NUMBER 5973 5976	5.0
+T1235	TIME 6722 6731	nighttime
+T1236	LOCATION 6903 6908	Earth
+T1237	LOCATION 7578 7589	Kuiper Belt
+T1238	LOCATION 8118 8129	Kuiper Belt
+T1239	LOCATION 8148 8153	Earth
+T1240	LOCATION 8838 8845	Jupiter
+T1241	DATE 8849 8861	July of 1994
+T47	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 981 998	astronomical unit
+T85	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 138 155	astronomical unit
+T235	StateOfBeing 1172 1174	is
+T246	Comparisons 1179 1187	smallest
+T249	StateOfBeing 1201 1203	is
+T58	StateOfBeing 1241 1243	as
+T42	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 2121 2138	astronomical unit
+T56	StateOfBeing 2316 2318	is
+T191	Relations 2344 2349	about
+T194	Relations 581 586	about
+T204	StateOfBeing 2535 2537	is
+T212	StateOfBeing 2580 2582	is
+T60	StateOfBeing 2624 2626	is
+T226	StateOfBeing 2671 2673	is
+T228	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 2678 2695	astronomical unit
+T252	StateOfBeing 2856 2858	is
+T52	PerformingResearch 2867 2873	record
+T55	StateOfBeing 3275 3278	are
+T229	Unit 3483 3503	units of measurement
+T244	StateOfBeing 3504 3507	are
+T230	StateOfBeing 3579 3581	is
+T247	Comparisons 3597 3606	comparing
+T39	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 3700 3717	astronomical unit
+T251	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu 3857 3874	astronomical unit
+T253	StateOfBeing 3875 3877	is
+T254	StateOfBeing 3940 3942	is
+T25	Size 4317 4327	very large
+T26	LevelOfInclusion 3553 3558	Which
+T27	LevelOfInclusion 2845 2850	Which
+T49	LevelOfInclusion 2463 2468	Which
+T132	LevelOfInclusion 1157 1162	Which
+T257	LevelOfInclusion 530 535	Which
+T258	StateOfBeing 4413 4415	be
+T43	StateOfBeing 5052 5054	is
+T40	StateOfBeing 5431 5433	is
+T45	StateOfBeing 5751 5753	is
+T57	StateOfBeing 5813 5815	is
+T61	SpeedUnit 5827 5832	m/sec
+T211	StateOfBeing 5839 5841	is
+T41	Numbers 5979 5983	10^2
+T44	StateOfBeing 6825 6827	is
+T50	StateOfBeing 6909 6911	is
+T11	StateOfBeing 7212 7214	is
+T53	StateOfBeing 7790 7792	is
+T59	StateOfBeing 7845 7847	is
+T88	StateOfBeing 8477 8480	are
+T124	StateOfBeing 8501 8504	are
+T125	StateOfBeing 8526 8529	are
+T131	StateOfBeing 8548 8551	are
+T134	StateOfBeing 8591 8594	are
+T170	StateOfBeing 8633 8636	are
+T172	StateOfBeing 8904 8906	is

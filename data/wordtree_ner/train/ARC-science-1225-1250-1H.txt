@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_45] [EARTH_WEATHER_WATERCYC_SUN, EARTH_WEATHER_WATERCYC_EVAPCOND]
+One morning, Jane notices drops of water on the outside of a window. Later in the day, she notices that the drops have disappeared. What most likely caused the drops to disappear?
+(A) The water condensed on the plants around the house.
+(B) Energy from the sun caused the water to evaporate.
+(C) The water cooled enough to turn into water vapor.
+(D) Wind blowing on the window turned the water into vapor.
+----------------------------------------------------------------------------------------------
+[Mercury_7004900] [EARTH_WEATHER_WIND]
+Air in the atmosphere is heated unevenly by the sun, causing
+(A) wind patterns.
+(B) cloud formation.
+(C) volcanic activity.
+(D) water condensation.
+----------------------------------------------------------------------------------------------
+[Mercury_7215425] [EARTH_WEATHER_WIND]
+Which of these events have the most influence on regional climate?
+(A) frequent tornadoes
+(B) ocean trade winds
+(C) winter snowstorms
+(D) temperature inversions
+----------------------------------------------------------------------------------------------
+[LEAP_2009_8_10431] [EARTH_WEATHER_WIND]
+Which factor causes global wind patterns?
+(A) changes in the distance between Earth and the Moon
+(B) unequal heating of Earth's surface by the Sun
+(C) daily changes in the tilt of Earth's axis
+(D) rapid rotation of the Sun on its axis
+----------------------------------------------------------------------------------------------
+[Mercury_7007875] [EARTH_WEATHER_WIND]
+Which is responsible for creating wind?
+(A) wave action
+(B) solar energy
+(C) trees blowing
+(D) gravitational force
+----------------------------------------------------------------------------------------------
+[Mercury_7230545] [EARTH_WEATHER_WIND, EARTH_OUTER_HYDRO]
+The drag of wind results in which feature of ocean surface currents?
+(A) movement of water away from the equator
+(B) cyclical variations in the height of high tides
+(C) reduction in velocity with distance from Earth's poles
+(D) deflection of water toward the direction of airflow
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416424] [EARTH_WEATHER, EARTH_LATLONG]
+Which is true of the seasonal weather patterns of places that are at the same latitude?
+(A) They have the same wind patterns.
+(B) They have the same amount of rain.
+(C) They have the same intensity of sunlight.
+(D) They have the same kinds of severe weather.
+----------------------------------------------------------------------------------------------
+[Mercury_7056753] [EARTH_WEATHER, EARTH_OUTER_ATMOS]
+In which layer of Earth's atmosphere does weather occur?
+(A) mesosphere
+(B) stratosphere
+(C) thermosphere
+(D) troposphere
+----------------------------------------------------------------------------------------------
+[Mercury_7141698] [EARTH_WEATHER, ENG_CONV_CONV]
+When lightning occurs, it heats the surrounding air. The hot air expands and produces thunder. The energy of the lightning is converted to which type of energy to produce thunder?
+(A) gravitational
+(B) mechanical
+(C) nuclear
+(D) radiant
+----------------------------------------------------------------------------------------------
+[Mercury_7135293] [ENG_CONSERVATION]
+In a closed system, what happens to the total energy of the system as energy conversions take place?
+(A) It increases.
+(B) It decreases.
+(C) It remains constant.
+(D) It is transferred out of the system.
+----------------------------------------------------------------------------------------------
+[Mercury_7084420] [ENG_CONSERVATION]
+The human body produces motion by changing chemical energy into mechanical energy. Which of these best describes what happens to the energy?
+(A) The total amount of energy increases.
+(B) The total amount of energy is constant.
+(C) The energy is destroyed through motion.
+(D) The amount of chemical energy increases.

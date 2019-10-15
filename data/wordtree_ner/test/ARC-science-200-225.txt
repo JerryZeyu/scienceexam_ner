@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7015750] [CEL_FEATURES_STELLAR]
+What is the most common element in a star such as the Sun?
+(A) helium
+(B) oxygen
+(C) nitrogen
+(D) hydrogen
+----------------------------------------------------------------------------------------------
+[Mercury_184293] [CEL_FEATURES_STELLAR]
+Which of these statements is most accurate about the Sun?
+(A) It has an infinite energy supply.
+(B) It is near the end of its life cycle.
+(C) It is in its infancy in terms of energy consumption.
+(D) It has consumed approximately one-half of its expendable energy.
+----------------------------------------------------------------------------------------------
+[Mercury_7044258] [CEL_FEATURES_STELLAR]
+What is the process that produces energy in the Sun for billions of years?
+(A) fission
+(B) fusion
+(C) solar winds
+(D) solar radiation
+----------------------------------------------------------------------------------------------
+[Mercury_7013440] [CEL_FEATURES_STELLAR]
+A student uses a telescope to view stars at night. The student notices some of the stars are different colors. The color of a star is determined most by its
+(A) size.
+(B) distance from Earth.
+(C) mass.
+(D) temperature.
+----------------------------------------------------------------------------------------------
+[Mercury_7188878] [CEL_FEATURES_STELLAR]
+A combination of processes occurs when stars are forming. Which is one process most likely associated with the formation of new stars?
+(A) Hydrogen in the cores of the stars is exhausted.
+(B) Material accumulates from stars that have died.
+(C) Elements in the stars such as iron undergo fusion.
+(D) Cores of stars become twice as massive as the Sun.
+----------------------------------------------------------------------------------------------
+[Mercury_7223020] [CEL_FEATURES_STELLAR]
+NASA's Kepler Mission has collected information about main-sequence stars with characteristics similar to the Sun. What is the most common color of these stars?
+(A) blue
+(B) white
+(C) red
+(D) yellow
+----------------------------------------------------------------------------------------------
+[Mercury_7205818] [CEL_FEATURES_STELLAR]
+Stars are often classified by their apparent brightness in the nighttime sky. Stars can also be classified in many other ways. Which of these is least useful in classifying stars?
+(A) visible color
+(B) composition
+(C) surface texture
+(D) temperature
+----------------------------------------------------------------------------------------------
+[Mercury_7122868] [CEL_FEATURES_STELLAR]
+Most stars in the Milky Way are like the Sun. The Sun will eventually become a red giant. After the red giant stage, what determines whether a star will become a white dwarf or a supernova?
+(A) the mass of the star
+(B) the diameter of the star
+(C) the brightness of the star
+(D) the type of gas in the star
+----------------------------------------------------------------------------------------------
+[MCAS_1998_8_7] [CEL_FEATURES_STELLAR]
+Which statement about the Sun is true?
+(A) The Sun is a very large star that exists far from the Milky Way Galaxy.
+(B) The Sun is at the center of the Milky Way Galaxy.
+(C) The Sun is a medium-sized star near the edge of the Milky Way Galaxy.
+(D) The Sun has the Milky Way and several other galaxies moving in orbits around it.
+----------------------------------------------------------------------------------------------
+[Mercury_7005040] [CEL_FEATURES_STELLAR]
+During its lifetime, which object is known to change in brightness, color, and temperature?
+(A) star
+(B) moon
+(C) asteroid
+(D) planet
+----------------------------------------------------------------------------------------------
+[Mercury_184275] [CEL_FEATURES_STELLAR]
+The fusion reaction that fuels the Sun converts hydrogen into
+(A) carbon.
+(B) iron.
+(C) neon.
+(D) helium.
+----------------------------------------------------------------------------------------------
+[Mercury_7269010] [CEL_FEATURES_STELLAR]
+In which layer of the Sun does nuclear fusion occur?
+(A) core
+(B) radiative zone
+(C) convection zone
+(D) chromosphere
+----------------------------------------------------------------------------------------------
+[Mercury_7180338] [CEL_FEATURES_STELLAR]
+The stages of evolution of a star are determined by the mass of the star at the beginning of its life cycle. Which stage of evolution is the oldest form of a massive star?
+(A) red giant
+(B) supernova
+(C) neutron star
+(D) white dwarf
+----------------------------------------------------------------------------------------------
+[Mercury_7108973] [CEL_FEATURES_STELLAR]
+Which celestial object listed below has the greatest density?
+(A) a planet
+(B) a comet
+(C) a nebula
+(D) a neutron star
+----------------------------------------------------------------------------------------------
+[Mercury_7181598] [CEL_FEATURES_STELLAR]
+The Sun is a medium-sized star and is expected to continue to perform nuclear fusion for five billion years. What is most likely to be the final stage of the Sun?
+(A) supernova
+(B) supergiant
+(C) neutron star
+(D) white dwarf
+----------------------------------------------------------------------------------------------
+[Mercury_7196263] [CEL_FEATURES_STELLAR]
+Stars generate large amounts of energy when nuclei with small mass undergo fusion to form nuclei with larger mass. Which of the four basic forces of the universe is responsible for the energy released during fusion?
+(A) weak force
+(B) strong force
+(C) gravitational force
+(D) electromagnetic force
+----------------------------------------------------------------------------------------------
+[Mercury_177853] [CEL_FEATURES_STELLAR]
+Astronomers have determined the surface temperature of stars by studying their colors. What color emission represents stars with the hottest temperatures?
+(A) blue
+(B) red
+(C) white
+(D) yellow
+----------------------------------------------------------------------------------------------
+[MEA_2013_5_3] [CEL_FEATURES_STELLAR]
+The Sun is classified as a star. Which characteristic identifies the Sun as a star?
+(A) The Sun spins on its axis.
+(B) The Sun is located outside the Milky Way galaxy.
+(C) The Sun is part of the Big Dipper.
+(D) The Sun produces light and energy in a nuclear reaction.
+----------------------------------------------------------------------------------------------
+[Mercury_7171553] [CEL_FEATURES_STELLAR]
+Three main sequence stars are being compared. Which characteristic would these three stars most likely have in common?
+(A) chemical composition
+(B) distance from Earth
+(C) temperature
+(D) brightness
+----------------------------------------------------------------------------------------------
+[Mercury_7084508] [CEL_FEATURES_STELLAR]
+Which best describes the Sun?
+(A) very small white dwarf
+(B) medium yellow dwarf
+(C) large blue giant
+(D) red supergiant
+----------------------------------------------------------------------------------------------
+[Mercury_7114083] [CEL_FEATURES_STELLAR]
+When compared to the Sun, red dwarf stars are
+(A) older.
+(B) cooler.
+(C) lower density.
+(D) larger diameter.
+----------------------------------------------------------------------------------------------
+[Mercury_7223038] [CEL_FEATURES_STELLAR]
+There are many sizes and colors of stars. Which of the following best describes the category in which the Sun would be placed?
+(A) blue supergiant stars
+(B) red giant stars
+(C) yellow main sequence stars
+(D) white dwarf stars
+----------------------------------------------------------------------------------------------
+[Mercury_7214480] [CEL_FEATURES_STELLAR]
+A medium-sized star in the middle of its life cycle, such as the Sun, is most likely to emit which color of light?
+(A) red
+(B) blue
+(C) white
+(D) yellow
+----------------------------------------------------------------------------------------------
+[Mercury_7008120] [CEL_FEATURES_STELLAR]
+Binary stars are used by scientists to determine a star's
+(A) mass.
+(B) brightness.
+(C) distance from Earth.
+(D) distance from the Sun.
+----------------------------------------------------------------------------------------------
+[Mercury_7269063] [CEL_FEATURES_STELLAR]
+The frost line of the solar system divides the terrestrial plants from the gas-giant planets. What elements make up most of the core of the planets orbiting outside of the frost line?
+(A) iron and nickel
+(B) carbon and oxygen
+(C) nitrogen and sulfur
+(D) hydrogen and helium

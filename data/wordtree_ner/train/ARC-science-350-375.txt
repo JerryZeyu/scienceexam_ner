@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402635] [EARTH_GEO_FORMATIONS, EARTH_WEATHER_ERO_DEPOSITION]
+A delta can be seen from the air at the mouth of the Mississippi River. This delta was formed by
+(A) erosion.
+(B) weathering.
+(C) conservation of soil.
+(D) deposition of sediment.
+----------------------------------------------------------------------------------------------
+[MDSA_2007_4_4] [EARTH_GEO_FORMATIONS, EARTH_WEATHER_ERO_EROSION]
+Natural processes shape the surface of Earth. Most canyons are formed by ___.
+(A) ice
+(B) plants
+(C) steady winds
+(D) moving water
+----------------------------------------------------------------------------------------------
+[CSZ10286] [EARTH_GEO_FORMATIONS, EARTH_WEATHER_ERO_EROSION]
+Moving water was the most important factor in forming which of these?
+(A) the Grand Canyon
+(B) San Andreas Fault
+(C) the Rocky Mountains
+(D) Mount St. Helens Volcano
+----------------------------------------------------------------------------------------------
+[Mercury_404608] [EARTH_GEO_FORMATIONS, EARTH_WEATHER_ERO_EROSION]
+Mounds and ridges in the Snake Range area of Nevada are composed of boulders, sand, and gravel. These landforms were most likely formed by
+(A) earthquakes.
+(B) melting glaciers.
+(C) wind erosion.
+(D) hurricanes.
+----------------------------------------------------------------------------------------------
+[Mercury_7041580] [EARTH_GEO_FORMATIONS, EARTH_WEATHER_ERO_EROSION]
+Which land feature is formed from erosion by waves?
+(A) a sandbar
+(B) a sea cliff
+(C) a barrier reef
+(D) a barrier island
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg10] [EARTH_GEO_FORMATIONS, EARTH_WEATHER_ERO_WEATHERING]
+Most underground caves are formed by the action of water on
+(A) granite
+(B) limestone
+(C) sandstone
+(D) shale
+----------------------------------------------------------------------------------------------
+[Mercury_7236110] [EARTH_GEO_FOSSILS]
+The incompleteness of the fossil record results primarily from which phenomenon?
+(A) the frequency and irregular timing of organism speciations
+(B) the metamorphosis of most sedimentary rock by heat and pressure
+(C) the geologically rapid cycling of crust material back into the mantle
+(D) the rarity with which organic remains are exposed to fossil-forming conditions
+----------------------------------------------------------------------------------------------
+[MDSA_2010_4_24] [EARTH_GEO_FOSSILS]
+A student notices a paw print while walking in a park. The paw print could be considered a fossil if the print was in ___.
+(A) rock
+(B) topsoil
+(C) thick mud
+(D) loose sand
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10789] [EARTH_GEO_FOSSILS]
+All of the following can become fossils except
+(A) bones.
+(B) shells.
+(C) teeth.
+(D) rocks.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_9] [EARTH_GEO_FOSSILS_INDEX]
+A scientist finds the bones of a dinosaur. What could help the scientist determine the approximate age of the dinosaur bones?
+(A) the birds living in the area of the bones
+(B) the weather conditions in the area of the bones
+(C) the kinds of trees living in the area of the bones
+(D) the index fossils in the area of the bones
+----------------------------------------------------------------------------------------------
+[Mercury_7222705] [EARTH_GEO_FOSSILS_INDEX]
+Certain fossils can be used to help determine the age of the rock layer in which the fossils are found. Which type of fossil is best to use when making this determination?
+(A) marine mammal fossil
+(B) swamp fern fossil
+(C) trace fossil
+(D) index fossil
+----------------------------------------------------------------------------------------------
+[MCAS_2006_8_29] [EARTH_GEO_FOSSILS_INDEX]
+Index fossils help scientists estimate the age of a rock because index fossil species only existed for a relatively short time. What happened to the species that are now used as index fossils?
+(A) They became extinct.
+(B) They changed their diets.
+(C) They hid in marine sediments.
+(D) They migrated to new environments.
+----------------------------------------------------------------------------------------------
+[LEAP_2011_8_10435] [EARTH_GEO_FOSSILS_INDEX]
+Which technique has helped scientists more accurately determine the age of fossils and draw conclusions about changes in organisms over time?
+(A) time-lapse photography
+(B) radioactive dating
+(C) electron microscopy
+(D) color staining
+----------------------------------------------------------------------------------------------
+[Mercury_7241098] [EARTH_GEO_FOSSILS_INDEX, LIFE_EXTINCTION_MASSEX]
+According to the fossil record, when did episodes of rapid speciation commonly take place?
+(A) while Earth's continents were joined
+(B) while Earth's habitats were stable
+(C) before major climatic changes
+(D) following mass extinctions
+----------------------------------------------------------------------------------------------
+[MDSA_2007_4_37] [EARTH_GEO_FOSSILS_LOC]
+Fossils of clam shells were found in the Appalachian Mountains. Which of these statements best explains why the clam shells were found in the Appalachian Mountains?
+(A) The mountain range was once under water.
+(B) Birds flying overhead dropped the clam shells.
+(C) Animals released the clam shells in their waste.
+(D) The clams lived on land before moving to water.
+----------------------------------------------------------------------------------------------
+[AIMS_2009_4_17] [EARTH_GEO_FOSSILS_LOC]
+Scientists claim that the area around the Grand Canyon was once covered by an ocean. What evidence would support their claim?
+(A) Dinosaur footprints were found near the Grand Canyon.
+(B) Fish were found living in the rivers of the Grand Canyon.
+(C) Fossils of ocean animals were found at the Grand Canyon.
+(D) Bones from desert animals were found at the Grand Canyon.
+----------------------------------------------------------------------------------------------
+[OHAT_2008_5_18] [EARTH_GEO_FOSSILS_LOC]
+Corals are animals that live in tropical oceans. Fossils of corals are found in Ohio. What does the presence of coral fossils suggest about how the environment of Ohio has changed over time?
+(A) Ohio was once covered by warm seas.
+(B) A large glacier once passed over Ohio.
+(C) The average rainfall in Ohio is now much more than it once was.
+(D) The average temperature in Ohio is now much warmer than it.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406541] [EARTH_GEO_FOSSILS_LOC]
+A scientist discovered a fossil of an ocean plant in the rocks of a desert. What does the discovery of this fossil most likely tell the scientist?
+(A) The fossils were formed at the top of a mountain.
+(B) The fossils were formed during a rainstorm.
+(C) The area had many volcanic eruptions.
+(D) The area was once covered by water.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2011_5_11] [EARTH_GEO_FOSSILS_LOC]
+Scientists dig in a dry area at the bottom of a mountain range. Fossilized shells of freshwater mussels are found in the area. Which is a likely conclusion that scientists will draw based on this evidence?
+(A) Rivers once flowed through the area.
+(B) Volcanoes were once active in the area.
+(C) The ocean shoreline once reached this area.
+(D) Floods were a common occurrence in this area.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2008_5_3] [EARTH_GEO_FOSSILS_LOC]
+Which would best aid a scientist in discovering how Earth may have changed over time?
+(A) finding the nest of a bald eagle
+(B) tracking the footprints of a wolf
+(C) analyzing the pollination of a sunflower
+(D) discovering a fossil of a seashell in a wooded area
+----------------------------------------------------------------------------------------------
+[OHAT_2010_5_1] [EARTH_GEO_FOSSILS_LOC]
+Scientists found fish fossils in the desert. What do the fossils tell about this environment when the fish were alive?
+(A) There was a forest with large trees.
+(B) There were lakes with water plants.
+(C) There were mountains with glaciers.
+(D) There was a desert with large rocks.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2013_7_6] [EARTH_GEO_FOSSILS_LOC]
+Currently, Antarctica is the coldest and driest place on Earth. Paleontologists have found dinosaur fossils in rock layers below the ice. Based on this evidence, which is a reasonable conclusion about the climate of Antarctica in the past?
+(A) Antarctica has always had the same climate as at present.
+(B) At some time in the past, Antarctica was a hot, dry desert.
+(C) At some time in the past, Antarctica was much warmer and wetter.
+(D) At some time in the past, Antarctica was colder and wetter than it is now.
+----------------------------------------------------------------------------------------------
+[Mercury_7086678] [EARTH_GEO_FOSSILS_LOC]
+A road cut shows a layer of shale on top of a layer of limestone. This indicates
+(A) the shale layer is older than the limestone layer.
+(B) a fault occurred during the deposition of the layers.
+(C) the environment changed between the times of deposition.
+(D) volcanic activity occurred when these layers were deposited.
+----------------------------------------------------------------------------------------------
+[Mercury_7085348] [EARTH_GEO_FOSSILS_LOC]
+Which of these provides the best evidence that the environment of Earth has changed over millions of years?
+(A) active migration of sand dunes
+(B) polished appearance of rock surfaces
+(C) marine fossils found in mountains
+(D) bones of animals found on the ground
+----------------------------------------------------------------------------------------------
+[Mercury_7085330] [EARTH_GEO_FOSSILS_LOC]
+Two layers of sedimentary rock are exposed on the side of a hill. Only one of the layers has fossils. The lack of fossils in one layer of sedimentary rock is most likely due to
+(A) changing environments.
+(B) volcanic activity.
+(C) changing rates of erosion.
+(D) evaporation of sea water.

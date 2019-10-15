@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7210823] [CEL_CYCLES]
+What determines how long the Moon takes to complete one cycle of phases?
+(A) the period of rotation of the Moon around its axis
+(B) the period of revolution of the Moon around Earth
+(C) the period of rotation of Earth around its axis
+(D) the period of revolution of Earth around the Sun
+----------------------------------------------------------------------------------------------
+[MEA_2014_8_9] [CEL_CYCLES]
+Earth rotates on its north-south axis. Which statement best describes one complete rotation?
+(A) It takes six months and causes summer and winter seasons.
+(B) It takes 24 hours and causes night and day.
+(C) It takes 29 days, which represents one cycle of the Moon's phases.
+(D) It takes 365 days, which represents one Earth year.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_8_37] [CEL_CYCLES]
+Which statement correctly describes why there are fewer than 24 hours of daylight in Alaska during each day in April?
+(A) Earth’s rotation slows during the day.
+(B) Earth’s rotation slows during the night.
+(C) Earth’s rotation causes both day and night.
+(D) Earth’s tilt on its axis causes both day and night.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_8_12] [CEL_CYCLES]
+Which statement best explains Earth's day and night cycle?
+(A) Earth rotates once each day on its axis.
+(B) Earth revolves around the Sun each year.
+(C) The Sun is closest to Earth during the day.
+(D) The tilt of Earth changes throughout the year.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_8_12] [CEL_CYCLES]
+How does the tilt of Earth’s axis and its rotation affect the weather?
+(A) The tilt of Earth allows Earth to absorb all of the Sun’s radiation as it rotates.
+(B) The tilt allows certain latitudes of Earth to be heated at a greater rate while Earth rotates.
+(C) The tilt of Earth allows Earth to rotate fast enough to allow surface cooling to occur at night.
+(D) The tilt allows energy to be evenly distributed throughout the atmosphere while Earth rotates.
+----------------------------------------------------------------------------------------------
+[MCAS_1999_8_21] [CEL_CYCLES]
+It is necessary to add a day to the calendar every four years because
+(A) the axis of Earth is tilted.
+(B) the gravitational pull of the Sun affects Earth's revolution.
+(C) the revolution of Earth is not exactly 365 days.
+(D) the Moon crosses the orbit of the Sun every 28 days.
+----------------------------------------------------------------------------------------------
+[Mercury_7181580] [CEL_CYCLES]
+The axis of Earth is tilted at an angle of 23.5° from the vertical position. Which of the following is the main result of this tilt?
+(A) tides
+(B) eclipses
+(C) length of year
+(D) change of seasons
+----------------------------------------------------------------------------------------------
+[Mercury_7150378] [CEL_CYCLES]
+As Earth revolves around the Sun, the number of daylight hours varies from place to place. In which location would the number of daylight hours remain constant?
+(A) North Pole
+(B) Prime Meridian
+(C) Equator
+(D) Antarctica
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415491] [CEL_CYCLES]
+Earth orbits the Sun once a year. About how many times does the moon orbit Earth in a year?
+(A) 1
+(B) 7
+(C) 13
+(D) 28
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_4_2] [CEL_CYCLES]
+About how long does it take Earth to make one revolution around the Sun?
+(A) a day
+(B) a week
+(C) a month
+(D) a year
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408040] [CEL_CYCLES]
+Melinda learned that days in some seasons have more daylight hours than in other seasons. Which season receives the most hours of sunlight in the Northern Hemisphere?
+(A) fall
+(B) spring
+(C) summer
+(D) winter
+----------------------------------------------------------------------------------------------
+[MDSA_2011_5_6] [CEL_CYCLES]
+Planets in our solar system have different solar years. Which statement explains the cause of an Earth solar year?
+(A) Earth rotates around the sun.
+(B) Earth revolves around the sun.
+(C) The sun rotates around Earth.
+(D) The sun revolves around Earth.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400655] [CEL_CYCLES]
+Which of these is the greatest change that can be observed between summer and winter?
+(A) the amounts of daylight
+(B) the heights of ocean waves
+(C) the numbers of storms
+(D) the sizes of clouds
+----------------------------------------------------------------------------------------------
+[Mercury_408929] [CEL_CYCLES]
+There are some towns located in the valley of the Alpine mountains. During part of the year, these towns stay dark all day because the mountains block the Sun. During which season would the Sun be low enough in the sky that the village stays in the shadows?
+(A) fall
+(B) spring
+(C) summer
+(D) winter
+----------------------------------------------------------------------------------------------
+[Mercury_7011270] [CEL_CYCLES]
+About how long does it take for the Moon to complete one revolution around Earth?
+(A) 7 days
+(B) 30 days
+(C) 90 days
+(D) 365 days
+----------------------------------------------------------------------------------------------
+[Mercury_7137463] [CEL_CYCLES]
+India is in the Northern Hemisphere and Australia is in the Southern Hemisphere. In June, it is summer in India and winter in Australia. What is the main reason the seasons are opposite in the two countries?
+(A) because Earth is tilted on its axis
+(B) because the Sun rotates on its axis
+(C) because Earth revolves around the Sun
+(D) because of the distance between the countries
+----------------------------------------------------------------------------------------------
+[Mercury_189770] [CEL_CYCLES]
+Why has only one-half of the Moon ever been observed from Earth?
+(A) The Moon does not rotate on its axis.
+(B) The Moon is not visible during the day.
+(C) The Moon has phases that coincide with its rate of rotation.
+(D) The Moon rotates at the same rate that it revolves around Earth.
+----------------------------------------------------------------------------------------------
+[Mercury_177818] [CEL_CYCLES]
+The length of time between night and day on Earth varies throughout the year. This time variance is explained primarily by
+(A) the position of the Sun.
+(B) the position of the Moon.
+(C) Earth's angle of tilt
+(D) Earth's distance from the Sun
+----------------------------------------------------------------------------------------------
+[Mercury_416144] [CEL_DISTANCES]
+Earth's distance from the Sun helps the planet sustain life. If the Sun were larger, what would most likely also have to be true for Earth to sustain life?
+(A) Earth would have to be further from the Sun.
+(B) Earth would have to be closer to the Sun.
+(C) Earth would have to be smaller.
+(D) Earth would have to be larger.
+----------------------------------------------------------------------------------------------
+[Mercury_411450] [CEL_DISTANCES]
+Astronomical units can be used to measure distances between objects in outer space. One astronomical unit (AU) is the distance between Earth and the Sun. Based on this information, about how many astronomical units is Mars from the Sun?
+(A) 0.4
+(B) 0.7
+(C) 1.0
+(D) 1.5
+----------------------------------------------------------------------------------------------
+[LEAP_2008_8_10424] [CEL_DISTANCES]
+In an accurate diagram of the solar system, which object would be shown closest to Earth?
+(A) the Moon
+(B) the asteroid belt
+(C) Mars
+(D) Saturn
+----------------------------------------------------------------------------------------------
+[MEA_2010_8_7] [CEL_DISTANCES]
+Which of the following is the farthest from Earth?
+(A) Halley's comet
+(B) the Andromeda galaxy
+(C) Neptune
+(D) the Sun
+----------------------------------------------------------------------------------------------
+[Mercury_7100713] [CEL_DISTANCES]
+Which two solar system objects have the least amount of distance between them?
+(A) the Sun and Mars
+(B) Earth and Jupiter
+(C) the Sun and Earth
+(D) Earth and the Moon
+----------------------------------------------------------------------------------------------
+[Mercury_7010010] [CEL_DISTANCES_UNITS]
+The distance between the Sun and the next closest star, Proxima Centauri, is most accurately measured in
+(A) magnitudes.
+(B) light years.
+(C) perigees.
+(D) red shifts.
+----------------------------------------------------------------------------------------------
+[Mercury_7015785] [CEL_DISTANCES_UNITS]
+A light-year is a measure of
+(A) time.
+(B) energy.
+(C) distance.
+(D) direction.

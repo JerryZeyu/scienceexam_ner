@@ -1,0 +1,551 @@
+T2	Light 5096 5101	light
+T5	Spectra 2251 2256	light
+T8	Substances 2075 2078	wax
+T9	Substances 2229 2232	wax
+T23	Star 1251 1254	sun
+T29	Force 5488 5493	force
+T33	MagneticForce 5497 5506	magnetism
+T35	PullingForces 1196 1204	friction
+T36	PullingForces 4683 4691	friction
+T37	PullingForces 6538 6546	Friction
+T41	PushingActions 3284 3288	push
+T42	PushingActions 3369 3373	push
+T45	ManmadeObjects 3313 3318	swing
+T46	PushingActions 3560 3565	swing
+T47	PushingActions 3602 3607	swing
+T48	Spectra 2110 2122	light energy
+T49	Spectra 2186 2198	light energy
+T50	Spectra 2340 2352	light energy
+T51	Energy 1641 1655	kinetic energy
+T52	Energy 3571 3585	kinetic energy
+T53	Energy 6681 6695	kinetic energy
+T54	Energy 6405 6411	energy
+T55	Energy 5329 5335	energy
+T57	Energy 1729 1735	energy
+T66	Energy 5519 5525	energy
+T67	Energy 2905 2911	energy
+T70	Energy 1296 1302	energy
+T74	Energy 3952 3958	energy
+T76	Energy 1799 1805	energy
+T79	Energy 5400 5406	energy
+T80	Energy 5598 5604	energy
+T81	Energy 1535 1541	energy
+T83	Energy 5539 5545	energy
+T89	Energy 303 309	energy
+T92	Energy 5885 5891	energy
+T96	Energy 1679 1685	energy
+T97	Energy 6601 6607	energy
+T102	Energy 1575 1581	energy
+T106	Energy 6499 6505	Energy
+T112	Energy 5376 5382	energy
+T116	Energy 2097 2105	chemical
+T117	ThermalEnergy 729 743	thermal energy
+T118	ThermalEnergy 1121 1135	thermal energy
+T119	Energy 1176 1190	thermal energy
+T120	ThermalEnergy 3623 3637	thermal energy
+T121	ThermalEnergy 748 762	thermal energy
+T122	ThermalEnergy 315 329	thermal energy
+T123	Energy 4058 4073	chemical energy
+T124	Energy 766 781	chemical energy
+T125	Energy 2204 2219	Chemical energy
+T126	Energy 1691 1706	chemical energy
+T127	Energy 4268 4283	chemical energy
+T128	Energy 1620 1635	chemical energy
+T129	Energy 2278 2293	Chemical energy
+T130	Energy 845 860	chemical energy
+T131	Energy 3529 3544	chemical energy
+T132	Energy 2522 2537	chemical energy
+T133	Energy 354 369	chemical energy
+T134	Energy 3905 3922	mechanical energy
+T135	Energy 1259 1276	mechanical energy
+T136	Energy 824 841	mechanical energy
+T137	Energy 374 391	mechanical energy
+T138	Energy 1770 1787	mechanical energy
+T139	Energy 3448 3465	mechanical energy
+T140	Energy 786 803	mechanical energy
+T141	Energy 3488 3504	potential energy
+T142	Energy 6642 6658	Potential energy
+T143	Energy 2171 2181	mechanical
+T144	Energy 2325 2335	mechanical
+T145	AbsorbEnergy 1233 1241	absorbed
+T146	AbsorbEnergy 1283 1291	absorbed
+T148	ElectricalEnergy 248 265	electrical energy
+T149	ElectricalEnergy 5005 5022	electrical energy
+T150	ElectricalEnergy 5949 5960	electricity
+T151	ElectricalEnergy 6040 6051	electricity
+T154	IncreaseDecrease 3510 3515	heats
+T167	SoundEnergy 713 725	sound energy
+T168	SoundEnergy 807 819	sound energy
+T169	SoundEnergy 685 690	sound
+T170	SoundEnergy 548 553	sound
+T171	SoundEnergy 222 227	sound
+T179	ThermalEnergy 1222 1226	heat
+T180	ThermalEnergy 1741 1752	heat energy
+T181	ThermalEnergy 4628 4632	heat
+T182	ThermalEnergy 5620 5624	heat
+T183	ThermalEnergy 3999 4003	heat
+T184	ThermalEnergy 2261 2272	heat energy
+T185	ThermalEnergy 2054 2065	Heat energy
+T186	ThermalEnergy 2128 2139	Heat energy
+T187	ThermalEnergy 6105 6109	heat
+T188	ThermalEnergy 5966 5970	heat
+T189	ThermalEnergy 2640 2644	heat
+T190	TransferEnergy 648 669	energy transformation
+T191	TransferEnergy 1995 2016	energy transformation
+T192	TransferEnergy 2082 2091	converted
+T193	TransferEnergy 2236 2245	converted
+T194	TransferEnergy 5630 5639	converted
+T195	TransferEnergy 6666 6675	converted
+T196	TransferEnergy 3890 3899	converted
+T197	TransferEnergy 274 283	converted
+T198	TransferEnergy 2156 2165	converted
+T199	TransferEnergy 6513 6522	converted
+T200	TransferEnergy 2310 2319	converted
+T201	TransferEnergy 3469 3478	converted
+T202	TransferEnergy 5935 5943	converts
+T204	Insect 562 570	crickets
+T205	Insect 592 600	crickets
+T206	Insect 699 707	crickets
+T208	AnimalPart 614 623	hind legs
+T213	Human 4516 4522	driver
+T217	HumanPart 1332 1336	body
+T218	GeneticRelations 3274 3281	brother
+T219	GeneticRelations 3414 3421	brother
+T221	Plant 1597 1602	trees
+T222	Plant 1514 1527	redwood trees
+T225	LightProducingObject 5059 5063	bulb
+T226	LightProducingObject 5082 5086	bulb
+T247	Use 4622 4627	waste
+T257	SensoryTerms 1090 1094	felt
+T259	SensoryTerms 685 690	sound
+T260	SensoryTerms 548 553	sound
+T262	SensoryTerms 222 227	sound
+T283	Comparisons 5987 5993	slower
+T286	DistanceUnit 4338 4343	miles
+T287	DistanceUnit 4427 4432	miles
+T290	TimeUnit 3347 3354	seconds
+T291	VolumeUnit 4349 4355	gallon
+T292	VolumeUnit 4438 4444	gallon
+T296	PercentUnit 6091 6101	percentage
+T297	PercentUnit 3863 3870	percent
+T298	ManmadeObjects 5171 5177	switch
+T300	Appliance 5789 5798	appliance
+T310	HeatingAppliance 2036 2042	candle
+T311	ElectricAppliance 6017 6020	fan
+T313	ElectricAppliance 6070 6073	fan
+T314	ElectricAppliance 5876 5879	fan
+T315	ElectricAppliance 5927 5930	fan
+T320	Device 5341 5348	machine
+T321	Device 6299 6306	machine
+T322	Device 5427 5434	machine
+T323	Device 5453 5460	machine
+T324	Device 6462 6469	machine
+T325	Device 6324 6330	device
+T329	ElectricityAndCircuits 5171 5177	switch
+T338	LightProducingObject 4930 4953	incandescent light bulb
+T339	LightProducingObject 4907 4911	lamp
+T340	LightProducingObject 5030 5034	lamp
+T341	LightProducingObject 5111 5115	lamp
+T342	LightProducingObject 5143 5147	lamp
+T343	SystemOfCommunication 198 203	radio
+T344	TechnologicalInstrument 198 203	radio
+T345	TechnologicalComponent 5128 5133	wires
+T346	Vehicle 4096 4103	vehicle
+T347	LandVehicle 4551 4554	car
+T348	LandVehicle 3093 3096	car
+T349	LandVehicle 3037 3040	car
+T350	LandVehicle 3827 3830	car
+T351	LandVehicle 2958 2961	car
+T352	LandVehicle 3010 3013	car
+T353	LandVehicle 4309 4312	car
+T354	LandVehicle 4374 4377	car
+T355	LandVehicle 3066 3069	car
+T356	LandVehicle 2875 2878	car
+T357	LandVehicle 4591 4594	car
+T358	LandVehicle 4410 4413	car
+T360	VehicularSystemsParts 3041 3047	engine
+T361	VehicularSystemsParts 3831 3837	engine
+T362	VehicularSystemsParts 4668 4674	engine
+T363	VehicularSystemsParts 4704 4709	tires
+T373	Age 5872 5875	new
+T374	Age 5923 5926	new
+T380	Ability 6473 6483	impossible
+T381	Gender 587 591	male
+T391	Temperature 3510 3515	heats
+T392	Temperature 1095 1098	hot
+T393	Temperature 3053 3056	hot
+T394	Temperature 5069 5072	hot
+T406	Mass 2699 2703	mass
+T407	Mass 4504 4508	mass
+T408	Mass 6528 6532	mass
+T416	Size 1508 1513	Giant
+T419	Texture 3107 3115	slippery
+T421	Force 4568 4578	resistance
+T423	Quality 1976 1980	best
+T424	Quality 4968 4972	best
+T425	Quality 5512 5518	Useful
+T426	Speed 3608 3617	slow down
+T427	Speed 5987 5993	slower
+T428	Speed 3076 3083	quickly
+T429	Speed 3422 3432	slows down
+T432	Brightness 4920 4923	lit
+T433	TemporalProperty 3374 3379	again
+T435	TemporalProperty 5831 5839	original
+T436	TemporalProperty 6008 6016	original
+T437	TemporalProperty 6061 6069	original
+T438	PropertyOfMotion 5994 5998	rate
+T440	PropertyOfMotion 6292 6298	motion
+T441	PropertyOfMotion 6455 6461	motion
+T442	Speed 3022 3027	speed
+T443	Stability 5479 5487	constant
+T445	Position 3301 3307	seated
+T447	Use 4344 4346	on
+T448	RelativeLocations 4389 4391	on
+T450	Use 4433 4435	on
+T454	Cost 5038 5049	inefficient
+T458	Cost 2990 3000	efficiency
+T459	Cost 6559 6569	efficiency
+T460	Cost 5892 5901	efficient
+T461	Hypothesizing 6312 6323	theoretical
+T463	Numbers 6591 6597	amount
+T465	CardinalNumber 2985 2988	100
+T466	CardinalNumber 4334 4337	100
+T467	CardinalNumber 3860 3862	15
+T468	CardinalNumber 610 613	two
+T471	CardinalNumber 1547 1550	one
+T475	RelativeNumber 3341 3346	a few
+T484	RelativeNumber 2891 2895	many
+T487	Calculations 4243 4254	calculation
+T490	EarthPartsGrossGroundAtmosphere 3664 3674	atmosphere
+T491	EarthPartsGrossGroundAtmosphere 6122 6132	atmosphere
+T492	EarthPartsGrossGroundAtmosphere 4603 4606	air
+T493	EarthPartsGrossGroundAtmosphere 1214 1217	air
+T494	EarthPartsGrossGroundAtmosphere 2149 2152	air
+T495	EarthPartsGrossGroundAtmosphere 2303 2306	air
+T496	EarthPartsGrossGroundAtmosphere 3520 3523	air
+T501	FossilFuel 3813 3821	gasoline
+T502	FossilFuel 3878 3886	gasoline
+T503	FossilFuel 3966 3974	gasoline
+T504	FossilFuel 4287 4295	gasoline
+T505	FossilFuel 2921 2925	fuel
+T506	FossilFuel 4531 4535	fuel
+T507	FossilFuel 4448 4452	fuel
+T508	FossilFuel 4359 4363	fuel
+T509	FossilFuel 2975 2979	fuel
+T510	FossilFuel 4656 4660	fuel
+T518	ElectricalEnergy 2665 2672	current
+T525	WeatherPhenomena 1724 1728	wind
+T526	WeatherPhenomena 4563 4567	wind
+T530	OrganicCompounds 2541 2548	methane
+T531	OrganicCompounds 2562 2569	methane
+T532	AtomComponents 2732 2740	neutrons
+T533	MolecularProperties 2551 2556	bonds
+T546	Use 5166 5168	at
+T552	Element 2582 2588	oxygen
+T562	MetalSolids 5121 5127	copper
+T574	Changes 3014 3021	changes
+T586	Changes 1582 1589	changed
+T588	Changes 1613 1619	change
+T589	Changes 1666 1672	change
+T590	Changes 1528 1534	change
+T591	Changes 1763 1769	change
+T592	Changes 1717 1723	change
+T593	Changes 1303 1314	conversions
+T599	ChemicalChange 4642 4652	combustion
+T600	ChemicalChange 3841 3847	burned
+T601	ChemicalChange 2043 2048	burns
+T605	PartsOfChemicalReactions 2691 2698	product
+T613	TransferEnergy 4993 5001	transfer
+T614	TransferEnergy 5549 5560	transferred
+T618	ActUponSomething 3264 3269	gives
+T623	Move 5976 5981	spins
+T624	AmountChangingActions 2681 2690	increases
+T625	AmountChangingActions 5526 5535	decreases
+T629	AmountChangingActions 6110 6114	lost
+T630	AmountChangingActions 6079 6086	reduces
+T631	AmountChangingActions 6547 6554	reduces
+T644	ChangeInto 3048 3052	gets
+T645	ChangeInto 5064 5068	gets
+T649	ChangeInto 6676 6680	into
+T650	ChangeInto 284 288	into
+T651	ChangeInto 6523 6527	into
+T652	ChangeInto 5961 5965	into
+T655	ChangeInto 4045 4057	changed into
+T657	ChangeInto 3900 3904	into
+T658	ChangeInto 2166 2170	into
+T659	ChangeInto 2246 2250	into
+T660	ChangeInto 2092 2096	into
+T662	ChangeInto 2320 2324	into
+T663	ChangeInto 3479 3483	into
+T674	ChangeInto 2715 2731	transformed into
+T675	ChangeInto 3982 3998	transformed into
+T679	CombineAdd 6385 6395	additional
+T680	CombineAdd 3264 3269	gives
+T681	CombineAdd 2577 2581	with
+T682	CombineAdd 2980 2984	with
+T687	Create 2883 2890	produce
+T688	Create 6487 6493	design
+T689	Cause 3592 3597	makes
+T690	Create 234 242	produced
+T692	Create 2653 2662	generates
+T693	Create 5087 5095	produces
+T694	Create 2593 2598	forms
+T696	Cause 4087 4091	make
+T697	Create 554 558	made
+T698	Create 691 695	made
+T699	Create 5816 5826	redesigned
+T700	Create 5799 5811	manufacturer
+T702	Create 5863 5867	made
+T706	Examine 4891 4896	reads
+T707	StopRemove 5410 5419	destroyed
+T709	Identify 3324 3329	finds
+T710	IncreaseDecrease 2681 2690	increases
+T711	IncreaseDecrease 5526 5535	decreases
+T712	Indicate 4973 4983	indication
+T713	Indicate 2941 2950	indicates
+T714	Indicate 4296 4301	shows
+T715	Move 4104 4108	move
+T716	Move 3097 3103	slides
+T718	Move 3392 3397	going
+T719	Move 3550 3555	moves
+T720	Move 6292 6298	motion
+T721	Move 6455 6461	motion
+T722	Move 4331 4333	go
+T724	Move 4419 4423	went
+T727	MechanicalMovement 4382 4388	driven
+T729	Transportation 4536 4543	carried
+T730	Transportation 4382 4388	driven
+T740	Observe 1073 1080	noticed
+T741	Observe 172 181	listening
+T742	Occur 2023 2028	occur
+T743	Occur 1315 1324	occurring
+T744	Occur 2507 2514	happens
+T745	Occur 571 577	occurs
+T747	PerformAnActivity 5435 5443	operates
+T748	PerformAnActivity 6365 6372	operate
+T750	Preserve 3383 3387	keep
+T751	Preserve 4009 4015	stored
+T753	Communicate 1981 1990	describes
+T754	Represent 6429 6438	describes
+T757	Require 266 270	must
+T758	Require 5461 5465	must
+T759	ProbabilityAndCertainty 4313 4319	should
+T760	Require 6026 6034	requires
+T761	Require 3360 3365	needs
+T766	Release 2628 2636	released
+T767	Release 3646 3654	released
+T768	Release 5608 5616	released
+T769	Release 1110 1117	release
+T773	Start 6343 6350	started
+T775	IncreaseDecrease 3608 3617	slow down
+T776	StopRemove 3070 3075	stops
+T778	Succeed 1052 1061	finishing
+T779	Surpass 5466 5474	overcome
+T780	Touch 601 605	rubs
+T781	StateOfBeing 3048 3052	gets
+T782	StateOfBeing 5064 5068	gets
+T783	Use 4079 4083	used
+T785	Use 2929 2933	uses
+T786	Use 5116 5120	uses
+T787	Use 3841 3847	burned
+T789	Use 4020 4023	use
+T790	Use 2971 2974	use
+T792	WaitStay 6620 6627	remains
+T793	WaitStay 6352 6361	continues
+T795	Cause 4459 4471	accounts for
+T797	ResponseType 1966 1975	statement
+T798	ResponseType 6419 6428	statement
+T804	Source 5370 5375	input
+T805	CombineAdd 6396 6401	input
+T807	MarkersOfTime 4035 4039	time
+T808	TimesOfDayDayNight 4877 4882	night
+T810	RelativeTime 4024 4026	at
+T812	StateOfBeing 5982 5984	at
+T820	RelativeTime 1046 1051	After
+T821	RelativeTime 3335 3340	after
+T822	RelativeTime 3289 3294	while
+T825	RelativeTime 5625 5629	when
+T826	RelativeTime 3808 3812	When
+T827	RelativeTime 578 582	when
+T828	RelativeTime 4365 4369	When
+T829	RelativeTime 2029 2033	when
+T830	RelativeTime 2557 2561	when
+T831	RelativeTime 4029 4034	later
+T833	Frequency 5479 5487	constant
+T836	Frequency 6282 6291	perpetual
+T837	Frequency 6445 6454	perpetual
+T838	Frequency 5349 5355	always
+T840	ManmadeLocations 4399 4404	track
+T841	ManmadeLocations 4733 4738	track
+T842	ManmadeLocations 3116 3123	streets
+T843	RelativeLocations 3959 3961	in
+T844	RelativeLocations 6570 6572	in
+T845	RelativeLocations 6608 6610	in
+T847	RelativeLocations 4661 4663	in
+T849	RelativeLocations 2538 2540	in
+T850	RelativeLocations 1325 1327	in
+T851	RelativeLocations 3822 3824	in
+T852	RelativeLocations 4897 4904	next to
+T856	RelativeLocations 3308 3310	on
+T859	RelativeLocations 191 193	on
+T861	RelativeLocations 3104 3106	on
+T863	Cause 559 561	by
+T864	Use 4924 4926	by
+T865	RelativeLocations 4544 4546	by
+T866	Cause 1590 1592	by
+T867	Cause 696 698	by
+T868	RelativeLocations 5568 5580	surroundings
+T869	RelativeLocations 4579 4586	between
+T870	RelativeLocations 4692 4699	between
+T874	RelativeDirection 5561 5563	to
+T876	RelativeDirection 842 844	to
+T877	RelativeDirection 2515 2517	to
+T881	RelativeDirection 804 806	to
+T882	RelativeDirection 726 728	to
+T883	RelativeDirection 1556 1558	to
+T885	Result 4084 4086	to
+T886	RelativeDirection 6115 6117	to
+T891	RelativeDirection 5023 5025	to
+T892	RelativeDirection 763 765	to
+T893	RelativeDirection 1205 1209	from
+T894	RelativeDirection 4633 4637	from
+T895	RelativeDirection 1242 1246	from
+T896	RelativeDirection 2140 2144	from
+T897	RelativeDirection 2220 2224	from
+T898	RelativeDirection 1542 1546	from
+T899	RelativeDirection 2912 2916	from
+T900	RelativeDirection 2066 2070	from
+T901	RelativeDirection 2294 2298	from
+T902	RelativeDirection 1686 1690	into
+T903	RelativeDirection 1788 1792	into
+T909	RelativeDirection 1736 1740	into
+T910	RelativeDirection 1636 1640	into
+T917	RelativeDirection 3655 3659	into
+T935	Comparisons 5361 5365	than
+T936	Comparisons 5999 6003	than
+T937	Comparisons 6052 6056	than
+T938	Comparisons 1559 1566	another
+T939	Comparisons 4484 4494	difference
+T940	QualityComparison 1976 1980	best
+T941	QualityComparison 4968 4972	best
+T942	AmountComparison 5356 5360	less
+T943	AmountComparison 6628 6636	constant
+T944	AmountComparison 1150 1154	most
+T945	AmountComparison 3940 3944	most
+T946	AmountComparison 4472 4476	most
+T948	AmountComparison 5880 5884	more
+T949	AmountComparison 5944 5948	more
+T950	AmountComparison 6035 6039	more
+T951	DistanceComparison 4607 4613	nearby
+T965	Occupation 1024 1044	cross-country runner
+T970	AbilityAvailability 4323 4327	able
+T973	AbilityAvailability 5148 5151	can
+T974	AbilityAvailability 6506 6509	can
+T975	AbilityAvailability 6659 6662	can
+T979	Relations 624 632	together
+T980	SystemAndFunctions 6575 6581	system
+T981	SystemAndFunctions 6613 6619	system
+T989	Representation 4891 4896	reads
+T997	Exemplar 2896 2901	forms
+T998	Exemplar 295 299	type
+T999	Exemplar 640 644	type
+T1000	Exemplar 1551 1555	form
+T1003	Method 1568 1571	How
+T1004	StateOfBeing 3433 3435	is
+T1005	StateOfBeing 3929 3931	is
+T1006	StateOfBeing 168 171	was
+T1007	StateOfBeing 4378 4381	was
+T1009	StateOfBeing 4917 4919	is
+T1010	StateOfBeing 1227 1232	being
+T1011	StateOfBeing 1277 1282	being
+T1013	TypesOfEvent 4394 4398	test
+T1014	TypesOfEvent 1064 1068	race
+T1016	ObjectPart 4718 4725	surface
+T1018	Negations 2967 2970	not
+T1019	Negations 6373 6380	without
+T1024	Result 5322 5328	output
+T1027	Cause 5311 5314	Why
+T1028	Cause 6439 6442	why
+T1029	Cause 1099 1105	due to
+T1030	Cause 3436 3443	because
+T1031	Cause 3932 3939	because
+T1032	Cause 3403 3409	reason
+T1033	Source 1162 1168	source
+T1034	Reactions 2570 2576	reacts
+T1045	ProbabilityAndCertainty 1155 1161	likely
+T1046	Indicate 5908 5913	means
+T1047	ProbabilityAndCertainty 3854 3859	about
+T1048	ProbabilityAndCertainty 2879 2882	may
+T1049	LevelOfInclusion 6381 6384	any
+T1051	LevelOfInclusion 4871 4876	Every
+T1056	LevelOfInclusion 1137 1142	Which
+T1057	LevelOfInclusion 289 294	which
+T1058	LevelOfInclusion 1960 1965	Which
+T1059	LevelOfInclusion 634 639	Which
+T1060	LevelOfInclusion 6413 6418	Which
+T1061	LevelOfInclusion 6331 6336	which
+T1062	LevelOfInclusion 2935 2940	Which
+T1063	LevelOfInclusion 3586 3591	which
+T1064	LevelOfInclusion 4955 4960	Which
+T1068	LevelOfInclusion 5388 5392	Some
+T1069	LevelOfInclusion 5586 5590	Some
+T1071	LevelOfInclusion 3849 3853	only
+T1072	LevelOfInclusion 4414 4418	only
+T1080	BusinessIndustry 5799 5811	manufacturer
+T1087	PopularMedia 185 190	music
+T1088	PERSON 162 167	Katia
+T1089	NUMBER 610 613	two
+T1090	PERSON 1015 1018	Ana
+T1091	NUMBER 1547 1550	one
+T1092	NUMBER 1911 1920	2012_8_34
+T1099	PERSON 3257 3263	Alicia
+T1102	NUMBER 4334 4337	100
+T1103	NUMBER 4424 4426	25
+T1104	PERSON 4884 4890	Johnny
+T1105	TemporalProperty 6338 6342	once
+T203	Goal 205 217	In order for
+T227	StateOfBeing 231 233	be
+T82	StateOfBeing 271 273	be
+T22	MagneticEnergy 334 349	magnetic energy
+T34	Cause 670 680	results in
+T17	StateOfBeing 1019 1021	is
+T18	StateOfBeing 1143 1145	is
+T19	StateOfBeing 1572 1574	is
+T21	Star 1673 1678	solar
+T15	Star 1793 1798	solar
+T24	StateOfBeing 2079 2081	is
+T4	StateOfBeing 2153 2155	is
+T26	StateOfBeing 2233 2235	is
+T56	StateOfBeing 2307 2309	is
+T6	Compound 2599 2605	H_{2}O
+T7	Compound 2610 2616	CO_{2}
+T59	StateOfBeing 2625 2627	is
+T60	StateOfBeing 2637 2639	as
+T61	StateOfBeing 2712 2714	is
+T25	PercentUnit 2988 2989	%
+T39	StateOfBeing 3298 3300	is
+T62	IncreaseDecrease 3422 3432	slows down
+T63	StateOfBeing 3466 3468	is
+T20	StateOfBeing 3643 3645	is
+T13	StateOfBeing 3838 3840	is
+T30	StateOfBeing 3887 3889	is
+T38	StateOfBeing 3975 3977	is
+T40	Source 4255 4263	based on
+T58	StateOfBeing 4320 4322	be
+T1	StateOfBeing 4961 4963	is
+T3	StateOfBeing 5035 5037	is
+T12	StateOfBeing 5152 5154	be
+T16	StopRemove 5155 5165	turned off
+T27	StateOfBeing 5315 5317	is
+T64	StateOfBeing 5407 5409	is
+T65	RelativeTime 5420 5422	as
+T69	RelativeTime 5536 5538	as
+T71	StateOfBeing 5546 5548	is
+T72	StateOfBeing 5605 5607	is
+T73	StateOfBeing 5617 5619	as
+T75	ElectricAppliance 5840 5854	electrical fan
+T77	Alter 5816 5826	redesigned
+T10	StateOfBeing 6307 6309	is
+T11	StateOfBeing 6470 6472	is
+T14	StateOfBeing 6510 6512	be
+T28	StateOfBeing 6663 6665	be

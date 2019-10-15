@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7018008] [MAT_CHEM_ATOMIC]
+What best describes the electrical property of an atom?
+(A) neutral
+(B) insulated
+(C) positively charged
+(D) negatively charged
+----------------------------------------------------------------------------------------------
+[Mercury_7007630] [MAT_CHEM_ATOMIC]
+Where are electrons in an atom located?
+(A) models
+(B) orbitals
+(C) energy levels
+(D) electron clouds
+----------------------------------------------------------------------------------------------
+[Mercury_182595] [MAT_CHEM_ATOMIC, ENG_FORMS_MECH]
+The energy required to lift an object is supplied by ATP derived from the breakdown of molecules of
+(A) glutamate.
+(B) glycerol.
+(C) glycolysis.
+(D) glucose.
+----------------------------------------------------------------------------------------------
+[Mercury_7057558] [MAT_CHEM_ATOMIC, MAT_CHEM_CHEMREACT]
+Which part of an atom is involved in chemical reactions?
+(A) nucleus and its particles
+(B) negatively-charged particles
+(C) neutrally-charged particles
+(D) positively-charged particles
+----------------------------------------------------------------------------------------------
+[Mercury_7205135] [MAT_CHEM_ATOMIC, MAT_COS_MELTING]
+How are the particles in a block of iron affected when the block is melted?
+(A) The particles gain mass.
+(B) The particles contain less energy.
+(C) The particles move more rapidly.
+(D) The particles increase in volume.
+----------------------------------------------------------------------------------------------
+[Mercury_7114048] [MAT_CHEM_ATOMIC, MAT_MEAS_UNIT_DIST]
+A scientist uses angstrom units to measure the distance between two points. The scientist is most likely measuring the distance between two
+(A) atoms.
+(B) cities.
+(C) continents.
+(D) stars.
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_8_pg7] [MAT_CHEM_ATOMIC, MAT_STATES_LIQUID, MAT_STATES_GAS]
+Which statement is true about the particles of a liquid compared to the particles of a gas?
+(A) Particles of a liquid are a slower and further apart.
+(B) Particles of a liquid are faster and farther apart.
+(C) Particles of a liquid are slower and closer together.
+(D) Particles of a liquid are faster and closer together.
+----------------------------------------------------------------------------------------------
+[CSZ_2007_5_CSZ20560] [MAT_CHEM_CHEMREACT]
+Which of the following represents a chemical reaction?
+(A) a sugar cube dissolving in water.
+(B) ice cubes forming in a freezer.
+(C) ice cream melting in a bowl.
+(D) a cake baking in an oven.
+----------------------------------------------------------------------------------------------
+[Mercury_407660] [MAT_CHEM_CHEMREACT]
+Which is an example of a chemical reaction?
+(A) Vinegar added to baking soda forms a gas.
+(B) Water evaporates into air.
+(C) Sugar dissolves in water.
+(D) Corn kernels are crushed to form flour.
+----------------------------------------------------------------------------------------------
+[Mercury_7179778] [MAT_CHEM_CHEMREACT]
+Which is evidence of a chemical reaction?
+(A) the light produced by magnesium when burned
+(B) the evaporation of water from a solution
+(C) the fizzing of a soft drink
+(D) the heat from a light bulb
+----------------------------------------------------------------------------------------------
+[Mercury_402213] [MAT_CHEM_CHEMREACT]
+Which of these does not illustrate substances reacting to form new substances?
+(A) H_{2}O(l) -> H_{2}O(g)
+(B) 2H_{2} + O_{2} -> 2H_{2}O
+(C) 2Na + Cl_{2} -> 2NaCl
+(D) 6CO_{2} + 6H_{2}O -> C_{6}H_{12}O_{6} + 6O_{2}
+----------------------------------------------------------------------------------------------
+[Mercury_7011078] [MAT_CHEM_CHEMREACT]
+Hydrogen gas and oxygen gas combine to form water. Which would be a more concise way of expressing what happens in this chemical reaction?
+(A) write a chemical formula
+(B) write a chemical equation
+(C) describe the rearrangement of the atoms
+(D) describe the procedure for creating this change
+----------------------------------------------------------------------------------------------
+[TAKS_2009_8_2] [MAT_CHEM_CHEMREACT]
+A drain cleaner consists of sodium hydroxide and aluminum. When the drain cleaner is added to water, bubbles of hydrogen are produced, and the solution becomes very hot. Which of these best describes what happens to form the bubbles when the cleaner is added to water? F
+(A) chemical reaction
+(B) Condensation
+(C) A physical change
+(D) Evaporation
+----------------------------------------------------------------------------------------------
+[Mercury_402571] [MAT_CHEM_CHEMREACT]
+What are the names of the products in the chemical equation shown below? HCl + NaHCO_{3} -> NaCl + CO_{2} + H_{2}O
+(A) hydrochloric acid and sodium carbonate
+(B) sodium chloride, carbon dioxide, and water
+(C) hydrogen chloride and sodium bicarbonate
+(D) sodium chloride, carbon monoxide, and dihydrogen oxide
+----------------------------------------------------------------------------------------------
+[Mercury_7085855] [MAT_CHEM_CHEMREACT]
+What is formed when a sodium atom and chlorine atom react chemically?
+(A) an element
+(B) a compound
+(C) an electron
+(D) a neutron
+----------------------------------------------------------------------------------------------
+[Mercury_402570] [MAT_CHEM_CHEMREACT]
+What is the name of the product formed from the reaction shown below? 4Fe(III) + 3O_{2} -> 2Fe_{2}O_{3}
+(A) iron (II) oxide
+(B) iron (III) oxide
+(C) oxygen ferrite
+(D) diferrous trioxide
+----------------------------------------------------------------------------------------------
+[Mercury_401030] [MAT_CHEM_CHEMREACT]
+Read the equation. 2Ca + O_{2} -> 2CaO What is the product of the reaction?
+(A) metal
+(B) mixture
+(C) solution
+(D) compound
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_23] [MAT_CHEM_CHEMREACT]
+If a chemical reaction such as photosynthesis begins with 6 atoms of carbon [C], how many atoms of carbon [C] should be in the products?
+(A) 12 atoms of carbon [C]
+(B) 6 atoms of carbon [C]
+(C) 3 atoms of carbon [C]
+(D) 2 atoms of carbon [C]
+----------------------------------------------------------------------------------------------
+[Mercury_402217] [MAT_CHEM_CHEMREACT]
+A solution of lead (II) nitrate reacts with a solution of sodium iodide to produce a yellow solid of lead (II) iodide and aqueous sodium nitrate. Which of these illustrates the reaction?
+(A) Pb(NO_{3})_{2}(aq) + 2NaI(aq) -> PbI_{2}(s) + 2NaNO_{3}(aq)
+(B) L_{2}N(aq) + SI(aq) -> L_{2}I(s) + SN(aq)
+(C) Pb_{2}N(aq) + NaI(aq) -> Pb_{2}I(s) NaN(aq)
+(D) Fe(NO_{3})_{2}(aq) + 2NaI(aq) -> FeI_{2} + 2NaNO_{3}(aq)
+----------------------------------------------------------------------------------------------
+[Mercury_400507] [MAT_CHEM_CHEMREACT]
+Hydrochloric acid (HCl) reacts with sodium hydroxide (NaOH) to produce a saltwater solution. What are the products of this chemical reaction?
+(A) NaCl and H_{2}O
+(B) NaOH and HCl
+(C) HCl and NaCl
+(D) NaOH and H_{2}O
+----------------------------------------------------------------------------------------------
+[Mercury_7084000] [MAT_CHEM_CHEMREACT]
+Which of these is true when a piece of wood is completely burned in a fire?
+(A) The change in the wood is reversible.
+(B) The energy in the wood is destroyed.
+(C) The change in the wood is physical.
+(D) The energy in the wood is transformed.
+----------------------------------------------------------------------------------------------
+[Mercury_400886] [MAT_CHEM_CHEMREACT]
+What are the products in the chemical reaction below? NaOH + HCl -> NaCl + H_{2}O
+(A) sodium hydroxide and hydrogen chloride
+(B) sodium chloride and water
+(C) sodium, chlorine, hydrogen, and oxygen
+(D) sodium, chlorine, and water
+----------------------------------------------------------------------------------------------
+[Mercury_7057278] [MAT_CHEM_CHEMREACT]
+A teacher demonstrates a chemical reaction. A student observes that the test tube in which the reaction occurs becomes warm. What is the source of the thermal energy generated by the reaction?
+(A) energy stored in the reactants
+(B) breaking bonds of the reactants
+(C) kinetic energy absorbed by the reaction
+(D) potential energy absorbed by the reaction
+----------------------------------------------------------------------------------------------
+[TIMSS_2011_8_pg34] [MAT_CHEM_CHEMREACT]
+Why can a small fire be put out by placing a heavy blanket over it?
+(A) This lowers the temperature.
+(B) This makes the flames smaller.
+(C) This absorbs the burning substance.
+(D) This keeps oxygen from reaching the fire.
+----------------------------------------------------------------------------------------------
+[Mercury_401863] [MAT_CHEM_CHEMREACT]
+The chemical equation below shows reactants and products. 6CO_{2} + 12H_{2}O + light + enzymes -> C_{6}H_{12}O_{6} + 6O_{2} + 6H_{2}O Which statement is best supported by analyzing this equation?
+(A) CO_{2} is made from the chemical reaction.
+(B) No new compounds are made from this reaction.
+(C) O_{2}, oxygen gas, is needed to make the reaction start.
+(D) The atoms rearrange in the chemical reaction so that C_{6}H_{12}O_{6}, glucose, is made.

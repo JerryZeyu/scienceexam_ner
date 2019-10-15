@@ -1,0 +1,347 @@
+T3	Energy 2241 2247	energy
+T4	Energy 2514 2522	chemical
+T8	ThermalEnergy 2251 2255	heat
+T9	TransferEnergy 1398 1407	converted
+T10	TransferEnergy 3716 3724	converts
+T12	Animal 1288 1295	animals
+T13	Animal 1339 1345	animal
+T28	AnimalPart 1071 1075	body
+T29	AnimalPart 3609 3613	body
+T33	AnimalPart 795 799	body
+T38	AnimalPart 233 239	organs
+T40	ActionsForAnimals 1346 1350	eats
+T41	Human 161 166	human
+T42	Human 2620 2625	human
+T43	Human 2981 2986	human
+T44	Human 3672 3677	human
+T45	Human 1668 1674	doctor
+T46	Human 1786 1792	doctor
+T48	HumanPart 3873 3877	body
+T49	HumanPart 3711 3715	body
+T50	HumanPart 3763 3767	body
+T53	HumanPart 3678 3682	body
+T54	HumanPart 2987 2991	body
+T55	HumanPart 167 171	body
+T57	HumanPart 2626 2630	body
+T58	HumanPart 3817 3821	body
+T70	GeneticProcesses 2736 2753	protein synthesis
+T72	PartsOfDNA 3731 3742	amino acids
+T73	OrganicProcesses 778 787	naturally
+T76	Consumption 1346 1350	eats
+T82	LivingDying 1309 1316	survive
+T84	Metabolism 2158 2176	metabolic reaction
+T85	Toxins 1053 1058	waste
+T86	Toxins 1413 1418	waste
+T87	AnimalSystemsProcesses 1744 1756	organ system
+T88	AnimalSystemsProcesses 4542 4551	lymphatic
+T89	DigestiveSystem 1841 1857	digestive system
+T90	DigestiveSystem 4089 4105	digestive system
+T91	DigestiveSystem 4496 4505	digestive
+T92	DigestiveSystem 751 760	digestive
+T93	DigestiveSystem 1124 1133	digestive
+T94	DigestionActions 4483 4490	absorbs
+T95	DigestionActions 176 185	digestion
+T96	DigestionActions 2085 2094	digestion
+T97	DigestionActions 2704 2713	digestion
+T98	DigestionActions 3174 3183	digesting
+T99	DigestionActions 2997 3004	digests
+T100	DigestionActions 3878 3885	digests
+T102	DigestionActions 1458 1466	digested
+T103	PartsOfTheDigestiveSystem 279 294	small intestine
+T104	PartsOfTheDigestiveSystem 4238 4253	small intestine
+T105	PartsOfTheDigestiveSystem 339 354	large intestine
+T109	PartsOfTheDigestiveSystem 3410 3417	stomach
+T110	PartsOfTheDigestiveSystem 4211 4218	stomach
+T111	PartsOfTheDigestiveSystem 3069 3076	stomach
+T112	PartsOfTheDigestiveSystem 3349 3356	stomach
+T113	PartsOfTheDigestiveSystem 3208 3215	stomach
+T114	PartsOfTheDigestiveSystem 2065 2072	stomach
+T115	PartsOfTheDigestiveSystem 267 274	Stomach
+T116	PartsOfTheDigestiveSystem 255 262	stomach
+T118	PartsOfTheDigestiveSystem 3291 3298	stomach
+T119	PartsOfTheDigestiveSystem 1713 1720	stomach
+T120	PartsOfTheDigestiveSystem 4149 4154	teeth
+T121	PartsOfTheDigestiveSystem 1702 1711	esophagus
+T122	PartsOfTheDigestiveSystem 309 321	gall bladder
+T123	PartsOfTheDigestiveSystem 299 304	Liver
+T124	PartsOfTheDigestiveSystem 4162 4167	mouth
+T125	PartsOfTheDigestiveSystem 3237 3242	mouth
+T126	PartsOfTheDigestiveSystem 4186 4191	mouth
+T127	PartsOfTheDigestiveSystem 245 250	Mouth
+T128	PartsOfTheDigestiveSystem 3392 3397	mouth
+T129	PartsOfTheDigestiveSystem 1726 1736	intestines
+T130	PartsOfTheDigestiveSystem 326 334	Pancreas
+T131	DigestiveSubstances 2944 2960	Salivary amylase
+T132	DigestiveSubstances 3092 3108	salivary amylase
+T133	DigestiveSubstances 3142 3158	salivary amylase
+T135	DigestiveSubstances 2501 2508	Amylase
+T138	DigestiveSubstances 2605 2612	amylase
+T139	DigestiveSubstances 4196 4203	enzymes
+T140	DigestiveSubstances 4223 4230	enzymes
+T141	DigestiveSubstances 3159 3165	enzyme
+T142	DigestiveSubstances 2967 2973	enzyme
+T143	DigestiveSubstances 2684 2690	enzyme
+T144	DigestiveSubstances 2041 2047	enzyme
+T145	DigestiveSubstances 3051 3057	saliva
+T146	DigestiveSubstances 4172 4178	saliva
+T149	DigestiveSubstances 2028 2034	Pepsin
+T150	DigestiveSubstances 2143 2149	pepsin
+T151	RespiratorySystem 1081 1092	respiratory
+T152	RespiratorySystem 4526 4537	respiratory
+T153	PartsOfTheRespiratorySystem 4162 4167	mouth
+T154	PartsOfTheRespiratorySystem 3237 3242	mouth
+T155	PartsOfTheRespiratorySystem 4186 4191	mouth
+T156	PartsOfTheRespiratorySystem 245 250	Mouth
+T157	PartsOfTheRespiratorySystem 3392 3397	mouth
+T159	CirculatorySystem 4510 4521	circulatory
+T160	CirculatorySystem 1798 1816	circulatory system
+T161	CirculationActions 1423 1434	transported
+T162	PartsOfTheCirculatorySystem 299 304	Liver
+T163	Blood 1442 1453	bloodstream
+T164	EndocrineSystem 1110 1119	endocrine
+T165	EndocrineActions 2642 2651	inhibitor
+T166	PartsOfEndocrineSystem 3410 3417	stomach
+T167	PartsOfEndocrineSystem 4211 4218	stomach
+T168	PartsOfEndocrineSystem 3069 3076	stomach
+T169	PartsOfEndocrineSystem 3349 3356	stomach
+T170	PartsOfEndocrineSystem 3208 3215	stomach
+T171	PartsOfEndocrineSystem 2065 2072	stomach
+T172	PartsOfEndocrineSystem 267 274	Stomach
+T173	PartsOfEndocrineSystem 255 262	stomach
+T175	PartsOfEndocrineSystem 3291 3298	stomach
+T176	PartsOfEndocrineSystem 1713 1720	stomach
+T177	PartsOfEndocrineSystem 299 304	Liver
+T178	PartsOfEndocrineSystem 326 334	Pancreas
+T179	PartsOfEndocrineSystem 2655 2662	insulin
+T180	NervousSystem 1862 1876	nervous system
+T181	MuscularSystem 1821 1836	muscular system
+T182	MuscularSystemActions 1005 1013	contract
+T183	PartsOfTheMuscularSystem 979 999	smooth muscle tissue
+T185	SkeletalSystem 1097 1105	skeletal
+T186	SensoryTerms 696 702	flavor
+T188	PropertiesOfSickness 568 586	stomach discomfort
+T190	Medicine 517 541	calcium carbonate tablet
+T192	Medicine 642 650	medicine
+T193	MedicalTerms 1679 1685	treats
+T194	MedicalTerms 554 563	treatment
+T195	Nutrition 1351 1355	food
+T196	Nutrition 3327 3331	food
+T197	Nutrition 3184 3188	food
+T198	Nutrition 3269 3273	food
+T199	Nutrition 1361 1365	food
+T200	Nutrition 1301 1305	food
+T201	Nutrition 4139 4143	food
+T202	Nutrition 3024 3028	food
+T203	Nutrition 3366 3370	food
+T204	Nutrition 4455 4459	food
+T205	Nutrition 3897 3901	food
+T206	Nutrition 3035 3039	food
+T207	Nutrition 1039 1048	nutrients
+T208	NutritiveSubstancesForAnimalsOrPlants 3912 3919	leucine
+T209	NutritiveSubstancesForAnimalsOrPlants 3746 3753	leucine
+T210	NutritiveSubstancesForAnimalsOrPlants 3856 3863	leucine
+T211	NutritiveSubstancesForAnimalsOrPlants 3800 3807	leucine
+T212	NutritiveSubstancesForAnimalsOrPlants 3694 3701	leucine
+T213	NutritiveSubstancesForAnimalsOrPlants 3570 3577	Leucine
+T214	NutritiveSubstancesForAnimalsOrPlants 2775 2791	fatty acid chain
+T215	NutritiveSubstancesForAnimalsOrPlants 2563 2570	dextrin
+T216	NutritiveSubstancesForAnimalsOrPlants 2077 2084	protein
+T218	NutritiveSubstancesForAnimalsOrPlants 3886 3893	protein
+T219	NutritiveSubstancesForAnimalsOrPlants 3005 3018	carbohydrates
+T220	NutritiveSubstancesForAnimalsOrPlants 3775 3788	carbohydrates
+T221	NutritiveSubstancesForAnimalsOrPlants 189 197	proteins
+T222	NutritiveSubstancesForAnimalsOrPlants 2539 2545	starch
+T223	NutritiveSubstancesForAnimalsOrPlants 4196 4203	enzymes
+T224	NutritiveSubstancesForAnimalsOrPlants 4223 4230	enzymes
+T225	NutritiveSubstancesForAnimalsOrPlants 3834 3845	fatty acids
+T226	NutritiveSubstancesForAnimalsOrPlants 3159 3165	enzyme
+T227	NutritiveSubstancesForAnimalsOrPlants 2967 2973	enzyme
+T228	NutritiveSubstancesForAnimalsOrPlants 2684 2690	enzyme
+T229	NutritiveSubstancesForAnimalsOrPlants 2041 2047	enzyme
+T230	NutritiveSubstancesForAnimalsOrPlants 2551 2558	maltose
+T231	NutritiveSubstancesForAnimalsOrPlants 3592 3603	amino acids
+T232	NutritiveSubstancesForAnimalsOrPlants 3731 3742	amino acids
+T236	ActionsForNutrition 4483 4490	absorbs
+T237	MeasuringSpeed 2198 2202	rate
+T241	IncreaseDecrease 3109 3114	slows
+T243	AcidityUnit 3198 3200	pH
+T257	PH 761 765	acid
+T259	PH 3198 3200	pH
+T264	Temperature 3308 3319	temperature
+T267	Numbers 3252 3265	concentration
+T274	Hardness 508 516	chewable
+T275	Quality 2578 2582	best
+T276	Quality 687 695	pleasant
+T277	Rarity 547 553	common
+T278	Speed 3109 3114	slows
+T279	Complexity 1472 1479	simpler
+T280	TemporalProperty 1318 1329	Immediately
+T281	TemporalProperty 4106 4111	first
+T285	Cost 711 722	inexpensive
+T292	AmountComparison 3115 3127	dramatically
+T293	CardinalNumber 112 114	12
+T294	CardinalNumber 229 232	two
+T295	CardinalNumber 3581 3584	one
+T296	AmountComparison 3219 3224	lower
+T316	Compound 588 605	Calcium carbonate
+T317	Compound 659 676	calcium carbonate
+T318	Compound 2340 2349	chemicals
+T319	ElementalComponents 4465 4474	molecules
+T333	StateOfMatter 1032 1038	liquid
+T334	StateOfMatter 1022 1027	solid
+T340	Substances 761 765	acid
+T342	Substances 1480 1490	substances
+T347	ChemicalChange 739 750	neutralizes
+T348	ChemicalChange 4119 4134	chemical change
+T351	PartsOfChemicalReactions 2723 2731	catalyst
+T352	PartsOfChemicalReactions 2763 2771	receptor
+T353	PartsOfChemicalReactions 2642 2651	inhibitor
+T355	TypesOfChemicalReactions 2528 2538	decomposes
+T361	Reactions 2206 2214	reaction
+T362	Reactions 2292 2300	reaction
+T363	Reactions 2320 2328	reaction
+T372	AmountChangingActions 3332 3341	increases
+T373	AmountChangingActions 3274 3283	decreases
+T375	AmountChangingActions 2222 2228	reduce
+T376	AmountChangingActions 2233 2237	loss
+T378	ChangeInto 1408 1412	into
+T379	ChangeInto 1467 1471	into
+T380	ChangeInto 2546 2550	into
+T381	ChangeInto 4460 4464	into
+T383	ChangeInto 3743 3745	to
+T385	CombineAdd 3058 3064	enters
+T386	CombineAdd 3040 3050	mixed with
+T387	CombineAdd 3374 3379	mixed
+T389	ContainBeComposedOf 681 684	has
+T390	ContainBeComposedOf 965 968	has
+T391	ContainBeComposedOf 3789 3799	containing
+T392	Create 726 733	produce
+T393	Create 2663 2670	product
+T397	Create 3631 3635	make
+T398	DigestionActions 3822 3833	breaks down
+T400	Help 2696 2700	aids
+T401	Help 1760 1769	cared for
+T402	Help 2308 2315	protect
+T403	IncreaseDecrease 3332 3341	increases
+T404	IncreaseDecrease 3274 3283	decreases
+T407	Move 1017 1021	move
+T408	Move 3058 3064	enters
+T410	Transportation 1423 1434	transported
+T414	Occur 3652 3659	happens
+T415	Occur 771 777	occurs
+T416	Preserve 3768 3774	stores
+T417	Preserve 1373 1379	stored
+T418	Preserve 2308 2315	protect
+T419	Represent 2583 2592	describes
+T420	Require 1296 1300	need
+T422	Require 3614 3619	needs
+T430	StopRemove 3169 3173	stop
+T432	Uptake 3687 3693	obtain
+T433	Uptake 3849 3855	obtain
+T434	Uptake 3905 3911	obtain
+T435	Use 621 625	used
+T436	Use 1390 1393	use
+T437	ActUponSomething 2263 2270	control
+T438	RelativeTime 1330 1335	after
+T440	RelativeTime 3030 3034	When
+T441	RelativeTime 1384 1389	later
+T443	RelativeLocations 3230 3232	in
+T444	RelativeLocations 3342 3344	in
+T445	RelativeLocations 3385 3387	in
+T446	RelativeLocations 4179 4181	in
+T447	RelativeLocations 2058 2060	in
+T448	RelativeLocations 220 222	in
+T449	RelativeLocations 4204 4206	in
+T450	RelativeLocations 788 790	in
+T451	RelativeLocations 2150 2152	in
+T452	RelativeLocations 3403 3405	in
+T453	RelativeLocations 4155 4157	in
+T454	RelativeLocations 3894 3896	in
+T455	RelativeLocations 2613 2615	in
+T456	RelativeLocations 4231 4233	in
+T457	RelativeLocations 2974 2976	in
+T459	RelativeLocations 154 156	In
+T460	RelativeLocations 3284 3286	in
+T461	Cause 1435 1437	by
+T462	Cause 1770 1772	by
+T463	Directions 2275 2284	direction
+T473	RelativeDirection 4136 4138	to
+T478	RelativeDirection 2329 2333	from
+T479	RelativeDirection 3019 3023	from
+T487	PrepositionalDirections 1059 1066	through
+T490	Comparisons 3225 3229	than
+T491	Comparisons 3398 3402	than
+T492	Comparisons 2334 2339	other
+T493	Comparisons 3725 3730	other
+T494	QualityComparison 2578 2582	best
+T496	AmountComparison 609 613	most
+T497	AmountComparison 2114 2118	most
+T498	AmountComparison 3380 3384	more
+T499	ImportanceComparison 210 219	primarily
+T500	ImportanceComparison 2130 2134	main
+T503	Occupation 1668 1674	doctor
+T504	Occupation 1786 1792	doctor
+T505	Occupation 1644 1662	gastroenterologist
+T506	Scientists 1644 1662	gastroenterologist
+T509	NaturalSelection 1309 1316	survive
+T511	AbilityAvailability 3624 3630	cannot
+T512	AbilityAvailability 3683 3686	can
+T517	AnimalSystemsProcesses 958 964	system
+T521	SystemAndFunctions 2135 2139	role
+T522	SystemAndFunctions 2597 2601	role
+T536	Exemplar 634 638	type
+T537	Exemplar 1778 1782	type
+T547	StateOfBeing 2636 2638	as
+T548	StateOfBeing 708 710	is
+T550	PerformAnActivity 2053 2057	acts
+T551	Actions 3082 3088	action
+T564	ObjectPart 4077 4081	part
+T565	ObjectQuantification 969 975	layers
+T566	Negations 3620 3623	but
+T571	Cause 3135 3141	causes
+T572	Cause 4112 4118	causes
+T573	Cause 4425 4436	responsible
+T574	Cause 651 658	because
+T588	ProbabilityAndCertainty 614 620	likely
+T589	ProbabilityAndCertainty 2119 2125	likely
+T590	LevelOfInclusion 1284 1287	All
+T593	LevelOfInclusion 2105 2110	these
+T594	LevelOfInclusion 3646 3651	these
+T595	LevelOfInclusion 952 957	Which
+T596	LevelOfInclusion 223 228	which
+T597	LevelOfInclusion 2096 2101	Which
+T598	LevelOfInclusion 3129 3134	Which
+T599	LevelOfInclusion 1738 1743	Which
+T600	LevelOfInclusion 4404 4409	Which
+T601	LevelOfInclusion 2572 2577	Which
+T602	LevelOfInclusion 3637 3642	Which
+T606	Problem 1686 1694	problems
+T614	NUMBER 111 114	+12
+T615	NUMBER 229 232	two
+T616	NUMBER 3581 3584	one
+T617	ORDINAL 4106 4111	first
+T32	Occur 198 209	takes place
+T11	StateOfBeing 542 544	is
+T17	StateOfBeing 606 608	is
+T23	StateOfBeing 626 628	as
+T39	StateOfBeing 1366 1368	is
+T51	StateOfBeing 1663 1665	is
+T22	StateOfBeing 1757 1759	is
+T37	StateOfBeing 2035 2037	is
+T56	StateOfBeing 2111 2113	is
+T60	IncreaseDecrease 2185 2193	speed up
+T61	Speed 2185 2193	speed up
+T65	StateOfBeing 2248 2250	as
+T2	StateOfBeing 2509 2511	is
+T7	StateOfBeing 2678 2680	as
+T34	StateOfBeing 2718 2720	as
+T67	StateOfBeing 2758 2760	as
+T77	StateOfBeing 2961 2963	is
+T1	StateOfBeing 3216 3218	is
+T15	StateOfBeing 3371 3373	is
+T18	StateOfBeing 3578 3580	is
+T20	PartsOfDNA 3592 3603	amino acids
+T31	Result 3660 3667	so that
+T5	AnimalSystemsProcesses 4410 4421	body system
+T14	StateOfBeing 4422 4424	is
+T16	DigestionActions 4441 4454	breaking down

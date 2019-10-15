@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7133840] [FOR_PRESSURE]
+Pedro shook a can of soda. When the soda was opened, foam and soda burst from the can. Which statement best explains what happened?
+(A) A new substance was formed.
+(B) The gas pressure was released from the can.
+(C) The sugar in the soda turned into a gas.
+(D) The can absorbed heat from the air.
+----------------------------------------------------------------------------------------------
+[VASoL_2008_5_28] [FOR_PRESSURE, EARTH_OUTER_HYDRO]
+Submarines have explored many parts of the ocean. As submarines descend, scientists observe that there is an increase in the -
+(A) amount of light
+(B) water temperature
+(C) water pressure
+(D) types of ocean organisms
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408423] [FOR_VELOCITY]
+Marni runs 1500 meters around the school track. What does she need to know in order to find out her speed?
+(A) her time from start to finish
+(B) the number of steps she took
+(C) her heart rate at the finish line
+(D) the direction she began running
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_3] [FOR_VELOCITY]
+A girl walked for 30 minutes. She noticed that she traveled farther in the first 15 minutes of her walk than in the second 15 minutes. What can she conclude about her walk?
+(A) She walked over many hills.
+(B) Her average speed was faster during the first half of her walk.
+(C) She walked in two different directions.
+(D) She was walking at a constant speed.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_21] [FOR_VELOCITY]
+Which best describes the speed of a ball as it is thrown straight up into the air and comes back down?
+(A) The ball goes up at a constant speed, stops, then comes down at a constant speed.
+(B) The ball goes up at a constant speed, stops, and increases speed as it comes down.
+(C) The ball goes slower and slower as it goes up, stops, and then goes faster and faster as it comes down.
+(D) The ball goes slower and slower as it goes up, stops, and then comes down at a constant speed.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_22] [FOR_VELOCITY]
+What can cause a moving object to increase its speed in a forward direction?
+(A) a force pushing on the object from the opposite direction
+(B) a force that continually acts on the object in the direction the object is moving
+(C) an increase in the mass of the object
+(D) a decrease in the mass of the object
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408364] [FOR_VELOCITY]
+Tim and Carla play catch with a ball. Which term describes the motion of a ball?
+(A) shape
+(B) size
+(C) speed
+(D) weight
+----------------------------------------------------------------------------------------------
+[MEA_2013_5_6] [FOR_VELOCITY]
+What information is needed to calculate the speed of a car?
+(A) the road conditions and type of tires
+(B) the type of engine and the amount of gas used by the engine
+(C) the car length and distance traveled
+(D) the distance travel
+----------------------------------------------------------------------------------------------
+[Mercury_410719] [FOR_VELOCITY]
+A student pushes a shopping cart filled with groceries. The cart has a mass of 12 kilograms (kg). The student pushes the cart with a force of 15 newtons (N). Assuming the ground is frictionless, how fast will the cart accelerate until the student stops applying the force?
+(A) 0.625 m/s^2
+(B) 0.8 m/s^2
+(C) 1.25 m/s^2
+(D) 2.5 m/s^2
+----------------------------------------------------------------------------------------------
+[Mercury_409819] [FOR_VELOCITY]
+Laura prepared to roll a bowling ball down a lane. She swung the ball back with her arm. At the top of her backswing, the ball had a velocity of 0 meters per second (m/s). She swung her arm forward to release the ball down the lane. The ball left her hand with a velocity of 12 m/s. The time it took her to swing the ball forward was 0.5 seconds. What was the average acceleration of the bowling ball during her forward swing?
+(A) 2.4 m/s^2
+(B) 6.0 m/s^2
+(C) 11.5 m/s^2
+(D) 24.0 m/s^2
+----------------------------------------------------------------------------------------------
+[Mercury_402206] [FOR_VELOCITY]
+Traveling in opposite directions, buses A and B are passing each other at the relative speed of 25 km/h, while a passenger on bus A walks toward the back of the bus at the speed of 5 km/h. What is the velocity of the passenger on bus A relative to bus B?
+(A) 20 km/h in the direction of bus A
+(B) 20 km/h in the direction of bus B
+(C) 30 km/h in the direction of bus A
+(D) 30 km/h in the direction of bus B
+----------------------------------------------------------------------------------------------
+[Mercury_7234640] [FOR_VELOCITY]
+Which word best describes the speed of a cart that has a positive velocity and a negative acceleration?
+(A) slow
+(B) fast
+(C) decreasing
+(D) increasing
+----------------------------------------------------------------------------------------------
+[AIMS_2008_8_20] [FOR_VELOCITY]
+The students were told that the net applied force from the engine was the same for each vehicle tested. Based on this information, which vehicle had the greatest acceleration (a = F/m)?
+(A) vehicle 1
+(B) vehicle 2
+(C) vehicle 3
+(D) vehicle 4
+----------------------------------------------------------------------------------------------
+[CSZ30494] [FOR_VELOCITY]
+Which of the following represents the velocity of a moving object?
+(A) 40
+(B) 40 m north
+(C) 40 m/s
+(D) 40 m/s north

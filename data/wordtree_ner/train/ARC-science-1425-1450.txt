@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7187530] [ENG_POTENTIALKINETIC, MAT_PROPO_MASS, MAT_PROPO_LEN]
+A student is organizing a room. She moves a box from the floor to a shelf. She wants to estimate the amount of potential energy the box has on the shelf. What information does the student need?
+(A) the volume and mass of the box
+(B) the mass of the shelf and the mass of the box
+(C) the mass of the box and the height of the shelf
+(D) the volume of the box and the height of the shelf
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_8_pg128] [ENG_SOUND_AMPLITUDE]
+A sound is heard when you pluck a string on a guitar. What will happen to the sound if the same string is plucked harder?
+(A) The volume will stay the same, and the pitch will be higher.
+(B) The pitch will stay the same, and the volume will be higher.
+(C) Both the pitch and the volume will be higher.
+(D) Both the pitch and the volume will stay the same.
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_8_pg35] [ENG_SOUND_AMPLITUDE]
+When sound waves with large amplitude are compared to sound waves with small amplitude, which of the following is true?
+(A) Sound waves with large amplitudes have less energy and sound quieter.
+(B) Sound waves with large amplitudes have more energy and sound louder.
+(C) Sound waves with large amplitudes have the same energy and sound quieter.
+(D) Sound waves with large amplitudes have the same energy and sound louder.
+----------------------------------------------------------------------------------------------
+[Mercury_7222373] [ENG_SOUND_DOPPLER]
+Based on the Doppler effect, the electromagnetic waves reaching Earth from a galaxy that is moving away from Earth would be expected to
+(A) experience an increase in their amplitude.
+(B) experience an increase in frequency.
+(C) experience a decrease from transverse waves to longitudinal waves.
+(D) experience a decrease in frequency.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405129] [ENG_SOUND_ECHO]
+A student in an empty classroom shouts, "Hello!" Which best explains what the student hears after the shout?
+(A) an increased loudness of sound
+(B) a reflection of sound
+(C) an increased frequency of sound
+(D) a refraction of sound
+----------------------------------------------------------------------------------------------
+[Mercury_SC_404979] [ENG_SOUND_ECHO]
+Campers shouted toward a canyon wall. What characteristic of sound best explains why the campers heard an echo?
+(A) Sound waves traveled slowly down the canyon.
+(B) Sound waves were absorbed by the canyon wall.
+(C) Sound waves reflected off the canyon wall.
+(D) Sound waves were refracted around the canyon.
+----------------------------------------------------------------------------------------------
+[Mercury_7164605] [ENG_SOUND_ECHO]
+Some students were on a tour exploring the inside of a cave. While the students were in the cave, they realized they heard an echo every time that they spoke. Which most likely caused the echo to occur?
+(A) the accumulation of the sound waves
+(B) the diffraction of the sound waves
+(C) the refraction of the sound waves
+(D) the reflection of the sound waves
+----------------------------------------------------------------------------------------------
+[MCAS_2005_9_9-v1] [ENG_SOUND_FREQWL]
+An organ pipe produces a musical note same number of nitrogen gas molecules. with a wavelength of 2.72 m. What is the frequency of this note if the speed of sound is 348 m/s?
+(A) 85.7 Hz
+(B) 128 Hz
+(C) 260 Hz
+(D) 466 Hz
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401191] [ENG_SOUND_GENERATE]
+Snapping a rubber band most likely produces which type of energy?
+(A) heat
+(B) light
+(C) sound
+(D) electrical
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401171] [ENG_SOUND_GENERATE]
+Why does tapping a fork against a water glass produce a sound?
+(A) The air expands.
+(B) The fork releases electrons.
+(C) The particles in the objects vibrate.
+(D) The water in the glass forms ripples.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400051] [ENG_SOUND_GENERATE]
+When a guitar string is plucked, sound is produced by
+(A) the size of the guitar.
+(B) the metal on the guitar.
+(C) the wood on the guitar.
+(D) the vibrations of the string.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402266] [ENG_SOUND_GENERATE]
+When a book is dropped onto a wooden desk, the molecules in the wood begin to vibrate from the force of the book. Which of these is produced by the vibrations?
+(A) friction
+(B) interference
+(C) sound waves
+(D) ultrasonic waves
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401377] [ENG_SOUND_GENERATE]
+A rubber band will make a sound when it is
+(A) vibrated.
+(B) stretched.
+(C) cut into pieces.
+(D) shot across a room.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401235] [ENG_SOUND_GENERATE]
+The sound heard when a piano key is hit is caused by
+(A) vibration.
+(B) refraction.
+(C) momentum.
+(D) acceleration.
+----------------------------------------------------------------------------------------------
+[Mercury_7081463] [ENG_SOUND_GENERATE]
+Which is a source of sound?
+(A) thermal energy
+(B) potential energy
+(C) a vibration
+(D) a medium
+----------------------------------------------------------------------------------------------
+[Mercury_411424] [ENG_SOUND_GENERATE]
+Bruce plays his violin every Friday night for the symphony. Before he plays, he plucks each string to see if his violin is in tune. Which is most responsible for the generation of sound waves from his violin?
+(A) material of the violin
+(B) vibrations of the string
+(C) movement of the violin
+(D) composition of the string
+----------------------------------------------------------------------------------------------
+[NAEP_2000_4_S21+1] [ENG_SOUND_GENERICPROP]
+What do playing a guitar, banging a drum, and dropping a pebble in the water have in common?
+(A) They all produce light.
+(B) They all cause vibrations.
+(C) They all convert heat to energy.
+(D) They all need gravity to move.
+----------------------------------------------------------------------------------------------
+[NAEP_2000_4_S21+7] [ENG_SOUND_GENERICPROP]
+There is a thunderstorm close to your house. The windows rattle at the same time that you hear the thunder. What causes the windows to rattle?
+(A) Sound waves from the thunder
+(B) Light from the lightning
+(C) Rain from the clouds
+(D) The high humidity during the storm
+----------------------------------------------------------------------------------------------
+[MEAP_2005_5_37] [ENG_SOUND_GENERICPROP]
+Matter that is vibrating is producing ___.
+(A) gas
+(B) light
+(C) sound
+(D) shadows
+----------------------------------------------------------------------------------------------
+[MCAS_2007_5_4799] [ENG_SOUND_GENERICPROP]
+Which of the following forms of energy can travel by vibrating particles of air?
+(A) electrical
+(B) light
+(C) magnetic
+(D) sound
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402087] [ENG_SOUND_GENERICPROP]
+When someone plays the flute, sound is produced because the air in the flute is
+(A) hot.
+(B) neutral.
+(C) vibrating.
+(D) vaporizing.
+----------------------------------------------------------------------------------------------
+[Mercury_7081410] [ENG_SOUND_GENERICPROP]
+Which statement best describes the nature of sound?
+(A) Sound travels fastest in air.
+(B) Sound travels faster than light.
+(C) Sound travels as longitudinal waves.
+(D) Sound travels as transverse waves.
+----------------------------------------------------------------------------------------------
+[Mercury_7081445] [ENG_SOUND_GENERICPROP]
+An earthquake in the Earth's crust under the ocean releases sound waves. Which statement accurately describes how the sound waves spread?
+(A) They spread in all directions away from their source.
+(B) They remain trapped near the source by water pressure.
+(C) They travel mostly horizontally along the ocean floor.
+(D) They travel mostly upward toward the surface of the water.
+----------------------------------------------------------------------------------------------
+[Mercury_7043925] [ENG_SOUND_GENERICPROP]
+Sound waves can pass through all of these except
+(A) air.
+(B) steel.
+(C) water.
+(D) a vacuum.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_8_42] [ENG_SOUND_GENERICPROP]
+Sound will not travel in a
+(A) solid
+(B) liquid
+(C) gas
+(D) vacuum

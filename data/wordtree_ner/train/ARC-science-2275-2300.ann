@@ -1,0 +1,571 @@
+T2	CelestialLightOnEarth 1909 1917	sunlight
+T3	CelestialLightOnEarth 8543 8551	sunlight
+T7	Particles 715 719	dust
+T15	Energy 3541 3553	light energy
+T16	Energy 3502 3516	kinetic energy
+T17	Energy 3577 3591	kinetic energy
+T18	Energy 3596 3610	kinetic energy
+T19	Energy 3308 3314	energy
+T28	Energy 7053 7059	energy
+T31	Energy 3558 3573	chemical energy
+T32	Energy 3521 3537	potential energy
+T33	Energy 3614 3630	potential energy
+T35	AbsorbEnergy 1902 1908	absorb
+T37	ThermalEnergy 3484 3498	thermal energy
+T38	ThermalEnergy 7447 7451	heat
+T39	TransferEnergy 3374 3395	energy transformation
+T40	LivingThing 917 926	organisms
+T43	LivingDying 1592 1596	life
+T44	LivingThing 1334 1342	organism
+T45	LivingThing 1356 1364	organism
+T49	LivingThing 8354 8367	living things
+T50	Animal 1311 1317	animal
+T51	Animal 2599 2605	Animal
+T52	Animal 2682 2688	Animal
+T53	Animal 6940 6946	animal
+T55	Insect 989 996	ladybug
+T57	Mammal 1003 1015	fox squirrel
+T58	Mammal 6093 6100	mammals
+T60	ContainBeComposedOf 2138 2144	coated
+T61	Bird 958 966	bluebird
+T69	HumanPart 368 372	neck
+T70	AnimalPart 8498 8502	bone
+T73	AnimalPart 6733 6739	organs
+T74	PlantPart 1628 1634	tissue
+T75	AnimalPart 6952 6958	tissue
+T83	Alter 5754 5763	repairing
+T89	ActionsForAnimals 8597 8604	growing
+T90	Alter 6469 6476	repairs
+T94	Alter 7008 7014	repair
+T95	Alter 7652 7658	repair
+T97	ActionsForAnimals 5649 5656	playing
+T98	Human 8622 8630	teenager
+T100	Human 7244 7258	lab technician
+T102	Human 7347 7357	technician
+T108	HumanPart 254 257	eye
+T109	HumanPart 347 351	knee
+T110	HumanPart 399 404	thumb
+T111	HumanPart 5639 5642	arm
+T112	ObjectPart 218 222	arms
+T116	HumanPart 356 363	fingers
+T124	Cell 2280 2285	cells
+T125	Cell 2231 2236	cells
+T126	Cell 3108 3113	cells
+T127	Cell 5256 5261	cells
+T128	Cell 6502 6507	cells
+T129	Cell 8384 8389	cells
+T130	Cell 2650 2655	cells
+T131	Cell 2606 2611	cells
+T132	Cell 3297 3302	cells
+T133	Cell 3413 3418	cells
+T134	Cell 725 730	cells
+T136	Cell 2550 2555	cells
+T138	Cell 2567 2572	cells
+T139	Cell 6481 6486	cells
+T140	Cell 2689 2694	cells
+T141	Cell 2128 2133	cells
+T142	Cell 931 936	cells
+T143	Cell 7288 7293	cells
+T144	Cell 2290 2295	cells
+T147	Cell 2321 2326	cells
+T148	Cell 6722 6727	cells
+T150	Cell 7960 7968	cellular
+T151	Cell 5800 5810	nerve cell
+T152	Cell 5900 5909	skin cell
+T153	Cell 7078 7086	sex cell
+T154	Cell 2256 2261	cells
+T156	Cell 1618 1622	cell
+T159	Cell 3887 3891	cell
+T163	Cell 1318 1322	cell
+T167	Cell 1805 1809	cell
+T168	Cell 6417 6421	cell
+T175	Cell 1299 1303	cell
+T178	AnimalCellPart 3465 3478	cell membrane
+T181	AnimalCellPart 4523 4531	ribosome
+T183	AnimalCellPart 1254 1261	nucleus
+T185	AnimalCellPart 8062 8069	nucleus
+T186	AnimalCellPart 8008 8020	microtubules
+T187	PlantCellPart 1222 1231	cell wall
+T188	PlantCellPart 3929 3938	cell wall
+T189	PlantCellPart 942 951	cell wall
+T190	PlantCellPart 3915 3924	cytoplasm
+T200	PlantCellPart 2663 2676	cell membrane
+T201	PlantCellPart 3345 3358	cell membrane
+T202	PlantCellPart 3465 3478	cell membrane
+T203	PlantCellPart 3897 3910	cell membrane
+T208	PlantCellPart 1254 1261	nucleus
+T209	PlantCellPart 2626 2633	nucleus
+T210	PlantCellPart 8062 8069	nucleus
+T211	CellProcesses 8870 8883	cell division
+T212	CellProcesses 7404 7417	cell division
+T213	CellProcesses 8080 8093	cell division
+T214	CellProcesses 6123 6136	cell division
+T215	CellProcesses 8436 8449	cell division
+T216	CellProcesses 7737 7750	cell division
+T217	CellProcesses 6960 6973	cell division
+T218	CellProcesses 7422 7442	cellular respiration
+T220	CellProcesses 8900 8914	photosynthesis
+T221	CellProcesses 6361 6371	cell cycle
+T223	CellsAndGenetics 8135 8146	chromosomes
+T224	Genetics 5433 5436	ATP
+T225	Genetics 4435 4439	mRNA
+T226	Genetics 4557 4561	mRNA
+T227	Genetics 5441 5445	mRNA
+T228	Genetics 5459 5462	DNA
+T229	Genetics 5450 5454	tRNA
+T230	CellsAndGenetics 8185 8195	chromatids
+T232	Genetics 4573 4583	amino acid
+T234	Genetics 4493 4504	amino acids
+T235	Genetics 5288 5299	amino acids
+T236	Genetics 5391 5402	amino acids
+T237	Gene 4470 4479	sequences
+T238	Gene 4584 4592	sequence
+T239	GeneticProcesses 5378 5386	sequence
+T240	Gene 4600 4605	codon
+T241	Mutation 4624 4632	mutation
+T242	GeneticProcesses 4416 4433	protein synthesis
+T243	GeneticProcesses 4999 5016	protein synthesis
+T244	GeneticProcesses 5410 5427	protein synthesis
+T245	GeneticProcesses 5262 5272	synthesize
+T246	PartsOfAChromosome 8185 8195	chromatids
+T247	PartsOfAChromosome 7941 7951	centromere
+T248	PartsOfDNA 4573 4583	amino acid
+T250	PartsOfDNA 4493 4504	amino acids
+T251	PartsOfDNA 5288 5299	amino acids
+T252	PartsOfDNA 5391 5402	amino acids
+T254	Bacteria 7278 7287	bacterial
+T255	BacteriaPart 1222 1231	cell wall
+T257	BacteriaPart 942 951	cell wall
+T260	Plant 2910 2916	plants
+T261	Plant 2978 2984	plants
+T262	Plant 2644 2649	plant
+T263	Plant 1545 1550	plant
+T264	Plant 2122 2127	plant
+T265	Plant 3407 3412	plant
+T266	Plant 2561 2566	Plant
+T267	Plant 8531 8536	plant
+T268	Plant 2225 2230	plant
+T269	Plant 1293 1298	plant
+T270	Plant 2303 2308	plant
+T271	Plant 8457 8462	plant
+T272	Plant 3881 3886	plant
+T273	Plant 3291 3296	plant
+T274	Plant 2334 2339	plant
+T277	Gymnosperm 973 982	pine tree
+T278	Angiosperm 8836 8846	apple tree
+T280	Angiosperm 592 597	onion
+T283	PlantPart 3043 3049	leaves
+T284	PlantPart 8478 8484	leaves
+T285	PlantPart 1640 1644	root
+T286	PlantPart 2275 2279	root
+T287	PlantPart 2581 2593	chloroplasts
+T288	PlantPart 3014 3019	roots
+T289	PlantPart 6763 6774	chlorophyll
+T290	PlantPart 1235 1246	chloroplast
+T291	PlantPart 3943 3954	chloroplast
+T292	PlantPart 1608 1612	leaf
+T293	PlantPart 3073 3080	flowers
+T297	OrganicProcesses 6071 6089	biological process
+T298	OrganicProcesses 4915 4922	process
+T299	OrganicProcesses 4878 4885	process
+T300	OrganicProcesses 4970 4977	process
+T301	OrganicProcesses 5722 5729	process
+T302	OrganicProcesses 8822 8829	process
+T304	OrganicProcesses 1579 1588	processes
+T305	OrganicProcesses 6386 6395	processes
+T308	Adaptation 2192 2206	specialization
+T312	WordsForOffspring 8592 8596	baby
+T313	Growth 6997 7003	growth
+T314	Growth 7313 7319	growth
+T315	Growth 7641 7647	Growth
+T316	Growth 8889 8895	growth
+T317	Growth 8503 8510	growing
+T318	Growth 8597 8604	growing
+T319	Growth 6687 6691	grow
+T320	Development 8463 8473	developing
+T321	Reproduction 5884 5896	reproduction
+T322	Reproduction 7019 7038	sexual reproduction
+T323	Reproduction 7969 7981	reproduction
+T325	Reproduction 1943 1952	reproduce
+T335	LivingDying 5249 5255	Living
+T337	Metabolism 4809 4827	metabolic function
+T338	Metabolism 4924 4932	anabolic
+T339	Metabolism 4961 4969	anabolic
+T340	Metabolism 4887 4896	catabolic
+T341	Toxins 5865 5870	waste
+T342	Toxins 8936 8941	waste
+T343	PlantProcesses 6188 6202	photosynthesis
+T344	PlantProcesses 8900 8914	photosynthesis
+T346	DigestionActions 5055 5064	digestion
+T358	DigestiveSubstances 4610 4617	enzymes
+T367	RespirationActions 4983 4994	respiration
+T368	RespirationActions 6154 6165	respiration
+T370	PartsOfTheRespiratorySystem 5842 5847	lungs
+T372	ExcretoryActions 7708 7717	excretion
+T373	PartsOfTheExcretorySystem 5842 5847	lungs
+T375	PartsOfTheExcretorySystem 6947 6951	skin
+T378	CirculationActions 5852 5861	transport
+T379	PartsOfTheCirculatorySystem 6745 6750	heart
+T382	Blood 5874 5879	blood
+T384	PartsOfEndocrineSystem 6745 6750	heart
+T388	PartsOfTheNervousSystem 373 382	vertebrae
+T389	PartsOfTheMuscularSystem 6751 6757	muscle
+T390	PartsOfTheIntegumentarySystem 5900 5909	skin cell
+T391	PartsOfTheIntegumentarySystem 6947 6951	skin
+T392	PartsOfTheSkeletalSystem 8498 8502	bone
+T394	Injuries 5628 5631	cut
+T395	Injuries 5700 5703	cut
+T396	Injuries 5768 5771	cut
+T397	Nutrition 3436 3444	nutrient
+T400	Nutrition 7467 7471	food
+T401	Nutrition 8568 8572	food
+T402	Nutrition 3324 3333	nutrients
+T403	Nutrition 6434 6443	nutrients
+T407	NutritiveSubstancesForAnimalsOrPlants 5307 5315	proteins
+T408	NutritiveSubstancesForAnimalsOrPlants 6455 6463	proteins
+T409	NutritiveSubstancesForAnimalsOrPlants 5042 5054	carbohydrate
+T410	NutritiveSubstancesForAnimalsOrPlants 4610 4617	enzymes
+T412	NutritiveSubstancesForAnimalsOrPlants 4159 4170	amino acids
+T416	Foods 4198 4213	hamburger patti
+T418	Foods 4176 4193	spaghetti noodles
+T419	Foods 4220 4225	apple
+T422	Foods 4237 4245	cucumber
+T427	ActionsForNutrition 6426 6433	absorbs
+T428	ActionsForNutrition 7472 7479	storage
+T440	MassUnit 8586 8591	pound
+T441	MassUnit 8616 8621	pound
+T442	TimeUnit 5683 5688	weeks
+T450	ManmadeObjects 279 285	hinges
+T451	ManmadeObjects 321 327	hinges
+T459	ViewingTools 198 208	Eyeglasses
+T460	ViewingTools 331 341	eyeglasses
+T461	ViewingTools 618 628	microscope
+T462	ViewingTools 1181 1191	microscope
+T463	ViewingTools 7388 7398	microscope
+T464	CellProcesses 8170 8180	attachment
+T466	Property 2922 2937	characteristics
+T467	Property 2955 2969	characteristic
+T488	Age 6477 6480	old
+T489	Age 4569 4572	new
+T490	Age 6498 6501	new
+T491	Age 8474 8477	new
+T492	ObjectPart 387 391	base
+T499	Ability 1869 1876	ability
+T504	Gender 1349 1355	female
+T507	Gender 1329 1333	male
+T510	Temperature 4637 4648	temperature
+T517	Shape 645 653	box-like
+T518	Shape 654 660	shapes
+T519	Shape 677 683	shapes
+T521	Shape 3028 3033	shape
+T522	Size 3000 3004	size
+T523	Size 6695 6699	size
+T524	Size 1526 1534	smallest
+T525	Size 273 278	small
+T526	Size 573 577	thin
+T528	Width 573 577	thin
+T529	Length 5273 5277	long
+T530	Texture 2150 2154	waxy
+T531	Rigidity 1891 1896	rigid
+T532	Rigidity 2705 2710	rigid
+T540	Color 3058 3063	color
+T542	TemporalProperty 1953 1958	again
+T543	TemporalProperty 1848 1859	immediately
+T544	Position 3856 3865	outermost
+T555	CardinalNumber 8612 8615	100
+T557	CardinalNumber 214 217	two
+T558	CardinalNumber 4846 4849	two
+T559	CardinalNumber 4839 4842	one
+T560	RelativeNumber 630 634	lots
+T561	RelativeNumber 5677 5682	A few
+T568	RelativeNumber 1818 1821	low
+T570	Size 638 644	little
+T572	RelativeNumber 2117 2121	Some
+T573	RelativeNumber 2886 2890	Some
+T574	RelativeNumber 3286 3290	Some
+T598	ElementalComponents 3445 3453	molecule
+T599	ElementalComponents 704 709	atoms
+T613	Element 1931 1937	oxygen
+T614	Element 5021 5027	oxygen
+T615	Element 5828 5834	oxygen
+T616	PhasesOfWater 1825 1830	water
+T617	PhasesOfWater 2175 2180	water
+T618	GaseousMatter 8919 8922	gas
+T620	GranularSolids 715 719	dust
+T628	GaseousMatter 736 743	bubbles
+T632	Substances 5323 5332	substance
+T633	Substances 7320 7326	medium
+T645	TypesOfChemicalReactions 6170 6183	decomposition
+T646	TypesOfChemicalReactions 7755 7768	decomposition
+T648	Transportation 8923 8931	exchange
+T657	ObjectQuantification 578 583	slice
+T658	ObjectQuantification 4226 4232	slices
+T659	ObjectQuantification 4246 4252	slices
+T663	LocationChangingActions 8942 8949	removal
+T666	AmountChangingActions 2181 2185	loss
+T667	AmountChangingActions 1860 1864	lose
+T668	AvoidReject 2166 2174	prevents
+T672	ChangeInto 4443 4453	translated
+T673	Changes 4541 4552	translating
+T675	ChangeInto 4562 4566	into
+T676	ChangeInto 4154 4158	into
+T677	ChangeInto 8605 8609	into
+T679	Classify 223 229	called
+T680	Classify 5300 5306	called
+T684	CombineAdd 6426 6433	absorbs
+T700	ContainBeComposedOf 2985 2990	share
+T701	CombineAdd 937 941	with
+T702	Use 1174 1178	With
+T703	Use 7381 7385	with
+T704	CombineAdd 2695 2702	include
+T705	GeneticProcesses 8170 8180	attachment
+T706	CombineAdd 238 246	attached
+T707	CombineAdd 1902 1908	absorb
+T708	Communicate 4511 4518	signals
+T709	WordsForData 5777 5784	signals
+T713	ContainBeComposedOf 209 213	have
+T714	ContainBeComposedOf 2656 2660	have
+T715	ContainBeComposedOf 2917 2921	have
+T716	ContainBeComposedOf 927 930	has
+T717	ContainBeComposedOf 1216 1219	has
+T718	ContainBeComposedOf 2573 2580	contain
+T719	ContainBeComposedOf 8372 8380	composed
+T720	CombineAdd 8516 8524	together
+T721	Create 6703 6710	produci
+T722	Create 7064 7071	product
+T723	Create 7452 7459	product
+T724	Create 6449 6454	makes
+T725	Create 8463 8473	developing
+T733	Create 5333 5341	provides
+T736	Create 4903 4914	building up
+T737	Create 5262 5272	synthesize
+T739	Create 6492 6497	forms
+T740	Create 8025 8031	formed
+T741	Create 8555 8559	make
+T745	Harm 8491 8497	broken
+T747	Help 5754 5763	repairing
+T748	Help 6469 6476	repairs
+T750	Help 7008 7014	repair
+T751	Help 7652 7658	repair
+T752	Help 5708 5714	healed
+T753	Help 6142 6149	healing
+T757	Indicate 4511 4518	signals
+T759	StopRemove 8942 8949	removal
+T761	Move 7259 7265	places
+T763	LiquidMatter 736 743	bubbles
+T765	MechanicalMovement 7722 7732	locomotion
+T768	Transportation 5785 5796	transported
+T769	Transportation 5816 5824	exchange
+T771	Transportation 5028 5037	transport
+T772	Transportation 5852 5861	transport
+T773	Transportation 3426 3431	bring
+T774	Transportation 3318 3323	carry
+T779	Observe 665 669	seen
+T780	Observe 7373 7380	observe
+T781	Observe 1277 1284	observe
+T782	Observe 601 607	viewed
+T783	Observe 1197 1200	see
+T784	Occur 6101 6107	occurs
+T785	Occur 6401 6411	take place
+T787	PerformAnActivity 1560 1567	perform
+T788	PerformAnActivity 8427 8435	repeated
+T789	PerformAnActivity 302 311	functions
+T791	PerformAnActivity 3396 3400	does
+T792	PerformAnActivity 7932 7936	does
+T793	Preserve 7472 7479	storage
+T794	Represent 4480 4492	representing
+T795	Represent 6372 6381	describes
+T797	Require 5358 5364	needed
+T798	Require 3303 3307	need
+T803	Release 1923 1930	release
+T806	Break 8491 8497	broken
+T816	Start 4535 4540	begin
+T818	StopRemove 2166 2174	prevents
+T819	Succeed 8411 8423	accomplished
+T820	Uptake 5622 5625	got
+T827	Uptake 7043 7052	obtaining
+T831	Uptake 3426 3431	bring
+T832	Use 8537 8542	using
+T833	PerformAnActivity 7952 7956	play
+T834	Use 3419 3422	use
+T836	WaitStay 1884 1890	remain
+T839	Comparisons 2985 2990	share
+T846	ResponseType 2534 2543	statement
+T847	WordsForData 5346 5357	information
+T851	RelativeTime 5643 5648	while
+T852	RelativeTime 4409 4415	During
+T853	RelativeTime 5403 5409	during
+T854	RelativeTime 8073 8079	during
+T855	RelativeTime 566 570	When
+T856	RelativeTime 5689 5694	later
+T857	Locations 7997 8001	area
+T858	Locations 8047 8051	area
+T859	Locations 8109 8113	area
+T860	Locations 8162 8166	area
+T878	ManmadeObjects 230 237	temples
+T885	RelativeLocations 2216 2218	in
+T886	RelativeLocations 7294 7296	in
+T887	RelativeLocations 7957 7959	in
+T888	RelativeLocations 2327 2329	in
+T889	RelativeLocations 6090 6092	in
+T891	RelativeLocations 6937 6939	In
+T892	RelativeLocations 5657 5659	in
+T894	RelativeLocations 3876 3878	in
+T895	CombineAdd 2145 2147	in
+T896	RelativeLocations 8830 8832	in
+T897	RelativeLocations 7659 7661	in
+T898	RelativeLocations 1822 1824	in
+T899	RelativeLocations 5835 5837	in
+T900	RelativeLocations 2242 2250	internal
+T901	RelativeLocations 2266 2274	internal
+T902	RelativeLocations 328 330	on
+T903	RelativeLocations 2296 2298	on
+T904	RelativeLocations 5632 5634	on
+T905	Cause 5797 5799	by
+T906	Cause 6700 6702	by
+T907	Use 265 267	by
+T908	Cause 5871 5873	by
+T909	Cause 8424 8426	by
+T910	RelativeLocations 8002 8007	where
+T911	RelativeLocations 8052 8057	where
+T912	RelativeLocations 3454 3460	inside
+T916	RelativeDirection 247 249	to
+T918	ChangeInto 3574 3576	to
+T919	ChangeInto 3499 3501	to
+T920	ChangeInto 3611 3613	to
+T925	Result 8552 8554	to
+T927	ChangeInto 3538 3540	to
+T928	RelativeDirection 8511 8515	back
+T929	RelativeDirection 584 588	from
+T938	PrepositionalDirections 3334 3340	across
+T940	PrepositionalDirections 608 615	through
+T945	VerbsForLocate 2210 2215	found
+T949	VerbsForLocate 7259 7265	places
+T950	Comparisons 2891 2900	different
+T951	Comparisons 4898 4900	or
+T952	Comparisons 2938 2947	in common
+T953	Comparisons 312 316	like
+T955	AmountComparison 6108 6115	largely
+T959	AmountComparison 5733 5737	most
+T960	AmountComparison 7358 7362	most
+T962	AmountComparison 1836 1840	most
+T964	AmountComparison 688 692	most
+T966	AmountComparison 6713 6717	more
+T967	AmountComparison 268 272	very
+T968	ImportanceComparison 8847 8856	primarily
+T969	PartsOfObservationInstruments 258 264	lenses
+T971	Scientists 7244 7258	lab technician
+T978	AbilityAvailability 1556 1559	can
+T979	AbilityAvailability 4128 4131	can
+T980	AbilityAvailability 2616 2623	missing
+T985	SystemAndFunctions 7927 7931	role
+T988	SystemParts 2716 2725	structure
+T989	Composition 3089 3098	structure
+T990	SystemParts 3866 3875	structure
+T991	SystemParts 1535 1539	unit
+T995	Classification 4850 4860	categories
+T1001	Pattern 3089 3098	structure
+T1005	GeneticProcesses 8117 8126	alignment
+T1012	Exemplar 3366 3370	type
+T1013	Exemplar 4947 4954	example
+T1014	Exemplar 2901 2906	types
+T1017	StateOfBeing 5704 5707	was
+T1018	StateOfBeing 1271 1276	being
+T1020	Event 7334 7339	event
+T1029	Event 8397 8403	action
+T1030	TypesOfEvent 5662 5675	softball game
+T1032	ObjectPart 2309 2316	surface
+T1038	ObjectQuantification 2155 2160	layer
+T1040	Negations 8407 8410	not
+T1044	Result 7694 7700	result
+T1046	GenericTerms 1209 1215	object
+T1047	Cause 6116 6122	due to
+T1048	Cause 5738 5749	responsible
+T1049	Cause 6977 6988	responsible
+T1054	ObjectQuantification 5278 5284	chains
+T1055	GroupsOfOrganisms 7268 7274	colony
+T1058	ProbabilityAndCertainty 693 699	likely
+T1059	ProbabilityAndCertainty 1841 1847	likely
+T1060	ProbabilityAndCertainty 7363 7369	likely
+T1061	ProbabilityAndCertainty 5368 5377	correctly
+T1062	ProbabilityAndCertainty 1831 1835	will
+T1063	ProbabilityAndCertainty 2529 2533	true
+T1064	Relevant 2544 2549	about
+T1065	LevelOfInclusion 1568 1571	all
+T1066	LevelOfInclusion 4805 4808	All
+T1067	LevelOfInclusion 8350 8353	All
+T1071	LevelOfInclusion 2973 2977	most
+T1073	LevelOfInclusion 296 301	these
+T1074	LevelOfInclusion 671 676	These
+T1075	LevelOfInclusion 911 916	these
+T1076	LevelOfInclusion 3401 3406	these
+T1078	LevelOfInclusion 8816 8821	Which
+T1079	LevelOfInclusion 902 907	Which
+T1080	LevelOfInclusion 4935 4940	Which
+T1081	LevelOfInclusion 6065 6070	Which
+T1082	LevelOfInclusion 5317 5322	Which
+T1083	LevelOfInclusion 7328 7333	Which
+T1084	LevelOfInclusion 5716 5721	Which
+T1085	LevelOfInclusion 2518 2523	Which
+T1086	LevelOfInclusion 2219 2224	which
+T1087	LevelOfInclusion 8391 8396	Which
+T1088	LevelOfInclusion 2949 2954	Which
+T1089	LevelOfInclusion 4111 4116	Which
+T1090	LevelOfInclusion 287 292	Which
+T1091	LevelOfInclusion 3360 3365	Which
+T1093	LevelOfInclusion 2117 2121	Some
+T1094	LevelOfInclusion 2886 2890	Some
+T1095	LevelOfInclusion 3286 3290	Some
+T1096	LevelOfInclusion 4147 4153	mostly
+T1098	LevelOfInclusion 2639 2643	Only
+T1107	Separation 2711 2715	wall
+T1119	NUMBER 214 217	two
+T1120	NUMBER 4839 4842	one
+T1121	NUMBER 4846 4849	two
+T1122	PERSON 5617 5621	Toni
+T54	StateOfBeing 598 600	is
+T59	StateOfBeing 661 664	are
+T63	StateOfBeing 684 687	are
+T56	Comparisons 1526 1534	smallest
+T68	StateOfBeing 1597 1599	is
+T72	StateOfBeing 1815 1817	is
+T92	StateOfBeing 2134 2137	are
+T93	StateOfBeing 2207 2209	is
+T113	PlantPart 2251 2255	stem
+T9	Reproduction 2340 2352	reproductive
+T123	SystemAndFunctions 2353 2359	system
+T137	StateOfBeing 2524 2526	is
+T157	StateOfBeing 2612 2615	are
+T1	StateOfBeing 3849 3851	is
+T8	Foods 4117 4127	food items
+T10	DigestionActions 4135 4146	broken down
+T11	StateOfBeing 4132 4134	be
+T12	GeneticProperty 4459 4469	three-base
+T13	StateOfBeing 4440 4442	is
+T4	StateOfBeing 4829 4838	fall into
+T14	ChemicalChange 4864 4877	breaking down
+T20	DigestionActions 4864 4877	breaking down
+T21	Collect 4903 4914	building up
+T22	StateOfBeing 4941 4943	is
+T23	StateOfBeing 5730 5732	is
+T24	RelativeTime 6412 6414	as
+T5	Eukaryote 6663 6686	Multicellular organisms
+T25	StateOfBeing 6974 6976	is
+T26	ChemicalProperty 7299 7312	nutrient-rich
+T27	StateOfBeing 7340 7342	is
+T29	Scientists 7347 7357	technician
+T30	Eukaryote 7662 7685	multicellular organisms
+T34	StateOfBeing 7686 7689	are
+T36	StateOfBeing 8021 8024	are
+T41	StateOfBeing 7990 7992	is
+T42	StateOfBeing 8040 8042	is
+T46	StateOfBeing 8102 8104	is
+T47	StateOfBeing 8155 8157	is
+T48	StateOfBeing 8070 8072	is
+T64	CellProcesses 8117 8126	alignment
+T65	StateOfBeing 8368 8371	are
+T66	TemporalProperty 8427 8435	repeated
+T67	StateOfBeing 8404 8406	is
+T6	CardinalNumber 8580 8585	eight
+T62	Result 8857 8864	results
+T71	Cause 8865 8869	from

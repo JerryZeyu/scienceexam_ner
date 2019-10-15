@@ -1,0 +1,176 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408700] [ENG_THERM_COND_CONDUCT]
+Emily made a cup of tea and stirred it with a spoon. The spoon became warm. How was the heat from the tea transferred to the spoon?
+(A) convection
+(B) radiation
+(C) conduction
+(D) evaporation
+----------------------------------------------------------------------------------------------
+[OHAT_2011_5_20] [ENG_THERM_COND_CONDUCT]
+A student stands outside on a cold winter day. His hands become cold and he rubs them together to make them warmer. Which statement explains why rubbing his hands together makes them warmer?
+(A) This action produces thermal energy through friction.
+(B) This action conducts thermal energy away from the body.
+(C) This action captures thermal energy from the environment.
+(D) This action reduces the amount of thermal energy transferred to the air.
+----------------------------------------------------------------------------------------------
+[Mercury_7186148] [ENG_THERM_COND_CONDUCT]
+A student is mixing a cup of hot chocolate with a spoon. How is the heat transferred between the hot chocolate and the part of the spoon that is in the hot chocolate?
+(A) Conduction transfers energy from the spoon to the hot chocolate.
+(B) Conduction transfers energy from the hot chocolate to the spoon.
+(C) Convection transfers energy from the spoon to the hot chocolate.
+(D) Convection transfers energy from the hot chocolate to the spoon.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_8_40] [ENG_THERM_COND_CONDUCT]
+Which process transfers heat when particles collide in a solid?
+(A) convection
+(B) conduction
+(C) radiation
+(D) evaporation
+----------------------------------------------------------------------------------------------
+[Mercury_178763] [ENG_THERM_COND_CONVECT]
+A pan of soup is being heated on an electric stove. A metal spoon is used to occasionally stir the soup. Which of the following is an example of heat being transferred by convection?
+(A) heating the pan
+(B) heating the soup
+(C) heating the spoon
+(D) heating the stove burner
+----------------------------------------------------------------------------------------------
+[Mercury_7056630] [ENG_THERM_COND_CONVECT]
+The best example of heat transfer by convection is when
+(A) sunlight warms soil.
+(B) a ceiling fan blows air.
+(C) flames heat up a pan.
+(D) heat rises in a chimney.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_28] [ENG_THERM_COND_CONVECT]
+Bill stands in a swimming pool and notices that the water around his feet is a lot cooler than the water near the surface. Which process causes this difference in temperature?
+(A) convection
+(B) evaporation
+(C) radiation
+(D) conduction
+----------------------------------------------------------------------------------------------
+[MEA_2010_8_14-v1] [ENG_THERM_COND_CONVECT]
+How do warm ocean currents move to cooler ocean regions of Earth?
+(A) by conduction
+(B) by convection
+(C) by evaporation
+(D) by radiation
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5162] [ENG_THERM_COND_CONVECT, EARTH_INNER_CMC_MANTLE]
+Heat from deep in Earth's interior is transferred to its crust by which of the following?
+(A) conduction in the ocean
+(B) convection in the mantle
+(C) radiation from the solid core
+(D) evaporation at mid-ocean ridges
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406063] [ENG_THERM_COND_RADIATION]
+A student standing near a campfire feels warmer as the fire grows. Which process most likely transfers heat from the campfire to the student?
+(A) conduction
+(B) convection
+(C) radiation
+(D) transformation
+----------------------------------------------------------------------------------------------
+[MEA_2016_5_1] [ENG_THERM_COND_RADIATION]
+What is the main source of heat for Earth's surface?
+(A) fire
+(B) lightning
+(C) the Sun
+(D) the ocean
+----------------------------------------------------------------------------------------------
+[Mercury_7058363] [ENG_THERM_COND_RADIATION]
+Sunlight passes through the windows of a car and causes the car seats to get hot. Which type of energy flow is involved in heating the seats?
+(A) conduction
+(B) convection
+(C) insulation
+(D) radiation
+----------------------------------------------------------------------------------------------
+[Mercury_7008890] [ENG_THERM_COND_RADIATION]
+Energy from the Sun reaches Earth by
+(A) radiation.
+(B) conduction.
+(C) convection.
+(D) thermal expansion.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10920] [ENG_THERM_COND_RADIATION]
+A black brick exposed to sunlight becomes warm. How is energy from the Sun transferred to the brick?
+(A) convection
+(B) conduction
+(C) radiation
+(D) reflection
+----------------------------------------------------------------------------------------------
+[TIMSS_1995_8_J5] [ENG_THERM_COND_RADIATION]
+Which form of solar radiation causes sunburn?
+(A) Visible
+(B) Ultraviolet
+(C) Infrared
+(D) X-rays
+(E) Radio waves
+----------------------------------------------------------------------------------------------
+[Mercury_7177940] [ENG_THERM_COND_RADIATION, EARTH_WEATHER_WATERCYC_SUN]
+Ocean currents, prevailing wind patterns, and other atmospheric disturbances are initially caused by which of these?
+(A) differences in the cycles of the Moon
+(B) gravitational pull of the Sun
+(C) incoming solar radiation
+(D) ozone layer depletion
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401229] [ENG_THERM_COND, ENG_FORMS_HEAT]
+The transfer of thermal energy from one object to another is known as
+(A) heat.
+(B) electricity.
+(C) magnetism.
+(D) temperature.
+----------------------------------------------------------------------------------------------
+[Mercury_410136] [ENG_THERM_HEATCOOLPROB]
+Paul observes four different samples of water. He records the temperature and volume of each sample. Which of his samples contains the greatest amount of thermal energy?
+(A) 100 mL of 10°C water
+(B) 100 mL of 25°C water
+(C) 5 liters of 10°C water
+(D) 5 liters of 25°C water
+----------------------------------------------------------------------------------------------
+[Mercury_401021] [ENG_THERM_HEATCOOLPROB]
+When a student uses the equation, mass multiplied by change in temperature multiplied by specific heat, what is being calculated? q = m \times C \times \Delta T
+(A) a phase change
+(B) stored energy
+(C) heat convection
+(D) heat gain or heat loss
+----------------------------------------------------------------------------------------------
+[Mercury_7161088] [ENG_WAVES_FREQWL]
+A radio station broadcasting across a large area is experiencing thunderstorms. How will the radio waves from the station be affected?
+(A) wavelength will be increased
+(B) amplitude will be unchanged
+(C) frequency will be distorted
+(D) speed will be decreased
+----------------------------------------------------------------------------------------------
+[MCAS_2006_9_35-v1] [ENG_WAVES_FREQWL]
+What is the frequency of ocean waves that have a speed of 18 m/s and a wavelength of 50 m?
+(A) 0.18 Hz
+(B) 0.36 Hz
+(C) 2.8 Hz
+(D) 9.0 Hz
+----------------------------------------------------------------------------------------------
+[Mercury_7044783] [ENG_WAVES_FREQWL]
+The rate at which a wave passes through a medium is known as its
+(A) speed.
+(B) amplitude.
+(C) acceleration.
+(D) wavelength.
+----------------------------------------------------------------------------------------------
+[Mercury_412683] [ENG_WAVES_FREQWL]
+What is the speed of a 2-Hz wave that has a wavelength of 10 m?
+(A) 5 m/s
+(B) 8 m/s
+(C) 12 m/s
+(D) 20 m/s
+----------------------------------------------------------------------------------------------
+[Mercury_7038570] [ENG_WAVES_GENERATE]
+Students are learning about different types of waves. Which is the least likely way for the students to generate a wave?
+(A) by tossing a ball in the air
+(B) by shaking the ends of a rope
+(C) by throwing a pebble into a pool of water
+(D) by pulling on a coiled spring toy
+----------------------------------------------------------------------------------------------
+[Mercury_7098140] [ENG_WAVES_GENERICPROP]
+Radio signal interruption sometimes causes a humming or buzzing sound. These sounds are most likely caused by
+(A) balanced forces.
+(B) longitudinal waves.
+(C) gravitational forces.
+(D) electromagnetic waves.

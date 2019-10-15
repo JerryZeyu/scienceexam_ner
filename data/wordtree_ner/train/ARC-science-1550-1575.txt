@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407787] [FOR_GRAVITY]
+Paco throws a ball. What force pulls the ball down toward the ground?
+(A) friction
+(B) gravity
+(C) inertia
+(D) momentum
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_4_29] [FOR_GRAVITY]
+A ball is tossed up in the air and it comes back down. The ball comes back down because of
+(A) gravity
+(B) friction
+(C) erosion
+(D) magnetism
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_4_14] [FOR_GRAVITY]
+A marble is dropped in a glass of water. Which force pulls the marble to the bottom of the glass?
+(A) electricity
+(B) friction
+(C) gravity
+(D) magnetism
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_4_4] [FOR_GRAVITY]
+Which force causes a marble to sink to the bottom of a glass of water?
+(A) gravity
+(B) friction
+(C) magnetism
+(D) electricity
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_4_3] [FOR_GRAVITY]
+A student drops a ball. Which force causes the ball to fall to the ground?
+(A) electricity
+(B) friction
+(C) gravity
+(D) magnetism
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_4_6] [FOR_GRAVITY]
+Which force causes rocks to roll downhill?
+(A) gravity
+(B) friction
+(C) erosion
+(D) magnetism
+----------------------------------------------------------------------------------------------
+[Mercury_SC_409391] [FOR_GRAVITY]
+The pull of gravity on Earth is caused by
+(A) air pressure.
+(B) the mass of Earth.
+(C) volcanoes erupting.
+(D) Earth's orbit around the Sun.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_41] [FOR_GRAVITY]
+A pencil falls off of a desk. What moves the pencil toward the floor?
+(A) mass
+(B) friction
+(C) gravity
+(D) speed
+----------------------------------------------------------------------------------------------
+[Mercury_7084700] [FOR_GRAVITY]
+When placed at equal distances apart, the greatest gravitational attraction will be between two
+(A) skateboards.
+(B) refrigerators.
+(C) bowling balls.
+(D) school buses.
+----------------------------------------------------------------------------------------------
+[Mercury_7268293] [FOR_GRAVITY]
+How do the sprouts of seeds buried in complete dark in the soil find their way to the surface of the soil?
+(A) They grow toward light.
+(B) They grow toward surface warmth.
+(C) They grow opposite the direction of the bedrock.
+(D) They grow opposite the direction of the pull of gravity.
+----------------------------------------------------------------------------------------------
+[Mercury_7069440] [FOR_GRAVITY]
+If two objects are two meters apart, which of these changes will increase the gravitational force between the two objects?
+(A) decreasing the mass of one object
+(B) decreasing the mass of both objects
+(C) moving the objects to one meter apart
+(D) moving the objects to three meters apart
+----------------------------------------------------------------------------------------------
+[OHAT_2007_8_37] [FOR_GRAVITY]
+Why do satellites and spacecraft launched from Earth need to reach a specific speed to escape Earth's surface?
+(A) to overcome Earth's gravitational force
+(B) to protect equipment from radiation
+(C) to break through the sound barrier
+(D) to avoid Earth's magnetic field
+----------------------------------------------------------------------------------------------
+[Mercury_7072660] [FOR_GRAVITY]
+Two identical books are on opposite ends of a table. Which of these would increase the gravitational force exerted between the two books?
+(A) decrease the distance between the books
+(B) decrease the mass of the books
+(C) decrease the mass of the table
+(D) decrease the temperature in the room
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2004_8_40] [FOR_GRAVITY]
+Which two factors determine the gravitational attraction between two objects?
+(A) time and temperature
+(B) shape and orbital speed
+(C) color and hardness
+(D) mass and distance apart
+----------------------------------------------------------------------------------------------
+[MCAS_2008_8_5598] [FOR_GRAVITY]
+Which of the following causes a ship’s iron anchor to sink to the ocean floor when it is released overboard?
+(A) chemical forces
+(B) gravity
+(C) magnetism
+(D) nuclear forces
+----------------------------------------------------------------------------------------------
+[MCAS_2006_9_22] [FOR_GRAVITY]
+One 7.0 kg bowling ball is lifted to a storage shelf 1.0 m above the floor. A second 7.0 kg ball is lifted to a storage shelf 2.0 m above the floor. Which of the following best explains why the measured force of gravity on each ball is nearly identical?
+(A) The final potential energy of each ball increased.
+(B) The amount of work required to lift each ball is identical.
+(C) The distance of each ball from Earth's center of mass is almost identical.
+(D) The gravitational force of each ball on the other cancels out the force of Earth's gravity.
+----------------------------------------------------------------------------------------------
+[LEAP_2001_4_10239] [FOR_GRAVITY]
+Jeannie put her soccer ball on the ground on the side of a hill. What force acted on the soccer ball to make it roll down the hill?
+(A) gravity
+(B) electricity
+(C) friction
+(D) magnetism
+----------------------------------------------------------------------------------------------
+[Mercury_SC_409390] [FOR_GRAVITY]
+Don throws a ball in the air. The ball comes back to the ground because
+(A) the wind pushes on the ball with friction.
+(B) the mass of Earth creates a pull of gravity on the ball.
+(C) the core of Earth pulls on the ball with a magnetic attraction.
+(D) the weight of the atmosphere pushes down on the ball.
+----------------------------------------------------------------------------------------------
+[Mercury_7082583] [FOR_GRAVITY]
+The force of gravitational attraction between Earth and any object on Earth is measured as
+(A) mass.
+(B) weight.
+(C) volume.
+(D) density.
+----------------------------------------------------------------------------------------------
+[Mercury_7072415] [FOR_GRAVITY]
+As a satellite falls toward Earth, the gravitational force between the satellite and Earth increases. Which statement best explains why there is an increase in gravitational force?
+(A) As the satellite gets closer to Earth, the satellite cools.
+(B) As the satellite approaches Earth, the satellite rotates faster.
+(C) The mass of the satellite increases as it nears Earth.
+(D) The distance between Earth and the satellite decreases.
+----------------------------------------------------------------------------------------------
+[Mercury_7085960] [FOR_GRAVITY, CEL_DISTANCES]
+The magnitude of the gravitational force between two planets depends on the
+(A) speed the planets rotate.
+(B) other nearby planets.
+(C) volume of the planets.
+(D) distance between the planets.
+----------------------------------------------------------------------------------------------
+[MEA_2014_8_6] [FOR_GRAVITY, ENG_ELEC_GENERATE]
+A ball is dropped from different heights. When the ball is dropped from the highest height, it makes the greatest noise or vibration when it lands on the ground. What is the best explanation for the ball making the greatest noise?
+(A) The air pushes down more and the ball goes faster.
+(B) Gravity pulls for a longer time and the ball goes faster.
+(C) The ball is gaining weight and going faster.
+(D) The ball is warming up and going faster.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415772] [FOR_GRAVITY, FOR_INTWITHOBJ]
+If you bounce a rubber ball on the floor, it goes up and then comes down. What causes the ball to come down?
+(A) magnetism
+(B) gravity
+(C) electricity
+(D) friction
+----------------------------------------------------------------------------------------------
+[Mercury_7007403] [FOR_GRAVITY, FOR_VELOCITY]
+What causes a free falling object to accelerate?
+(A) inertia
+(B) gravity
+(C) initial speed
+(D) initial direction
+----------------------------------------------------------------------------------------------
+[Mercury_7263305] [FOR_GRAVITY, LIFE_FUNCT_ENVRESP_PLANT]
+Geotropism is a response by plants to which force?
+(A) gravity
+(B) friction
+(C) air pressure
+(D) Earth's magnetism

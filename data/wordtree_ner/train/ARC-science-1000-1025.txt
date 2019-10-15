@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_8_9] [EARTH_WEATHER_CLIMATE]
+How do moose use a learned behavior to protect themselves?
+(A) They have hollow hair to keep warm in the winter.
+(B) They roll in a pool of muddy water to avoid fly bites.
+(C) They have keen hearing to sense danger in the forest.
+(D) They use their wide hooves to prevent sinking in deep snow.
+----------------------------------------------------------------------------------------------
+[MCAS_2012_8_23641] [EARTH_WEATHER_CLIMATE, SCI_INFERENCE_INFERENCE]
+Scientists found evidence of past glacial activity in Massachusetts. Which of the following conclusions is best supported by this evidence?
+(A) Sea levels were much higher in the past.
+(B) The climate on Earth has changed over time.
+(C) Total numbers of organisms on Earth have changed over time.
+(D) The total amount of radiation from the Sun was much higher in the past.
+----------------------------------------------------------------------------------------------
+[OHAT_2007_5_39] [EARTH_WEATHER_CLOUDS]
+The weather forecast says a heavy snowstorm is coming later today. Which weather observation is likely just before the snow?
+(A) clear sky
+(B) thick grey clouds
+(C) small white clouds
+(D) warm temperature
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401144] [EARTH_WEATHER_CLOUDS]
+When water vapor rises and cools, the liquid water in the air comes together forming
+(A) wind.
+(B) clouds.
+(C) lightning.
+(D) tornadoes.
+----------------------------------------------------------------------------------------------
+[Mercury_7103460] [EARTH_WEATHER_CLOUDS]
+Which condition is associated with most warm fronts?
+(A) tornado formations
+(B) low temperatures
+(C) violent air mass collisions
+(D) cloud formations bringing precipitation
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_5] [EARTH_WEATHER_CLOUDS]
+Which process must occur for clouds to form?
+(A) erosion
+(B) conduction
+(C) condensation
+(D) precipitation
+----------------------------------------------------------------------------------------------
+[Mercury_7217858] [EARTH_WEATHER_CLOUDS]
+High-altitude cirrus clouds are primarily formed from which substance?
+(A) carbon dioxide gas
+(B) solid ice crystals
+(C) nitrogen compounds
+(D) ozone molecules
+----------------------------------------------------------------------------------------------
+[Mercury_7213010] [EARTH_WEATHER_CLOUDS]
+Which gas, when condensed into its liquid state in the atmosphere, forms clouds?
+(A) methane
+(B) nitrogen
+(C) water vapor
+(D) carbon dioxide
+----------------------------------------------------------------------------------------------
+[Mercury_7139125] [EARTH_WEATHER_CLOUDS]
+The Sahara Desert in Africa has high daytime temperatures but low nighttime temperatures. Which factor is mainly responsible for low nighttime temperatures in the Sahara Desert?
+(A) coarse soil
+(B) low latitude
+(C) lack of clouds
+(D) high altitude
+----------------------------------------------------------------------------------------------
+[Mercury_7181318] [EARTH_WEATHER_CLOUDS]
+When water evaporates from Earth's surface into the atmosphere, its molecules enter the gas state. What change in this gas causes molecules to condense into the small water droplets that form clouds?
+(A) The mass is reduced.
+(B) The volume is increased.
+(C) The temperature is reduced.
+(D) The pressure is increased.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_43] [EARTH_WEATHER_CLOUDS]
+What must occur before clouds can form?
+(A) Water vapor must get warmer.
+(B) Water vapor must lose heat energy.
+(C) Precipitation must begin to fall and run off.
+(D) Transpiration must add water vapor to the atmosphere.
+----------------------------------------------------------------------------------------------
+[MCAS_2005_5_27] [EARTH_WEATHER_CLOUDS]
+Clouds and fog are made up of
+(A) water.
+(B) heat.
+(C) light.
+(D) helium.
+----------------------------------------------------------------------------------------------
+[MCAS_2005_8_35] [EARTH_WEATHER_CLOUDS]
+When dense, cold air pushes beneath warmer atmospheric air, the lighter, warmer air rises. As this air rises into the atmosphere, it cools and some of the water vapor in it condenses. Which of the following will most likely form as this occurs?
+(A) a cloud
+(B) a rainbow
+(C) a sunset
+(D) a tornado
+----------------------------------------------------------------------------------------------
+[Mercury_7004165] [EARTH_WEATHER_CLOUDS]
+Which is most responsible for reflecting incoming solar heat back to space?
+(A) clouds
+(B) mountains
+(C) ozone layers
+(D) trade winds
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10790] [EARTH_WEATHER_CLOUDS, EARTH_WEATHER_WATERCYC_EVAPCOND]
+As water vapor condenses into liquid, which of the following can be formed?
+(A) ice
+(B) steam
+(C) frost
+(D) clouds
+----------------------------------------------------------------------------------------------
+[Mercury_7218715] [EARTH_WEATHER_CLOUDS, EARTH_WEATHER_WATERCYC_EVAPCOND]
+Which phase change in the atmosphere forms clouds?
+(A) evaporation
+(B) freezing
+(C) condensation
+(D) melting
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_4_3] [EARTH_WEATHER_DEF]
+Which two observations are both used to describe weather?
+(A) precipitation and runoff
+(B) temperature and sky conditions
+(C) wind speed and erosion
+(D) types of clouds and deposition
+----------------------------------------------------------------------------------------------
+[Mercury_SC_414016] [EARTH_WEATHER_DEF]
+Which statement is describing climate?
+(A) It snowed 12 centimeters last night.
+(B) Last winter was colder than normal.
+(C) There is a thunderstorm watch for the local area.
+(D) The temperature will be between 32°C and 37°C all week.
+----------------------------------------------------------------------------------------------
+[Mercury_7043838] [EARTH_WEATHER_DEF]
+What is the main source of energy that drives all weather patterns?
+(A) the Sun
+(B) oceans
+(C) the Moon
+(D) mountains
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_4_3] [EARTH_WEATHER_DEF]
+The condition of the air outdoors at a certain time of day is known as
+(A) friction
+(B) light
+(C) force
+(D) weather
+----------------------------------------------------------------------------------------------
+[Mercury_7210403] [EARTH_WEATHER_DEF]
+A student writes the following statement in a journal: "It was 84°F at 3 p.m. on Tuesday in the schoolyard." This statement best describes which system?
+(A) local weather
+(B) local climate
+(C) regional weather
+(D) regional climate
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415012] [EARTH_WEATHER_ERO_DEPOSITION]
+Changes to Earth's surface can happen slowly or quickly. Which of these changes happens the most quickly?
+(A) a mountain eroding to a hill
+(B) a river making a delta
+(C) a glacier making a canyon
+(D) a storm moving a sandbar
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407435] [EARTH_WEATHER_ERO_DEPOSITION]
+The students watch ocean waves crash on a beach. Which statement describes what will most likely happen because of the waves?
+(A) Grass on the beach will grow longer.
+(B) Sand from the beach will wash away.
+(C) Salt from the ocean will be left on the beach.
+(D) Currents in the ocean will become stronger.
+----------------------------------------------------------------------------------------------
+[MDSA_2011_5_43] [EARTH_WEATHER_ERO_DEPOSITION]
+Wind changes the surface of Earth. Which of these land formations is a result of transportation and deposition by wind?
+(A) a delta
+(B) a glacier
+(C) a sand dune
+(D) a mountain peak
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401832] [EARTH_WEATHER_ERO_DEPOSITION]
+What causes the soil in a flood plain to be generally rich in nutrients?
+(A) constantly flowing water
+(B) many fish in the river
+(C) new soil deposited by the river
+(D) warm water from an ocean

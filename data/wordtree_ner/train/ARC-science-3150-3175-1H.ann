@@ -1,0 +1,304 @@
+T2	Light 649 654	light
+T3	Light 1606 1611	light
+T13	Star 702 705	Sun
+T15	Pressure 1195 1210	surface tension
+T17	IncreaseDecrease 2191 2200	slow down
+T19	Energy 2634 2648	kinetic energy
+T20	Energy 686 692	energy
+T22	ChemicalProperty 349 357	chemical
+T25	Energy 377 384	nuclear
+T37	ReleaseEnergy 661 666	burns
+T38	SoundEnergy 3393 3403	acoustical
+T40	IncreaseDecrease 3264 3271	heating
+T41	IncreaseDecrease 2618 2624	heated
+T44	ThermalEnergy 1562 1566	heat
+T45	ThermalEnergy 640 644	heat
+T58	Scientists 1406 1415	scientist
+T60	Plant 1632 1638	plants
+T61	Plant 674 678	tree
+T62	Angiosperm 744 749	grass
+T63	PlantPart 713 718	fruit
+T64	PlantPart 626 629	log
+T65	PlantPart 1577 1580	log
+T109	SensoryTerms 3097 3102	Smell
+T114	NutritiveSubstancesForAnimalsOrPlants 1623 1628	sugar
+T116	Foods 3971 3976	bread
+T117	Foods 1645 1649	cake
+T118	Foods 1675 1686	ingredients
+T124	MeasurementsForHeatChange 1233 1246	specific heat
+T125	MeasurementsForHeatChange 2729 2751	specific heat capacity
+T143	AcidityUnit 3737 3739	pH
+T156	ManmadeObjects 2972 2980	notebook
+T157	ManmadeObjects 214 221	jewelry
+T158	HeatingAppliance 1947 1952	match
+T160	IncreaseDecrease 3276 3283	cooling
+T164	LiquidHoldingContainersRecepticles 1693 1699	bottle
+T167	AirVehicle 3008 3016	airplane
+T168	Property 3377 3387	properties
+T171	Property 3404 3414	properties
+T174	Property 335 343	property
+T175	Property 1043 1051	property
+T176	Property 3601 3609	property
+T191	ChemicalProperty 3574 3591	chemical properti
+T192	PH 3737 3739	pH
+T201	PhysicalProperty 3076 3082	Weight
+T202	PhysicalProperty 3023 3040	physical property
+T204	PhysicalProperty 2689 2696	density
+T205	PhysicalProperty 3719 3728	viscosity
+T206	PhysicalProperty 389 397	physical
+T211	Conductivity 3697 3709	conductivity
+T212	Temperature 248 264	room temperature
+T213	Temperature 3276 3283	cooling
+T215	Temperature 3369 3376	thermal
+T216	Temperature 3264 3271	heating
+T217	Temperature 813 817	cold
+T219	Temperature 2618 2624	heated
+T228	Mass 3067 3071	Mass
+T229	Mass 3076 3082	Weight
+T233	Shape 3087 3092	Shape
+T237	Size 1726 1731	small
+T245	Wetness 1011 1016	moist
+T246	Wetness 1026 1029	dry
+T247	Material 3243 3251	material
+T248	Material 3303 3311	material
+T249	SyntheticMaterial 1968 1973	glass
+T250	NaturalMaterial 2981 2986	paper
+T251	NaturalMaterial 3048 3053	paper
+T252	NaturalMaterial 3988 3992	wood
+T254	ResistanceStrength 3692 3696	weak
+T255	ResistanceStrength 3672 3678	strong
+T258	Quality 3633 3637	good
+T261	Rarity 3567 3573	unique
+T263	Speed 750 756	slowly
+T264	VisualProperty 3318 3336	optical properties
+T268	TypesOfChemicalReactions 1936 1944	lighting
+T270	TemporalProperty 2240 2246	longer
+T275	StateOfBeing 2216 2221	phase
+T279	Difficulty 2255 2261	easily
+T285	Numbers 1427 1433	number
+T287	RelativeNumber 3733 3736	low
+T288	RelativeNumber 1670 1674	many
+T289	RelativeNumber 1721 1725	many
+T290	RelativeNumber 3562 3566	many
+T291	RelativeNumber 1190 1194	high
+T292	RelativeNumber 1228 1232	high
+T293	RelativeNumber 3714 3718	high
+T294	Calculations 2681 2688	average
+T295	Calculations 2784 2791	average
+T299	FossilFuel 1989 1997	gasoline
+T326	Minerals 3649 3666	crystalline salts
+T327	Soil 1001 1005	soil
+T334	Matter 1468 1474	matter
+T335	ElementalComponents 1447 1456	molecular
+T337	ElementalComponents 1123 1137	polar molecule
+T339	ElementalComponents 2163 2172	molecules
+T340	ElementalComponents 1168 1172	atom
+T341	MolecularProperties 2792 2807	molecular speed
+T342	MolecularProperties 3679 3687	polarity
+T344	Element 148 152	gold
+T345	Element 177 181	gold
+T347	Element 2396 2403	element
+T351	Element 2013 2017	iron
+T352	Element 136 143	Mercury
+T353	Element 183 190	mercury
+T363	Element 1161 1167	oxygen
+T365	Mixtures 2350 2357	mixture
+T366	PartsOfASolution 3638 3645	solvent
+T367	PhasesOfWater 1055 1060	water
+T368	PhasesOfWater 778 783	water
+T369	PhasesOfWater 1178 1183	Water
+T370	PhasesOfWater 1143 1148	Water
+T371	PhasesOfWater 2176 2181	water
+T372	PhasesOfWater 1112 1117	Water
+T373	PhasesOfWater 2288 2293	water
+T374	PhasesOfWater 1216 1221	Water
+T375	PhasesOfWater 3625 3630	water
+T376	PhasesOfWater 3613 3618	water
+T377	PhasesOfWater 961 966	Water
+T378	PhasesOfWater 3552 3557	Water
+T379	PhasesOfWater 3938 3941	ice
+T380	StateOfMatter 238 244	liquid
+T382	StateOfMatter 2609 2614	solid
+T383	StateOfMatter 2759 2764	solid
+T384	StateOfMatter 2656 2661	solid
+T385	StateOfMatter 2815 2820	solid
+T386	StateOfMatter 2704 2709	solid
+T387	StateOfMatter 288 303	state of matter
+T389	SolidMatter 3938 3941	ice
+T398	MetalSolids 162 168	metals
+T399	MetalSolids 2013 2017	iron
+T400	MetalSolids 3954 3958	nail
+T402	LiquidMatter 1055 1060	water
+T403	LiquidMatter 778 783	water
+T404	LiquidMatter 1178 1183	Water
+T405	LiquidMatter 1143 1148	Water
+T406	LiquidMatter 2176 2181	water
+T407	LiquidMatter 1112 1117	Water
+T408	LiquidMatter 2288 2293	water
+T409	LiquidMatter 1216 1221	Water
+T410	LiquidMatter 3625 3630	water
+T411	LiquidMatter 3613 3618	water
+T412	LiquidMatter 961 966	Water
+T413	LiquidMatter 3552 3557	Water
+T414	CapillaryAction 976 992	capillary action
+T415	CapillaryAction 1090 1106	capillary action
+T417	Compound 2372 2380	compound
+T418	Compound 2418 2426	compound
+T420	Changes 1457 1464	changes
+T421	Changes 2589 2596	changes
+T422	Changes 3054 3061	changes
+T424	ElectricalProperty 362 372	electrical
+T431	ChemicalChange 3977 3983	baking
+T432	ChemicalChange 1570 1574	burn
+T433	ChemicalChange 1978 1985	burning
+T434	ChemicalChange 3993 4000	burning
+T435	ChemicalChange 603 618	chemical change
+T436	ChemicalChange 2002 2009	rusting
+T437	ChemicalChange 3959 3966	rusting
+T438	ChemicalChange 1659 1664	baked
+T439	ChemicalChange 661 666	burns
+T440	PhysicalChange 577 592	physical change
+T441	PhysicalChange 1535 1550	physical change
+T442	PhysicalChange 1915 1930	physical change
+T443	PhysicalChange 3917 3932	physical change
+T444	PhaseChanges 2315 2327	phase change
+T445	PhaseChangingActions 789 796	freezes
+T446	PhaseChangingActions 3942 3949	melting
+T451	FormChangingActions 1957 1965	breaking
+T452	FormChangingActions 2990 2996	folded
+T454	FormChangingActions 1709 1715	broken
+T455	ColorChangingActions 757 770	changes color
+T456	AmountChangingActions 2710 2719	increases
+T457	AmountChangingActions 2821 2830	increases
+T458	AmountChangingActions 2662 2671	decreases
+T459	AmountChangingActions 2765 2774	decreases
+T460	LocationChangingActions 732 736	lost
+T465	ChangeInto 2386 2392	become
+T466	ChangeInto 2409 2415	become
+T473	ChangeInto 1716 1720	into
+T474	ChangeInto 2206 2213	go into
+T478	Communicate 3284 3289	tells
+T480	Communicate 1512 1520	provides
+T482	ContainBeComposedOf 1184 1187	has
+T483	ContainBeComposedOf 1222 1225	has
+T484	ContainBeComposedOf 3558 3561	has
+T485	ContainBeComposedOf 1149 1157	contains
+T486	Create 1615 1622	produce
+T487	Cause 3619 3624	makes
+T488	Create 1512 1520	provides
+T490	Create 209 213	make
+T491	Create 3000 3004	make
+T494	Examine 1397 1402	study
+T497	IncreaseDecrease 2710 2719	increases
+T498	IncreaseDecrease 2821 2830	increases
+T499	IncreaseDecrease 2662 2671	decreases
+T500	IncreaseDecrease 2765 2774	decreases
+T502	Move 2262 2266	move
+T503	Move 967 972	moves
+T504	Move 2297 2304	passing
+T512	Observe 1416 1424	observed
+T513	Observe 1499 1511	observations
+T514	Occur 2597 2603	occurs
+T519	Preserve 679 685	stores
+T520	Break 801 807	cracks
+T521	Break 1957 1965	breaking
+T523	Break 1709 1715	broken
+T525	Start 2182 2187	begin
+T526	Speed 2191 2200	slow down
+T527	Use 201 205	used
+T528	Use 1570 1574	burn
+T529	Use 1556 1561	using
+T530	Use 1600 1605	using
+T531	Use 1978 1985	burning
+T539	WaitStay 2341 2347	remain
+T540	WaitStay 2363 2369	remain
+T541	PerformingResearch 1397 1402	study
+T542	PerformingResearch 1416 1424	observed
+T543	ConcludingResearch 1521 1529	evidence
+T544	WordsForData 1521 1529	evidence
+T545	TimesOfDayDayNight 818 823	night
+T547	RelativeTime 808 810	on
+T549	RelativeTime 2967 2971	When
+T550	Locations 1017 1022	areas
+T551	Locations 1030 1035	areas
+T553	PartsOfABuilding 1586 1595	fireplace
+T554	PartsOfABuilding 784 788	pipe
+T555	RelativeLocations 2808 2810	in
+T556	RelativeLocations 1465 1467	in
+T557	RelativeLocations 1581 1583	in
+T558	RelativeLocations 706 708	in
+T560	RelativeLocations 737 739	in
+T561	RelativeLocations 1629 1631	in
+T564	Cause 973 975	by
+T565	RelativeLocations 2222 2227	where
+T568	RelativeDirection 3261 3263	to
+T573	RelativeDirection 1023 1025	to
+T575	RelativeDirection 693 697	from
+T576	RelativeDirection 1006 1010	from
+T577	RelativeDirection 1665 1669	from
+T582	StateOfBeing 245 247	at
+T583	PrepositionalDirections 993 1000	through
+T584	PrepositionalDirections 2305 2312	through
+T586	PrepositionalDirections 2267 2271	past
+T587	Comparisons 1437 1446	different
+T588	Comparisons 170 176	Unlike
+T589	Comparisons 270 280	difference
+T590	Comparisons 2277 2282	other
+T592	AmountComparison 1064 1068	most
+T603	Undiscovered 732 736	lost
+T604	AbilityAvailability 2247 2251	able
+T605	AbilityAvailability 191 197	cannot
+T611	GapsAndCracks 801 807	cracks
+T612	Exemplar 327 331	type
+T613	Exemplar 310 317	example
+T614	Exemplar 564 571	example
+T615	Exemplar 1902 1909	example
+T616	Exemplar 3904 3911	example
+T617	Method 3237 3240	How
+T618	StateOfBeing 304 306	is
+T619	StateOfBeing 233 235	is
+T620	StateOfBeing 1655 1658	was
+T621	StateOfBeing 1705 1708	was
+T626	ObjectPart 1675 1686	ingredients
+T627	ObjectPart 1387 1391	part
+T628	ObjectQuantification 1732 1738	pieces
+T632	Negations 597 600	not
+T633	Negations 2237 2239	no
+T639	Cause 1069 1080	responsible
+T640	Cause 222 229	because
+T641	Response 3252 3260	responds
+T644	ProbabilityAndCertainty 2332 2336	will
+T647	Relevant 3293 3298	about
+T648	LevelOfInclusion 2272 2276	each
+T650	LevelOfInclusion 157 161	both
+T651	LevelOfInclusion 321 326	which
+T652	LevelOfInclusion 3595 3600	Which
+T653	LevelOfInclusion 2566 2571	Which
+T654	LevelOfInclusion 535 540	Which
+T655	LevelOfInclusion 1873 1878	Which
+T656	LevelOfInclusion 1476 1481	Which
+T657	LevelOfInclusion 3892 3897	Which
+T658	LevelOfInclusion 1037 1042	Which
+T659	LevelOfInclusion 1387 1391	part
+T662	MoneyTerms 726 731	penny
+T6	StateOfBeing 153 156	are
+T7	StateOfBeing 198 200	be
+T10	LevelOfInclusion 544 557	the following
+T11	StateOfBeing 558 560	is
+T23	Release 630 639	gives off
+T27	RelativeTime 655 657	as
+T36	ManmadeObjects 726 731	penny
+T14	StateOfBeing 1061 1063	is
+T18	StateOfBeing 1118 1120	is
+T8	LevelOfInclusion 1485 1498	the following
+T16	LevelOfInclusion 1882 1895	the following
+T28	StateOfBeing 1896 1898	is
+T1	StateOfBeing 2156 2158	As
+T4	StateOfBeing 2233 2236	are
+T29	StateOfBeing 2294 2296	is
+T5	LevelOfInclusion 2575 2588	the following
+T33	RelativeTime 2604 2606	as
+T35	StateOfBeing 2615 2617	is
+T21	StateOfBeing 2987 2989	is
+T26	PhysicalProperty 3342 3363	mechanical properties
+T12	StateOfBeing 3898 3900	is

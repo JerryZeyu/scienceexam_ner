@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407137] [LIFE_FUNCT_FEATANDFUNCT_PLANT]
+Plants use nutrients found in soil. Which of these can break down in soil and become nutrients?
+(A) air
+(B) water
+(C) leaves
+(D) sunlight
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_44] [LIFE_FUNCT_FEATANDFUNCT_PLANT]
+Which process allows green plants to control the amount of water stored in their leaves?
+(A) photosynthesis
+(B) condensation
+(C) respiration
+(D) transpiration
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416523] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+Which part of a pine tree makes food?
+(A) root
+(B) cone
+(C) trunk
+(D) needle
+----------------------------------------------------------------------------------------------
+[MCAS_2000_4_3] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+The BEST way to tell the DIFFERENCE between an oak and a maple tree is to compare the
+(A) height of both trees.
+(B) number of leaves on the trees.
+(C) size of the root systems of the trees.
+(D) shape of the leaves.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408743] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+Jeremiah noticed a plant had many missing leaves and large holes in other leaves. Why do missing leaves hurt the plant?
+(A) The plant makes less food.
+(B) The plant takes in less water.
+(C) The plant attracts fewer insects.
+(D) The plant does not have support.
+----------------------------------------------------------------------------------------------
+[MCAS_2012_5_23624] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+Which part of a plant is most responsible for using energy from the Sun to produce food for the plant?
+(A) flower
+(B) leaf
+(C) root
+(D) stem
+----------------------------------------------------------------------------------------------
+[VASoL_2011_5_15] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+Which of these is a function of a leaf?
+(A) Carrying nutrients throughout the plant
+(B) Converting solar energy into sugar
+(C) Creating shade for the plant
+(D) Absorbing water from the ground
+----------------------------------------------------------------------------------------------
+[MCAS_2004_5_4] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+A solar cell turns sunlight into another form of energy. A solar cell is most like what natural structure?
+(A) an elephant's ears
+(B) a plant's leaves
+(C) a deer's hooves
+(D) a tree's roots
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400011] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+How do the waxy stem covering and needle-shaped leaves improve the ability of a cactus to survive in the desert?
+(A) They make the plant appetizing to small desert animals.
+(B) They prevent the loss of oxygen through photosynthesis.
+(C) They reduce the loss of water from the plant to the air.
+(D) They provide the storage space for different types of minerals.
+----------------------------------------------------------------------------------------------
+[Mercury_7188073] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+Plants have cells, tissues, organs, and systems that allow them to function as complete organisms. Which parts of a plant function as an organ?
+(A) leaves
+(B) spores
+(C) root hairs
+(D) chlorophyll molecules
+----------------------------------------------------------------------------------------------
+[Mercury_7206535] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+In multicellular organisms, different structures have different functions. Which function is carried out in the leaves of a plant?
+(A) absorbing food
+(B) producing flowers
+(C) absorbing light
+(D) making seeds
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416526] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+What part of a plant needs sunlight to do its job?
+(A) stem
+(B) root
+(C) leaf
+(D) flower
+----------------------------------------------------------------------------------------------
+[Mercury_7044678] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF]
+Which statement best explains what happens to a leaf when it has lost much-needed water?
+(A) Its turgor pressure decreases.
+(B) Its atmospheric pressure decreases.
+(C) Its rate of transpiration increases.
+(D) Its rate of photosynthesis increases.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401140] [LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF, LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+Which part of a plant is used to absorb sunlight during photosynthesis?
+(A) leaf
+(B) root
+(C) seed
+(D) flower
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407394] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+What is taken in by the leaves of a tree so it can make its own food?
+(A) oxygen
+(B) sugar
+(C) sunlight
+(D) water
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10039] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+In addition to oxygen, what do plants produce during photosynthesis?
+(A) chlorophyll
+(B) sugar
+(C) carbon dioxide
+(D) light energy
+----------------------------------------------------------------------------------------------
+[Mercury_SC_409901] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+Plants need a source of energy in order to perform photosynthesis. From which source do plants receive the energy needed to perform photosynthesis?
+(A) oxygen
+(B) sugar
+(C) sunlight
+(D) water
+----------------------------------------------------------------------------------------------
+[VASoL_2007_5_28] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+Which gas is given off by plants?
+(A) Hydrogen
+(B) Nitrogen
+(C) Oxygen
+(D) Helium
+----------------------------------------------------------------------------------------------
+[ACTAAP_2014_5_14] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+What is the role of chlorophyll in photosynthesis?
+(A) absorbing oxygen
+(B) reflecting green light
+(C) absorbing light energy
+(D) blocking carbon dioxide
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408308] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+Janet learns that Earth is tilted. Due to its tilt, some areas on the surface of Earth experience darkness for an entire day. Which plant process is affected most during this darkness?
+(A) root growth
+(B) reproduction
+(C) photosynthesis
+(D) water absorption
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402126] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+Carbon dioxide is removed from Earth's atmosphere by
+(A) animal respiration.
+(B) decaying organisms.
+(C) plant photosynthesis.
+(D) burning fossil fuels.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407290] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+How can plants most likely improve air quality?
+(A) by absorbing nutrients
+(B) by producing oxygen
+(C) by producing sugar
+(D) by absorbing water
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408415] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+Cindy learned that trees release gases into to the air during photosynthesis. What gas does a tree release?
+(A) carbon dioxide
+(B) hydrogen
+(C) nitrogen
+(D) oxygen
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401148] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+Photosynthesis is the process that converts carbon dioxide and water into
+(A) carbon and oxygen.
+(B) sugar and hydrogen.
+(C) sugar and oxygen.
+(D) nitrogen and carbon.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2014_5_2] [LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH]
+What happens during photosynthesis?
+(A) Insects pollinate plants.
+(B) Plants change soil into food energy.
+(C) Animals get carbon dioxide from plants.
+(D) Plants change light energy into food energy.

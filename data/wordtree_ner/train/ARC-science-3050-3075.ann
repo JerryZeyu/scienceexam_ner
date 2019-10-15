@@ -1,0 +1,712 @@
+T13	ElectricalEnergy 4455 4465	electrical
+T16	LivingThing 6706 6715	Organisms
+T17	LivingThing 8069 8078	organisms
+T18	LivingThing 8910 8919	organisms
+T19	LivingThing 5604 5612	organism
+T20	LivingThing 3222 3230	organism
+T22	Animal 1000 1009	dinosaurs
+T23	Aquatic 9862 9866	Fish
+T24	Insect 2506 2517	butterflies
+T25	Insect 7089 7098	fruit fly
+T26	InsectAnimalPart 2530 2535	wings
+T27	InsectAnimalPart 2564 2568	wing
+T28	Mammal 6090 6097	puppies
+T29	Mammal 4748 4768	German shepherd dogs
+T30	Mammal 4794 4798	dogs
+T31	Mammal 5942 5956	Dalmatian dogs
+T32	Mammal 6080 6084	dogs
+T33	Mammal 6130 6140	Dalmatians
+T34	Mammal 5732 5736	pigs
+T35	Mammal 7209 7214	mouse
+T36	Mammal 5694 5699	mice
+T37	Mammal 4203 4209	cattle
+T38	Mammal 4311 4315	cows
+T39	Mammal 4439 4443	cows
+T40	Mammal 4518 4522	cows
+T41	Mammal 4482 4486	cows
+T42	Mammal 5703 5707	cows
+T43	Mammal 4398 4402	cows
+T44	Mammal 4175 4179	cows
+T45	Mammal 5680 5684	cats
+T47	Mammal 6044 6053	Dalmatian
+T50	Bird 5763 5771	chickens
+T51	Bird 1021 1026	birds
+T52	Bird 7122 7129	chicken
+T55	Reptile 9747 9754	Turtles
+T58	ActionsForAnimals 6265 6272	learned
+T59	ActionsForAnimals 5777 5780	lay
+T60	ActionsForAnimals 9755 9758	lay
+T61	ActionsForAnimals 5690 5693	eat
+T64	ActionsForAnimals 8477 8481	grow
+T67	Human 1687 1693	people
+T69	Scientists 454 463	scientist
+T70	Scientists 3781 3790	scientist
+T71	Human 6054 6060	owners
+T76	Human 8514 8520	person
+T78	Cell 8104 8109	cells
+T79	Cell 8184 8189	cells
+T83	Cell 280 284	cell
+T84	Cell 252 256	cell
+T85	Cell 237 241	cell
+T86	Cell 191 195	cell
+T87	Cell 267 271	cell
+T88	Cell 9001 9005	cell
+T89	Cell 3484 3488	cell
+T99	CellProcesses 7076 7083	meiosis
+T100	CellsAndGenetics 8259 8265	gamete
+T101	CellsAndGenetics 2890 2900	Chromosome
+T102	CellsAndGenetics 2977 2987	chromosome
+T103	CellsAndGenetics 3066 3076	chromosome
+T104	CellsAndGenetics 4524 4535	chromosomes
+T105	Eukaryote 7159 7165	amoeba
+T106	Genetics 1710 1716	allele
+T107	Genetics 9034 9050	genetic material
+T111	GeneticProcesses 2935 2946	duplication
+T113	Genetics 6815 6826	genetically
+T114	Genetics 6839 6850	genetically
+T115	Genetics 7790 7801	genetically
+T116	Genetics 8621 8632	genetically
+T117	Genetics 4001 4020	genetic engineering
+T118	Genetics 5386 5405	genetic engineering
+T119	Genetics 5411 5426	gene sequencing
+T120	Genetics 1527 1534	cloning
+T121	Genetics 3571 3574	RNA
+T122	Genetics 3593 3596	RNA
+T129	Genetics 9280 9299	genetic information
+T130	Genetics 5661 5668	genetic
+T137	Gene 1139 1144	genes
+T138	Gene 2955 2960	genes
+T139	Gene 8152 8157	genes
+T152	Gene 1733 1737	gene
+T153	Gene 3507 3511	gene
+T154	Gene 3052 3056	gene
+T155	Inheritance 5988 5997	recessive
+T156	Inheritance 8648 8657	recessive
+T157	Inheritance 6013 6020	inherit
+T158	Inheritance 6431 6440	inherited
+T159	Mutation 153 161	mutation
+T160	Mutation 1127 1135	mutation
+T161	Mutation 4903 4911	mutation
+T162	Mutation 1825 1833	mutation
+T163	Mutation 2252 2260	mutation
+T167	Mutation 744 760	genetic mutation
+T168	Mutation 1488 1504	genetic mutation
+T169	Mutation 2675 2691	genetic mutation
+T170	GeneticProcesses 2923 2931	deletion
+T171	Mutation 2901 2910	mutations
+T172	Mutation 9419 9428	mutations
+T173	Mutation 3077 3086	mutations
+T174	Mutation 3512 3521	mutations
+T175	Mutation 3026 3035	mutations
+T176	Mutation 2988 2997	mutations
+T177	GeneticProcesses 3549 3566	protein synthesis
+T178	GeneticProcesses 3613 3628	DNA replication
+T179	GeneticProcesses 1702 1709	mutated
+T181	GeneticProcesses 3575 3588	transcription
+T182	GeneticProcesses 8703 8713	suppressed
+T183	GeneticProcesses 3597 3608	translation
+T184	GeneticRelations 2499 2505	parent
+T185	GeneticRelations 6559 6565	parent
+T186	GeneticRelations 7853 7859	parent
+T187	GeneticRelations 8177 8183	parent
+T188	GeneticRelations 9228 9234	parent
+T189	GeneticRelations 7823 7829	parent
+T190	GeneticRelations 9250 9258	daughter
+T191	GeneticRelations 216 225	offspring
+T192	GeneticRelations 2541 2550	offspring
+T193	GeneticRelations 6756 6765	offspring
+T194	GeneticRelations 8970 8979	offspring
+T195	GeneticRelations 3178 3187	offspring
+T196	GeneticRelations 8602 8611	offspring
+T197	GeneticRelations 6467 6476	offspring
+T199	GeneticRelations 7776 7785	offspring
+T200	GeneticRelations 4297 4307	generation
+T201	GeneticRelations 3269 3279	generation
+T202	GeneticRelations 547 557	generation
+T203	GeneticRelations 5273 5283	generation
+T204	GeneticRelations 7908 7915	parents
+T205	GeneticRelations 8938 8945	parents
+T207	GeneticRelations 4834 4845	generations
+T210	GeneticProperty 5988 5997	recessive
+T211	GeneticProperty 8648 8657	recessive
+T212	GeneticProperty 2890 2900	Chromosome
+T213	GeneticProperty 2977 2987	chromosome
+T214	GeneticProperty 3066 3076	chromosome
+T215	GeneticProperty 4524 4535	chromosomes
+T224	GeneticProperty 9449 9466	Genetic variation
+T226	Plant 8504 8510	plants
+T227	Plant 7495 7501	plants
+T228	Plant 2216 2227	rose plants
+T229	Plant 5249 5255	plants
+T230	Plant 7438 7444	plants
+T231	Plant 7383 7389	plants
+T232	Plant 5152 5158	plants
+T233	Plant 2108 2119	rose plants
+T234	Plant 3866 3871	plant
+T235	Plant 7363 7368	plant
+T236	Plant 3817 3822	plant
+T237	Plant 9934 9939	Trees
+T240	Angiosperm 5722 5727	grass
+T241	Angiosperm 9191 9197	Onions
+T242	PlantPart 9832 9838	pollen
+T243	PlantPart 9217 9222	bulbs
+T244	PlantPart 9259 9264	bulbs
+T246	PlantPart 7414 7420	leaves
+T248	PlantPart 2190 2196	flower
+T249	PlantPart 499 505	flower
+T250	PlantPart 2051 2057	flower
+T251	PlantPart 588 594	flower
+T252	PlantPart 676 682	flower
+T253	PlantPart 9235 9239	bulb
+T254	PlantPart 9801 9806	Seeds
+T255	PlantPart 9986 9991	stems
+T256	PlantPart 561 568	flowers
+T257	PlantPart 2149 2156	flowers
+T258	PlantPart 9949 9968	rootlike extensions
+T263	Taxonomy 488 495	species
+T264	Taxonomy 2097 2104	species
+T265	Taxonomy 700 707	species
+T266	Taxonomy 1166 1173	species
+T267	Taxonomy 1452 1459	species
+T269	OrganicProcesses 1391 1398	process
+T270	OrganicProcesses 7065 7072	process
+T271	OrganicProcesses 7174 7181	process
+T272	OrganicProcesses 7508 7515	process
+T273	OrganicProcesses 1149 1162	hybridization
+T274	OrganicProcesses 3489 3497	function
+T276	Adaptation 713 723	adaptation
+T277	Adaptation 2636 2646	adaptation
+T278	BehavioralAdaptation 713 723	adaptation
+T286	Consumption 5690 5693	eat
+T287	Reproduction 9759 9769	fertilized
+T288	WordsForOffspring 216 225	offspring
+T289	WordsForOffspring 2541 2550	offspring
+T290	WordsForOffspring 6756 6765	offspring
+T291	WordsForOffspring 8970 8979	offspring
+T292	WordsForOffspring 3178 3187	offspring
+T293	WordsForOffspring 8602 8611	offspring
+T294	WordsForOffspring 6467 6476	offspring
+T296	WordsForOffspring 7776 7785	offspring
+T297	WordsForOffspring 6090 6097	puppies
+T298	Growth 8477 8481	grow
+T300	Development 3159 3170	development
+T301	Development 7192 7203	development
+T302	Development 569 575	blooms
+T303	Reproduction 1509 1522	crossbreeding
+T304	Reproduction 6246 6259	crossbreeding
+T306	Reproduction 6158 6175	produce offspring
+T308	Reproduction 7757 7766	Asexually
+T309	Reproduction 8542 8551	asexually
+T310	Reproduction 7138 7152	binary fission
+T316	Reproduction 9352 9364	reproduction
+T328	Reproduction 4775 4780	mated
+T329	Reproduction 2273 2284	pollination
+T330	Reproduction 1527 1534	cloning
+T331	Reproduction 8527 8536	reproduce
+T332	Reproduction 9202 9211	reproduce
+T333	Reproduction 6721 6740	reproduce asexually
+T334	Reproduction 8083 8092	reproduce
+T335	Reproduction 4220 4236	selectively bred
+T336	Reproduction 5627 5643	selectively bred
+T337	Reproduction 6221 6240	sexual reproduction
+T338	Reproduction 7537 7556	sexual reproduction
+T339	Reproduction 8304 8323	sexual reproduction
+T342	Reproduction 3791 3807	cross-pollinates
+T343	Reproduction 3121 3134	fertilization
+T344	Reproduction 7103 7116	fertilization
+T345	Reproduction 3951 3971	asexual reproduction
+T346	Reproduction 8233 8253	asexual reproduction
+T347	Reproduction 2327 2347	asexual reproduction
+T348	Reproduction 9721 9741	asexual reproduction
+T349	Reproduction 7561 7581	asexual reproduction
+T350	Reproduction 1854 1861	asexual
+T351	Reproduction 6484 6504	asexual reproduction
+T352	Reproduction 8886 8906	asexual reproduction
+T353	Reproduction 7035 7055	asexual reproduction
+T354	Reproduction 5240 5248	Crossing
+T355	PrenatalOrganismStates 5787 5791	eggs
+T356	PrenatalOrganismStates 9770 9774	eggs
+T357	PrenatalOrganismStates 7185 7191	embryo
+T360	PartsOfTheReproductiveSystem 6528 6531	egg
+T361	PrenatalOrganismStates 7130 7133	egg
+T362	PrenatalOrganismStates 8259 8265	gamete
+T364	Evolution 4916 4934	selective breeding
+T365	Evolution 1465 1483	selective breeding
+T366	Evolution 6197 6215	selective breeding
+T367	Evolution 3977 3995	selective breeding
+T368	Evolution 5339 5357	selective breeding
+T369	Evolution 5363 5380	natural selection
+T370	Evolution 8281 8298	natural selection
+T371	Evolution 4939 4956	natural selection
+T372	Evolution 3928 3945	natural selection
+T373	Evolution 2651 2668	natural selection
+T374	Evolution 2297 2314	natural selection
+T377	LivingDying 1178 1188	extinction
+T378	LivingDying 4888 4898	extinction
+T379	LivingDying 7600 7610	extinction
+T382	PlantProcesses 2273 2284	pollination
+T390	Blood 231 236	blood
+T392	PartsOfTheNervousSystem 261 266	brain
+T393	PartsOfTheNervousSystem 246 251	nerve
+T394	PartsOfTheNervousSystem 4488 4494	brains
+T395	PartsOfTheReproductiveSystem 276 279	egg
+T396	PartsOfTheReproductiveSystem 9875 9883	egg cell
+T397	PartsOfTheReproductiveSystem 6537 6542	sperm
+T398	PartsOfTheReproductiveSystem 9889 9900	sperm cells
+T399	Senses 6150 6154	hear
+T401	Sickness 6548 6553	virus
+T402	Sickness 1771 1780	infection
+T403	Sickness 5198 5205	disease
+T404	Sickness 3844 3851	viruses
+T405	TypesOfIllness 1785 1789	AIDS
+T408	TypesOfIllness 3537 3543	cancer
+T409	TypesOfIllness 1767 1770	HIV
+T411	Nutrition 4404 4408	food
+T412	Nutrition 4381 4390	nutrients
+T414	Foods 3892 3900	tomatoes
+T417	Foods 4248 4252	milk
+T418	Foods 4371 4375	milk
+T419	Foods 3810 3816	tomato
+T420	Foods 3859 3865	tomato
+T422	Agriculture 5147 5151	crop
+T431	ActionsForAgriculture 5713 5718	graze
+T433	ActionsForAgriculture 8477 8481	grow
+T439	TimeUnit 445 450	years
+T440	TimeUnit 528 532	year
+T461	Property 5174 5189	characteristics
+T462	Property 5669 5674	trait
+T463	Property 1067 1072	trait
+T464	Property 4331 4336	trait
+T465	Property 5998 6003	trait
+T466	Property 2041 2046	trait
+T467	Property 6441 6447	traits
+T468	Property 1433 1439	traits
+T469	Property 8658 8664	traits
+T470	Property 6273 6279	traits
+T471	Property 8692 8698	traits
+T472	Property 5307 5313	traits
+T498	Age 992 999	ancient
+T499	Age 9982 9985	new
+T500	Age 1063 1066	new
+T501	Age 5134 5137	new
+T502	Age 1429 1432	new
+T503	Age 7491 7494	new
+T504	Age 149 152	new
+T505	Age 672 675	new
+T506	Age 543 546	new
+T509	OtherOrganismProperties 8055 8068	Single-celled
+T512	OtherOrganismProperties 6796 6809	multicellular
+T513	OtherOrganismProperties 1878 1889	unicellular
+T514	OtherOrganismProperties 6779 6790	unicellular
+T516	InheritedBehavior 6431 6440	inherited
+T517	LearnedBehavior 6265 6272	learned
+T518	OtherAnimalProperties 5974 5978	deaf
+T519	OtherAnimalProperties 6110 6114	deaf
+T534	Shape 2569 2575	shapes
+T535	Size 7378 7382	tiny
+T536	Size 7433 7437	tiny
+T537	Size 9381 9385	size
+T538	Size 4785 4793	smallest
+T542	Size 4729 4736	smaller
+T543	Size 9485 9490	Large
+T544	Size 5747 5752	large
+T545	Size 4351 4356	large
+T546	Size 5781 5786	large
+T547	Size 3886 3891	large
+T549	ResistanceStrength 5229 5238	tolerance
+T550	ResistanceStrength 1754 1763	resistant
+T551	ResistanceStrength 3831 3840	resistant
+T552	ElectricalProperty 5206 5216	resistance
+T559	Quality 636 640	best
+T560	Quality 1797 1801	best
+T561	Quality 5317 5321	best
+T562	Quality 5164 5173	desirable
+T563	Quality 5297 5306	desirable
+T565	AmountComparison 8589 8596	greater
+T566	Rarity 1722 1732	particular
+T567	Rarity 5650 5660	particular
+T568	Rarity 3150 3158	abnormal
+T569	Rarity 3240 3246	rarely
+T570	Speed 9533 9540	rapidly
+T572	Color 683 688	color
+T573	Color 2058 2063	color
+T574	Color 2197 2202	color
+T575	Color 516 521	color
+T576	Color 2170 2176	colors
+T577	Color 581 587	yellow
+T578	Color 510 515	white
+T584	TemporalProperty 3264 3268	next
+T585	TemporalProperty 4292 4296	next
+T586	TemporalProperty 5268 5272	next
+T587	TemporalProperty 9533 9540	rapidly
+T588	RelativeNumber 9394 9402	constant
+T604	Rarity 2523 2529	normal
+T605	RelativeNumber 2067 2073	highly
+T615	Numbers 4357 4367	quantities
+T616	Numbers 9491 9501	quantities
+T617	CardinalNumber 2495 2498	Two
+T618	CardinalNumber 8934 8937	two
+T619	CardinalNumber 8482 8485	two
+T620	CardinalNumber 8163 8166	two
+T621	CardinalNumber 7904 7907	two
+T623	CardinalNumber 8989 8992	one
+T624	CardinalNumber 577 580	one
+T625	CardinalNumber 9224 9227	One
+T629	RelativeNumber 8110 8117	exactly
+T630	RelativeNumber 8493 8498	exact
+T631	RelativeNumber 3045 3051	single
+T632	RelativeNumber 6517 6523	single
+T638	RelativeNumber 3008 3020	much greater
+T639	RelativeNumber 8950 8956	little
+T640	RelativeNumber 437 444	several
+T641	RelativeNumber 4826 4833	several
+T642	RelativeNumber 2950 2954	many
+T643	RelativeNumber 1682 1686	Some
+T644	RelativeNumber 6039 6043	some
+T650	Speciation 2618 2628	speciation
+T651	Extinction 1178 1188	extinction
+T652	Extinction 4888 4898	extinction
+T653	Extinction 7600 7610	extinction
+T657	PlantPart 9851 9856	cones
+T661	Minerals 4423 4431	minerals
+T662	Soil 9791 9795	sand
+T663	Soil 7457 7463	ground
+T665	NaturalPhenomena 5221 5228	drought
+T666	WeatherPhenomena 5221 5228	drought
+T668	EcosystemsEnvironment 1226 1237	environment
+T669	ExamplesOfHabitats 9780 9783	pit
+T678	Cause 3498 3506	leads to
+T681	Cause 2121 2131	leading to
+T691	PhasesOfWater 4445 4450	water
+T692	PhasesOfWater 9923 9928	water
+T704	LiquidMatter 9923 9928	water
+T715	Changes 2606 2612	change
+T732	Alter 1208 1218	alteration
+T734	Complexity 6827 6833	varied
+T737	Alter 2556 2563	altered
+T745	LocationChangingActions 9940 9944	send
+T746	AmountChangingActions 9470 9479	maximized
+T749	ChangeInto 5967 5973	become
+T750	ChangeInto 7484 7490	become
+T770	CombineAdd 3852 3856	with
+T771	ContainBeComposedOf 2551 2555	with
+T772	ContainBeComposedOf 2518 2522	with
+T773	ContainBeComposedOf 5159 5163	with
+T774	ContainBeComposedOf 9265 9269	with
+T775	CombineAdd 8142 8151	combining
+T777	Create 2536 2540	have
+T779	Create 6085 6089	have
+T780	Create 6751 6755	have
+T781	ContainBeComposedOf 2911 2918	involve
+T784	Create 9974 9981	produce
+T785	Create 4341 4350	producing
+T786	Create 4240 4247	produce
+T787	Create 4719 4726	produce
+T790	Cause 1743 1748	makes
+T791	Create 5123 5133	developing
+T792	Create 7767 7775	produced
+T793	Create 9524 9532	produced
+T794	Comparisons 9270 9279	duplicate
+T795	Create 2136 2145	formation
+T796	Create 8266 8275	formation
+T797	Create 9019 9029	duplicates
+T799	Create 8097 8103	create
+T800	Create 728 739	replication
+T803	Create 9240 9249	generates
+T804	Create 3877 3885	produces
+T805	Create 7369 7377	produces
+T808	Create 7894 7900	formed
+T811	Create 5742 5746	form
+T812	Create 9807 9811	form
+T818	Harm 3464 3474	disruption
+T819	Harm 1866 1873	harmful
+T821	Help 1839 1849	beneficial
+T822	Help 3204 3214	beneficial
+T823	Help 9408 9418	Beneficial
+T827	Move 203 212	passed on
+T828	Move 3247 3256	passed on
+T829	Move 6457 6463	passed
+T835	ContainBeComposedOf 1694 1699	carry
+T839	LocationChangingActions 7445 7449	fall
+T843	Transportation 1694 1699	carry
+T859	Occur 1440 1446	appear
+T860	Occur 3100 3105	occur
+T861	Occur 1047 1057	occurrence
+T862	Occur 167 173	occurs
+T863	Occur 1415 1423	occurred
+T864	Occur 8671 8677	emerge
+T865	Permit 6116 6124	Allowing
+T866	Permit 6070 6073	let
+T867	PerformAnActivity 8201 8203	do
+T874	PerformAnActivity 5289 5296	express
+T876	Represent 5322 5331	described
+T877	Represent 8877 8885	describe
+T878	Represent 1802 1811	describes
+T879	Represent 7025 7034	describes
+T880	Require 9006 9014	involved
+T882	Require 2911 2918	involve
+T884	Require 8925 8933	requires
+T885	Separate 477 485	isolates
+T888	Release 9867 9874	release
+T895	Succeed 464 474	successful
+T896	Touch 9839 9846	reaches
+T901	Uptake 4319 4326	receive
+T903	Use 8215 8218	use
+T904	WaitStay 9386 9393	remains
+T909	Hypothesizing 946 954	suggests
+T913	ConcludingResearch 937 945	Evidence
+T934	Complexity 2074 2082	variable
+T935	WordsForData 4499 4510	information
+T937	WordsForData 937 945	Evidence
+T939	MarkersOfTime 1036 1040	time
+T940	MarkersOfTime 3113 3117	time
+T941	RelativeTime 5957 5966	sometimes
+T942	RelativeTime 1014 1020	modern
+T943	RelativeTime 3106 3108	at
+T948	RelativeTime 9826 9831	after
+T950	RelativeTime 6477 6483	during
+T951	RelativeTime 534 538	when
+T952	RelativeTime 1424 1428	when
+T953	RelativeTime 7422 7426	When
+T954	RelativeTime 8191 8195	When
+T956	Year 445 450	years
+T957	Year 528 532	year
+T961	Frequency 3002 3007	often
+T962	Frequency 6741 6750	generally
+T963	Frequency 3240 3246	rarely
+T964	Frequency 3197 3203	always
+T978	TerrestrialLocations 9780 9783	pit
+T980	RelativeLocations 4391 4393	in
+T981	RelativeLocations 174 176	in
+T982	RelativeLocations 4511 4513	in
+T983	RelativeLocations 8967 8969	in
+T984	RelativeLocations 8907 8909	in
+T985	RelativeLocations 4432 4434	in
+T986	RelativeLocations 1447 1449	in
+T987	RelativeLocations 4475 4477	in
+T988	RelativeLocations 7084 7086	in
+T989	RelativeLocations 2213 2215	in
+T990	RelativeLocations 7204 7206	in
+T991	RelativeLocations 4180 4182	in
+T992	RelativeLocations 604 606	in
+T993	RelativeLocations 9775 9777	in
+T994	RelativeLocations 9812 9814	in
+T995	RelativeLocations 7153 7155	in
+T996	RelativeLocations 9784 9786	in
+T998	RelativeLocations 2083 2088	among
+T999	RelativeLocations 689 695	within
+T1000	RelativeLocations 3036 3042	within
+T1001	RelativeLocations 7390 7396	around
+T1004	RelativeLocations 9901 9903	at
+T1005	RelativeTime 432 436	Over
+T1009	Cause 7901 7903	by
+T1010	RelativeLocations 984 991	between
+T1011	RelativeDirection 9945 9948	out
+T1012	RelativeDirection 6464 6466	to
+T1016	RelativeDirection 3841 3843	to
+T1017	RelativeDirection 1764 1766	to
+T1018	RelativeDirection 3257 3259	to
+T1022	RelativeDirection 213 215	to
+T1023	RelativeDirection 7450 7452	to
+T1027	RelativeDirection 9212 9216	from
+T1028	RelativeDirection 8158 8162	from
+T1031	Cause 1094 1098	from
+T1033	RelativeDirection 4799 4803	from
+T1038	RelativeTime 1028 1035	Through
+T1039	Cause 2319 2326	through
+T1040	Cause 2289 2296	through
+T1041	Cause 2244 2251	through
+T1042	Cause 2265 2272	through
+T1046	PrepositionalDirections 5719 5721	on
+T1047	VerbsForLocate 598 603	found
+T1048	Comparisons 3021 3025	than
+T1049	Comparisons 7834 7843	different
+T1050	Comparisons 4804 4813	different
+T1051	Comparisons 8167 8176	different
+T1052	Comparisons 7864 7873	different
+T1053	Comparisons 2160 2169	different
+T1054	Comparisons 2203 2212	variation
+T1057	Comparisons 2932 2934	or
+T1058	Comparisons 8499 8503	same
+T1059	Comparisons 8118 8122	like
+T1060	Comparisons 7884 7889	other
+T1061	Comparisons 6851 6860	identical
+T1062	Comparisons 7806 7815	identical
+T1063	Comparisons 8633 8642	identical
+T1064	QualityComparison 636 640	best
+T1065	QualityComparison 1797 1801	best
+T1066	QualityComparison 5317 5321	best
+T1067	QualityComparison 8683 8691	negative
+T1068	QualityComparison 9326 9335	advantage
+T1071	AmountComparison 1073 1077	most
+T1072	AmountComparison 1403 1407	most
+T1073	AmountComparison 2582 2586	most
+T1074	AmountComparison 9314 9318	most
+T1077	ImportanceComparison 4413 4422	essential
+T1078	ScientificTheoryExperimentationAndHistory 4875 4882	concept
+T1080	Occupation 4185 4192	rancher
+T1085	GroupsOfScientists 5107 5118	Researchers
+T1086	Biology 4916 4934	selective breeding
+T1087	Biology 1465 1483	selective breeding
+T1088	Biology 6197 6215	selective breeding
+T1089	Biology 3977 3995	selective breeding
+T1090	Biology 5339 5357	selective breeding
+T1091	NaturalSelection 5363 5380	natural selection
+T1092	NaturalSelection 8281 8298	natural selection
+T1093	NaturalSelection 4939 4956	natural selection
+T1094	NaturalSelection 3928 3945	natural selection
+T1095	NaturalSelection 2651 2668	natural selection
+T1096	NaturalSelection 2297 2314	natural selection
+T1097	NaturalSelection 7586 7595	evolution
+T1104	Undiscovered 5134 5137	new
+T1110	GenericTerms 8861 8867	phrase
+T1111	AbilityAvailability 9433 9443	inevitable
+T1113	AbilityAvailability 3140 3143	can
+T1114	AbilityAvailability 196 199	can
+T1115	AbilityAvailability 9517 9520	can
+T1116	AbilityAvailability 3091 3094	can
+T1117	AbilityAvailability 8079 8082	can
+T1118	AbilityAvailability 6146 6149	can
+T1119	AbilityAvailability 9198 9201	can
+T1122	Relations 971 983	relationship
+T1137	Complexity 8957 8966	variation
+T1144	Exemplar 4737 4744	variety
+T1154	Exemplar 9344 9348	kind
+T1155	Exemplar 8993 8997	type
+T1156	Exemplar 1817 1821	type
+T1157	Exemplar 8221 8225	type
+T1158	Exemplar 183 187	type
+T1160	Development 9807 9811	form
+T1161	Exemplar 6182 6189	example
+T1162	Exemplar 3913 3920	example
+T1163	Exemplar 9710 9717	example
+T1164	Exemplar 7522 7529	example
+T1165	Exemplar 5590 5597	example
+T1166	Exemplar 4858 4865	example
+T1167	Exemplar 5138 5143	types
+T1168	Method 2178 2181	How
+T1171	StateOfBeing 4215 4219	been
+T1172	StateOfBeing 5622 5626	been
+T1177	Occur 656 666	appearance
+T1180	ObjectPart 9908 9915	surface
+T1182	ObjectPart 7401 7406	edges
+T1183	Negations 6066 6069	not
+T1184	Negations 8873 8876	not
+T1185	Negations 8134 8141	without
+T1191	Result 2966 2973	effects
+T1199	Result 1085 1093	resulted
+T1202	Goal 4709 4715	wanted
+T1203	Cause 2594 2600	caused
+T1204	Cause 5979 5985	due to
+T1205	Cause 3058 3065	because
+T1206	Cause 8552 8559	because
+T1207	Cause 641 647	reason
+T1208	Cause 6031 6037	reason
+T1209	Cause 3144 3149	cause
+T1210	Cause 4282 4287	cause
+T1212	Source 6505 6514	come from
+T1213	Response 4466 4474	impulses
+T1228	GroupsOfOrganisms 611 621	population
+T1229	GroupsOfOrganisms 9370 9380	Population
+T1230	GroupsOfOrganisms 4195 4199	herd
+T1231	GroupsOfOrganisms 1192 1203	populations
+T1232	GroupsOfOrganisms 4814 4821	litters
+T1233	GroupsOfOrganisms 5753 5758	herds
+T1235	PartsOfAGroup 9505 9516	individuals
+T1237	ProbabilityAndCertainty 1078 1084	likely
+T1238	ProbabilityAndCertainty 1408 1414	likely
+T1239	ProbabilityAndCertainty 2587 2593	likely
+T1240	ProbabilityAndCertainty 9319 9325	likely
+T1241	ProbabilityAndCertainty 8521 8526	would
+T1242	ProbabilityAndCertainty 8612 8617	would
+T1243	ProbabilityAndCertainty 8665 8670	would
+T1244	ProbabilityAndCertainty 8110 8117	exactly
+T1245	ProbabilityAndCertainty 4277 4281	will
+T1246	ProbabilityAndCertainty 5284 5288	will
+T1247	ProbabilityAndCertainty 6061 6065	will
+T1249	ProbabilityAndCertainty 6009 6012	may
+T1250	LevelOfInclusion 6420 6423	All
+T1251	LevelOfInclusion 5957 5966	sometimes
+T1252	LevelOfInclusion 2089 2096	certain
+T1253	LevelOfInclusion 1042 1046	each
+T1254	LevelOfInclusion 7879 7883	each
+T1259	LevelOfInclusion 7427 7432	these
+T1260	LevelOfInclusion 8855 8860	Which
+T1261	LevelOfInclusion 623 628	Which
+T1262	LevelOfInclusion 9301 9306	Which
+T1263	LevelOfInclusion 1791 1796	Which
+T1264	LevelOfInclusion 1099 1104	which
+T1265	LevelOfInclusion 9681 9686	Which
+T1266	LevelOfInclusion 5578 5583	Which
+T1267	LevelOfInclusion 7002 7007	Which
+T1268	LevelOfInclusion 177 182	which
+T1269	LevelOfInclusion 3478 3483	which
+T1270	LevelOfInclusion 1385 1390	Which
+T1271	LevelOfInclusion 4869 4874	which
+T1272	LevelOfInclusion 4254 4259	Which
+T1273	LevelOfInclusion 1682 1686	Some
+T1274	LevelOfInclusion 6039 6043	some
+T1278	LevelOfInclusion 3095 3099	only
+T1279	LevelOfInclusion 6125 6129	only
+T1280	LevelOfInclusion 8984 8988	only
+T1298	DATE 523 532	This year
+T1299	NUMBER 577 580	one
+T1300	NUMBER 2495 2498	Two
+T1301	NUMBER 7904 7907	two
+T1302	NUMBER 8163 8166	two
+T1303	NUMBER 8482 8485	two
+T1304	NUMBER 8934 8937	two
+T1305	NUMBER 8989 8992	one
+T1306	NUMBER 9224 9227	One
+T7	StateOfBeing 200 202	be
+T9	StateOfBeing 595 597	is
+T48	StateOfBeing 629 631	is
+T8	GeneticProcesses 728 739	replication
+T56	GeneticProcesses 765 789	homologous recombination
+T82	StateOfBeing 966 968	is
+T3	LevelOfInclusion 1108 1121	the following
+T5	StateOfBeing 2064 2066	is
+T72	Occur 2228 2238	come about
+T53	StateOfBeing 2998 3001	are
+T54	StateOfBeing 3193 3196	are
+T90	StateOfBeing 3236 3239	are
+T91	Cause 3527 3536	result in
+T1	StateOfBeing 3828 3830	is
+T92	StateOfBeing 3907 3909	is
+T95	Goal 4237 4239	to
+T96	LevelOfInclusion 4263 4276	the following
+T49	GroupsOfScientists 4695 4708	research team
+T57	Comparisons 4729 4736	smaller
+T62	Comparisons 4785 4793	smallest
+T74	StateOfBeing 4852 4854	is
+T68	StateOfBeing 5119 5122	are
+T4	Exemplar 5190 5197	such as
+T93	Goal 5256 5258	so
+T97	StateOfBeing 5332 5334	as
+T98	StateOfBeing 5584 5586	is
+T108	Goal 5644 5647	for
+T46	Sickness 5974 5978	deaf
+T75	StateOfBeing 6106 6109	are
+T109	RelativeTime 6098 6100	if
+T112	Sickness 6110 6114	deaf
+T14	StateOfBeing 6176 6178	is
+T123	StateOfBeing 6453 6456	are
+T124	StateOfBeing 6771 6774	are
+T125	LevelOfInclusion 7011 7024	the following
+T11	WaitStay 7470 7479	take root
+T6	StateOfBeing 7516 7518	is
+T12	Evolution 7586 7595	evolution
+T15	StateOfBeing 7786 7789	are
+T21	Goal 8465 8476	In order to
+T66	GeneticProperty 8568 8585	genetic diversity
+T73	StateOfBeing 8586 8588	is
+T77	StateOfBeing 8618 8620	be
+T94	StateOfBeing 8699 8702	are
+T110	GeneticProcesses 9019 9029	duplicates
+T126	StateOfBeing 9307 9309	is
+T127	StateOfBeing 9429 9432	are
+T128	StateOfBeing 9467 9469	is
+T131	StateOfBeing 9521 9523	be
+T132	LevelOfInclusion 9690 9703	the following
+T133	StateOfBeing 9704 9706	is
+T134	PlantPart 9815 9825	pine cones

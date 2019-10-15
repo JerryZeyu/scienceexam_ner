@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_4_29] [LIFE_ENVADP_ADAP_ANIM_STRUCT]
+Which adaptation often helps an animal attract a mate?
+(A) hibernation
+(B) camouflage
+(C) coloration
+(D) migration
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401194] [LIFE_ENVADP_ADAP_ANIM_STRUCT]
+Newly hatched turtles are easy prey for other animals. What is an important ability turtles have for better survival of their offspring?
+(A) to fight off predators
+(B) to produce a toxin that makes them taste bad
+(C) to lay hundreds of eggs so a few will survive
+(D) to dig a hole and hide from predators
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401292] [LIFE_ENVADP_ADAP_ANIM_STRUCT]
+A snail's shell provides the snail with
+(A) food.
+(B) energy.
+(C) protection.
+(D) transportation.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401281] [LIFE_ENVADP_ADAP_ANIM_STRUCT]
+A wasp uses poison in a stinger to
+(A) produce eggs.
+(B) defend itself.
+(C) build a nest.
+(D) attract a mate.
+----------------------------------------------------------------------------------------------
+[Mercury_7113873] [LIFE_ENVADP_ADAP_ANIM_STRUCT]
+The feathers of male goldfinches become brightly colored each spring. Which best describes why the color of the feathers changes each year?
+(A) a genetic mutation
+(B) a learned behavior
+(C) a behavioral adaptation
+(D) a physical adaptation
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407720] [LIFE_ENVADP_ADAP_ANIM_STRUCT]
+Which characteristic of frogs is an adaptation to living in water?
+(A) strong legs
+(B) webbed feet
+(C) dull colors
+(D) moist skin
+----------------------------------------------------------------------------------------------
+[MCAS_2002_5_6] [LIFE_ENVADP_ADAP_ANIM_STRUCT]
+Hummingbirds can hover in the air and fly very quickly. This benefits the hummingbird in all of the following except
+(A) quickly escaping predators.
+(B) easily reaching flowers.
+(C) staying in one place to drink nectar.
+(D) keeping eggs warm.
+----------------------------------------------------------------------------------------------
+[Mercury_183190] [LIFE_ENVADP_ADAP_ANIM_STRUCT]
+Which of the following is an example of a structural adaptation?
+(A) a wolf's howl
+(B) an insect's coloring
+(C) a fish's fin
+(D) a squirrel storing acorns
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406702] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+A lizard most likely would be protected from its enemies if it has which characteristic?
+(A) claws to catch prey
+(B) a long tail to climb trees
+(C) eyes that can see far distances
+(D) skin color that matches its habitat
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415072] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+Arctic areas are covered with snow and ice for much of the year. Which color rabbits would be safest from foxes there?
+(A) grey
+(B) black
+(C) white
+(D) brown
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_4_17] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+During winter, the white fur of an arctic fox blends in with the snow. This adaptation is called
+(A) hibernation
+(B) migration
+(C) camouflage
+(D) movement
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_4_27] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+Which physical characteristic do some organisms have that helps them survive in the Arctic?
+(A) growing tall to hide in trees
+(B) changing fur color to hide from predators
+(C) developing large paws to protect themselves from the wind
+(D) producing shallow root systems to protect themselves from the cold air
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2016_4_9] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+The fur of an arctic fox turns from brown to white as winter approaches. This is an example of
+(A) camouflage
+(B) hibernation
+(C) migration
+(D) movement
+----------------------------------------------------------------------------------------------
+[NAEP_2005_4_S12+12] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+A green tree frog lives in a forest. How does the frog's green color help it to survive?
+(A) By helping the frog find other frogs
+(B) By keeping the frog cool
+(C) By making the frog hard to see when sitting on leaves
+(D) By allowing the frog to make its own food
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2004_4_13] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+In which environment would a white rabbit be best protected from predators?
+(A) a shady forest
+(B) a snowy field
+(C) a grassy lawn
+(D) a muddy riverbank
+----------------------------------------------------------------------------------------------
+[MDSA_2011_4_2] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+In Maryland, most bears have thick, dark fur. Which statement best explains how dark fur helps bears survive in the forests of Maryland?
+(A) Dark fur is lightweight.
+(B) Dark fur scares enemies.
+(C) Dark fur helps bears hide.
+(D) Dark fur keeps bears cool.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402269] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+What characteristic helps a rabbit survive in a winter environment?
+(A) size
+(B) strength
+(C) long ears
+(D) camouflage
+----------------------------------------------------------------------------------------------
+[TAKS_2009_5_2] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+The brown fur of the arctic hare turns white in winter. How does this color change most likely help the arctic hare?
+(A) It helps the animal save water.
+(B) It helps the animal hide from predators.
+(C) It helps keep the animal cool.
+(D) It helps protect the animal from disease.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400013] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+Which feature of some young birds helps them avoid becoming prey before they learn to fly?
+(A) chirping loudly in imitation of their parents
+(B) hatched from an egg laid by the parents
+(C) speckled brown coloring that looks like leaves
+(D) small beaks for eating seeds
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401237] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+The change in fur color of the Arctic hare from brown in the summer to white in the winter is an example of
+(A) mimicry.
+(B) heredity.
+(C) diversity.
+(D) camouflage.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401596] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+A tree frog with which characteristic is more likely to survive than other tree frogs?
+(A) a preference for rare insects
+(B) an unusually high-pitched call
+(C) skin that resembles tree leaves
+(D) a body larger than other tree frogs
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401284] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+A certain animal has specialized cells that can cause it to change color rapidly. This color change will most likely help the animal
+(A) run quickly.
+(B) digest food rapidly.
+(C) hide from predators.
+(D) retain body heat.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402088] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+In the summer, the Arctic fox's fur is dark gray or brown. In the winter, its fur is white. The changes in color enable the fox to
+(A) stay dry in the winter.
+(B) hunt for food at all times.
+(C) stay warm in the summer.
+(D) blend in with its surroundings.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400326] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+Birds eat non-camouflaged moths at a higher rate than they eat camouflaged moths. In which situation would birds eat the moths at the slowest rate?
+(A) dark moths in any environment
+(B) light moths in any environment
+(C) dark moths in a light environment
+(D) light moths in a light environment
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400605] [LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+The skin of a chameleon can change colors to help it blend with its surroundings. How would this adaptation most likely help a chameleon survive?
+(A) by scaring predators away from the chameleon
+(B) by attracting prey animals to the chameleon
+(C) by sending a signal to other chameleons
+(D) by helping the chameleon hide from its predators

@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7064120] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE]
+What organ system in the human body contains the pituitary gland, hypothalamus gland, and thyroid gland?
+(A) reproductive system
+(B) excretory system
+(C) endocrine system
+(D) circulatory system
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_24] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE]
+Which human body system produces the hormones that regulate growth?
+(A) skeletal
+(B) digestive
+(C) circulatory
+(D) endocrine
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_8_10] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE]
+The main function of hormones in the human body is to
+(A) identify and destroy microbes
+(B) regulate body functions
+(C) transport blood to cells
+(D) store energy
+----------------------------------------------------------------------------------------------
+[Mercury_7014018] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE]
+Prolonged exercise stimulates muscle cells to absorb sugar from the blood. This mechanism reduces stress placed on the body by signaling the body to produce
+(A) insulin.
+(B) lipids.
+(C) hemoglobin.
+(D) hydrochloric acid.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_34] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE]
+In humans, the amount of sugar in blood is controlled by the release of a hormone called insulin. This process is an example of
+(A) depletion
+(B) digestion
+(C) regulation
+(D) excretion
+----------------------------------------------------------------------------------------------
+[Mercury_7140088] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE]
+Between the ages of 8 and 13, young boys' and girls' bodies begin to change. This is the beginning point of children becoming adults. During these years, the endocrine system releases certain types of hormones. What is most likely being regulated by this system?
+(A) absorption of water and nutrients
+(B) growth and development of the body
+(C) blood flow to the cells and major organs
+(D) rate that waste is eliminated from the body
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_8_5] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE]
+Most hormones are produced by which human organ system?
+(A) digestive
+(B) endocrine
+(C) respiratory
+(D) nervous
+----------------------------------------------------------------------------------------------
+[Mercury_7137655] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE, LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST]
+The hormone insulin is secreted by the pancreas. Which activity is most likely to trigger an increase in the levels of insulin circulating in the blood?
+(A) driving
+(B) eating
+(C) jogging
+(D) sleeping
+----------------------------------------------------------------------------------------------
+[Mercury_401752] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE, LIFE_FUNCT_FEATANDFUNCT_ANIM_FEEDBACK]
+Which function is a role of a feedback system?
+(A) stimulation of appetite
+(B) identification of gender
+(C) determination of blood type
+(D) regulation of growth in the skeletal system
+----------------------------------------------------------------------------------------------
+[Mercury_7038203] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE, LIFE_FUNCT_FEATANDFUNCT_ANIM_FEEDBACK]
+When a finger is cut and bleeds, platelets and plasma proteins move to the cut to stop the bleeding. As these move to the cut, this stimulates more platelets and proteins to move to the cut to stop the bleeding. What type of mechanism is being illustrated?
+(A) negative feedback
+(B) positive feedback
+(C) regulatory feedback
+(D) stimulation feedback
+----------------------------------------------------------------------------------------------
+[Mercury_7148645] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE, LIFE_FUNCT_FEATANDFUNCT_ANIM_FEEDBACK]
+The body maintains equilibrium through a series of messages called a feedback mechanism. What organ releases hormones that maintain balanced glucose levels?
+(A) liver
+(B) blood
+(C) fat cells
+(D) pancreas
+----------------------------------------------------------------------------------------------
+[Mercury_7252280] [LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE, LIFE_FUNCT_FEATANDFUNCT_ANIM_REPRODUCTION]
+When specific hormones are present in the blood of a hen, an egg is released from an ovary. Which two systems are involved with the release of an egg?
+(A) immune and digestive systems
+(B) digestive and endocrine systems
+(C) reproductive and immune systems
+(D) endocrine and reproductive systems
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10470] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET]
+Which of the following helps the body to cool down?
+(A) shivering
+(B) sweating
+(C) running a fever
+(D) taking deep breaths
+----------------------------------------------------------------------------------------------
+[CSZ10086] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET]
+Which organ removes cell waste from the blood?
+(A) the large intestine
+(B) the small intestine
+(C) the kidney
+(D) the heart
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401822] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET]
+Which body system is most responsible for the removal of waste?
+(A) skeletal system
+(B) nervous system
+(C) muscular system
+(D) excretory system
+----------------------------------------------------------------------------------------------
+[Mercury_405870] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET]
+Removing waste from the body is the primary function of which body system?
+(A) excretory
+(B) nervous
+(C) circulatory
+(D) skeletal
+----------------------------------------------------------------------------------------------
+[Mercury_7009590] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET]
+What occurs if the body's renal system fails to work?
+(A) Gas exchange is impaired.
+(B) Blood oxygenation no longer occurs.
+(C) Metabolic waste builds up in the blood.
+(D) Nutrients are no longer transported to organs.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_22] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET]
+What is the major function of the human excretory system?
+(A) eliminate waste materials
+(B) respond to stimuli
+(C) break down food mechanically
+(D) absorb nutrients from food
+----------------------------------------------------------------------------------------------
+[MDSA_2010_8_34] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET]
+Mammals must eliminate waste products that their bodies produce. Which organ helps mammals eliminate bodily waste?
+(A) appendix
+(B) kidney
+(C) pancreas
+(D) stomach
+----------------------------------------------------------------------------------------------
+[Mercury_7248325] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET]
+Which function do kidneys provide to maintain homeostasis?
+(A) the removal of excess heat from the body
+(B) the removal of carbon dioxide from the body
+(C) the removal of excess oxygen from the blood
+(D) the removal of nitrogenous wastes from the blood
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401146] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET]
+The major function of the kidneys is to
+(A) exchange gases.
+(B) break down nutrients.
+(C) filter wastes and byproducts.
+(D) carry blood back to the heart.
+----------------------------------------------------------------------------------------------
+[Mercury_7013003] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET, LIFE_FUNCT_FEATANDFUNCT_ANIM_CIRCULATORY]
+Which two systems are involved when waste and water are removed from blood as it flows through the kidneys?
+(A) respiratory and circulatory
+(B) digestive and respiratory
+(C) digestive and urinary
+(D) urinary and circulatory
+----------------------------------------------------------------------------------------------
+[Mercury_175175] [LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ORG_ORGANS]
+Which of the following helps to produce urine in humans and other mammals?
+(A) bladder
+(B) urethra
+(C) kidneys
+(D) ureter
+----------------------------------------------------------------------------------------------
+[Mercury_7004603] [LIFE_FUNCT_FEATANDFUNCT_ANIM_FEEDBACK]
+When too much salt is detected in the bloodstream, the brain secretes a hormone that helps the body retain water by reducing the amount of urine produced. This is an example of
+(A) a feedback loop.
+(B) an acquired trait.
+(C) a balanced ecosystem.
+(D) a symbiotic relationship.
+----------------------------------------------------------------------------------------------
+[Mercury_7042683] [LIFE_FUNCT_FEATANDFUNCT_ANIM_FEEDBACK, LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST]
+Several types of mechanisms in the body regulate the rate of chemical reactions in the digestive system. Among the most important are feedback systems, which control the release rate of
+(A) lipids.
+(B) enzymes.
+(C) nucleic acids.
+(D) carbohydrates.

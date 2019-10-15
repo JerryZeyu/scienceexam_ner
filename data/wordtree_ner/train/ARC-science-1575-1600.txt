@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7263533] [FOR_GRAVITY, LIFE_FUNCT_FEATANDFUNCT_ANIM_CIRCULATORY]
+To pump blood through the body, the heart must overcome the force of gravity. Which body position would require the least work from the heart?
+(A) sitting
+(B) standing
+(C) kneeling
+(D) lying down
+----------------------------------------------------------------------------------------------
+[Mercury_7082635] [FOR_GRAVITY, MAT_PROPO_MASS]
+The gravitational force exerted by an object depends on its
+(A) volume.
+(B) weight.
+(C) mass.
+(D) size.
+----------------------------------------------------------------------------------------------
+[Mercury_7185395] [FOR_GRAVITY, MAT_PROPO_MASS]
+The weight of an object can change even when the mass stays the same. Which statement correctly identifies a relationship between mass and weight?
+(A) The weight of an object depends on its mass and its volume.
+(B) Gravity affects the weight of an object but not its mass.
+(C) The mass of an object depends on its weight and size.
+(D) Magnetic fields can affect mass but not weight.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_11] [FOR_GRAVITY, MAT_PROPO_MASS]
+The gravitational force between two objects depends on the distance between the objects and each object's
+(A) mass
+(B) volume
+(C) pressure
+(D) temperature
+----------------------------------------------------------------------------------------------
+[Mercury_7069458] [FOR_GRAVITY, MAT_PROPO_MASS]
+Which of these will reduce the gravitational force between two objects the most?
+(A) halving the distance between them
+(B) doubling the distance between them
+(C) halving the distance between them and doubling their mass
+(D) doubling the distance between them and halving their mass
+----------------------------------------------------------------------------------------------
+[MCAS_2004_9_1] [FOR_GRAVITY, MAT_PROPO_MASS]
+The force of gravity on an object depends primarily on the object's
+(A) density.
+(B) mass.
+(C) momentum.
+(D) volume.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_8_42] [FOR_GRAVITY, MAT_PROPO_MASS]
+The force of gravitational attraction between two objects depends on the distance between the objects and their
+(A) buoyancies
+(B) temperatures
+(C) masses
+(D) shapes
+----------------------------------------------------------------------------------------------
+[Mercury_7177520] [FOR_GRAVITY, MAT_PROPO_MASS]
+What is the relationship between mass and gravitational pull?
+(A) Lower gravitational pull creates more mass.
+(B) Higher gravitational pull creates more mass.
+(C) Lower mass creates higher gravitational pull.
+(D) Higher mass creates higher gravitational pull.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_8_26] [FOR_INTWITHOBJ, FOR_MECH_GENERAL]
+Which situation would most likely cause an object to travel in a circular motion?
+(A) one force acting on the object in the opposite direction of the motion
+(B) two forces acting on the object in the same direction as the motion
+(C) one force acting on the object perpendicular to the direction of the motion
+(D) two forces acting on the object in different directions to the motion
+----------------------------------------------------------------------------------------------
+[MCAS_2005_8_32] [FOR_LIFT]
+In order for a glider to fly, its weight must be opposed by
+(A) lift.
+(B) drag.
+(C) gravity.
+(D) friction.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415729] [FOR_MAGNETISM]
+Which pair of items will repel each other?
+(A) a positively-charged wool sock and a neutral plastic bag
+(B) a neutral cotton sweater and a negatively-charged plastic pellet
+(C) a negatively-charged balloon and a positively-charged piece of paper
+(D) a negatively-charged plastic strip and a negatively-charged piece of cloth
+----------------------------------------------------------------------------------------------
+[OHAT_2008_5_20] [FOR_MAGNETISM]
+A student wraps a wire around an iron nail. The student then connects the wire to a battery. The nail attracts another nail and they stick together. What force holds the two nails together?
+(A) gravitational force
+(B) magnetic force
+(C) electric force
+(D) friction force
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_4_pg85] [FOR_MAGNETISM]
+Which of the following can make objects repel each other?
+(A) gravity
+(B) magnetism
+(C) both gravity and magnetism
+(D) neither gravity nor magnetism
+----------------------------------------------------------------------------------------------
+[MCAS_2011_5_17673] [FOR_MAGNETISM]
+Jose has two bar magnets. He pushes the ends of the two magnets together and then he lets go. The magnets move quickly apart. Which of the following statements best explains why this happens?
+(A) The north poles of the two magnets are facing each other.
+(B) One magnet is a north pole and one magnet is a south pole.
+(C) The ends of magnets repel each other but the centers attract.
+(D) One magnet is storing energy and one magnet is releasing energy.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406155] [FOR_MAGNETISM]
+Which of these is an example of a non-contact force acting on an object?
+(A) a bat hitting a baseball
+(B) a paper clip attracted to a magnet
+(C) a refrigerator pushed across the floor
+(D) a bicycle tire rubbing against the road
+----------------------------------------------------------------------------------------------
+[ACTAAP_2010_7_15] [FOR_MAGNETISM]
+Alisha's teacher glued a needle to a piece of cork so that the needle would float. Then he used a magnet to magnetize the needle. When the needle was placed in a bowl of water, it turned to point north. Which best describes the reason that the needle pointed north?
+(A) The cork must also have been magnetized.
+(B) The magnetic field of Earth affected the needle.
+(C) The magnetic current in the bowl of water affected the needle.
+(D) The teacher must have placed the magnet to the south of the bowl.
+----------------------------------------------------------------------------------------------
+[Mercury_7213465] [FOR_MAGNETISM, MAT_MEAS_INST_COMPASS, ENG_ELEC_ELECTROMAGNETS]
+A student used two long wires to connect a lightbulb to a battery. The student noticed that as soon as the circuit was complete, a nearby compass started to point in a direction other than north. The compass pointed in a different direction because it was reacting to the
+(A) heat produced by the lightbulb.
+(B) light produced by the lightbulb.
+(C) electric field produced by the battery.
+(D) magnetic field produced by the electric current.
+----------------------------------------------------------------------------------------------
+[MCAS_2004_8_24] [FOR_MECH]
+Support cables in a suspension bridge are most stressed by which of the following forces?
+(A) shear
+(B) torsion
+(C) tension
+(D) compression
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407681] [FOR_MECH_GENERAL]
+A soccer player kicks a soccer ball across a field. Which factor has the most effect on the distance the soccer ball travels?
+(A) the color of the ball
+(B) the force of the kick
+(C) the length of the field
+(D) the temperature of the air
+----------------------------------------------------------------------------------------------
+[Mercury_408000] [FOR_MECH_GENERAL]
+Two people are pushing a car. One person is pushing with a force of 450 N and the other person is pushing with a force of 300 N. What information is needed to determine the net force applied to the car by the people?
+(A) the direction of the road
+(B) the direction of the forces
+(C) the weight of the two people
+(D) the weight of the automobile
+----------------------------------------------------------------------------------------------
+[Mercury_7120803] [FOR_MECH_GENERAL]
+Which is most likely needed when describing the change in position of an object?
+(A) initial speed
+(B) direction change
+(C) reference point
+(D) constant rate
+----------------------------------------------------------------------------------------------
+[Mercury_7132108] [FOR_MECH_GENERAL, ENG_DEVICES]
+Which best represents the use of mechanical energy?
+(A) a light bulb giving off heat
+(B) a candle providing light
+(C) a nail being hammered
+(D) a can rusting
+----------------------------------------------------------------------------------------------
+[VASoL_2010_3_17] [FOR_MECH_SIMPLEMACHINES]
+Which part of a bicycle BEST moves in a circle?
+(A) Seat
+(B) Frame
+(C) Foot pedal
+(D) Kickstand
+----------------------------------------------------------------------------------------------
+[VASoL_2007_3_5] [FOR_MECH_SIMPLEMACHINES]
+A student wants to look under a heavy rock. Which simple machine would be BEST to use to lift the rock?
+(A) Wheel and axle
+(B) Lever
+(C) Inclined plane
+(D) Screw
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_4_30] [FOR_MECH_SIMPLEMACHINES]
+A simple machine that helps move a flag up a flagpole is
+(A) a bar magnet
+(B) an inclined plane
+(C) a pulley
+(D) a lever

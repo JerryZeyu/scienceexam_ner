@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[Mercury_189490] [OTHER_HIST, SCI_INFERENCE_OBSERV]
+Gregor Mendel's observation of pea plants is an example of
+(A) research-based evidence supporting a scientific theory.
+(B) a conclusion being tested by a hypothesis.
+(C) random testing during an experiment.
+(D) evidence for and against a scientific model.
+----------------------------------------------------------------------------------------------
+[Mercury_7004445] [OTHER_HIST, SCI_INFERENCE_SAMPLESIZE]
+Gregor Mendel studied ratios related to traits passed from parent pea plants to offspring pea plants. Mendel used large numbers of plants to avoid "sampling error." This changed the way scientists studied genetics because it included ideas of
+(A) nuclei and DNA.
+(B) atoms and molecules.
+(C) ecology and environment.
+(D) mathematics and probability.
+----------------------------------------------------------------------------------------------
+[MCAS_2007_5_4795] [OTHER_INSTRUCTIONS]
+Rachel purchased a kit for making a skateboard ramp. Which of the following is most important to have for putting the ramp together?
+(A) a picture showing the colors of different ramp parts
+(B) a diagram showing some ways to use the ramp
+(C) a list of prices for other available kits
+(D) a set of instructions for the kit materials
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408983] [OTHER_INVENT_HIST]
+Farmers in the 1800s used axes to clear trees from farmland. Now, farmers use chainsaws to clear the trees. How do chainsaws most likely help farmers?
+(A) Farmers can cut different types of trees.
+(B) Farmers can remove more trees in less time.
+(C) Farmers can replant more trees in the fields.
+(D) Farmers can produce more products from the trees.
+----------------------------------------------------------------------------------------------
+[MCAS_2008_8_5708] [OTHER_MANUFACTURE]
+A shoe manufacturer randomly selects 10% of the production from each shift. Each of these shoes is checked to ensure that it is correctly made. What is this process called?
+(A) quality control
+(B) product distribution
+(C) production selection
+(D) research and development
+----------------------------------------------------------------------------------------------
+[MCAS_1998_8_21] [OTHER_MANUFACTURE]
+A manufacturing industry has asked to relocate its plant to your town. From an environmental perspective, which question is least important to ask before deciding whether the industry may move to your town?
+(A) How will the plant affect wildlife of the area?
+(B) What kinds of pollution will the plant produce?
+(C) What impact will the plant have on the population of the town?
+(D) What are the uses of the products that the plant will manufacture?
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5181] [OTHER_MANUFACTURE]
+Several interchangeable parts are used in the manufacture of automobiles. Some examples of these parts are batteries, windshield wiper blades, spark plugs, and tires. Which of the following is an advantage of interchangeable parts over non-interchangeable parts on automobiles?
+(A) Interchangeable parts are generally more expensive than custom-made parts for automobiles.
+(B) Interchangeable parts break more often now than in years past on most automobiles.
+(C) Interchangeable parts are plentiful for custom-made automobiles.
+(D) Interchangeable parts can fit many kinds of automobiles.
+----------------------------------------------------------------------------------------------
+[Mercury_7094238] [OTHER, LIFE_INTERDEP_ECOFEATURES]
+Which invention would a culture living above the Arctic Circle most likely develop?
+(A) ice production
+(B) air conditioning
+(C) insulated clothing
+(D) irrigation canals
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402158] [SAF_EQUIP]
+What safety rule is most important for students to follow when working with acids and bases?
+(A) wear nose plugs
+(B) put on safety goggles
+(C) put away all lab supplies
+(D) wear heavy cloth gloves
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406795] [SAF_EQUIP]
+Which items would best protect a group of students while investigating a forest ecosystem?
+(A) short pants and T-shirts
+(B) short pants and long-sleeved shirts
+(C) long pants and T-shirts
+(D) long pants and long-sleeved shirts
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400161] [SAF_EQUIP]
+Why should scientists wear goggles during experiments?
+(A) to block out bright sunlight
+(B) to magnify small objects
+(C) to protect their eyes
+(D) to see in the dark

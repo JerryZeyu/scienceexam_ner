@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408368] [MAT_COS_EVAP]
+James put some water in a pan. He put the pan on a stove and turned the stove on low. What will happen to the water?
+(A) The water will melt.
+(B) The water will evaporate.
+(C) The water will form a solid.
+(D) The water will condense into tiny droplets.
+----------------------------------------------------------------------------------------------
+[LEAP__4_10223] [MAT_COS_EVAP]
+Which of the following is an example of matter changing state?
+(A) heating a pan of water until the water is all gone
+(B) putting a soft-drink can in the refrigerator to cool it
+(C) heating soup on the stove until it is hot to your tongue
+(D) transferring sugar into a storage container
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2004_4_7] [MAT_COS_EVAP]
+Base your answers on the information below. One hot, summer day it rained very heavily. After the rain, a plastic pan on a picnic table had 2 cm of rainwater in it. Four hours later, all the rainwater in the pan was gone. Which process caused the rainwater in the pan to disappear as it sat outside in the hot air?
+(A) condensation
+(B) evaporation
+(C) precipitation
+(D) erosion
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405078] [MAT_COS_EVAP]
+If left in the sunshine, water in an open jar will
+(A) evaporate.
+(B) condense.
+(C) freeze.
+(D) melt.
+----------------------------------------------------------------------------------------------
+[CSZ10373] [MAT_COS_EVAP]
+Which of the following processes is responsible for changing liquid water into water vapor?
+(A) photosynthesis
+(B) condensation
+(C) evaporation
+(D) precipitation
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405886] [MAT_COS_EVAP]
+In the morning, students observed puddles of water all over the playground. What would best explain why the playground was dry in the afternoon?
+(A) Animals drank the water.
+(B) The wind stopped blowing.
+(C) Someone dried the puddles.
+(D) The water evaporated during the day.
+----------------------------------------------------------------------------------------------
+[MDSA_2008_5_16] [MAT_COS_EVAP]
+A student leaves a bucket of water outside on a warm, sunny day. Which process most likely happens to the water in the bucket?
+(A) melting
+(B) freezing
+(C) evaporation
+(D) condensation
+----------------------------------------------------------------------------------------------
+[ACTAAP_2011_5_15] [MAT_COS_EVAP]
+Which occurs as the kinetic energy of water molecules increases?
+(A) Water vapor becomes ice.
+(B) Liquid water becomes ice.
+(C) Water vapor becomes liquid water.
+(D) Liquid water becomes water vapor.
+----------------------------------------------------------------------------------------------
+[MCAS_2011_5_17663] [MAT_COS_EVAP]
+Chris left a glass of water on a windowsill. When he looked at the glass a few days later, some of the water had evaporated. Which of the following best describes what happened to the particles of water that evaporated?
+(A) They became larger in size.
+(B) They spread out into the air.
+(C) They were absorbed by the glass.
+(D) They passed through the glass into the air.
+----------------------------------------------------------------------------------------------
+[MCAS_2003_5_11] [MAT_COS_EVAP]
+Freda always hangs her wet swimsuit outdoors after getting out of the swimming pool. Which of the following is least likely to affect the rate at which Freda's swimsuit dries?
+(A) the heat of the Sun
+(B) the speed of the wind
+(C) the temperature of the water in the pool
+(D) the amount of water vapor in the air
+----------------------------------------------------------------------------------------------
+[Mercury_407675] [MAT_COS_EVAP]
+Puddles on a sidewalk are evaporating quickly. What most likely causes the puddles to evaporate?
+(A) heat
+(B) clouds
+(C) air
+(D) water
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_8_31] [MAT_COS_EVAP]
+During which phase change is heat energy absorbed by a substance?
+(A) liquid to gas
+(B) gas to solid
+(C) liquid to solid
+(D) gas to liquid
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg90] [MAT_COS_EVAP]
+A wet towel will dry when it is left in the Sun. Which process occurs to make this happen?
+(A) melting
+(B) boiling
+(C) condensation
+(D) evaporation
+----------------------------------------------------------------------------------------------
+[Mercury_185430] [MAT_COS_EVAP]
+Which of the following sentences best explains what happens when puddles evaporate?
+(A) The water absorbs into the ground.
+(B) The particles of matter move more slowly.
+(C) The water changes from one form to another.
+(D) The particles of matter move closer together.

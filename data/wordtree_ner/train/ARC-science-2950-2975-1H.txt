@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_8_8] [LIFE_REPROD_DNAINHERIT_DNA]
+Which term identifies a single unit of hereditary information?
+(A) egg cell
+(B) sperm cell
+(C) nucleus
+(D) gene
+----------------------------------------------------------------------------------------------
+[Mercury_7101535] [LIFE_REPROD_DNAINHERIT_DNA]
+Which of these determines whether a fertilized egg develops into a toad, a snake, or a lizard?
+(A) the sex of the egg
+(B) the age of the egg
+(C) the size of the egg
+(D) the genes of the egg
+----------------------------------------------------------------------------------------------
+[Mercury_183050] [LIFE_REPROD_DNAINHERIT_DNA]
+What type of inheritance controls blood types in humans?
+(A) incomplete dominance
+(B) polygenic inheritance
+(C) multiple alleles
+(D) recessive genes
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_28] [LIFE_REPROD_DNAINHERIT_DNA]
+In humans, a trait can be determined by one pair or many pairs of
+(A) genes
+(B) microbes
+(C) cells
+(D) organs
+----------------------------------------------------------------------------------------------
+[Mercury_7228498] [LIFE_REPROD_DNAINHERIT_DNA]
+What is the complementary base of adenine in DNA?
+(A) cytosine
+(B) thymine
+(C) guanine
+(D) uracil
+----------------------------------------------------------------------------------------------
+[Mercury_7228550] [LIFE_REPROD_DNAINHERIT_DNA]
+How many basic units of information in a DNA molecule are required to encode a single amino acid?
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+----------------------------------------------------------------------------------------------
+[Mercury_7227938] [LIFE_REPROD_DNAINHERIT_DNA]
+What characteristic of DNA results in cell differentiation in developing embryos?
+(A) which genes are present
+(B) how many copies of each gene are present
+(C) which genes are active
+(D) what protein is produced by a gene
+----------------------------------------------------------------------------------------------
+[Mercury_182613] [LIFE_REPROD_DNAINHERIT_DNA]
+Fraternal twins may or may not share similar characteristics due to
+(A) independent assortment.
+(B) polygenic inheritance.
+(C) incomplete dominance.
+(D) multiple alleles.
+----------------------------------------------------------------------------------------------
+[Mercury_7245455] [LIFE_REPROD_DNAINHERIT_DNA]
+Which of these shows the correct order for the central dogma of molecular biology?
+(A) DNA to protein to RNA
+(B) RNA to DNA to protein
+(C) protein to DNA to RNA
+(D) DNA to RNA to protein
+----------------------------------------------------------------------------------------------
+[Mercury_7283413] [LIFE_REPROD_DNAINHERIT_DNA]
+In living things, smaller substances are linked to make up larger substances. Which of the following correctly describes a larger substance made by linking smaller substances?
+(A) Nucleotides are linked to make up DNA.
+(B) Amino acids are linked to make up DNA.
+(C) Proteins are linked to make up nucleotides.
+(D) Nucleic acids are linked to make up proteins.
+----------------------------------------------------------------------------------------------
+[Mercury_7228480] [LIFE_REPROD_DNAINHERIT_DNA]
+Which part of a DNA molecule represents encoded information?
+(A) phosphate
+(B) sugar
+(C) guanine
+(D) hydrogen bond

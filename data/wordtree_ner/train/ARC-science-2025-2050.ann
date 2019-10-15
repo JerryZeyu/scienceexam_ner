@@ -1,0 +1,545 @@
+T3	CirculationActions 3659 3667	movement
+T4	Gravity 3742 3749	gravity
+T5	Pressure 3368 3376	pressure
+T6	PullingForces 3717 3725	friction
+T7	PullingForces 3705 3712	tension
+T9	PushingActions 5998 6005	pushing
+T10	Energy 8270 8276	energy
+T11	CombineAdd 7909 7919	reabsorbed
+T19	Animal 5280 5287	animals
+T33	AnimalPart 174 178	body
+T34	AnimalPart 4050 4054	body
+T36	AnimalPart 3143 3147	body
+T40	AnimalPart 3123 3127	body
+T42	AnimalPart 6580 6584	body
+T43	AnimalPart 532 536	body
+T44	AnimalPart 7829 7833	body
+T46	AnimalPart 1924 1930	bodies
+T47	AnimalPart 481 486	organ
+T49	AnimalPart 7544 7549	organ
+T52	AnimalPart 4573 4577	bone
+T53	AnimalPart 8851 8857	tissue
+T54	AnimalPart 462 467	heart
+T55	AnimalPart 594 599	heart
+T56	AnimalPart 2283 2288	heart
+T57	AnimalPart 4537 4542	heart
+T60	ActionsForAnimals 4578 4584	growth
+T63	Human 3689 3694	human
+T64	Human 1514 1519	Human
+T65	Human 8126 8131	human
+T66	Human 6187 6192	human
+T67	Human 1580 1585	human
+T68	Human 8506 8511	human
+T69	Human 1206 1212	humans
+T70	Human 2567 2573	Humans
+T71	Human 5818 5824	humans
+T72	HumanPart 1586 1590	body
+T77	HumanPart 8346 8350	body
+T79	HumanPart 3695 3699	body
+T81	HumanPart 6193 6197	body
+T102	Cell 249 254	cells
+T103	Cell 4037 4042	cells
+T107	Cell 8916 8921	cells
+T110	Cell 8300 8305	cells
+T114	Cell 1520 1531	muscle cell
+T115	Cell 1624 1635	muscle cell
+T116	Cell 4504 4512	sex cell
+T117	Cell 4477 4484	neurons
+T118	AnimalCellPart 4977 4991	marker protein
+T119	AnimalCellPart 5026 5040	marker protein
+T123	DigestionActions 8538 8552	self-digestion
+T124	CellProcesses 5345 5359	photosynthesis
+T125	Genetics 4857 4881	ABO blood classification
+T126	Bacteria 2087 2095	bacteria
+T127	Plant 1110 1116	plants
+T128	Plant 5269 5275	plants
+T129	Plant 1176 1181	plant
+T130	PlantPart 1132 1138	phloem
+T131	PlantPart 5392 5399	flowers
+T132	PlantPart 1122 1127	xylem
+T134	OrganicProcesses 5558 5565	process
+T135	OrganicProcesses 5840 5847	process
+T136	OrganicProcesses 2982 2990	function
+T137	OrganicProcesses 830 838	function
+T138	OrganicProcesses 8110 8118	function
+T139	OrganicProcesses 1897 1905	function
+T140	OrganicProcesses 8799 8807	function
+T141	OrganicProcesses 1245 1253	function
+T142	OrganicProcesses 7589 7597	function
+T143	OrganicProcesses 2729 2738	functions
+T145	PhysicalActivity 1566 1574	exercise
+T146	PhysicalActivity 1644 1652	exercise
+T149	Consumption 2101 2110	consuming
+T153	Growth 4578 4584	growth
+T163	Homeostasis 4464 4473	regulated
+T165	Homeostasis 5364 5372	regulate
+T167	Toxins 2653 2659	wastes
+T168	Toxins 7790 7796	Wastes
+T170	Toxins 8875 8886	toxic waste
+T172	PlantProcesses 5345 5359	photosynthesis
+T173	OrganicCompounds 918 926	hormones
+T174	OrganicCompounds 2629 2637	hormones
+T175	AnimalSystemsProcesses 1217 1229	organ system
+T176	AnimalSystemsProcesses 2337 2349	organ system
+T177	AnimalSystemsProcesses 7218 7230	organ system
+T178	DigestiveSystem 202 218	digestive system
+T179	DigestiveSystem 8132 8148	digestive system
+T180	DigestiveSystem 7350 7366	digestive system
+T181	DigestiveSystem 6266 6282	digestive system
+T182	DigestiveSystem 7557 7573	digestive system
+T183	DigestiveSystem 2077 2086	digestive
+T184	DigestiveSystem 4151 4160	digestive
+T185	DigestiveSystem 6606 6615	digestive
+T186	DigestionActions 7762 7770	absorbed
+T187	DigestionActions 3022 3032	break down
+T188	DigestionActions 7868 7878	break down
+T189	DigestionActions 8159 8169	break down
+T190	DigestionActions 890 896	digest
+T191	DigestionActions 7847 7854	churned
+T192	DigestionActions 1671 1680	digestion
+T194	DigestionActions 5830 5839	digestion
+T195	DigestionActions 8926 8935	digestion
+T196	DigestionActions 5548 5557	digestion
+T197	DigestionActions 7606 7615	digestion
+T198	DigestionActions 6854 6863	digestion
+T201	DigestionActions 6917 6927	absorption
+T202	DigestionActions 8180 8190	absorption
+T203	DigestionActions 8940 8950	absorption
+T204	DigestionActions 5955 5963	churning
+T205	DigestionActions 5913 5920	chewing
+T206	PartsOfTheDigestiveSystem 8815 8830	small intestine
+T207	PartsOfTheDigestiveSystem 5634 5649	small intestine
+T208	PartsOfTheDigestiveSystem 7655 7670	small intestine
+T209	PartsOfTheDigestiveSystem 7266 7281	small intestine
+T210	PartsOfTheDigestiveSystem 7727 7742	small intestine
+T211	PartsOfTheDigestiveSystem 5604 5619	large intestine
+T214	PartsOfTheDigestiveSystem 5866 5875	intestine
+T219	PartsOfTheDigestiveSystem 5654 5661	stomach
+T220	PartsOfTheDigestiveSystem 7032 7039	stomach
+T221	PartsOfTheDigestiveSystem 5941 5948	stomach
+T222	PartsOfTheDigestiveSystem 8512 8519	stomach
+T223	PartsOfTheDigestiveSystem 6994 7001	stomach
+T224	PartsOfTheDigestiveSystem 7638 7645	stomach
+T225	PartsOfTheDigestiveSystem 6018 6025	stomach
+T226	PartsOfTheDigestiveSystem 292 301	esophagus
+T227	PartsOfTheDigestiveSystem 5982 5991	esophagus
+T228	PartsOfTheDigestiveSystem 6841 6850	esophagus
+T229	PartsOfTheDigestiveSystem 7238 7247	esophagus
+T230	PartsOfTheDigestiveSystem 7287 7292	colon
+T231	PartsOfTheDigestiveSystem 7249 7254	liver
+T232	PartsOfTheDigestiveSystem 5624 5629	mouth
+T233	PartsOfTheDigestiveSystem 5901 5906	mouth
+T234	PartsOfTheDigestiveSystem 6981 6986	mouth
+T235	PartsOfTheDigestiveSystem 7047 7057	intestines
+T236	PartsOfTheDigestiveSystem 7256 7264	pancreas
+T237	DigestiveSubstances 8581 8586	mucus
+T238	DigestiveSubstances 8571 8575	bile
+T243	DigestiveSubstances 1994 2001	glucose
+T244	DigestiveSubstances 2111 2118	glucose
+T245	DigestiveSubstances 5925 5931	saliva
+T248	RespiratorySystem 1285 1303	respiratory system
+T249	RespiratorySystem 3989 4007	respiratory system
+T250	RespiratorySystem 6334 6352	respiratory system
+T251	RespiratorySystem 6620 6631	respiratory
+T252	RespiratorySystem 2774 2785	respiratory
+T253	PartsOfTheRespiratorySystem 5624 5629	mouth
+T254	PartsOfTheRespiratorySystem 5901 5906	mouth
+T255	PartsOfTheRespiratorySystem 6981 6986	mouth
+T256	PartsOfTheRespiratorySystem 260 265	lungs
+T257	PartsOfTheRespiratorySystem 8252 8257	lungs
+T258	PartsOfTheRespiratorySystem 3440 3445	cilia
+T259	ExcretorySystem 2385 2394	excretory
+T260	ExcretorySystem 2744 2753	excretory
+T261	ExcretorySystem 6288 6304	excretory system
+T262	ExcretorySystem 7329 7345	excretory system
+T263	ExcretoryActions 1686 1695	excretion
+T264	ExcretoryActions 8862 8871	excretion
+T265	ExcretoryActions 3092 3113	remove waste products
+T266	ExcretoryActions 2639 2645	remove
+T268	PartsOfTheExcretorySystem 280 287	kidneys
+T269	PartsOfTheExcretorySystem 260 265	lungs
+T270	PartsOfTheExcretorySystem 8252 8257	lungs
+T271	CirculatorySystem 2758 2769	circulatory
+T272	CirculatorySystem 2399 2410	circulatory
+T273	CirculatorySystem 6590 6601	circulatory
+T274	CirculatorySystem 4178 4192	cardiovascular
+T275	CirculatorySystem 4209 4223	cardiovascular
+T276	CirculatorySystem 494 512	circulatory system
+T277	CirculatorySystem 846 864	circulatory system
+T278	CirculatorySystem 2998 3016	circulatory system
+T279	CirculatorySystem 6310 6328	circulatory system
+T280	CirculatorySystem 1309 1330	cardiovascular system
+T281	CirculationActions 1716 1727	circulation
+T282	CirculationActions 8892 8906	transportation
+T283	CirculationActions 4522 4529	beating
+T284	CirculationActions 222 231	transport
+T285	CirculationActions 931 940	transport
+T286	CirculationActions 3057 3066	transport
+T288	PartsOfTheCirculatorySystem 605 613	arteries
+T289	PartsOfTheCirculatorySystem 2297 2305	arteries
+T290	PartsOfTheCirculatorySystem 3417 3425	arteries
+T291	PartsOfTheCirculatorySystem 3346 3358	blood vessel
+T292	PartsOfTheCirculatorySystem 645 650	veins
+T293	PartsOfTheCirculatorySystem 2290 2295	veins
+T294	PartsOfTheCirculatorySystem 3430 3435	veins
+T295	PartsOfTheCirculatorySystem 7249 7254	liver
+T296	PartsOfTheCirculatorySystem 618 629	capillaries
+T297	PartsOfTheCirculatorySystem 2311 2322	capillaries
+T298	PartsOfTheCirculatorySystem 3401 3412	capillaries
+T299	PartsOfTheCirculatorySystem 462 467	heart
+T300	PartsOfTheCirculatorySystem 594 599	heart
+T301	PartsOfTheCirculatorySystem 2283 2288	heart
+T302	PartsOfTheCirculatorySystem 4537 4542	heart
+T303	PartsOfTheCirculatorySystem 634 640	valves
+T304	Blood 4906 4921	red blood cells
+T305	Blood 4996 5011	red blood cells
+T306	Blood 3362 3376	blood pressure
+T307	Blood 4945 4962	white blood cells
+T308	Blood 5045 5062	white blood cells
+T309	Blood 8604 8621	white blood cells
+T310	Blood 8200 8205	blood
+T313	Blood 270 275	blood
+T315	Blood 8910 8915	blood
+T318	Blood 3671 3676	blood
+T319	Blood 4814 4819	blood
+T320	Blood 4612 4617	blood
+T321	Blood 7929 7941	blood stream
+T322	Blood 581 586	blood
+T324	Blood 2009 2014	blood
+T326	PartsOfTheImmuneSystem 4945 4961	white blood cell
+T327	PartsOfTheImmuneSystem 5045 5061	white blood cell
+T328	PartsOfTheImmuneSystem 8604 8620	white blood cell
+T329	EndocrineSystem 7371 7387	endocrine system
+T331	EndocrineActions 1701 1710	secretion
+T332	EndocrineActions 870 885	secrete enzymes
+T337	PartsOfEndocrineSystem 5654 5661	stomach
+T338	PartsOfEndocrineSystem 7032 7039	stomach
+T339	PartsOfEndocrineSystem 5941 5948	stomach
+T340	PartsOfEndocrineSystem 8512 8519	stomach
+T341	PartsOfEndocrineSystem 6994 7001	stomach
+T342	PartsOfEndocrineSystem 7638 7645	stomach
+T343	PartsOfEndocrineSystem 6018 6025	stomach
+T344	PartsOfEndocrineSystem 280 287	kidneys
+T345	PartsOfEndocrineSystem 7249 7254	liver
+T346	PartsOfEndocrineSystem 462 467	heart
+T347	PartsOfEndocrineSystem 594 599	heart
+T348	PartsOfEndocrineSystem 2283 2288	heart
+T349	PartsOfEndocrineSystem 4537 4542	heart
+T350	PartsOfEndocrineSystem 7256 7264	pancreas
+T351	PartsOfEndocrineSystem 1909 1916	insulin
+T352	NervousSystem 1265 1279	nervous system
+T353	NervousSystem 4139 4146	nervous
+T354	NervousSystem 4197 4204	nervous
+T355	PartsOfTheNervousSystem 5373 5379	nerves
+T356	PartsOfTheNervousSystem 4477 4484	neurons
+T357	MuscularSystem 2372 2380	muscular
+T358	MuscularSystem 4126 4134	muscular
+T359	MuscularSystem 4165 4173	muscular
+T360	MuscularSystem 4228 4236	muscular
+T361	MuscularSystemActions 8836 8847	oxygenation
+T363	PartsOfTheMuscularSystem 1520 1531	muscle cell
+T364	PartsOfTheMuscularSystem 1624 1635	muscle cell
+T365	PartsOfTheMuscularSystem 8592 8598	muscle
+T366	IntegumentarySystem 1336 1356	integumentary system
+T367	PartsOfTheSkeletalSystem 4573 4577	bone
+T368	ReproductiveSystem 7305 7324	reproductive system
+T369	ReproductiveSystem 2355 2367	reproductive
+T370	ReproductiveSystem 2790 2802	reproductive
+T371	ReproductiveSystem 6636 6648	reproductive
+T374	Nutrition 8170 8175	foods
+T375	Nutrition 7839 7843	Food
+T376	Nutrition 7018 7022	food
+T377	Nutrition 3033 3037	food
+T378	Nutrition 6967 6971	food
+T379	Nutrition 6946 6950	food
+T380	Nutrition 8954 8958	food
+T381	Nutrition 6220 6224	food
+T382	Nutrition 6536 6540	food
+T383	Nutrition 7780 7784	food
+T384	Nutrition 7617 7621	food
+T385	Nutrition 6896 6900	food
+T386	Nutrition 7748 7757	Nutrients
+T387	Nutrition 3043 3052	nutrients
+T388	Nutrition 5323 5332	nutrients
+T389	Nutrition 6931 6940	nutrients
+T390	Nutrition 6546 6555	nutrients
+T391	Nutrition 1154 1163	nutrients
+T392	Nutrition 1538 1547	nutrients
+T393	Nutrition 8316 8325	nutrients
+T394	Nutrition 3067 3076	nutrients
+T395	Nutrition 2615 2624	nutrients
+T396	Nutrition 232 241	nutrients
+T397	NutritiveSubstancesForAnimalsOrPlants 4599 4604	sugar
+T398	NutritiveSubstancesForAnimalsOrPlants 897 905	proteins
+T399	NutritiveSubstancesForAnimalsOrPlants 4984 4992	proteins
+T400	NutritiveSubstancesForAnimalsOrPlants 5033 5041	proteins
+T401	NutritiveSubstancesForAnimalsOrPlants 7879 7887	proteins
+T403	NutritiveSubstancesForAnimalsOrPlants 8282 8288	sugars
+T404	NutritiveSubstancesForAnimalsOrPlants 1994 2001	glucose
+T405	NutritiveSubstancesForAnimalsOrPlants 2111 2118	glucose
+T413	ActionsForNutrition 7762 7770	absorbed
+T414	ActionsForNutrition 6917 6927	absorption
+T415	ActionsForNutrition 8180 8190	absorption
+T416	ActionsForNutrition 8940 8950	absorption
+T417	ActionsForNutrition 1194 1201	storage
+T424	MeasuringSpeed 4551 4555	rate
+T443	ChemicalProperty 567 580	de-oxygenated
+T450	PhysicalProperty 3730 3737	density
+T451	Shape 4564 4569	shape
+T461	Size 4897 4902	sizes
+T462	Size 4936 4941	sizes
+T464	Quality 6810 6814	best
+T465	Quality 7688 7692	best
+T466	Quality 8780 8784	best
+T467	AmountComparison 3629 3637	greatest
+T469	Complexity 6230 6236	simple
+T470	Complexity 4455 4463	directly
+T478	PropertyOfMotion 3659 3667	movement
+T479	Position 185 192	closely
+T483	Position 3148 3155	against
+T490	Rarity 3377 3385	normally
+T492	Cost 2033 2043	efficiency
+T496	Rarity 7580 7588	specific
+T497	Numbers 1984 1990	amount
+T498	CardinalNumber 4104 4107	two
+T504	Energy 1947 1951	fuel
+T505	Energy 2047 2051	fuel
+T508	Consumption 2052 2063	consumption
+T530	Matter 941 950	materials
+T531	Compound 4074 4088	carbon dioxide
+T532	Compound 8230 8244	carbon dioxide
+T542	Element 1552 1558	oxygen
+T543	Element 3081 3087	oxygen
+T544	Element 4023 4029	oxygen
+T545	Element 8219 8225	oxygen
+T547	PhasesOfWater 1144 1149	water
+T548	PhasesOfWater 7900 7905	water
+T558	GaseousMatter 2674 2679	gases
+T565	DigestiveSubstances 5968 5972	acid
+T566	DigestiveSubstances 6881 6885	acid
+T567	DigestiveSubstances 7860 7864	acid
+T568	Substances 6237 6247	substances
+T579	ActUponSomething 1971 1979	regulate
+T594	AmountChangingActions 1656 1666	increasing
+T598	AmountChangingActions 2020 2028	increase
+T599	AvoidReject 2069 2076	prevent
+T600	ChangeInto 6541 6545	into
+T604	ChangeInto 3038 3042	into
+T605	ChangeInto 6225 6229	into
+T614	CombineAdd 6890 6895	mixes
+T619	Cause 5950 5954	with
+T620	Cause 5993 5997	with
+T621	CombineAdd 193 197	with
+T622	Cause 5908 5912	with
+T623	ContainBeComposedOf 1230 1234	with
+T624	CombineAdd 7855 7859	with
+T625	Cause 5877 5881	with
+T626	ContainBeComposedOf 2574 2578	have
+T627	ContainBeComposedOf 5288 5292	have
+T629	Cause 3621 3624	has
+T630	ContainBeComposedOf 7574 7577	has
+T631	Create 910 917	produce
+T632	Create 5384 5391	produce
+T633	Create 4490 4497	product
+T637	Create 2323 2327	make
+T643	Examine 3386 3395	monitored
+T644	DigestionActions 6529 6535	breaks
+T649	Help 6909 6913	aids
+T650	Help 8523 8532	protected
+T651	Help 3648 3654	aiding
+T652	Help 2598 2603	helps
+T653	Help 3132 3138	defend
+T654	IncreaseDecrease 1656 1666	increasing
+T655	IncreaseDecrease 2020 2028	increase
+T656	Move 1139 1143	move
+T657	Move 7622 7628	passes
+T658	Move 6959 6966	carries
+T659	Move 7010 7017	carries
+T660	StopRemove 2639 2645	remove
+T662	StopRemove 4067 4073	remove
+T663	Move 7813 7817	pass
+T666	Move 8310 8315	carry
+T671	Transportation 2607 2614	deliver
+T672	Transportation 4015 4022	deliver
+T673	Transportation 8892 8906	transportation
+T674	Transportation 6959 6966	carries
+T675	Transportation 7010 7017	carries
+T676	Transportation 2665 2673	exchange
+T677	Transportation 8210 8218	exchange
+T678	Transportation 222 231	transport
+T679	Transportation 931 940	transport
+T680	Transportation 3057 3066	transport
+T681	Transportation 5313 5322	transport
+T682	Transportation 556 566	delivering
+T683	Transportation 8310 8315	carry
+T684	Transportation 1139 1143	move
+T690	Observe 3386 3395	monitored
+T691	Occur 6248 6254	occurs
+T692	PerformAnActivity 179 184	works
+T693	PerformAnActivity 4811 4813	do
+T694	PerformAnActivity 7231 7233	do
+T695	PerformAnActivity 7801 7809	prepared
+T705	PerformAnActivity 5337 5344	perform
+T707	Preserve 4464 4473	regulated
+T708	Preserve 8523 8532	protected
+T709	Preserve 1941 1946	store
+T710	Preserve 1194 1201	storage
+T711	Preserve 1971 1979	regulate
+T712	Preserve 5364 5372	regulate
+T713	Communicate 6815 6824	describes
+T714	Represent 7693 7702	describes
+T715	Represent 8785 8794	describes
+T716	Require 1533 1537	need
+T718	Require 1611 1616	needs
+T724	Release 6872 6880	releases
+T725	Release 8262 8269	release
+T735	Start 5566 5572	begins
+T736	Start 5848 5854	begins
+T737	StopRemove 2069 2076	prevent
+T742	Use 6568 6572	used
+T743	Use 2052 2063	consumption
+T744	Use 1186 1189	use
+T745	Use 1962 1965	use
+T747	Associate 7293 7299	belong
+T752	ResponseType 7678 7687	statement
+T762	RelativeTime 1559 1565	during
+T763	RelativeTime 1637 1643	during
+T764	RelativeTime 7599 7605	During
+T765	RelativeTime 1956 1961	later
+T771	RelativeLocations 6851 6853	in
+T773	RelativeLocations 2002 2004	in
+T774	RelativeLocations 7550 7552	in
+T775	RelativeLocations 5815 5817	In
+T776	RelativeLocations 5855 5857	in
+T777	RelativeLocations 4605 4607	in
+T778	RelativeLocations 1107 1109	In
+T779	RelativeLocations 4850 4852	in
+T780	RelativeLocations 6255 6257	in
+T781	RelativeLocations 6180 6182	In
+T782	RelativeLocations 1203 1205	In
+T783	RelativeLocations 3329 3331	In
+T784	RelativeLocations 7720 7722	in
+T785	RelativeLocations 5573 5575	in
+T786	RelativeLocations 8245 8247	in
+T787	RelativeLocations 1917 1919	in
+T788	RelativeLocations 8289 8295	within
+T790	RelativeLocations 4993 4995	on
+T791	RelativeLocations 5042 5044	on
+T792	Cause 1653 1655	by
+T793	Cause 4474 4476	by
+T794	RelativeLocations 6573 6575	by
+T795	Cause 8553 8555	by
+T800	RelativeDirection 7818 7821	out
+T801	RelativeDirection 7040 7042	to
+T802	RelativeDirection 4030 4032	to
+T803	RelativeDirection 6987 6989	to
+T804	RelativeDirection 587 589	to
+T805	RelativeDirection 7209 7211	To
+T806	RelativeDirection 8326 8328	to
+T810	Result 219 221	to
+T814	RelativeDirection 242 244	to
+T815	RelativeDirection 7771 7775	from
+T816	RelativeDirection 6972 6976	from
+T817	RelativeDirection 6941 6945	from
+T818	RelativeDirection 7629 7633	from
+T819	RelativeDirection 4833 4837	from
+T820	RelativeDirection 7023 7027	from
+T822	RelativeDirection 3114 3118	from
+T823	RelativeDirection 8533 8537	from
+T824	RelativeDirection 8277 8281	from
+T826	RelativeDirection 8191 8195	into
+T827	RelativeDirection 7646 7650	into
+T828	RelativeDirection 7920 7924	into
+T837	PrepositionalDirections 1164 1171	through
+T838	PrepositionalDirections 3677 3684	through
+T839	PrepositionalDirections 3645 3647	on
+T842	PrepositionalDirections 6006 6013	towards
+T849	Comparisons 1237 1244	similar
+T850	Comparisons 4887 4896	different
+T851	Comparisons 4926 4935	different
+T852	Comparisons 4967 4976	different
+T853	Comparisons 5016 5025	different
+T854	Comparisons 4838 4849	one another
+T855	Comparisons 4826 4832	differ
+T856	QualityComparison 6810 6814	best
+T857	QualityComparison 7688 7692	best
+T858	QualityComparison 8780 8784	best
+T859	AmountComparison 4589 4595	levels
+T862	AmountComparison 2702 2706	most
+T863	AmountComparison 2646 2652	excess
+T864	AmountComparison 7893 7899	Excess
+T865	ImportanceComparison 825 829	main
+T866	ImportanceComparison 8105 8109	main
+T867	ImportanceComparison 475 480	major
+T868	ImportanceComparison 1889 1896	primary
+T869	AbilityAvailability 1594 1598	able
+T871	AbilityAvailability 4008 4014	cannot
+T872	AbilityAvailability 4060 4063	can
+T873	AbilityAvailability 6561 6564	can
+T898	SystemAndFunctions 5293 5303	mechanisms
+T899	SystemAndFunctions 6829 6833	role
+T901	AnimalSystemsProcesses 6521 6528	systems
+T910	OrganicProcesses 4443 4451	activity
+T943	Exemplar 3338 3342	type
+T944	Exemplar 4820 4825	types
+T971	Method 4807 4810	How
+T975	Succeed 1602 1606	meet
+T991	ObjectPart 162 166	part
+T992	ObjectPart 520 524	part
+T993	ObjectPart 8333 8338	parts
+T994	ObjectQuantification 8558 8563	layer
+T995	Negations 4056 4059	nor
+T997	Negations 2976 2979	not
+T999	Negations 4090 4097	without
+T1003	Result 3638 3644	effect
+T1007	Cause 540 551	responsible
+T1008	Cause 2707 2718	responsible
+T1038	LevelOfInclusion 5265 5268	All
+T1039	LevelOfInclusion 8329 8332	all
+T1040	LevelOfInclusion 7539 7543	Each
+T1042	LevelOfInclusion 2723 2728	these
+T1043	LevelOfInclusion 2967 2972	these
+T1044	LevelOfInclusion 2331 2336	which
+T1045	LevelOfInclusion 3332 3337	which
+T1046	LevelOfInclusion 6804 6809	Which
+T1047	LevelOfInclusion 514 519	Which
+T1048	LevelOfInclusion 8774 8779	Which
+T1049	LevelOfInclusion 6498 6503	Which
+T1050	LevelOfInclusion 2958 2963	Which
+T1051	LevelOfInclusion 3615 3620	Which
+T1052	LevelOfInclusion 156 161	Which
+T1053	LevelOfInclusion 5576 5581	which
+T1054	LevelOfInclusion 2681 2686	Which
+T1055	LevelOfInclusion 7212 7217	which
+T1056	LevelOfInclusion 7672 7677	Which
+T1057	LevelOfInclusion 4437 4442	Which
+T1058	LevelOfInclusion 4098 4103	which
+T1065	Problem 5882 5891	squeezing
+T1071	Alter 3638 3644	effect
+T1073	NUMBER 4104 4107	two
+T24	StateOfBeing 468 470	is
+T30	StateOfBeing 537 539	is
+T58	StateOfBeing 818 820	is
+T25	StateOfBeing 1254 1256	is
+T32	StateOfBeing 1591 1593	is
+T48	StateOfBeing 1931 1933	is
+T13	AnimalSystemsProcesses 2581 2592	body system
+T18	AnimalSystemsProcesses 2687 2698	body system
+T28	StateOfBeing 2699 2701	is
+T38	StateOfBeing 2973 2975	is
+T45	Preserve 3132 3138	defend
+T51	Sickness 3156 3172	foreign invaders
+T2	StateOfBeing 3359 3361	is
+T1	AnimalSystemsProcesses 4108 4120	body systems
+T8	StateOfBeing 4452 4454	is
+T35	LevelOfInclusion 5585 5598	the following
+T20	DigestionActions 6203 6216	breaking down
+T21	LevelOfInclusion 6507 6520	the following
+T23	StateOfBeing 6565 6567	be
+T14	Occur 7708 7719	takes place
+T12	StateOfBeing 7758 7761	are
+T17	StateOfBeing 7797 7800	are
+T22	StateOfBeing 7844 7846	is
+T26	StateOfBeing 7906 7908	is
+T27	StateOfBeing 8149 8151	is
+T15	StateOfBeing 8520 8522	is

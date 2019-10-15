@@ -1,0 +1,618 @@
+T5	CelestialLightOnEarth 7143 7151	sunlight
+T6	Particles 238 246	particle
+T14	Energy 1206 1212	energy
+T15	Energy 6264 6270	energy
+T16	Energy 874 880	energy
+T17	Energy 4934 4940	energy
+T18	Energy 4308 4314	energy
+T19	Energy 509 515	energy
+T20	Energy 6654 6660	energy
+T23	ProduceEnergy 5015 5021	fusion
+T24	ProduceEnergy 5003 5010	fission
+T27	LivingThing 8377 8386	organisms
+T29	LivingThing 7353 7361	organism
+T33	LivingThing 7652 7660	organism
+T34	LivingThing 3591 3599	organism
+T36	LivingThing 3556 3564	organism
+T37	LivingThing 7623 7631	organism
+T39	LivingThing 7704 7712	organism
+T41	LivingThing 6879 6888	organisms
+T42	LivingThing 8727 8736	organisms
+T45	Animal 8774 8781	animals
+T46	Animal 7398 7402	worm
+T47	Aquatic 7389 7393	fish
+T48	Insect 7378 7384	insect
+T49	Bird 8742 8747	birds
+T51	AnimalPart 1234 1238	body
+T55	PerformAnActivity 1185 1189	play
+T74	Cell 6355 6360	cells
+T76	Cell 6204 6209	cells
+T77	Cell 6947 6952	cells
+T78	Cell 6275 6280	cells
+T79	Cell 1246 1251	cells
+T80	Cell 2995 3000	cells
+T81	Cell 6243 6248	cells
+T82	Cell 5491 5496	cells
+T84	Cell 6319 6324	cells
+T85	Cell 2942 2947	cells
+T86	Cell 8111 8116	cells
+T87	Cell 3544 3549	cells
+T88	Cell 5902 5907	cells
+T91	Cell 1971 1987	prokaryotic cell
+T92	Cell 2022 2038	prokaryotic cell
+T93	Cell 1722 1738	prokaryotic cell
+T94	Cell 8974 8990	prokaryotic cell
+T97	Cell 207 228	chemiosmotic gradient
+T100	Cell 5514 5524	eukaryotic
+T101	Eukaryote 2310 2320	eukaryotic
+T102	Cell 1663 1678	eukaryotic cell
+T103	Cell 5606 5621	eukaryotic cell
+T104	Cell 5498 5509	prokaryotic
+T105	Cell 5590 5601	prokaryotic
+T106	Cell 8398 8402	cell
+T107	Cell 6566 6570	cell
+T108	Cell 4543 4547	cell
+T109	Cell 1164 1168	cell
+T110	Cell 3616 3620	cell
+T111	Cell 3313 3317	cell
+T112	Cell 3236 3240	cell
+T113	Cell 2814 2818	cell
+T114	Cell 3966 3970	cell
+T116	Cell 8173 8177	cell
+T119	Cell 8068 8072	cell
+T120	Cell 8142 8146	cell
+T122	Cell 8127 8131	cell
+T123	Cell 888 892	cell
+T125	Cell 8423 8427	cell
+T127	Cell 531 535	cell
+T128	Cell 5560 5564	cell
+T129	Cell 4102 4106	cell
+T132	Cell 8489 8493	cell
+T134	Cell 7050 7054	cell
+T135	Cell 8453 8457	cell
+T136	Cell 8157 8161	cell
+T137	AnimalCellPart 1169 1179	organelles
+T138	AnimalCellPart 3005 3018	cell membrane
+T139	AnimalCellPart 8997 9010	cell membrane
+T140	AnimalCellPart 2494 2514	endomembrane systems
+T141	AnimalCellPart 1147 1159	Mitochondria
+T142	AnimalCellPart 2520 2532	Mitochondria
+T143	AnimalCellPart 2586 2598	Mitochondria
+T144	AnimalCellPart 2441 2453	Mitochondria
+T145	AnimalCellPart 1296 1308	mitochondria
+T146	AnimalCellPart 5221 5233	mitochondria
+T148	AnimalCellPart 181 193	mitochondria
+T149	AnimalCellPart 1817 1829	mitochondria
+T150	AnimalCellPart 2406 2418	mitochondria
+T151	AnimalCellPart 2353 2365	Mitochondria
+T152	AnimalCellPart 941 948	vacuole
+T155	AnimalCellPart 5252 5262	centrioles
+T156	AnimalCellPart 6186 6194	vacuoles
+T157	AnimalCellPart 582 603	endoplasmic reticulum
+T158	AnimalCellPart 3742 3763	endoplasmic reticulum
+T159	AnimalCellPart 4596 4617	endoplasmic reticulum
+T160	AnimalCellPart 5678 5699	endoplasmic reticulum
+T161	AnimalCellPart 562 577	Golgi apparatus
+T162	AnimalCellPart 4576 4591	Golgi apparatus
+T163	AnimalCellPart 3703 3711	ribosome
+T164	AnimalCellPart 9015 9023	ribosome
+T166	AnimalCellPart 5628 5636	ribosome
+T167	AnimalCellPart 928 936	ribosome
+T168	AnimalCellPart 820 838	cellular organelle
+T169	AnimalCellPart 3621 3630	organelle
+T171	AnimalCellPart 898 911	mitochondrion
+T172	AnimalCellPart 3720 3733	mitochondrion
+T174	AnimalCellPart 1596 1624	double-membrane mitochondria
+T175	AnimalCellPart 2321 2347	double-membrane structures
+T176	AnimalCellPart 1794 1809	double membrane
+T177	AnimalCellPart 1996 2005	lysosomes
+T178	AnimalCellPart 5267 5276	lysosomes
+T179	AnimalCellPart 258 280	mitochondrial membrane
+T180	AnimalCellPart 633 655	mitochondrial membrane
+T181	AnimalCellPart 1945 1954	ribosomes
+T182	AnimalCellPart 2635 2644	ribosomes
+T183	AnimalCellPart 5238 5247	ribosomes
+T185	AnimalCellPart 4082 4089	nucleus
+T186	AnimalCellPart 916 923	nucleus
+T187	AnimalCellPart 5666 5673	nucleus
+T189	AnimalCellPart 2573 2580	nucleus
+T190	AnimalCellPart 9042 9049	nucleus
+T191	AnimalCellPart 3687 3694	nucleus
+T192	AnimalCellPart 2867 2874	nucleus
+T193	AnimalCellPart 4855 4862	nucleus
+T194	AnimalCellPart 4826 4832	nuclei
+T195	AnimalCellPart 1897 1913	nuclear membrane
+T196	AnimalCellPart 4622 4638	nuclear membrane
+T198	PlantCellPart 2952 2961	cell wall
+T199	PlantCellPart 3347 3356	Cell wall
+T200	PlantCellPart 9028 9037	cell wall
+T201	PlantCellPart 941 948	vacuole
+T202	PlantCellPart 3323 3330	Vacuole
+T203	PlantCellPart 5985 5992	vacuole
+T204	PlantCellPart 6186 6193	vacuole
+T205	PlantCellPart 582 603	endoplasmic reticulum
+T206	PlantCellPart 3742 3763	endoplasmic reticulum
+T207	PlantCellPart 4596 4617	endoplasmic reticulum
+T208	PlantCellPart 5678 5699	endoplasmic reticulum
+T209	PlantCellPart 2635 2643	ribosome
+T210	PlantCellPart 5238 5246	ribosome
+T211	PlantCellPart 3703 3711	ribosome
+T212	PlantCellPart 9015 9023	ribosome
+T213	PlantCellPart 5972 5980	ribosome
+T214	PlantCellPart 5628 5636	ribosome
+T215	PlantCellPart 928 936	ribosome
+T216	PlantCellPart 1945 1953	ribosome
+T217	PlantCellPart 3005 3018	cell membrane
+T218	PlantCellPart 8997 9010	cell membrane
+T219	PlantCellPart 820 838	cellular organelle
+T220	PlantCellPart 3621 3630	organelle
+T221	PlantCellPart 5927 5936	organelle
+T224	PlantCellPart 898 911	mitochondrion
+T225	PlantCellPart 3720 3733	mitochondrion
+T226	PlantCellPart 5942 5955	mitochondrion
+T228	PlantCellPart 2321 2347	double-membrane structures
+T229	PlantCellPart 1794 1809	double membrane
+T230	PlantCellPart 3335 3342	Nucleus
+T231	PlantCellPart 4082 4089	nucleus
+T232	PlantCellPart 916 923	nucleus
+T233	PlantCellPart 5666 5673	nucleus
+T234	PlantCellPart 5960 5967	nucleus
+T235	PlantCellPart 2573 2580	nucleus
+T236	PlantCellPart 9042 9049	nucleus
+T237	PlantCellPart 3687 3694	nucleus
+T238	PlantCellPart 2867 2874	nucleus
+T239	PlantCellPart 4855 4862	nucleus
+T240	PlantCellPart 1897 1913	nuclear membrane
+T241	PlantCellPart 4622 4638	nuclear membrane
+T242	CellProcesses 159 177	Electron transport
+T243	CellProcesses 3025 3039	photosynthesis
+T244	CellsAndGenetics 294 297	ATP
+T245	CellsAndGenetics 286 289	ADP
+T246	CellsAndGenetics 9366 9373	zygotes
+T247	CellsAndGenetics 9425 9432	zygotes
+T248	Eukaryote 1873 1888	eukaryotic host
+T249	Eukaryote 1921 1936	eukaryotic host
+T250	Eukaryote 8136 8141	yeast
+T251	Eukaryote 9485 9495	paramecium
+T252	Eukaryote 7367 7373	amoeba
+T253	Eukaryote 9462 9468	amoeba
+T254	Eukaryote 9473 9480	euglena
+T255	Fungi 8763 8769	fungus
+T256	Genetics 3644 3660	genetic material
+T257	Genetics 294 297	ATP
+T258	Genetics 286 289	ADP
+T260	GeneticProcesses 2554 2565	synthesized
+T261	GeneticProcesses 2620 2631	synthesized
+T262	GeneticProcesses 5204 5215	synthesized
+T264	Monera 1971 1987	prokaryotic cell
+T265	Monera 2022 2038	prokaryotic cell
+T267	Monera 8974 8990	prokaryotic cell
+T268	BacteriaPart 2952 2961	cell wall
+T270	BacteriaPart 9028 9037	cell wall
+T271	AnimalCellPart 608 628	cytoplasmic membrane
+T273	BacteriaPart 9015 9023	ribosome
+T275	BacteriaPart 5628 5636	ribosome
+T277	AnimalCellPart 1850 1865	plasma membrane
+T281	Protist 9485 9495	paramecium
+T282	Protist 9500 9506	volvox
+T283	Protist 9397 9405	protists
+T284	Protist 9449 9456	protist
+T285	Plant 8752 8758	plants
+T286	Plant 2936 2941	plant
+T287	Plant 3230 3235	plant
+T288	Angiosperm 5895 5901	potato
+T289	Angiosperm 8151 8156	onion
+T290	Move 6312 6318	leaves
+T291	PlantPart 2603 2615	chloroplasts
+T292	PlantPart 2537 2549	chloroplasts
+T293	PlantPart 2370 2382	chloroplasts
+T294	PlantPart 2423 2435	chloroplasts
+T295	PlantPart 2458 2470	chloroplasts
+T296	PlantPart 3361 3372	Chloroplast
+T297	PlantCellPart 2904 2915	chloroplast
+T298	PlantPart 5641 5661	chloroplast membrane
+T299	PlantPart 8122 8126	leaf
+T303	GroupsOfScientists 7567 7572	class
+T305	OrganicProcesses 6989 7001	life process
+T306	OrganicProcesses 4955 4962	process
+T307	OrganicProcesses 1213 1222	processes
+T308	OrganicProcesses 7024 7038	life processes
+T309	OrganicProcesses 2853 2861	function
+T312	OrganicProcesses 8507 8521	life functions
+T314	OrganismRelationships 2277 2290	endosymbiotic
+T323	Growth 3604 3608	grow
+T324	Reproduction 3665 3677	reproduction
+T325	Reproduction 3576 3585	reproduce
+T326	Reproduction 6635 6644	reproduce
+T327	PrenatalOrganismStates 9366 9373	zygotes
+T328	PrenatalOrganismStates 9425 9432	zygotes
+T334	LivingDying 8077 8084	survive
+T335	LivingDying 3959 3965	living
+T336	LivingDying 4095 4101	living
+T337	Toxins 7090 7105	waste materials
+T338	PlantProcesses 3025 3039	photosynthesis
+T351	PartsOfTheExcretorySystem 1314 1318	skin
+T357	Blood 1332 1337	blood
+T363	PartsOfTheMuscularSystem 8166 8177	muscle cell
+T364	PartsOfTheMuscularSystem 1342 1348	muscle
+T365	PartsOfTheIntegumentarySystem 1314 1318	skin
+T366	PartsOfTheSkeletalSystem 1323 1327	bone
+T367	Sickness 4531 4536	virus
+T368	Nutrition 6234 6238	food
+T369	Nutrition 7133 7137	food
+T370	Nutrition 8437 8441	food
+T371	NutritiveSubstancesForAnimalsOrPlants 6671 6678	protein
+T372	NutritiveSubstancesForAnimalsOrPlants 5195 5203	proteins
+T373	NutritiveSubstancesForAnimalsOrPlants 5865 5871	starch
+T374	NutritiveSubstancesForAnimalsOrPlants 4553 4571	nucleic acid chain
+T375	NutritiveSubstancesForAnimalsOrPlants 855 862	glucose
+T379	Foods 7779 7785	cereal
+T387	ManmadeObjects 4114 4127	conveyor belt
+T388	ManmadeObjects 7895 7899	desk
+T389	ManmadeObjects 4160 4171	storage bin
+T391	ManmadeObjects 7795 7802	cabinet
+T393	ManmadeObjects 7831 7836	trash
+T404	ElectricityGeneration 4284 4293	generator
+T407	ViewingTools 9326 9336	microscope
+T408	ComputingDevice 4227 4235	computer
+T409	TechnologicalInstrument 4227 4235	computer
+T410	LandVehicle 4027 4031	cars
+T411	LandVehicle 4215 4218	car
+T416	Property 5565 5572	feature
+T417	Property 5544 5552	features
+T418	Property 6847 6861	characteristic
+T438	Mass 4892 4896	mass
+T439	Shape 8406 8411	round
+T441	Size 1656 1662	larger
+T442	Size 1714 1721	smaller
+T443	Size 1192 1197	large
+T444	Size 4918 4923	large
+T448	Rigidity 1685 1693	flexible
+T453	Quality 8346 8350	best
+T454	AmountComparison 1278 1285	greater
+T458	Complexity 2301 2308	complex
+T459	TemporalProperty 2394 2405	preexisting
+T460	TemporalProperty 2482 2493	preexisting
+T462	Position 1775 1780	outer
+T468	Numbers 1286 1292	amount
+T469	Numbers 4924 4930	amount
+T470	CardinalNumber 7854 7858	four
+T471	CardinalNumber 4822 4825	two
+T472	CardinalNumber 7807 7810	two
+T473	CardinalNumber 4851 4854	one
+T474	CardinalNumber 7046 7049	one
+T475	CardinalNumber 9386 9389	one
+T476	RelativeNumber 5531 5536	a few
+T477	RelativeNumber 4875 4881	slight
+T497	BodiesOfWater 9286 9290	pond
+T507	Matter 4144 4153	materials
+T509	LevelOfInclusion 6553 6563	everything
+T511	ElementalComponents 5882 5891	molecules
+T512	AtomComponents 302 309	protons
+T514	AtomComponents 238 246	particle
+T525	PlantCellPart 4826 4832	nuclei
+T526	AtomComponents 314 322	neutrons
+T530	Element 844 850	oxygen
+T532	PhasesOfWater 5876 5881	water
+T533	PhasesOfWater 6224 6229	water
+T534	PhasesOfWater 7740 7745	water
+T535	PhasesOfWater 9291 9296	water
+T540	LiquidMatter 9291 9296	water
+T544	Changes 4975 4985	conversion
+T545	Changes 4882 4888	change
+T550	Reactions 486 494	reaction
+T551	Reactions 4990 4998	reaction
+T560	ChangeInto 4846 4850	into
+T563	Classify 4963 4969	called
+T565	Collect 7820 7830	collecting
+T569	CombineAdd 6301 6307	enters
+T570	ContainBeComposedOf 1680 1684	with
+T571	CombineAdd 2844 2848	with
+T572	ContainBeComposedOf 6953 6957	with
+T574	CombineAdd 4837 4845	combined
+T575	Communicate 9341 9350	explained
+T580	Communicate 1756 1764	explains
+T581	ContainBeComposedOf 5526 5530	have
+T582	ContainBeComposedOf 7065 7069	have
+T583	ContainBeComposedOf 1271 1275	have
+T584	ContainBeComposedOf 6942 6946	have
+T585	ContainBeComposedOf 6917 6921	have
+T586	ContainBeComposedOf 3631 3639	contains
+T587	ContainBeComposedOf 8704 8712	contains
+T589	Create 9374 9382	produced
+T590	Create 4259 4267	assembly
+T591	Create 4299 4307	provides
+T592	Create 2554 2565	synthesized
+T593	Create 2620 2631	synthesized
+T594	Create 5204 5215	synthesized
+T595	Create 866 873	provide
+T596	Create 6332 6339	provide
+T598	Create 4018 4026	produces
+T599	Create 4204 4212	assemble
+T600	Create 6666 6670	make
+T601	Create 7128 7132	make
+T602	Create 8432 8436	make
+T605	Differentiate 6619 6629	specialize
+T606	Differentiate 6958 6969	specialized
+T609	Help 8097 8101	help
+T610	Help 2264 2272	supports
+T611	Help 6340 6350	protection
+T617	Identify 9217 9227	discovered
+T618	Identify 9262 9270	identify
+T619	Move 7888 7892	move
+T620	Move 8462 8466	move
+T621	Move 6301 6307	enters
+T622	Transportation 7728 7735	passing
+T624	Move 2976 2980	goes
+T626	Transportation 4133 4143	transports
+T631	Observe 9310 9316	looked
+T632	Occur 536 542	occurs
+T633	PerformAnActivity 7868 7875	working
+T634	PerformAnActivity 6550 6552	do
+T635	PerformAnActivity 6605 6607	do
+T636	PerformAnActivity 6862 6864	do
+T640	PerformAnActivity 7012 7019	perform
+T641	PerformAnActivity 8494 8502	performs
+T644	Preserve 6218 6223	store
+T645	Preserve 5912 5918	stored
+T647	Preserve 6340 6350	protection
+T648	Communicate 8351 8360	describes
+T649	Require 4194 4200	needed
+T654	Separate 6312 6317	leave
+T655	Release 500 508	releases
+T656	Release 4905 4912	release
+T657	Release 6256 6263	release
+T663	Divide 3565 3571	divide
+T664	Start 1625 1635	originated
+T665	Start 1830 1840	originated
+T666	Start 2383 2388	arise
+T667	Start 2471 2476	arise
+T670	StopRemove 7079 7089	get rid of
+T671	ContainBeComposedOf 4177 4182	holds
+T675	Uptake 7771 7778	getting
+T676	Uptake 4177 4182	holds
+T680	Uptake 1962 1970	engulfed
+T681	Uptake 2013 2021	engulfed
+T683	Uptake 1704 1713	engulfing
+T684	Use 839 843	uses
+T686	Use 520 523	use
+T687	Use 6650 6653	use
+T689	Associate 2837 2843	paired
+T692	Discovery 9217 9227	discovered
+T693	Comparisons 3978 3986	compared
+T699	ConcludingResearch 2264 2272	supports
+T707	ActUponSomething 6288 6295	control
+T708	ActUponSomething 3260 3271	controlling
+T710	ActUponSomething 2962 2970	controls
+T711	ActUponSomething 4246 4254	controls
+T717	RelativeTime 3535 3539	When
+T718	RelativeTime 4817 4821	When
+T719	RelativeTime 8959 8964	never
+T720	Locations 552 556	site
+T726	ManmadeLocations 4005 4012	factory
+T727	ManmadeLocations 4051 4058	factory
+T728	ManmadeLocations 4323 4330	factory
+T732	RelativeLocations 5582 5584	in
+T734	RelativeLocations 5892 5894	in
+T735	RelativeLocations 3550 3552	in
+T736	RelativeLocations 4521 4523	in
+T737	RelativeLocations 5919 5921	in
+T738	RelativeLocations 3954 3956	in
+T739	RelativeLocations 2566 2568	in
+T740	RelativeLocations 8971 8973	in
+T743	RelativeDirection 2981 2983	in
+T744	RelativeLocations 2632 2634	in
+T745	RelativeLocations 1203 1205	in
+T746	RelativeLocations 9406 9408	in
+T747	RelativeLocations 6201 6203	in
+T748	RelativeLocations 9271 9273	in
+T749	RelativeLocations 178 180	in
+T750	RelativeLocations 543 545	in
+T751	RelativeLocations 2916 2923	outside
+T752	RelativeLocations 1223 1229	within
+T753	RelativeLocations 7039 7045	within
+T754	RelativeLocations 4864 4869	there
+T756	Cause 524 526	by
+T757	Cause 9383 9385	by
+T758	RelativeLocations 3019 3024	where
+T759	RelativeLocations 1765 1770	where
+T760	RelativeLocations 5185 5190	Where
+T761	RelativeLocations 7601 7608	between
+T763	RelativeDirection 2988 2991	out
+T771	Goal 7885 7887	to
+T774	RelativeDirection 7746 7748	to
+T775	Result 863 865	to
+T778	RelativeDirection 7076 7078	to
+T781	RelativeDirection 7786 7790	from
+T782	RelativeDirection 6571 6575	from
+T783	RelativeDirection 2477 2481	from
+T784	RelativeDirection 7138 7142	from
+T785	RelativeDirection 7837 7841	from
+T786	RelativeDirection 2389 2393	from
+T788	RelativeDirection 9317 9321	into
+T789	PrepositionalDirections 247 253	across
+T791	VerbsForLocate 4515 4520	found
+T792	VerbsForLocate 3948 3953	found
+T793	VerbsForLocate 6195 6200	found
+T794	VerbsForLocate 5576 5581	found
+T795	VerbsForLocate 8965 8970	found
+T799	Comparisons 7589 7600	differences
+T800	Comparisons 4067 4074	similar
+T801	Comparisons 6922 6931	in common
+T802	Comparisons 3294 3299	other
+T803	Comparisons 8105 8110	other
+T804	QualityComparison 8346 8350	best
+T809	AmountComparison 1256 1260	most
+T810	AmountComparison 4062 4066	most
+T812	ImportanceComparison 6164 6169	major
+T814	ScientificTheoryExperimentationAndHistory 2256 2263	concept
+T819	Scientists 9302 9309	teacher
+T820	Scientists 7720 7727	student
+T821	Scientists 7763 7770	student
+T822	Scientists 7811 7819	students
+T823	Scientists 7859 7867	students
+T826	Biology 1574 1594	endosymbiotic theory
+T833	AbilityAvailability 7120 7124	able
+T836	AbilityAvailability 3600 3603	can
+T837	AbilityAvailability 8073 8076	can
+T838	AbilityAvailability 8458 8461	can
+T839	AbilityAvailability 4508 4511	can
+T840	AbilityAvailability 6546 6549	can
+T841	AbilityAvailability 3971 3974	can
+T842	AbilityAvailability 8428 8431	can
+T843	AbilityAvailability 6601 6604	can
+T844	AbilityAvailability 9252 9257	could
+T846	PartsOfABuilding 4236 4240	room
+T847	Relations 7876 7884	together
+T848	SystemAndFunctions 1198 1202	role
+T851	SystemAndFunctions 3276 3286	activities
+T853	SystemAndFunctions 6170 6178	function
+T854	SystemAndFunctions 6970 6979	functions
+T857	SystemParts 3937 3947	structures
+T858	Separation 2924 2932	boundary
+T859	SystemParts 4498 4507	structure
+T860	SystemParts 9238 9247	structure
+T861	Representation 7681 7686	model
+T862	Represent 7576 7584	modeling
+T863	Classification 8697 8703	groups
+T871	Exemplar 9230 9234	type
+T872	Exemplar 7326 7333	example
+T873	Exemplar 7668 7675	example
+T875	Method 7072 7075	way
+T877	StateOfBeing 9361 9365	were
+T878	Method 4268 4275	process
+T883	TypesOfEvent 7567 7572	class
+T886	ObjectPart 2819 2823	part
+T887	ObjectPart 3220 3224	part
+T888	ObjectPart 4039 4043	part
+T902	ObjectPart 3300 3305	parts
+T903	ObjectPart 3994 3999	parts
+T905	ObjectQuantification 1781 1786	layer
+T906	ObjectQuantification 4187 4193	pieces
+T907	ObjectQuantification 9276 9282	sample
+T908	ObjectQuantification 9413 9419	sample
+T911	Negations 9258 9261	not
+T912	Negations 6608 6614	except
+T913	Negations 8085 8092	without
+T914	Negations 8959 8964	never
+T919	Cause 1636 1650	as a result of
+T920	Cause 3244 3255	responsible
+T923	Source 2291 2297	origin
+T924	Source 1557 1566	According
+T932	Group 7751 7756	group
+T933	Group 7844 7849	group
+T934	ProbabilityAndCertainty 1261 1267	likely
+T935	ProbabilityAndCertainty 2827 2836	correctly
+T936	LevelOfInclusion 5487 5490	All
+T937	LevelOfInclusion 7020 7023	all
+T938	LevelOfInclusion 8361 8364	all
+T939	LevelOfInclusion 8503 8506	all
+T940	LevelOfInclusion 8392 8397	Every
+T941	LevelOfInclusion 8417 8422	Every
+T942	LevelOfInclusion 8447 8452	Every
+T943	LevelOfInclusion 8483 8488	Every
+T944	LevelOfInclusion 6984 6988	each
+T947	LevelOfInclusion 1750 1755	these
+T948	LevelOfInclusion 8691 8696	these
+T949	LevelOfInclusion 8950 8955	these
+T951	LevelOfInclusion 5585 5589	both
+T952	LevelOfInclusion 4524 4528	both
+T953	LevelOfInclusion 7060 7064	Both
+T954	LevelOfInclusion 7111 7115	Both
+T955	LevelOfInclusion 6937 6941	Both
+T956	LevelOfInclusion 7007 7011	Both
+T957	LevelOfInclusion 8062 8067	Which
+T958	LevelOfInclusion 2250 2255	Which
+T959	LevelOfInclusion 2808 2813	Which
+T960	LevelOfInclusion 8682 8687	Which
+T961	LevelOfInclusion 814 819	Which
+T962	LevelOfInclusion 9443 9448	which
+T963	LevelOfInclusion 1741 1746	Which
+T964	LevelOfInclusion 6841 6846	Which
+T965	LevelOfInclusion 4033 4038	Which
+T966	LevelOfInclusion 546 551	which
+T967	LevelOfInclusion 3610 3615	Which
+T968	LevelOfInclusion 7314 7319	Which
+T969	LevelOfInclusion 6153 6158	Which
+T970	LevelOfInclusion 8941 8946	Which
+T971	LevelOfInclusion 8340 8345	Which
+T972	LevelOfInclusion 3214 3219	Which
+T973	LevelOfInclusion 7662 7667	Which
+T974	LevelOfInclusion 1240 1245	Which
+T975	LevelOfInclusion 5554 5559	Which
+T976	LevelOfInclusion 232 237	which
+T980	LevelOfInclusion 1651 1655	some
+T991	Separation 1694 1703	membranes
+T1007	NUMBER 4822 4825	two
+T1008	NUMBER 4851 4854	one
+T1009	NUMBER 7046 7049	one
+T1010	NUMBER 7807 7810	two
+T1011	NUMBER 7854 7858	four
+T1012	PERSON 9209 9216	Rosaria
+T1013	NUMBER 9386 9389	one
+T197	Cause 194 204	results in
+T1	PlantCellPart 608 628	cytoplasmic membrane
+T13	PlantCellPart 562 577	Golgi apparatus
+T352	PlantCellPart 633 655	mitochondrial membrane
+T96	StateOfBeing 1160 1163	are
+T68	StateOfBeing 1252 1255	are
+T50	PlantCellPart 1596 1624	double-membrane mitochondria
+T52	Comparisons 1656 1662	larger
+T53	Comparisons 1714 1721	smaller
+T54	Monera 1722 1733	prokaryotic
+T69	Eukaryote 1663 1673	eukaryotic
+T7	PlantCellPart 1817 1829	mitochondria
+T71	PlantCellPart 1850 1865	plasma membrane
+T8	PlantCellPart 2353 2365	Mitochondria
+T12	PlantCellPart 2406 2418	mitochondria
+T21	PlantCellPart 2441 2453	Mitochondria
+T89	PlantCellPart 2494 2514	endomembrane systems
+T90	PlantCellPart 2520 2532	Mitochondria
+T98	PlantCellPart 2586 2598	Mitochondria
+T99	StateOfBeing 2550 2553	are
+T115	StateOfBeing 2616 2619	are
+T118	StateOfBeing 2824 2826	is
+T147	ActUponSomething 2875 2883	controls
+T117	CellProcesses 2884 2899	cell activities
+T121	Occur 3040 3051	takes place
+T126	StateOfBeing 3241 3243	is
+T2	StateOfBeing 3975 3977	be
+T9	StateOfBeing 4059 4061	is
+T10	StateOfBeing 4512 4514	be
+T43	PlantCellPart 4576 4591	Golgi apparatus
+T3	StateOfBeing 4833 4836	are
+T22	StateOfBeing 4870 4872	is
+T44	StateOfBeing 4947 4949	is
+T60	StateOfBeing 5191 5194	are
+T72	PlantCellPart 5221 5233	mitochondria
+T73	Monera 5498 5509	prokaryotic
+T133	Eukaryote 5514 5524	eukaryotic
+T153	Comparisons 5537 5543	common
+T184	StateOfBeing 5573 5575	is
+T75	Monera 5590 5601	prokaryotic
+T222	Eukaryote 5606 5616	eukaryotic
+T4	StateOfBeing 5908 5911	are
+T56	StateOfBeing 6159 6161	is
+T40	LivingThing 6537 6545	organism
+T38	LivingThing 6592 6600	organism
+T25	LivingThing 6907 6916	organisms
+T26	StateOfBeing 7116 7119	are
+T30	StateOfBeing 7320 7322	is
+T31	StateOfBeing 7573 7575	is
+T35	StateOfBeing 7676 7678	is
+T57	StateOfBeing 8403 8405	is
+T58	PropertyOfMotion 8467 8477	on its own
+T28	StateOfBeing 8956 8958	is
+T32	BacteriaPart 8997 9010	cell membrane
+T11	StateOfBeing 9433 9439	belong
+T59	Classify 9433 9439	belong
+T61	OtherOrganismProperties 8713 8726	single-celled
+T62	OtherOrganismProperties 8365 8376	unicellular
+T63	OtherOrganismProperties 7692 7703	unicellular
+T64	OtherOrganismProperties 7638 7651	multicellular
+T65	OtherOrganismProperties 7611 7622	unicellular
+T66	OtherOrganismProperties 7339 7352	single-celled
+T67	OtherOrganismProperties 6893 6906	multicellular
+T70	OtherOrganismProperties 6865 6878	single-celled
+T83	OtherOrganismProperties 6578 6591	multicellular
+T95	OtherOrganismProperties 6525 6536	single-cell

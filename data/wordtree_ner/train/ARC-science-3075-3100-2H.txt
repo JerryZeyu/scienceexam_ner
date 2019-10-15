@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_8_13] [LIFE_REPROD_SEXASEX_SEX]
+Which statement describes a method of sexual reproduction that occurs in plants?
+(A) Stem cuttings are placed in water and grow roots.
+(B) Seeds are produced from the flower of the plant.
+(C) Underground stems from a plant grow into new plants.
+(D) A leaf falls to the soil, develops roots, and grows.
+----------------------------------------------------------------------------------------------
+[Mercury_7181668] [LIFE_REPROD_SEXASEX_SEX]
+Daffodils are plants that can perform both asexual and sexual reproduction. How does a daffodil population benefit more by reproducing sexually than asexually?
+(A) It can reproduce more rapidly.
+(B) It can adapt faster to its environment.
+(C) It can increase the diversity of inherited traits.
+(D) It can eliminate unfavorable traits from the gene pool.
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg14] [LIFE_REPROD_SEXASEX_SEX]
+Why would male insects be treated to prevent sperm production?
+(A) To increase the number of female insects
+(B) To reduce the total population of insects
+(C) To produce new species of insects
+(D) To prevent insects from mating
+----------------------------------------------------------------------------------------------
+[Mercury_7107433] [LIFE_REPROD_SEXASEX_SEX]
+Plants can reproduce sexually and asexually. If one offspring is produced sexually while the other is produced asexually, what will only the sexually produced offspring have?
+(A) both inherited and acquired traits
+(B) a new combination of traits
+(C) beneficial genetic traits
+(D) a complete set of traits
+----------------------------------------------------------------------------------------------
+[MSA_2015_8_26] [LIFE_REPROD_SEXASEX_SEX]
+Fruit flies reproduce by sexual reproduction. What percent of genes does a fertilized egg of a fruit fly receive from one parent?
+(A) 25%
+(B) 50%
+(C) 75%
+(D) 100%
+----------------------------------------------------------------------------------------------
+[Mercury_7099103] [LIFE_REPROD_SEXASEX_SEX, LIFE_REPROD_SEXASEX_ASEX]
+Wild blackberries reproduce asexually by sprouting new roots when stems touch the ground. They also reproduce sexually through their flowers. What is the advantage of the blackberry plant being able to reproduce sexually and asexually?
+(A) It allows the plants to grow taller.
+(B) It produces flowers that attract insects.
+(C) It produces blackberries that have more flavor.
+(D) It allows blackberry plants to adapt to new conditions.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_413533] [MAT_CHANGES_CHEMICAL]
+Which example shows a new substance being formed?
+(A) a candle burning
+(B) a shoelace being tied
+(C) a pipe being cut in half
+(D) a block of ice melting
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10674] [MAT_CHANGES_CHEMICAL]
+Which of the following is an example of a chemical change?
+(A) clouds forming
+(B) sugar dissolving
+(C) water freezing
+(D) a candle burning
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408290] [MAT_CHANGES_CHEMICAL]
+Kim lost her hammer outside. When she found it a few months later, some parts of the metal were covered with flaky, brown rust. Which type of change occurred when rust formed on the hammer?
+(A) chemical
+(B) electrical
+(C) thermal
+(D) physical
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10782] [MAT_CHANGES_CHEMICAL]
+Physical and chemical properties can be used to classify substances. Which of these shows a chemical property?
+(A) Silver melts.
+(B) Magnesium burns.
+(C) Sulfur is a yellow solid.
+(D) Aluminum conducts heat.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10656] [MAT_CHANGES_CHEMICAL]
+Which results in a chemical change?
+(A) A student smells a flower.
+(B) A teacher lights a candle.
+(C) A student colors a paper blue.
+(D) A teacher feels a rough cloth.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407066] [MAT_CHANGES_CHEMICAL]
+Which action causes a chemical change?
+(A) leaves dropping from a tree
+(B) leaves blowing in the wind
+(C) leaves being burned in a fire
+(D) leaves being crushed into pieces
+----------------------------------------------------------------------------------------------
+[Mercury_SC_412698] [MAT_CHANGES_CHEMICAL]
+One type of cold remedy is an effervescent tablet that breaks down in water. When the tablet is placed in water, it forms gas bubbles. In this example, the formation of a gas
+(A) is a physical property.
+(B) occurs when adding water to acid.
+(C) is a sign of a chemical change.
+(D) occurs when the water boils.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_5] [MAT_CHANGES_CHEMICAL]
+Which is an example of a different substance being formed?
+(A) glass breaking
+(B) metal melting
+(C) water freezing
+(D) wood burning

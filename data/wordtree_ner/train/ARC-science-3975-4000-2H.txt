@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[MDSA_2007_8_16] [SCI_INFERENCE_BIAS]
+Scientists perform experiments to test hypotheses. How do scientists try to remain objective during experiments?
+(A) Scientists analyze all results.
+(B) Scientists use safety precautions.
+(C) Scientists conduct experiments once.
+(D) Scientists change at least two variables.
+----------------------------------------------------------------------------------------------
+[Mercury_192133] [SCI_INFERENCE_BIAS]
+A recent scientific study funded by a medical corporation concluded that its product is not as harmful as consumers have reported. Identify a possible problem with this study.
+(A) Corporate scientists have less training than other scientists.
+(B) The results of the study may be influenced by bias.
+(C) Privately funded science is not verified by other scientists.
+(D) The study cannot be repeated with the same results.
+----------------------------------------------------------------------------------------------
+[Mercury_7108640] [SCI_INFERENCE_BIAS]
+A scientist investigated the effect of workplace stress on heart disease in humans. Men of various ages were divided into two groups based on whether they described their work as very stressful or not very stressful. During the one year investigation the scientist monitored the heart health of each man. What was the bias in this investigation?
+(A) The investigation only lasted one year.
+(B) The only organ studied was the heart.
+(C) The investigation tested only men.
+(D) The age of the participants varied.
+----------------------------------------------------------------------------------------------
+[Mercury_7121783] [SCI_INFERENCE_BIAS, SCI_INFERENCE_VERIF]
+What should a scientist do to help make sure the results of an experiment are unbiased?
+(A) Keep the results a secret.
+(B) Do the math without a calculator.
+(C) Change all of the variables in the experiment.
+(D) Ask other scientists to attempt to reproduce the results.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_30] [SCI_INFERENCE_EXPDESIGN]
+Students want to find out at which temperature bean plants grow tallest. Which science process skill would be used to find this temperature?
+(A) inferring
+(B) predicting
+(C) measuring
+(D) classifying
+----------------------------------------------------------------------------------------------
+[LEAP_2011_4_10298] [SCI_INFERENCE_EXPDESIGN]
+Joann is testing soils to see which kind is best for growing marigolds. Which of the following should she do?
+(A) Plant the marigolds in the same soil, but water some plants more than others.
+(B) Plant the marigolds in one kind of soil, radishes in another, and daisies in a third kind.
+(C) Plant the marigolds three kinds of soil, and give them different amounts of sun.
+(D) Plant the marigolds in three kinds of soil, and give them the same amounts of water and sun.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_36] [SCI_INFERENCE_EXPDESIGN]
+A person catches and measures a large fish called a halibut. She thinks that this halibut is above average in size. To help support her thinking, it would be most helpful to measure
+(A) many types of fish.
+(B) many fish of the same type.
+(C) fish from the same location.
+(D) fish during a different season.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_4_22] [SCI_INFERENCE_EXPDESIGN]
+A student puts two identical plants in the same type and amount of soil. She gives them the same amount of water. She puts one of these plants near a sunny window and the other in a dark room. This experiment tests how the plants respond to
+(A) light
+(B) air
+(C) water
+(D) soil
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_4_17] [SCI_INFERENCE_EXPDESIGN]
+After observing several dogs running, students ask the following question: Do dogs with long hair run faster than dogs with short hair? How can the students best answer their question?
+(A) record the weights and heights of many dogs
+(B) measure the speeds and hair lengths of many dogs
+(C) research to find the type of dog with the longest hair
+(D) race one long-haired dog against one short-haired dog
+----------------------------------------------------------------------------------------------
+[MDSA_2007_5_9] [SCI_INFERENCE_EXPDESIGN]
+A student boils 100 grams of water to form water vapor (gas). What method should the student use to determine that the mass of the water vapor is equal to 100 grams?
+(A) measuring the amount of water vapor (gas) in the air
+(B) collecting the water vapor (gas) and cooling it back to a liquid
+(C) weighing the beaker before and after the water is boiled
+(D) comparing the temperature of the boiling water to the temperature of the water vapor (gas)
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401647] [SCI_INFERENCE_EXPDESIGN]
+A scientist plans a project to determine the effect of rain on the formation of caves. An area of rock has been chosen as the site for the investigation. How often should the scientist measure the changes in the rock?
+(A) every day
+(B) every week
+(C) every month
+(D) every year
+----------------------------------------------------------------------------------------------
+[MDSA_2007_5_58] [SCI_INFERENCE_EXPDESIGN]
+A student is investigating which type of soil is best for growing tomato plants from seeds. The student plants four tomato seeds in each of three different containers of soil. Which step of the procedure would help the student get the most reliable results?
+(A) Place one container in a dark room.
+(B) Use different types of tomato seeds.
+(C) Change only the soil type in each container.
+(D) Water each container with a different amount of water.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408447] [SCI_INFERENCE_EXPDESIGN]
+As Archie walks to the park, he wonders which route would be faster. He decides to walk to the park using different routes and times how long it takes. Which should he do to make his comparison fair?
+(A) walk to different parts of the park each day
+(B) walk with a different friend each day
+(C) walk at the same speed each day
+(D) walk at the same time of the day
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407594] [SCI_INFERENCE_EXPDESIGN]
+A class is testing the effect of exercise on heart rate. The heart rate of two students before exercise is compared to their heart rate after running around a track. Which procedure will most likely help the class correctly compare the results of the two students?
+(A) test students who are the same height
+(B) have the students run on the same day
+(C) measure the distance each student runs
+(D) have the students run for the same amount of time

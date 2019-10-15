@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_4_24] [ENG_CONV_CONV, ENG_DEVICES]
+When a person speaks into a telephone, sound energy is changed mostly into which form of energy?
+(A) heat
+(B) light
+(C) electrical
+(D) chemical
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400155] [ENG_CONV_CONV, ENG_DEVICES]
+Which type of energy conversion occurs in a flashlight?
+(A) chemical to light
+(B) mechanical to light
+(C) electrical to chemical
+(D) mechanical to chemical
+----------------------------------------------------------------------------------------------
+[CSZ10278] [ENG_CONV_CONV, ENG_DEVICES]
+Which of the following converts electrical energy into motion?
+(A) light switch
+(B) electric stove
+(C) light bulb
+(D) electric fan
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_7] [ENG_CONV_CONV, ENG_DEVICES]
+Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?
+(A) electrical -> light -> chemical
+(B) electrical -> chemical -> light
+(C) chemical -> light -> electrical
+(D) chemical -> electrical -> light
+----------------------------------------------------------------------------------------------
+[Mercury_7014193] [ENG_CONV_CONV, ENG_DEVICES]
+In order to produce light, the atoms inside a light bulb transform electrical energy into
+(A) kinetic energy.
+(B) electromagnetic radiation.
+(C) chemical energy.
+(D) heat energy.
+----------------------------------------------------------------------------------------------
+[TIMSS_2011_8_pg130] [ENG_CONV_CONV, ENG_DEVICES]
+Which of the following energy conversions takes place in a battery-operated flashlight?
+(A) electrical -> mechanical -> light
+(B) chemical -> mechanical -> light
+(C) chemical -> electrical -> light
+(D) nuclear -> electrical -> light
+----------------------------------------------------------------------------------------------
+[MCAS_2003_8_3] [ENG_CONV_CONV, ENG_DEVICES]
+What energy transformation occurs when an electric lamp is turned on?
+(A) electrical energy to light and heat energy
+(B) light energy to electrical and mechanical energy
+(C) heat energy to electrical and light energy
+(D) electrical energy to mechanical and heat energy
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10785] [ENG_CONV_CONV, ENG_DEVICES]
+What energy change takes place when a piece of bread is toasted in a toaster?
+(A) chemical energy to light energy
+(B) electrical energy to heat energy
+(C) heat energy to chemical energy
+(D) light energy to electrical energy
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401591] [ENG_CONV_CONV, ENG_ELEC_GENERATE, ENG_DEVICES]
+Solar cells absorb energy from the sun. In order to use this energy to power household appliances, solar cells must convert the absorbed energy to
+(A) heat.
+(B) light.
+(C) radiation.
+(D) electricity.
+----------------------------------------------------------------------------------------------
+[Mercury_7082828] [ENG_CONV_CONV, ENG_ELEC_GENERATE, ENG_DEVICES]
+Which of these processes is a conversion made by solar panels?
+(A) mechanical energy to nuclear energy
+(B) thermal energy to chemical energy
+(C) kinetic energy to potential energy
+(D) radiant energy to electrical energy
+----------------------------------------------------------------------------------------------
+[Mercury_7162645] [ENG_CONV_CONV, ENG_FORMS_MECH]
+A hurricane is a heat engine which converts one kind of energy into another. Hurricanes convert most of the heat energy into
+(A) chemical energy.
+(B) electrical energy.
+(C) mechanical energy.
+(D) potential energy.

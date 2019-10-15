@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg98] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST]
+In humans, where does the absorption of food into the blood stream mainly take place?
+(A) stomach
+(B) mouth
+(C) large intestines
+(D) small intestines
+----------------------------------------------------------------------------------------------
+[NAEP_2005_8_S11+14] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST]
+A human CANNOT survive the loss of which of the following?
+(A) The appendix
+(B) The liver
+(C) A lung
+(D) A kidney
+----------------------------------------------------------------------------------------------
+[Mercury_7163940] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST]
+During digestion, strong acids are added to food to help break down the food chemically. Into which organ are most of these acids added?
+(A) small intestine
+(B) large intestine
+(C) gallbladder
+(D) stomach
+----------------------------------------------------------------------------------------------
+[Mercury_7241273] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST]
+Which enzyme acts first in response to the ingestion of a hamburger patty?
+(A) amylase in the mouth
+(B) pepsin in the stomach
+(C) lipase in the small intestine
+(D) trypsin in the small intestine
+----------------------------------------------------------------------------------------------
+[Mercury_7172218] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST]
+After Audrey drinks a glass of juice, digestive processes deliver glucose to the bloodstream. From the bloodstream, glucose molecules enter the cell. In order for glucose molecules to be used by the cell, glucose-specific enzymes must do what?
+(A) bind glucose molecules to each other
+(B) evaluate the energy content of the glucose
+(C) catalyze a chemical reaction with the glucose
+(D) transport the glucose molecules to the nucleus
+----------------------------------------------------------------------------------------------
+[Mercury_7156800] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST]
+Peptide bonds in proteins can be broken down by the enzyme peptidase. Adrian orders a hamburger and French fries for lunch. He adds cheese and mayonnaise to his hamburger, and then sits down to eat lunch with his friends. Which structure would most likely result from the action of peptidase in Adrian's small intestine?
+(A) lipid
+(B) glucose
+(C) amino acid
+(D) hydrocarbon
+----------------------------------------------------------------------------------------------
+[Mercury_7132423] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST, LIFE_FUNCT_FEATANDFUNCT_ANIM_CIRCULATORY]
+The human body is made up of organ systems that work together as one unit. Which systems work together to prepare and distribute food for cells?
+(A) digestive and circulatory
+(B) digestive and endocrine
+(C) nervous and respiratory
+(D) nervous and excretory
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_8_24] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST, LIFE_FUNCT_FEATANDFUNCT_ANIM_CIRCULATORY]
+Which statement correctly describes a relationship between two human body systems?
+(A) The digestive system absorbs nutrients which are transported by the nervous system.
+(B) The digestive system absorbs nutrients which are transported by the circulatory system.
+(C) The circulatory system exchanges gases which are transported by the nervous system.
+(D) The circulatory system exchanges gases which are transported by the digestive system.
+----------------------------------------------------------------------------------------------
+[Mercury_7014420] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST, LIFE_FUNCT_FEATANDFUNCT_ANIM_CIRCULATORY]
+The position of the liver in the circulatory system maximizes its ability to filter out harmful chemicals as soon as they enter the bloodstream. Blood travels to the liver from the
+(A) nervous system.
+(B) digestive system.
+(C) immune system.
+(D) excretory system.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416126] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST, LIFE_FUNCT_FEATANDFUNCT_ANIM_CIRCULATORY]
+Bone cells need nutrients. Which two systems get nutrients to bone cells?
+(A) the digestive system and the circulatory system
+(B) the circulatory system and the respiratory system
+(C) the respiratory system and the skeletal system
+(D) the skeletal system and the digestive system
+----------------------------------------------------------------------------------------------
+[Mercury_7004813] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST, MAT_CHANGES_CHEMICAL]
+The process of digestion breaks down proteins into smaller molecules that are used to rebuild other proteins. During digestion, proteins undergo
+(A) cell division.
+(B) nuclear reactions.
+(C) natural selection.
+(D) chemical changes.
+----------------------------------------------------------------------------------------------
+[Mercury_7245875] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST, MAT_CHANGES_CHEMICAL]
+Which example shows a chemical change to food during digestion?
+(A) teeth chewing food
+(B) enzymes breaking down food
+(C) food moving through the intestines
+(D) food churning in the stomach
+----------------------------------------------------------------------------------------------
+[Mercury_7246873] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST, MAT_CHANGES_PHYSICAL]
+Which of these indicates a physical change that occurs during the process of digestion?
+(A) the addition of acids to create a ball of food
+(B) the secretion of pepsin to change proteins to peptides
+(C) the breakdown of food substances by digestive juices
+(D) the squeezing of food through the intestines
+----------------------------------------------------------------------------------------------
+[Mercury_7154648] [LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST, SCI_INFERENCE_INFERENCE]
+Lactose intolerance is a condition of the digestive system in which an individual has an inability to digest lactose, the sugar found in milk. An individual affected with lactose intolerance does not produce enough of the enzyme lactase, which is needed to break down lactose. If more adults than children are diagnosed with lactose intolerance, what does this most likely suggest?
+(A) The production of lactase decreases over time.
+(B) The digestion of food breaks down lactase.
+(C) Lactose intolerance is an allergic reaction.
+(D) Lactose intolerance is contagious.

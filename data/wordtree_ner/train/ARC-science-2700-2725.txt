@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_4_30] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+A decomposer is an organism that
+(A) preys on other animals
+(B) eats only plants
+(C) recycles nutrients
+(D) uses sunlight to make food
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_4_25] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+A decomposer is an organism that
+(A) hunts and eats animals
+(B) migrates for the winter
+(C) breaks down dead plants and animals
+(D) uses water and sunlight to make food
+----------------------------------------------------------------------------------------------
+[MEA_2014_5_13] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+What is a source of food and growth for a mushroom?
+(A) rotting organisms
+(B) sunshine
+(C) minerals in soil
+(D) water in soil
+----------------------------------------------------------------------------------------------
+[MCAS_2005_5_29] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Which of the following was probably most important in the formation of dark, fertile soil that is good for farming?
+(A) plant decomposition
+(B) radioactive decay
+(C) water erosion
+(D) wind erosion
+----------------------------------------------------------------------------------------------
+[LEAP__5_10314] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+What is the role of decomposers in a food chain?
+(A) They consume other organisms.
+(B) They break down dead organic matter.
+(C) They use the Sun's energy to make food.
+(D) They convert inorganic matter into organic matter.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_53] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Which is an example of a decomposer?
+(A) a hawk
+(B) a mouse
+(C) a flower
+(D) a mushroom
+----------------------------------------------------------------------------------------------
+[MCAS_2008_5_5635] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Many bacteria are decomposer organisms. Which of the following statements best describes how these bacteria help make soil more fertile?
+(A) The bacteria break down water into food.
+(B) The bacteria change sunlight into minerals.
+(C) The bacteria combine with sand to form rocks.
+(D) The bacteria break down plant and animal matter.
+----------------------------------------------------------------------------------------------
+[MCAS_2015_5_4] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Which of the following statements best explains how the decomposition of plant and animal matter helps to form rich soils?
+(A) Decomposition adds silt to soil.
+(B) Decomposition adds water to soil.
+(C) Decomposition adds oxygen to soil.
+(D) Decomposition adds nutrients to soil.
+----------------------------------------------------------------------------------------------
+[Mercury_7166898] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Rolanda is growing tomato plants in her garden. She has created a compost pile and has been adding compost around her tomato plants to help fertilize them. Compost is solid waste in which organic material is broken down by microorganisms in the presence of oxygen to where it can be safely stored, handled, and applied to the environment. On what does Rolanda primarily rely in order for composting to work?
+(A) producers
+(B) consumers
+(C) scavengers
+(D) decomposers
+----------------------------------------------------------------------------------------------
+[Mercury_7188388] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Biotic components need to be recycled through an ecosystem. Which type of organisms are best able to recycle nutrients back into the ecosystem?
+(A) decomposers
+(B) predators
+(C) producers
+(D) scavengers
+----------------------------------------------------------------------------------------------
+[Mercury_7268100] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Which of these living things in a grassland ecosystem depend on the presence of a variety of bacteria and other microorganisms in the soil?
+(A) worms only
+(B) green plants only
+(C) plants and animals only
+(D) all the organisms in the ecosystem
+----------------------------------------------------------------------------------------------
+[Mercury_7142170] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Vultures are scavengers that most likely help ecosystems by quickly consuming dead organisms and
+(A) speeding up the process of decay.
+(B) taking nonliving matter from the environment.
+(C) slowing the spread of disease.
+(D) helping to distribute seeds.
+----------------------------------------------------------------------------------------------
+[Mercury_7163293] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+In a forest community, trees produce leaves that can be eaten by deer. The leaves also fall to the forest floor during autumn. Fungi break the leaves down into nutrients that enter the soil. What is the decomposer in this forest community?
+(A) the soil
+(B) the deer
+(C) the trees
+(D) the fungi
+----------------------------------------------------------------------------------------------
+[Mercury_7136080] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+An ecosystem is a community of organisms interacting with their physical environment. Why are decomposers an important part of ecosystems?
+(A) They break down dead organisms to return nutrients to the soil.
+(B) They produce their own food for survival.
+(C) They play a role in preventing weathering and erosion.
+(D) They provide most of the energy to consumers.
+----------------------------------------------------------------------------------------------
+[Mercury_7141995] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Decomposers are important to the flow of energy in an ecosystem because they
+(A) are at the top of every food chain.
+(B) eat things other organisms do not eat.
+(C) make up a large portion of the top layer of the soil.
+(D) break organic material into parts that can be reused.
+----------------------------------------------------------------------------------------------
+[MCAS_2004_8_31] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Which of the following is most responsible for the decay of dead organisms?
+(A) water
+(B) mammals
+(C) microorganisms
+(D) nitrogen
+----------------------------------------------------------------------------------------------
+[Mercury_7113908] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Which organisms use the energy from the remains of dead animals and recycle the nutrients back into the environment?
+(A) producers
+(B) herbivores
+(C) omnivores
+(D) decomposers
+----------------------------------------------------------------------------------------------
+[Mercury_7057803] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Decomposers are organisms that eat and break down dead plant and animal material. Which organism is a decomposer?
+(A) algae
+(B) moss
+(C) bacteria
+(D) fish
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_8_40] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+How do decomposers obtain their food?
+(A) hunting and killing prey for food
+(B) changing carbon dioxide and water into food
+(C) absorbing food from dead organisms
+(D) producing food from oxygen and sunlight
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_8_25] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+In the past, Native American Indians buried dead fish along with corn seeds. This technique was used because the decomposing dead fish would
+(A) provide nutrients for the growing corn plant
+(B) eliminate the need for weeding around the corn plant
+(C) release oxygen for use by the corn plant
+(D) supply all the water needed by the corn plant
+----------------------------------------------------------------------------------------------
+[TAKS_2009_8_19] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+In a healthy forest, dead trees and limbs fall to the ground and decompose. Which of these statements best describes why decomposition is important to a forest ecosystem?
+(A) Nutrients are released when wood is broken down.
+(B) Worms produce oxygen used by other organisms.
+(C) Dead trees provide nest sites for many different species of birds.
+(D) Water is stored in dead trees and limbs.
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5184] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Which of the following best describes a role of mushrooms in ecosystems?
+(A) capturing energy from sunlight
+(B) consuming living plant material
+(C) taking energy from animal hosts
+(D) breaking down dead plant material
+----------------------------------------------------------------------------------------------
+[Mercury_7038238] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+A bracket fungus grows on a dead tree and breaks it down into chemical nutrients. What term best classifies the role of a bracket fungus in this ecosystem?
+(A) producer
+(B) consumer
+(C) parasite
+(D) decomposer
+----------------------------------------------------------------------------------------------
+[FCAT_2012_8_7] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Food webs show feeding relationships among different types of organisms. Those organisms each have a specific niche. Which of the following best describes a function of decomposers in food webs?
+(A) to recycle nutrients into soil
+(B) to convert solar energy into food
+(C) to provide food for secondary consumers
+(D) to compete with secondary consumers for oxygen
+----------------------------------------------------------------------------------------------
+[MCAS_2009_8_7] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Most of the bacteria in a forest ecosystem are best classified as which of the following types of organisms?
+(A) consumers
+(B) decomposers
+(C) predators
+(D) producers

@@ -1,0 +1,174 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7207480] [MAT_PROPMATERIAL_SPECIFICHEAT]
+Which of these properties of water helps moderate the weather of coastal areas?
+(A) neutral pH
+(B) high specific heat
+(C) dissolves many substances
+(D) floats as a solid
+----------------------------------------------------------------------------------------------
+[Mercury_401504] [MAT_PROPMATERIAL_SPECIFICHEAT]
+One hundred grams of water and 100 grams of vegetable oil are heated in identical containers at 70°C for 5 minutes. Their temperatures at the end of 5 minutes are different due to the difference in which property?
+(A) volume
+(B) specific heat
+(C) conductivity
+(D) chemical energy
+----------------------------------------------------------------------------------------------
+[Mercury_7026303] [MAT_PROPMATERIAL_SPECIFICHEAT]
+A student leaves a rock in the Sun on a bright afternoon. An hour after sunset, the weather is cool, but the rock still feels warm. The student has demonstrated a property of the rock resulting directly from which of the rock's other properties?
+(A) its reactivity
+(B) its magnetism
+(C) its specific heat
+(D) its chemical energy
+----------------------------------------------------------------------------------------------
+[Mercury_7024185] [MAT_PROPMATERIAL_SPECIFICHEAT]
+A metal sample is placed into a beaker of boiling water. After two minutes the metal is removed. After 5 minutes the metal can be picked up by hand but the water is still too hot to touch. Which of these matter and energy interactions is being illustrated?
+(A) water has a low specific heat
+(B) metals have low specific heat
+(C) glass from the beaker is a good insulator
+(D) water loses its heat energy quickly to the air
+----------------------------------------------------------------------------------------------
+[MCAS_2005_9_13] [MAT_PROPMATERIAL_SPECIFICHEAT]
+A 10 g sample of aluminum and a 10 g sample of iron were each heated by 100 joules of energy. The temperature of the aluminum sample rose 11°C, while the temperature of the iron sample increased 23°C. Which statement best accounts for these results?
+(A) Iron is twice as dense as aluminum.
+(B) Atoms of aluminum are smaller than atoms of iron.
+(C) Using equal masses results in similar heat capacities.
+(D) The specific heat of iron is less than that of aluminum.
+----------------------------------------------------------------------------------------------
+[MCAS_2005_9_3] [MAT_PROPMATERIAL_SPECIFICHEAT]
+A recycling plant manager needs to melt 1500 kg of scrap copper to sell to a wire manufacturer. The copper is at 15°C and its melting point is 1083°C. The copper has a specific heat of 385 J/kg x K. How much heat is required to raise the temperature of the copper to its melting point?
+(A) 6.2 x 10^8 J
+(B) 6.3 x 10^8 J
+(C) 7.7 x 10^8 J
+(D) 7.9 x 10^8 J
+----------------------------------------------------------------------------------------------
+[Mercury_7032673] [MAT_PROPMATERIAL_SPECIFICHEAT]
+What is the term for the amount of heat per unit mass required to raise the temperature of a material by one degree Celsius?
+(A) energy
+(B) matter
+(C) temperature
+(D) specific heat capacity
+----------------------------------------------------------------------------------------------
+[Mercury_400635] [MAT_PROPMATERIAL_SPECIFICHEAT, MAT_PROPMATERIAL_THERMCOND]
+A loaf of bread is baking in a pan in a 350° F oven. What would cause a burn to a hand the quickest because of its low specific heat?
+(A) the metal pan
+(B) the air in the oven
+(C) the surface of the bread
+(D) the outside of the oven door
+----------------------------------------------------------------------------------------------
+[VASoL_2007_3_8] [MAT_PROPMATERIAL_TASTE]
+Which sense is used to tell if there is sugar in a glass of tea?
+(A) Touch
+(B) Hearing
+(C) Smell
+(D) Taste
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10605] [MAT_PROPMATERIAL_THERMCOND]
+Which of the following materials would best slow the transfer of heat?
+(A) aluminum
+(B) copper
+(C) glass
+(D) wood
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_4_pg37] [MAT_PROPMATERIAL_THERMCOND]
+Yumiko gave some reasons why kettles and kitchen pans are often made of copper. Which reason is correct?
+(A) Copper is a good conductor of heat.
+(B) Copper is easy to melt.
+(C) Copper is difficult to shape.
+(D) Copper dissolves in hot water.
+----------------------------------------------------------------------------------------------
+[MCAS_1999_4_14] [MAT_PROPMATERIAL_THERMCOND]
+Burt used a spoon to stir soup that was cooking on his stove. Which spoon will stay the coolest while he stirs?
+(A) an iron spoon
+(B) an aluminum spoon
+(C) a wooden spoon
+(D) a silver spoon
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415706] [MAT_PROPMATERIAL_THERMCOND]
+An engineer can choose from four different materials to make a heat-resistant handle for a stirring spoon. Which material is least likely to get hot when the spoon is placed in boiling water?
+(A) Ceramic
+(B) Wood
+(C) Glass
+(D) Iron
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400660] [MAT_PROPMATERIAL_THERMCOND]
+Down feathers are used by many sleeping bag manufacturers because down feathers are
+(A) fire resistant.
+(B) comfortable padding.
+(C) good insulators.
+(D) water resistant.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400696] [MAT_PROPMATERIAL_THERMCOND]
+What best explains why some cooking pans have rubber handles?
+(A) The rubber in the handles is easy to hold.
+(B) The rubber in the handles is a good insulator.
+(C) The rubber in the handles keeps the food in the pan hot.
+(D) The rubber in the handles keeps the metal in the pan cool.
+----------------------------------------------------------------------------------------------
+[TAKS_2009_8_23] [MAT_PROPMATERIAL_THERMCOND]
+Two students make hot chocolate. One student pours the hot chocolate into a foam cup. The other student pours the hot chocolate into a metal cup. The metal cup becomes too hot to touch, but the foam cup can be held comfortably. The best explanation for this difference in temperature is that the foam cup-- A heats up much faster than the metal cup
+(A) has a higher specific heat than the metal cup
+(B) is a better conductor of heat than the metal cup
+(C) has a specific heat that is similar to that of the metal cup
+----------------------------------------------------------------------------------------------
+[Mercury_7011095] [MAT_PROPMATERIAL_THERMCOND]
+Which physical property is important to have in a material used in cookware?
+(A) poor conductor of heat
+(B) good conductor of heat
+(C) low flexibility
+(D) high flexibility
+----------------------------------------------------------------------------------------------
+[Mercury_7038868] [MAT_PROPMATERIAL_THERMCOND]
+Ice water is poured into four cups made of different materials. The cup made of which material will be the coldest to touch after one minute?
+(A) foam
+(B) glass
+(C) metal
+(D) plastic
+----------------------------------------------------------------------------------------------
+[MDSA_2011_4_36] [MAT_PROPMATERIAL_THERMCOND]
+A teacher carefully places some objects into very hot water. After one minute, which item is most likely too hot to touch?
+(A) a cloth napkin
+(B) a metal spoon
+(C) a plastic pencil
+(D) a wooden stick
+----------------------------------------------------------------------------------------------
+[MCAS_2004_5_12] [MAT_PROPMATERIAL_THERMCOND]
+In Colonial America, people used ice to help keep foods fresh. They cut the ice from lakes and ponds during the winter and stored the ice in ice houses. They sometimes used hay as an insulator to prevent the ice from melting. If you wanted to build an icehouse today, which of the following would be the best material to use as an insulator?
+(A) dried leaves
+(B) foam blocks
+(C) plastic wrap
+(D) rock salt
+----------------------------------------------------------------------------------------------
+[ACTAAP_2010_5_10] [MAT_PROPMATERIAL_TRANSPARENT]
+Sara tums on a flashlight and holds an object up to the light. How will she be able to tell if the object is opaque?
+(A) No light will shine through.
+(B) Some light will be reflected.
+(C) The light will bend at an angle.
+(D) Light will shine clearly through.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10384] [MAT_PROPO]
+Vegetables can be scientifically classified by all of these except
+(A) size.
+(B) color.
+(C) shape of plant parts.
+(D) whether they taste good.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_4_8] [MAT_PROPO]
+An object's hardness, taste, and texture are examples of
+(A) principles
+(B) stages
+(C) properties
+(D) processes
+----------------------------------------------------------------------------------------------
+[Mercury_7137060] [MAT_PROPO_DENSITY]
+Which would most likely be the characteristic of an object with a small volume and large mass?
+(A) high density
+(B) low pressure
+(C) low viscosity
+(D) high temperature
+----------------------------------------------------------------------------------------------
+[MEAP_2005_8_34] [MAT_PROPO_DENSITY]
+A snowball is made the exact size of a golf ball. Both the golf ball and the snowball are dropped from the same height onto a concrete sidewalk. The snowball breaks, but the golf ball bounces. Which of the following best describes a reason for the difference in reaction of the two balls?
+(A) The snowball is colder than the golf ball.
+(B) The snowball is less dense then the golf ball.
+(C) The effects of friction are greater on the golf ball.
+(D) The effects of Earth's gravity are greater on the snowball.

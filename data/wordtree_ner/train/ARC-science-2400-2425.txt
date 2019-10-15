@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_416647] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which protist is a bi-flagellate autotroph?
+(A) amoeba
+(B) euglena
+(C) paramecium
+(D) volvox
+----------------------------------------------------------------------------------------------
+[Mercury_416582] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which characteristic does a paramecium have in common with volvox?
+(A) able to produce gametes
+(B) can perform photosynthesis
+(C) has an organelle for movement
+(D) lives as one of a colony of cells
+----------------------------------------------------------------------------------------------
+[Mercury_416462] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which characteristic can an amoeba change that a paramecium cannot change?
+(A) sex
+(B) shape
+(C) color
+(D) position
+----------------------------------------------------------------------------------------------
+[Mercury_7075198] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+When a multicellular organism is damaged, it will repair itself as
+(A) it mutates.
+(B) the cells work together.
+(C) the cells move.
+(D) it makes its own food.
+----------------------------------------------------------------------------------------------
+[Mercury_416644] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which characteristic of a volvox colony makes it more like a multicellular organism than a simple cluster of unicellular organisms?
+(A) The cells in the colony respond to stimuli separately.
+(B) The cells in the colony are arranged in a specific shape.
+(C) Some cells in the colony are specialized for reproduction.
+(D) Cells in the colony are connected by strands of cytoplasm.
+----------------------------------------------------------------------------------------------
+[Mercury_416635] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Sam was listing the differences between a euglena and a paramecium. Which characteristic should not be on Sam's list?
+(A) only the euglena can respond to light
+(B) only the euglena have a definite shape
+(C) only the euglena use a flagellum to move
+(D) only the euglena can make their own food
+----------------------------------------------------------------------------------------------
+[Mercury_416463] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Oscar and Andre used a microscope to observe a sample of pond water and drew an example of each type of organism they saw. Then they compared their drawings. They discovered that their drawings of a euglena and a paramecium were alike, but their amoeba drawings had very different shapes. What are two things that Oscar's amoeba could have been doing that made his drawing look different from Andre's?
+(A) eating and moving
+(B) moving and digesting
+(C) digesting and excreting
+(D) excreting and eating
+----------------------------------------------------------------------------------------------
+[Mercury_7071558] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which of the following is a typical example of a unicellular organism?
+(A) earthworm
+(B) bacteria
+(C) fungi
+(D) green algae
+----------------------------------------------------------------------------------------------
+[Mercury_7071540] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+An organism, such as a nematode worm, may have only 1000 cells. It should be classified as being
+(A) a virus.
+(B) a bacteria.
+(C) unicellular.
+(D) multicellular.
+----------------------------------------------------------------------------------------------
+[MEA_2016_8_14] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which statement best compares single-celled and multi-celled organisms?
+(A) Tissues in a single-celled organism are like the cells in a multi-celled organism.
+(B) The nucleus in a single-celled organism is like the skin of a multi-celled organism.
+(C) Organelles in a single-celled organism are like the organs in a multi-celled organism.
+(D) The cytoplasm in a single-celled organism is like the nervous system in a multi-celled organism.
+----------------------------------------------------------------------------------------------
+[Mercury_7097615] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Fossil records indicate that Earth was first inhabited by bacteria-like organisms. These organisms
+(A) were single-celled.
+(B) had organ systems.
+(C) were multi-cellular.
+(D) had small appendages.
+----------------------------------------------------------------------------------------------
+[Mercury_7068968] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which of these is an organism that is unicellular?
+(A) virus
+(B) amoeba
+(C) mushroom
+(D) ant
+----------------------------------------------------------------------------------------------
+[Mercury_7239610] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which structure does a virus have in common with a prokaryotic cell?
+(A) cell wall
+(B) nucleic acid
+(C) ribosome
+(D) capsid
+----------------------------------------------------------------------------------------------
+[Mercury_7227745] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which function is performed at similarly structured sites in prokaryotic and eukaryotic cells?
+(A) protein synthesis
+(B) packaging and transport of proteins
+(C) storage of genetic material
+(D) release of energy from storage forms
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_51] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+A scientist is trying to decide whether an organism is unicellular or multicellular. Which information would help the scientist most to make her decision?
+(A) size of the cells of the organism
+(B) what the organism eats
+(C) how many types of cells are in the organism
+(D) how fast the organism grows
+----------------------------------------------------------------------------------------------
+[Mercury_415263] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Which of the following is found in a eukaryotic cell but not in a prokaryotic cell?
+(A) DNA
+(B) cytoplasm
+(C) a nucleus
+(D) a cell membrane
+----------------------------------------------------------------------------------------------
+[Mercury_7084193] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+If a single-celled organism that uses photosynthesis has its source of light removed, it will
+(A) grow in size.
+(B) produce less energy.
+(C) divide repeatedly.
+(D) generate more waste.
+----------------------------------------------------------------------------------------------
+[Mercury_7141908] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Scientists found a new species of a complex organism at the bottom of the ocean. The organism most likely
+(A) is unicellular.
+(B) is a form of bacteria.
+(C) is made of multiple cells.
+(D) lacks an organized nucleus.
+----------------------------------------------------------------------------------------------
+[Mercury_7227728] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+A cell releases energy from storage molecules on the inner surface of the membrane that surrounds the cell. The location of these molecules best indicates that the cell
+(A) is part of a multicellular organism.
+(B) is prokaryotic.
+(C) performs sexual reproduction.
+(D) is eukaryotic.
+----------------------------------------------------------------------------------------------
+[Mercury_7227763] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+What activity must mRNA do in traveling from DNA to protein synthesis sites in eukaryotic cells that does not occur in prokaryotic cells?
+(A) duplicate itself
+(B) break off some of its phosphates to release energy
+(C) cross a membrane
+(D) coil into a compact crystal form
+----------------------------------------------------------------------------------------------
+[Mercury_7249970] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL]
+Organisms contain DNA. What makes prokaryotic DNA different from eukaryotic DNA?
+(A) the molecular shape
+(B) the types of bases
+(C) the sugar composition
+(D) the presence of phosphates
+----------------------------------------------------------------------------------------------
+[Mercury_7263113] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL, LIFE_FUNCT_FEATANDFUNCT_ANIM_MUSCULAR, LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL]
+In eukaryotic organisms, microtubules give cells structure, and microfilaments help the cell contract and move. Together, they combine to perform functions similar to what two human body systems?
+(A) the endocrine and skeletal systems
+(B) the circulatory and respiratory systems
+(C) the skeletal and muscular systems
+(D) the integumentary and excretory system
+----------------------------------------------------------------------------------------------
+[Mercury_416583] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_REPRODOTHER]
+Conjugation in a paramecium differs from sexual reproduction in volvox because conjugation
+(A) results in two genetically identical cells.
+(B) requires specialized gonidia cells.
+(C) forms haploid male and female gametes.
+(D) takes place between specialized cells.
+----------------------------------------------------------------------------------------------
+[Mercury_7250040] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CYTOPLCYTOSKEL]
+Cells come in two basic types, prokaryotic and eukaryotic. Which cell structure is found in both prokaryotic and eukaryotic cells?
+(A) vacuole
+(B) nucleoid
+(C) mitochondrion
+(D) cytoplasm
+----------------------------------------------------------------------------------------------
+[Mercury_7219310] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO, LIFE_REPROD_SEXASEX_SEX]
+What types of cells are found only in organisms that reproduce sexually?
+(A) blood cells
+(B) neurons
+(C) skin cells
+(D) gametes

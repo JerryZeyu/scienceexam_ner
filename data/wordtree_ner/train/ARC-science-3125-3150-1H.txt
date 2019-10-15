@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5186] [MAT_CHANGES_CHEMICAL]
+Which of the following is a characteristic of all chemical changes?
+(A) A different state of matter is produced.
+(B) Some mass is converted to energy.
+(C) Some form of light is given off.
+(D) A new material is formed.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_8_12] [MAT_CHANGES_CHEMICAL]
+Which action forms a different chemical substance?
+(A) crushing a rock
+(B) burning a piece of wood
+(C) mixing salt and pepper
+(D) melting an ice cube
+----------------------------------------------------------------------------------------------
+[Mercury_7161000] [MAT_CHANGES_CHEMICAL]
+A teacher asks her students to examine titles of four scientific articles. Which titled article is specifically about a chemical change?
+(A) How Baking Soda Reacts With Vinegar
+(B) How Rust Can Be Scraped off of Metal
+(C) How Metals Respond to Electrical Currents
+(D) How Elements Can Change Phase When Heated
+----------------------------------------------------------------------------------------------
+[Mercury_7008628] [MAT_CHANGES_CHEMICAL]
+Which of the following causes a chemical change?
+(A) sugar added to soda
+(B) detergent added to water
+(C) lemon juice added to milk
+(D) salt added to water
+----------------------------------------------------------------------------------------------
+[Mercury_7228778] [MAT_CHANGES_CHEMICAL]
+Trees use narrow tubes to transport water upward. Which property of water allows the water to rise in these narrow tubes?
+(A) high vapor pressure
+(B) high boiling point
+(C) cohesion of molecules
+(D) net charge of molecules
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406939] [MAT_CHANGES_CHEMICAL]
+Which is a way that a piece of paper can go through a chemical change?
+(A) fold the paper in half
+(B) soak the paper in water
+(C) burn the paper with fire
+(D) cut the paper with scissors
+----------------------------------------------------------------------------------------------
+[Mercury_7168753] [MAT_CHANGES_CHEMICAL]
+When a scientist performs an experiment, there are many changes that can occur. Which observation should she list as a chemical change?
+(A) The substance was heated.
+(B) The shape of the substance changed.
+(C) The volume of the substance changed.
+(D) The substance changed into a new substance.
+----------------------------------------------------------------------------------------------
+[Mercury_7245053] [MAT_CHANGES_CHEMICAL]
+Which of the following compounds is an organic compound?
+(A) water (H2O)
+(B) hexane (C6H14)
+(C) ammonia (NH3)
+(D) sulfur dioxide (SO2)
+----------------------------------------------------------------------------------------------
+[Mercury_7133858] [MAT_CHANGES_CHEMICAL]
+Matter can undergo different changes. Which best demonstrates a chemical change?
+(A) salt dissolving
+(B) wood burning
+(C) water boiling
+(D) ice melting
+----------------------------------------------------------------------------------------------
+[Mercury_403682] [MAT_CHANGES_CHEMICAL]
+Calcium carbonate (CaCO_{3}) is considered a compound because it is made up of two or more
+(A) molecules.
+(B) elements.
+(C) gases.
+(D) solids.
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg31] [MAT_CHANGES_CHEMICAL]
+Fanning can make a wood fire burn hotter because the fanning
+(A) makes the food hot enough to burn
+(B) adds more oxygen needed for burning
+(C) increases the amount of wood there is to burn
+(D) provides the energy needed to keep the fire going

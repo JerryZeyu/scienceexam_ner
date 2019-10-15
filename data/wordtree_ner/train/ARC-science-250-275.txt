@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_LBS10185] [CEL_INSTRUMENTS]
+Which of the following is visible through a reflecting telescope?
+(A) planets around other stars
+(B) black holes in deep space
+(C) moons around Jupiter
+(D) surface of Saturn
+----------------------------------------------------------------------------------------------
+[Mercury_180303] [CEL_INSTRUMENTS]
+What is necessary to use on a telescope in order to photograph solar flares and solar prominences?
+(A) a light filter
+(B) a chronograph
+(C) an electric drive
+(D) a series of mirrors
+----------------------------------------------------------------------------------------------
+[Mercury_181195] [CEL_INSTRUMENTS]
+Which of the following can only be seen with a telescope?
+(A) the moon-like phases of Venus
+(B) the phases of Earth's moon
+(C) a lunar eclipse
+(D) a solar eclipse
+----------------------------------------------------------------------------------------------
+[Mercury_402493] [CEL_INSTRUMENTS]
+In order to record the passing of a distant comet, which instruments would be the most useful?
+(A) camera, tripod, and telescope
+(B) telescope, binoculars, and camera
+(C) camera with flash attachment, and tripod
+(D) telescope with camera attachment and camera
+----------------------------------------------------------------------------------------------
+[Mercury_184310] [CEL_INSTRUMENTS]
+What advantage is gained by using radio telescopes as opposed to optical telescopes?
+(A) viewed images are clearer
+(B) operation is less complex
+(C) ability to see through clouds and dust
+(D) ability to take up less space
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400989] [CEL_INSTRUMENTS]
+A telescope would be most useful in answering which question?
+(A) How do rockets move in space?
+(B) What shape is a human skin cell?
+(C) What is on the surface of the Moon?
+(D) How do worms breathe underground?
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10923] [CEL_INSTRUMENTS, OTHER_HIST_INVENT]
+The invention of the telescope allowed which of the following to take place?
+(A) the discovery of cells
+(B) the identification of weather patterns
+(C) detailed observation of planets
+(D) communication between distant cities
+----------------------------------------------------------------------------------------------
+[Mercury_7210735] [CEL_INSTRUMENTS, SCI_INFERENCE_OBSERV]
+The Milky Way Galaxy looks like a band of light across the sky. Which observation would provide the best view of this band of light without a telescope?
+(A) observing only near the north or south pole
+(B) observing only during a lunar or solar eclipse
+(C) observing on any sunny, clear day
+(D) observing on any dark, clear night
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_4_pg70] [CEL_MOONPHASES]
+Kate sees a full moon. About how much time will go by before the next full moon?
+(A) one week
+(B) two weeks
+(C) one month
+(D) one year
+----------------------------------------------------------------------------------------------
+[Mercury_7084613] [CEL_MOONPHASES]
+When the lighted half of the Moon faces the Sun and the dark half faces Earth, the phase of the Moon viewed from Earth is called the
+(A) full moon.
+(B) new moon.
+(C) waxing moon.
+(D) waning moon.
+----------------------------------------------------------------------------------------------
+[Mercury_7043750] [CEL_MOONPHASES]
+About how often is a full moon observed from Earth's surface?
+(A) each week
+(B) once a month
+(C) every two weeks
+(D) once each leap year
+----------------------------------------------------------------------------------------------
+[MCAS_1999_8_34] [CEL_MOONPHASES]
+If a new moon occurred on June 2, when will the next new moon occur?
+(A) June 30
+(B) June 28
+(C) June 23
+(D) June 15
+----------------------------------------------------------------------------------------------
+[Mercury_7001610] [CEL_MOONPHASES]
+On February 21, a student observes that the Moon cannot be seen in the clear night sky. On what date will the student not be able to see the Moon again in the clear night sky?
+(A) February 28
+(B) March 7
+(C) March 14
+(D) March 21
+----------------------------------------------------------------------------------------------
+[Mercury_7099365] [CEL_MOONPHASES]
+Scientists know that Earth is constantly changing. They are familiar with the processes that are repeated daily, monthly, and yearly. Which of these is a natural event that can be predicted to occur monthly?
+(A) volcanic eruptions
+(B) earthquake activity
+(C) phases of the moon
+(D) precipitation amounts
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406029] [CEL_MOONPHASES]
+For a science activity, Mia had to draw a picture of the Moon each night. If Mia drew a new moon, what type of moon did Mia draw about one week later?
+(A) gibbous
+(B) full moon
+(C) new moon
+(D) first quarter
+----------------------------------------------------------------------------------------------
+[Mercury_180443] [CEL_MOONPHASES]
+Which phase of the Moon occurs after a waxing gibbous?
+(A) waning gibbous
+(B) waxing crescent
+(C) full moon
+(D) new moon
+----------------------------------------------------------------------------------------------
+[MSA_2012_8_8] [CEL_MOONPHASES, CEL_CYCLES]
+The early Greeks are credited with many valid concepts in astronomy. Some of their theories were correct; some were later proven incorrect. One theory was that Earth was the center of the universe and that other planets circled Earth. The Greeks thought Earth did not move because its movement was not obvious from the surface of the planet. The Greeks also believed that an invisible sphere surrounding our planet contained the stars. This sphere rotated, explaining the apparent movement of constellations over time. Which celestial motion is responsible for the phases of the moon?
+(A) the moon revolving around Earth
+(B) Earth revolving around the sun
+(C) the moon rotating on its axis
+(D) Earth rotating on its axis
+----------------------------------------------------------------------------------------------
+[Mercury_7057400] [CEL_MOONPHASES, CEL_ECLIPSE]
+A lunar eclipse occurs when the Moon passes through Earth's shadow. A lunar eclipse can only occur during a
+(A) full moon.
+(B) new moon.
+(C) first quarter moon.
+(D) last quarter moon.
+----------------------------------------------------------------------------------------------
+[Mercury_7197383] [CEL_MOONPHASES, CEL_ECLIPSE]
+The moon goes through phases as it revolves around Earth. During which phase of the moon would it be possible for a solar eclipse to occur?
+(A) new moon
+(B) full moon
+(C) waning
+(D) waxing
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415490] [CEL_ORBIT]
+Which term describes Earth's orbit around the Sun?
+(A) day
+(B) revolution
+(C) month
+(D) rotation
+----------------------------------------------------------------------------------------------
+[Mercury_402066] [CEL_ORBIT]
+Planets remain in orbit around the Sun because of
+(A) gravity.
+(B) friction.
+(C) solar energy.
+(D) centrifugal force.
+----------------------------------------------------------------------------------------------
+[Mercury_401315] [CEL_ORBIT]
+What keeps Mars in orbit around the Sun?
+(A) friction
+(B) gravity
+(C) magnetism
+(D) solar power
+----------------------------------------------------------------------------------------------
+[Mercury_400613] [CEL_ORBIT]
+Why do planets stay in orbit around the Sun?
+(A) attraction of gravity
+(B) effect of inertia
+(C) frictional force
+(D) rotational force
+----------------------------------------------------------------------------------------------
+[Mercury_401657] [CEL_ORBIT]
+Which characteristic is shared by Earth and the Moon?
+(A) glaciers
+(B) flowing water
+(C) an atmosphere that contains oxygen
+(D) an orbit created by the force of gravity
+----------------------------------------------------------------------------------------------
+[MCAS_2006_8_35] [CEL_ORBIT]
+The Moon orbits Earth at a speed of approximately one kilometer per second. The Moon is kept in orbit by which of the following?
+(A) gravity
+(B) lunar phases
+(C) magnetism
+(D) ocean tides

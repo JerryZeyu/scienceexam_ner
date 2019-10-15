@@ -1,0 +1,174 @@
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg27] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+The burning of fossil fuels has increased the carbon dioxide content of the atmosphere. What is a possible effect that the increased amount of carbon dioxide is likely to have on our planet?
+(A) A warmer climate
+(B) A cooler climate
+(C) Lower relative humidity
+(D) More ozone in the atmosphere
+----------------------------------------------------------------------------------------------
+[LEAP__8_10367] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+This in turn causes the average temperature on Earth to rise. Which of the following observations supports that theory?
+(A) The summer of 1998 was one of the hottest summer seasons on record.
+(B) Carbon dioxide gas from cars and industry is a product of burning that produces heat.
+(C) Carbon dioxide in the upper atmosphere absorbs and re-emits heat radiated from Earth's surface.
+(D) Radiation on Earth's surface is increasing because of a hole in the ozone layers.
+----------------------------------------------------------------------------------------------
+[Mercury_7193095] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+In large industrial cities, the emissions from fossil fuels cause the atmosphere to change. Which process allows the atmosphere to change?
+(A) increased inorganic matter in soil
+(B) increased use of fertilizers on crops
+(C) increased buildup of greenhouse gases
+(D) increased rainfall rates near power plants
+----------------------------------------------------------------------------------------------
+[Mercury_7018218] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+The majority of the fresh water on Earth is frozen in glaciers and ice caps. If the climate changed around the world, causing glaciers and ice caps to melt, which situation would most likely occur?
+(A) Land would become more fertile.
+(B) Air temperatures would decrease.
+(C) Ocean water would become saltier.
+(D) Land masses would become smaller.
+----------------------------------------------------------------------------------------------
+[Mercury_7213133] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+Which of these is the most common result of greenhouse gases altering the atmosphere of Earth?
+(A) an increase in the air temperature
+(B) a decrease in the air density
+(C) an increase in the intensity of visible light
+(D) a decrease in the thickness of the ozone layer
+----------------------------------------------------------------------------------------------
+[AIMS_2009_8_9] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+Many scientists think that burning fossil fuels has increased the amount of carbon dioxide in the atmosphere. What effect would the increase of carbon dioxide most likely have on the planet?
+(A) a cooler climate
+(B) a warmer climate
+(C) lower relative humidity
+(D) more ozone in the atmosphere
+----------------------------------------------------------------------------------------------
+[Mercury_7111720] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+Scientists who have studied global climate changes have found that the average temperature of Earth has risen. There has also been an increase in the accumulation of atmospheric greenhouse gases. What is the goal of the scientific community in collecting this type of data?
+(A) to understand how greenhouse gases are related to global warming
+(B) to decrease the temperature using fossil fuels
+(C) to change public attitude on using natural resources
+(D) to increase the amount of ice in the Arctic
+----------------------------------------------------------------------------------------------
+[Mercury_7056350] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+The average temperature of the surface of Earth has increased approximately 1°C in the past century. Which reason best explains this increase in temperature?
+(A) higher levels of oxygen in the atmosphere
+(B) lower levels of ozone in the atmosphere
+(C) higher levels of carbon dioxide in the atmosphere
+(D) lower levels of nitrogen in the atmosphere
+----------------------------------------------------------------------------------------------
+[Mercury_7220378] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+Climate change may be reducing the amount of ice floating on the world's oceans. How can this change most likely alter the food supply available to marine consumer organisms?
+(A) by decreasing the amount of salt dissolved in ocean water
+(B) by increasing the water's ability to separate into distinct layers
+(C) by changing temperature conditions that single-celled producers require
+(D) by preventing organisms from responding quickly to environmental change
+----------------------------------------------------------------------------------------------
+[Mercury_7154263] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+Phytoplankton are plant-like microscopic organisms that float in bodies of water such as the ocean. They take in carbon dioxide during the process of photosynthesis. What would most likely happen if the population of phytoplankton was destroyed?
+(A) Sea temperatures would decrease.
+(B) Greenhouse gases would increase.
+(C) Atmospheric oxygen would increase.
+(D) Sea levels would drastically decrease.
+----------------------------------------------------------------------------------------------
+[Mercury_182683] [EARTH_HUMIMP_WHAT_GLOBALWARMING]
+Edith's checkerspot butterfly is a non-migratory species found in distinct populations from Canada to Mexico. Today, populations in southern regions are declining while new populations push the northern limit further north. This range shift provides evidence for the theory of
+(A) mass extinction.
+(B) global warming.
+(C) gene dominance.
+(D) natural selection.
+----------------------------------------------------------------------------------------------
+[MDSA_2010_8_39] [EARTH_HUMIMP_WHAT_GLOBALWARMING, EARTH_HUMIMP_RES_FOSSILFUEL]
+As the human population increases, more fossil fuels are being used. The burning of fossil fuels produces greenhouse gases. How might humans reduce greenhouse gases?
+(A) Buy cars that use gasoline.
+(B) Build power plants that use coal.
+(C) Use renewable resources to generate power.
+(D) Use nonrenewable resources to generate power.
+----------------------------------------------------------------------------------------------
+[LEAP__7_10350] [EARTH_HUMIMP_WHAT_GLOBALWARMING, EARTH_HUMIMP_RES_FOSSILFUEL]
+Scientists have observed an increase in global temperatures over the past 100 years. Which phenomena do scientists believe contributes to the increase in temperatures?
+(A) an increase in undersea volcanic activity
+(B) a decrease in the distance between Earth and the Sun
+(C) an increase in certain gases released during the use of fossil fuels
+(D) a decrease in the amount of water on Earth due to overconsumption
+----------------------------------------------------------------------------------------------
+[Mercury_411034] [EARTH_HUMIMP_WHAT_GLOBALWARMING, EARTH_OUTER_ATMOS]
+Which of these causes the atmosphere to change?
+(A) increased inorganic matter in soil
+(B) increased use of fertilizers on crops
+(C) increased buildup of greenhouse gases
+(D) increased rainfall rates near power plants
+----------------------------------------------------------------------------------------------
+[MSA_2015_8_1] [EARTH_HUMIMP_WHAT_GLOBALWARMING, EARTH_OUTER_HYDRO]
+Many scientists theorize that global warming will melt the polar ice caps. What would most likely happen if the polar ice caps melted?
+(A) Ocean levels would increase.
+(B) Human population would increase.
+(C) Vegetation in water would decrease.
+(D) Global precipitation would decrease.
+----------------------------------------------------------------------------------------------
+[Mercury_7245403] [EARTH_HUMIMP_WHAT_GLOBALWARMING, EARTH_OUTER_HYDRO]
+Over geologic time, global mean sea level has varied significantly. Which change is most likely responsible for an increase in global mean sea level?
+(A) erosion of sediment from a mountain range
+(B) mass extinction of marine organisms
+(C) formation of an ocean trench
+(D) melting of polar ice caps
+----------------------------------------------------------------------------------------------
+[VASoL_2007_3_6] [EARTH_HUMIMP_WHAT_HABITATDEST]
+A wetland habitat can continue to support the birds and fish that live there if people ___.
+(A) drain the water away
+(B) flood the highest parts of the land
+(C) leave the land alone
+(D) use the land for planting crops
+----------------------------------------------------------------------------------------------
+[VASoL_2010_3_29] [EARTH_HUMIMP_WHAT_HABITATDEST]
+People can help keep a forest a good place for birds to live by
+(A) dumping garbage in a small part of the forest
+(B) building a road through the middle of the forest
+(C) burning dead trees to make smoke in the air
+(D) preventing too many trees from being cut down
+----------------------------------------------------------------------------------------------
+[VASoL_2007_3_31] [EARTH_HUMIMP_WHAT_HABITATDEST]
+If a wooded area is cleared and corn is planted, what will MOST likely happen?
+(A) Animal habitats will be destroyed.
+(B) The air will become polluted.
+(C) Weather patterns will change.
+(D) Underground streams will get polluted.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2016_4_10] [EARTH_HUMIMP_WHAT_HABITATDEST]
+Some birds live in a forest. If many of the trees in the forest are cut down, the shelter for the birds will
+(A) decrease
+(B) increase
+(C) remain the same
+----------------------------------------------------------------------------------------------
+[VASoL_2009_5_21] [EARTH_HUMIMP_WHAT_HABITATDEST]
+Which of these is most likely harmful to an ecosystem?
+(A) Building new homes in a wetland
+(B) Taking away airplanes from an airport
+(C) Planting trees in an orchard
+(D) Adding floors to an office building
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407194] [EARTH_HUMIMP_WHAT_HABITATDEST]
+Which of these is the most likely effect of cutting down large numbers of trees?
+(A) loss of habitat for animals
+(B) increase in oxygen in the air
+(C) lower pollution levels
+(D) decrease in soil erosion
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_54] [EARTH_HUMIMP_WHAT_HABITATDEST]
+As more people have moved to the beach, the sea turtle population has decreased. Which is most likely the cause of this decrease?
+(A) tropical storms
+(B) increase in predators
+(C) habitat loss
+(D) warmer temperatures
+----------------------------------------------------------------------------------------------
+[MDSA_2008_5_38] [EARTH_HUMIMP_WHAT_HABITATDEST]
+The snowshoe hare was once common in Maryland. In 1986, researchers in the state noted that the snowshoe hare was no longer found in Maryland. Which statement best explains why the snowshoe hare is no longer found in Maryland?
+(A) Water quality has improved.
+(B) There are too many trees.
+(C) The temperature is too cold.
+(D) Housing developments have replaced fields.
+----------------------------------------------------------------------------------------------
+[Mercury_7093993] [EARTH_HUMIMP_WHAT_HABITATDEST]
+The building of a dam will most likely
+(A) prevent water pollution.
+(B) destroy habitat for many animal species.
+(C) allow fish to more easily swim up river.
+(D) cause people to consume more water.

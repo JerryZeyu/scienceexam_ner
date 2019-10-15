@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_413130] [MAT_PROPMATERIAL_DUR]
+Which natural material is best for making a table?
+(A) cotton that is lightweight
+(B) leather that can twist
+(C) paper that can tear
+(D) wood that is sturdy
+----------------------------------------------------------------------------------------------
+[MCAS_2010_5_11983] [MAT_PROPMATERIAL_DUR]
+Skyler is selecting the kind of paper he wants to use to make a greeting card. He wants to select paper that does not tear easily. Which of the following features of the paper is most important for Skyler to consider?
+(A) color
+(B) size
+(C) smoothness
+(D) thickness
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407699] [MAT_PROPMATERIAL_DUR]
+A company that makes fences started using a new material instead of wood. The new material will last longer than wood. What is the most likely benefit of the new material?
+(A) The new material will keep people safe.
+(B) The new material will keep pets contained.
+(C) The new material can make a yard attractive.
+(D) The new material can save money on replacements.
+----------------------------------------------------------------------------------------------
+[MCAS_2008_5_5625] [MAT_PROPMATERIAL_DUR]
+Michael has a pencil case made of pine wood. The surface of the pencil case scratches and dents easily. He wants to make a new pencil case that will not scratch or dent easily. Which of the following should Michael do to make a new pencil case that will not scratch or dent easily?
+(A) make the pencil case a different size
+(B) use a different material to make the pencil case
+(C) make the pencil case from another piece of pine wood
+(D) use a thicker piece of pine wood to make the pencil case
+----------------------------------------------------------------------------------------------
+[MCAS_2003_5_21] [MAT_PROPMATERIAL_DUR, MAT_COS_MELTING]
+Which of the following is least likely to change from a solid state to a liquid state when heat is applied?
+(A) butter
+(B) paper
+(C) ice
+(D) candle wax
+----------------------------------------------------------------------------------------------
+[AIMS_2009_4_6] [MAT_PROPMATERIAL_ELECCOND]
+Alex looked at an electric toothbrush that had a plug with three metal prongs. Why are these prongs made out of metal?
+(A) Metal doesn't get hot and melt when you plug it into the outlet.
+(B) Metal is strong and is less likely to break when you plug it into the outlet.
+(C) Metal is an insulator and prevents shocks when you plug it into the outlet.
+(D) Metal is a conductor and completes a circuit when you plug it into the outlet.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10788] [MAT_PROPMATERIAL_ELECCOND]
+A child walks across a carpet and generates an electrical charge. The child will get a slight shock by touching a
+(A) metal doorknob.
+(B) plastic toy.
+(C) rubber ball.
+(D) wooden block.
+----------------------------------------------------------------------------------------------
+[MDSA_2011_4_33] [MAT_PROPMATERIAL_ELECCOND]
+Some objects conduct electricity. Which object is the best conductor of electricity?
+(A) a metal fork
+(B) a wood spoon
+(C) a plastic comb
+(D) a rubber eraser
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2004_4_6] [MAT_PROPMATERIAL_ELECCOND]
+Which object is the best conductor of electricity?
+(A) a wax crayon
+(B) a plastic spoon
+(C) a rubber eraser
+(D) an iron nail
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_4_9] [MAT_PROPMATERIAL_ELECCOND]
+Which object is the best conductor of electricity?
+(A) metal fork
+(B) rubber boot
+(C) plastic spoon
+(D) wooden bat
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401588] [MAT_PROPMATERIAL_ELECCOND]
+A student is given three identically sized blocks. Each block is made of a different material. What characteristic of the blocks should be examined to find out which block is made of metal?
+(A) color
+(B) weight
+(C) texture
+(D) conductivity
+----------------------------------------------------------------------------------------------
+[VASoL_2007_5_37] [MAT_PROPMATERIAL_ELECCOND]
+Which of these substances conducts electricity the best?
+(A) Wood
+(B) Brick
+(C) Copper
+(D) Plastic
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401156] [MAT_PROPMATERIAL_ELECCOND]
+Copper is used in house wiring because it is
+(A) magnetic.
+(B) an insulator.
+(C) an electrical conductor.
+(D) hard to bend into new shapes.
+----------------------------------------------------------------------------------------------
+[MSA_2012_5_36] [MAT_PROPMATERIAL_ELECCOND]
+Some materials are electrical conductors. Which material best conducts electricity?
+(A) copper
+(B) plastic
+(C) rubber
+(D) wood
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401184] [MAT_PROPMATERIAL_ELECCOND]
+Which feature is a physical property of copper?
+(A) insulates heat
+(B) conducts electricity
+(C) strong magnetic force
+(D) liquid at room temperature
+----------------------------------------------------------------------------------------------
+[MSA_2012_5_24] [MAT_PROPMATERIAL_ELECCOND]
+Most electrical wires are covered with plastic or rubber. The wires are covered with plastic or rubber because those materials
+(A) are conductors of electricity
+(B) make complete electric circuits
+(C) are not conductors of electricity
+(D) make the electricity move quickly
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401157] [MAT_PROPMATERIAL_ELECCOND]
+A conducting wire wrapped in plastic protects the user because the plastic
+(A) keeps the wire cool.
+(B) allows heat to move freely.
+(C) is a good electrical insulator.
+(D) has magnetic properties.
+----------------------------------------------------------------------------------------------
+[Mercury_7032655] [MAT_PROPMATERIAL_ELECCOND]
+An element with which property would be best to use in electrical wiring?
+(A) insulator
+(B) conductor
+(C) malleable
+(D) porous
+----------------------------------------------------------------------------------------------
+[CSZ20880] [MAT_PROPMATERIAL_ELECCOND]
+Which class of elements best conducts electricity?
+(A) metals
+(B) nonmetals
+(C) semimetals
+(D) noble (inert) gases
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_4_11] [MAT_PROPMATERIAL_ELECCOND]
+Which property of an object determines how well it conducts electricity?
+(A) the color of the object
+(B) the mass of the object
+(C) how fast the object sinks in water
+(D) the material that the object is made of
+----------------------------------------------------------------------------------------------
+[Mercury_7221743] [MAT_PROPMATERIAL_ELECCOND, MAT_CHEM_PERIODICTAB]
+Which of the following elements is the least electrically conductive?
+(A) sodium
+(B) tungsten
+(C) zinc
+(D) argon
+----------------------------------------------------------------------------------------------
+[Mercury_SC_412697] [MAT_PROPMATERIAL_FLAMMABLE, MAT_CHANGES_CHEMICAL]
+Which of the following is a chemical property of matter?
+(A) density
+(B) boiling point
+(C) flammability
+(D) shape
+----------------------------------------------------------------------------------------------
+[VASoL_2008_3_26] [MAT_PROPMATERIAL_FLEX]
+Which of these is MOST flexible?
+(A) Broom handle
+(B) Wooden ruler
+(C) Drinking straw
+(D) Sewing needle
+----------------------------------------------------------------------------------------------
+[MDSA_2010_4_13] [MAT_PROPMATERIAL_FLEX]
+Flexibility is a physical property of some matter. Which of these materials best demonstrates the property of flexibility?
+(A) a mirror
+(B) a pencil
+(C) a metal wire
+(D) a telephone pole
+----------------------------------------------------------------------------------------------
+[Mercury_7026268] [MAT_PROPMATERIAL_FLEX]
+Some molecules used to manufacture plastic objects are long and tangled. They straighten when force is applied to them and then return to their shorter, tangled shape. Which common object is most likely made using such molecules?
+(A) helmet shells
+(B) rubber bands
+(C) plumbing pipes
+(D) drinking cups

@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[Mercury_175648] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHLOROPLAST, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_PLANTCELL]
+Which of these could only be found inside a plant cell?
+(A) nucleus
+(B) chloroplasts
+(C) mitochondria
+(D) cytoplasm
+----------------------------------------------------------------------------------------------
+[Mercury_417467] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHLOROPLAST, LIFE_INTERDEP_FOODCHAIN_PLANTPROD]
+Which structure is found in producers in nearly all ecosystems?
+(A) stems
+(B) leaves
+(C) rhizomes
+(D) chloroplasts
+----------------------------------------------------------------------------------------------
+[Mercury_417468] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHLOROPLAST, LIFE_INTERDEP_FOODCHAIN_PLANTPROD, SCI_INFERENCE_INFERENCE]
+A student is shown a slide of cells from a species of producer in a food web. The student observes that the cells have chloroplasts. What conclusion about the food web is best supported by these findings?
+(A) The producers capture energy from sunlight.
+(B) The food web is found in a terrestrial ecosystem.
+(C) The producers in the web are single-celled organisms.
+(D) The food web contains many herbivores and omnivores.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2008_7_2] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME]
+How many chromosomes are in a human sperm cell?
+(A) 12
+(B) 23
+(C) 46
+(D) 58
+----------------------------------------------------------------------------------------------
+[Mercury_7271408] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME]
+Which of these cell parts contain instructions for the passage of traits from one generation to the next?
+(A) cell membrane
+(B) Golgi apparatus
+(C) chromosomes
+(D) endoplasmic reticulum
+----------------------------------------------------------------------------------------------
+[MCAS_8_2015_16] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME]
+A scientist is comparing two body cells of a multicellular organism. Which of the following is most likely identical?
+(A) shape of cell walls
+(B) number of mitochondria
+(C) shape of cell membranes
+(D) number of chromosomes
+----------------------------------------------------------------------------------------------
+[MCAS_2008_8_5716] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME]
+Which of the following best describes the purpose of the chromosomes in the nucleus of a cell?
+(A) to store the genetic instructions needed to specify traits
+(B) to release energy by breaking down food molecules
+(C) to transport nutrients into and out of the cell
+(D) to protect the cells from microorganisms
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_8_29] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME]
+Many cells have a nucleus that contains chromosomes. These chromosomes carry genes that are composed of
+(A) hormones
+(B) DNA molecules
+(C) minerals and water
+(D) undigested food molecules
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5183] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME]
+Which of the following best describes the number of chromosomes in a normal human liver cell?
+(A) 23 pairs of chromosomes
+(B) 46 different types of chromosomes
+(C) 46 male chromosomes and 46 female chromosomes
+(D) 23 original chromosomes and 23 duplicate chromosomes
+----------------------------------------------------------------------------------------------
+[Mercury_7200165] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME]
+Mr. Jenkins's class is studying sex chromosomes. He tells his students that the nuclei of human cells have 22 pairs of autosomes. How many sex chromosomes does the human body have?
+(A) 1
+(B) 2
+(C) 23
+(D) 46
+----------------------------------------------------------------------------------------------
+[Mercury_7228043] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME]
+The attachment of methyl radicals to genes helps regulate which property?
+(A) information genes store
+(B) mode of gene inheritance
+(C) gene expression
+(D) gene coding system

@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7183225] [EARTH_WEATHER_ERO_WEATHERING]
+In areas where limestone is present underneath the soil, continued rains can alter the limestone formation. The limestone can change to a highly porous formation that can lead to the formation of caves and sinkholes. Which process is directly responsible for changing the limestone?
+(A) compaction
+(B) erosion
+(C) faulting
+(D) weathering
+----------------------------------------------------------------------------------------------
+[Mercury_7139685] [EARTH_WEATHER_ERO_WEATHERING]
+Which process accounts for the expansion and contraction of rocks?
+(A) mechanical weathering
+(B) organic decomposition
+(C) abrasion resistance
+(D) heat conduction
+----------------------------------------------------------------------------------------------
+[Mercury_7093310] [EARTH_WEATHER_ERO_WEATHERING, EARTH_WEATHER_ERO_EROSION]
+Constructive forces build a new mountain range. How will weathering and erosion change the features of the mountain range over time?
+(A) layering the rocks
+(B) crystallizing the rocks
+(C) folding the layers of the rocks
+(D) rounding the shapes of the rocks
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_7] [EARTH_WEATHER_ERO_WEATHERING, MAT_ENVEFF_TEMP]
+Which property of water can cause a rock to break apart?
+(A) Water boiling at 100°C.
+(B) Water losing energy slowly.
+(C) Water expanding as it freezes.
+(D) Water having a high surface tension.
+----------------------------------------------------------------------------------------------
+[Mercury_7188773] [EARTH_WEATHER_ERO_WEATHERING, SCI_INFERENCE_OBSERV]
+A scientist was examining a large boulder that was covered with lichens (a combination of fungi and algae). He chipped a piece of the rock and placed it under a microscope. He observed that the surface of the rock was breaking down underneath the lichen. Which was the scientist most likely observing?
+(A) the interaction between abiotic factors
+(B) the effects of chemical weathering
+(C) the process of deposition
+(D) the effects of abrasion
+----------------------------------------------------------------------------------------------
+[Mercury_7173863] [EARTH_WEATHER_ERO, EARTH_GEO_ROCK]
+Rocks in warm and humid environments can be weathered faster than rocks in other environments. Which is most likely the next step in the rock cycle for weathered rocks?
+(A) They are cemented.
+(B) They are compacted.
+(C) They become eroded.
+(D) They become molted.
+----------------------------------------------------------------------------------------------
+[Mercury_7085208] [EARTH_WEATHER_ERO, EARTH_GEO_ROCK_SED]
+In order for boulders to become sediments, the boulders must first be
+(A) heated and melted.
+(B) weathered and eroded.
+(C) recrystallized.
+(D) buried.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415014] [EARTH_WEATHER_EXTREME]
+Which rapid changes can be caused by storms?
+(A) landslides and flooding
+(B) flooding and earthquakes
+(C) landslides and volcanoes
+(D) volcanoes and earthquakes
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415398] [EARTH_WEATHER_EXTREME]
+Where does a landslide begin?
+(A) a low hill
+(B) a plain
+(C) a mountain
+(D) a basin
+----------------------------------------------------------------------------------------------
+[VASoL_2009_3_17] [EARTH_WEATHER_EXTREME]
+Both hurricanes and tornadoes always ___.
+(A) cause flooding
+(B) are hundreds of miles wide
+(C) have high winds
+(D) produce light snow
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415472] [EARTH_WEATHER_EXTREME]
+Where would animals and plants be most affected by a flood?
+(A) low areas
+(B) high areas
+(C) warm areas
+(D) cold areas
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415027] [EARTH_WEATHER_EXTREME]
+How are droughts always different from floods?
+(A) They have different locations.
+(B) They happen in different ecosystems.
+(C) They have different amounts of water.
+(D) They happen at different times of the year.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415479] [EARTH_WEATHER_EXTREME]
+Which of these environmental changes goes on for months or years?
+(A) drought
+(B) flood
+(C) avalanche
+(D) landslide
+----------------------------------------------------------------------------------------------
+[AIMS_2008_4_8] [EARTH_WEATHER_EXTREME]
+Which natural event can dry out plants and cause wildfires?
+(A) drought
+(B) earthquake
+(C) flood
+(D) tornado
+----------------------------------------------------------------------------------------------
+[CSZ_2008_5_CSZ10022] [EARTH_WEATHER_EXTREME]
+Which of the following factors would most likely cause a hurricane to decrease in strength?
+(A) staying over a warm body of water for a long time.
+(B) increasing the number of large clouds.
+(C) moving over a continent.
+(D) moving toward tropical waters.
+----------------------------------------------------------------------------------------------
+[MDSA_2007_5_14] [EARTH_WEATHER_EXTREME]
+In 1933, a hurricane came ashore at Ocean City, Maryland. A hurricane negatively affects a coastline by
+(A) causing erosion
+(B) causing earthquakes
+(C) increasing food production
+(D) increasing the growth of grasses
+----------------------------------------------------------------------------------------------
+[Mercury_411029] [EARTH_WEATHER_EXTREME]
+In the geologic past, abiotic factors such as volcanic eruptions have had an impact on the availability of resources. How can volcanic eruptions impact the availability of resources?
+(A) by decreasing the thickness of soil
+(B) by causing more heavy rains to erode topsoil
+(C) by disrupting the sunlight from reaching producers
+(D) by causing the surface of Earth to be warmer than usual
+----------------------------------------------------------------------------------------------
+[Mercury_7115360] [EARTH_WEATHER_EXTREME]
+Which event most changes an ecosystem in a single day?
+(A) drought
+(B) succession
+(C) decomposition
+(D) wildfire
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_4] [EARTH_WEATHER_EXTREME]
+Which weather event usually includes heavy precipitation, strong winds, and surface air temperatures below 0°C?
+(A) blizzard
+(B) hurricane
+(C) thunderstorm
+(D) tornado
+----------------------------------------------------------------------------------------------
+[Mercury_7251090] [EARTH_WEATHER_EXTREME]
+Which of these makes it possible for hurricanes to form?
+(A) water depth
+(B) water clarity
+(C) water salinity
+(D) water temperature
+----------------------------------------------------------------------------------------------
+[Mercury_7251073] [EARTH_WEATHER_EXTREME]
+Which of these is the main contributor to the formation of hurricanes?
+(A) high barometric pressure
+(B) warm ocean air
+(C) calm ocean surface
+(D) dense surface air
+----------------------------------------------------------------------------------------------
+[Mercury_7094693] [EARTH_WEATHER_EXTREME]
+Which most likely contributes to the rotational pattern of a hurricane that develops in the Atlantic Ocean?
+(A) Gulf Stream
+(B) Coriolis effect
+(C) low relative humidity
+(D) high-pressure systems
+----------------------------------------------------------------------------------------------
+[Mercury_7172130] [EARTH_WEATHER_EXTREME]
+Meteorologists categorize hurricanes based on the Saffir-Simpson scale. The scale measures the intensity and destructive potential of hurricanes. Which factor has the most significant effect on the strength of a hurricane?
+(A) the initial speed of a hurricane
+(B) the direction that the hurricane rotates
+(C) the number of hurricanes that form in a year
+(D) the temperature of the water below the hurricane
+----------------------------------------------------------------------------------------------
+[Mercury_7103565] [EARTH_WEATHER_EXTREME]
+High-pressure systems stop air from rising into the colder regions of the atmosphere where water can condense. What will most likely result if a high-pressure system remains in an area for a long period of time?
+(A) fog
+(B) rain
+(C) drought
+(D) tornado
+----------------------------------------------------------------------------------------------
+[Mercury_184013] [EARTH_WEATHER_EXTREME]
+Which of the following would be the least destructive to the land?
+(A) a magnitude 7.2 earthquake
+(B) a tropical storm surge
+(C) an electrical storm
+(D) a volcanic eruption

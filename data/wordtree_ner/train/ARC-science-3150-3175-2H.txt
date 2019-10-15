@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7133648] [MAT_CHANGES_PHYSICAL, MAT_COS_MELTING]
+Which task in the kitchen is an example of a physical change?
+(A) frying an egg
+(B) baking a cake
+(C) melting butter
+(D) toasting bread
+----------------------------------------------------------------------------------------------
+[Mercury_7205993] [MAT_CHANGES_PHYSICAL, MAT_PROPMATERIAL_SOLUBILITY]
+Which property of water allows it to dissolve many different substances?
+(A) It is a polar molecule.
+(B) It contains hydrogen atoms.
+(C) It has a high melting point.
+(D) It has a low density.
+----------------------------------------------------------------------------------------------
+[Mercury_7221865] [MAT_CHANGES_PHYSICAL, MAT_PROPO_MASS]
+A group of students observed the formation of bubbles when water boiled. What happened to matter because of the physical change to the water?
+(A) New matter was created in the bubbles.
+(B) Old matter was destroyed as the water turned to gas.
+(C) Matter was conserved when it changed form.
+(D) The composition of the matter changed.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_4_11] [MAT_CHANGES_PHYSICAL, MAT_PROPO_SHAPE]
+A student crumples up a sheet of paper. Which property of the paper has changed?
+(A) color
+(B) mass
+(C) state
+(D) shape
+----------------------------------------------------------------------------------------------
+[Mercury_7071838] [MAT_CHANGES_PHYSICAL, MAT_STATES_SOLID]
+Which term is used to describe a physical property of a mineral?
+(A) organic
+(B) solid
+(C) gaseous
+(D) fossiliferous
+----------------------------------------------------------------------------------------------
+[Mercury_7222250] [MAT_CHEM_ACIDSBASES]
+What is the process called when an acid and a base combine to produce water and salt?
+(A) neutralization
+(B) dilution
+(C) titration
+(D) physical reaction
+----------------------------------------------------------------------------------------------
+[MCAS_1998_8_9] [MAT_CHEM_ACIDSBASES]
+Lemon juice turns litmus paper red, is corrosive and tastes sour. Lemon juice is classified as
+(A) an acid.
+(B) a base.
+(C) an element.
+(D) More information is needed to classify lemon juice.
+----------------------------------------------------------------------------------------------
+[Mercury_412775] [MAT_CHEM_ACIDSBASES]
+A solution with a pH of 2 can be increased to a pH above 7 by adding
+(A) an acid.
+(B) water.
+(C) a base.
+(D) hydrogen.
+----------------------------------------------------------------------------------------------
+[Mercury_7082775] [MAT_CHEM_ATOMIC]
+Which part of the atom has a negative charge?
+(A) neutron
+(B) nucleus
+(C) electron
+(D) proton
+----------------------------------------------------------------------------------------------
+[Mercury_7164500] [MAT_CHEM_ATOMIC]
+A teacher is performing a demonstration about static electricity for his class by rubbing a balloon against a wool sweater. The balloon sticks to the wool sweater. Which particles are exchanged during the demonstration?
+(A) atoms
+(B) protons
+(C) neutrons
+(D) electrons
+----------------------------------------------------------------------------------------------
+[Mercury_7132003] [MAT_CHEM_ATOMIC]
+Where is most of the mass of the atom located?
+(A) in the protons
+(B) in the nucleus
+(C) in the neutrons
+(D) in the electrons
+----------------------------------------------------------------------------------------------
+[Mercury_402211] [MAT_CHEM_ATOMIC]
+A potassium (K) atom has 20 neutrons, 19 protons and 19 electrons. What is the atomic mass of potassium?
+(A) 19
+(B) 20
+(C) 38
+(D) 39
+----------------------------------------------------------------------------------------------
+[Mercury_7213360] [MAT_CHEM_ATOMIC]
+As a sample of mercury changes state from liquid to solid, the atoms of the sample
+(A) move closer together and have less kinetic energy.
+(B) move closer together and have more kinetic energy.
+(C) move farther apart and have less kinetic energy.
+(D) move farther apart and have more kinetic energy.
+----------------------------------------------------------------------------------------------
+[Mercury_7017063] [MAT_CHEM_ATOMIC]
+A negatively-charged ion has
+(A) a heavier nucleus.
+(B) a greater atomic mass.
+(C) more electrons than protons.
+(D) more electrons than neutrons.

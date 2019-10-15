@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7213395] [MAT_MIXTURES_SEPHETERO, MAT_PROPMATERIAL_DENSITY]
+A student stirred some sand into a container of water and left the mixture alone for several hours until the sand settled on the bottom of the container. Which statement best explains why the sand separated from the water?
+(A) Sand particles are denser than water.
+(B) Water is a liquid and sand is a solid.
+(C) The sand was insufficiently stirred.
+(D) There was more sand than water.
+----------------------------------------------------------------------------------------------
+[Mercury_7223738] [MAT_MIXTURES_SEPHETERO, MAT_PROPMATERIAL_MAG]
+A salvage yard contains a mixture of iron, glass, aluminum, and plastic. Which property of iron does the salvage yard take advantage of when separating the iron from the rest of the materials?
+(A) magnetic
+(B) electrical
+(C) ductility
+(D) malleability
+----------------------------------------------------------------------------------------------
+[Mercury_SC_413304] [MAT_PROPMATERIAL]
+Which material is the best natural resource to use for making water-resistant shoes?
+(A) cotton
+(B) leather
+(C) plastic
+(D) wool
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400377] [MAT_PROPMATERIAL]
+Manuel wants an area in the yard to wash the dog without making mud puddles. He wants to put something on the ground that water passes through easily. Which of these materials would be the best for him to use?
+(A) clay
+(B) plastic
+(C) soil
+(D) pebbles
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400399] [MAT_PROPMATERIAL]
+Which of these materials on the walls of a room would work best to keep sound from making an echo?
+(A) marble
+(B) carpet
+(C) wood
+(D) glass
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5161] [MAT_PROPMATERIAL]
+A manufacturer wants to produce a container for food storage that does not break easily and is airtight, inexpensive, and microwave-safe. Which of the following is the best material to use to make the container?
+(A) glass
+(B) metal
+(C) paper
+(D) plastic
+----------------------------------------------------------------------------------------------
+[Mercury_7128380] [MAT_PROPMATERIAL]
+Two pieces of the same metal are placed on a table. The pieces of metal have the same density, mass, and texture. Which characteristic must be the ONLY difference between the two samples?
+(A) They have different dimensions.
+(B) They have different boiling points.
+(C) They are made up of a different type of matter.
+(D) They contain a different amount of matter per unit volume.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415541] [MAT_PROPMATERIAL_BOUY]
+Which of these objects will most likely float in water?
+(A) glass marble
+(B) steel ball
+(C) hard rubber ball
+(D) table tennis ball
+----------------------------------------------------------------------------------------------
+[Mercury_7017133] [MAT_PROPMATERIAL_CLASS]
+Which of these is a composite material?
+(A) a glass window
+(B) a bronze statue
+(C) an aluminum can
+(D) a fiberglass bumper
+----------------------------------------------------------------------------------------------
+[Mercury_7064663] [MAT_PROPMATERIAL_CLASS]
+A student observes a substance that is highly reflective and able to conduct electricity. The substance also has a high melting point. Which is the most likely classification for this substance?
+(A) salt
+(B) glass
+(C) metal
+(D) plastic
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_8_18] [MAT_PROPMATERIAL_CLASS]
+Which skill is a scientist using when sorting rocks into two groups based on physical appearance?
+(A) inferring
+(B) classifying
+(C) generalizing
+(D) hypothesizing
+----------------------------------------------------------------------------------------------
+[CSZ30771] [MAT_PROPMATERIAL_CLASS, MAT_PROPMATERIAL_ELECCOND, MAT_PROPMATERIAL_THERMCOND]
+In a comparison of metals to nonmetals, metals tend to have
+(A) lower melting points and greater conductivity than nonmetals.
+(B) lower conductivity and lower density than nonmetals.
+(C) higher density and lower melting points than nonmetals.
+(D) greater conductivity and higher melting points than nonmetals.
+----------------------------------------------------------------------------------------------
+[CSZ_2006_5_CSZ10302] [MAT_PROPMATERIAL_COL]
+Which of the following is a property of CO2 gas?
+(A) It feels like a rock.
+(B) It smells like a lemon.
+(C) It is colorless.
+(D) It is hard.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2009_5_10] [MAT_PROPMATERIAL_COL]
+Which is a physical property of an apple?
+(A) what color it is
+(B) how pretty it is
+(C) how much it costs
+(D) when it was picked
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400022] [MAT_PROPMATERIAL_DENSITY]
+What happens when oil is placed in water?
+(A) Some oil sinks below the surface.
+(B) Oil droplets form in the water.
+(C) The oil and water mix together.
+(D) The oil floats on top of the water.
+----------------------------------------------------------------------------------------------
+[Mercury_7086118] [MAT_PROPMATERIAL_DENSITY]
+A student adds water and detergent to a cup of soil. The mixture is shaken and allowed to settle. The student observes that silt particles stay suspended long after the other particles form layers at the bottom of the jar. The most likely explanation is that the silt particles are
+(A) organic.
+(B) dissolving.
+(C) less dense.
+(D) moving faster.
+----------------------------------------------------------------------------------------------
+[Mercury_7205940] [MAT_PROPMATERIAL_DENSITY]
+Fish can live in lakes that are frozen because liquid water remains below the ice at the surface. Which of these describes a property of water that allows some liquid water to remain in frozen lakes?
+(A) Water can dissolve many different substances.
+(B) Water is less dense as a solid than as a liquid.
+(C) Water has a Mohs hardness of about 2 when it is frozen.
+(D) Water holds less air at higher temperatures.
+----------------------------------------------------------------------------------------------
+[Mercury_7128905] [MAT_PROPMATERIAL_DENSITY]
+A student has two solid samples of the same substance. Which property do the substances most likely have in common?
+(A) density
+(B) mass
+(C) shape
+(D) volume
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg93] [MAT_PROPMATERIAL_DENSITY]
+A balloon filled with helium gas is set free and starts to move upward. Which of the following best explains why the helium balloon moves upward?
+(A) The density of helium is less than the density of air.
+(B) The air resistance lifts the balloon up.
+(C) There is no gravity acting on the helium balloons.
+(D) The wind blows the balloon upward.
+----------------------------------------------------------------------------------------------
+[MCAS_1999_8_20] [MAT_PROPMATERIAL_DENSITY]
+The ratio of an object's mass to its volume is its
+(A) area.
+(B) perimeter.
+(C) density.
+(D) weight.
+----------------------------------------------------------------------------------------------
+[Mercury_7217840] [MAT_PROPMATERIAL_DENSITY]
+Ice will form on small ponds when the temperature drops below 0°C. Which property of ice is most beneficial to fish living in these ponds?
+(A) Ice has a temperature colder than the temperature of water.
+(B) Ice absorbs sunlight that is reflected by water.
+(C) Ice traps more pollution than is trapped by water.
+(D) Ice had a density lower than the density of water.
+----------------------------------------------------------------------------------------------
+[CSZ_2009_8_CSZ30348] [MAT_PROPMATERIAL_DENSITY]
+What is the density of a 64-g iron cube that displaces 8 mL of water?
+(A) 512 g/mL
+(B) 32 g/mL
+(C) 8 g/mL
+(D) 4 g/mL
+----------------------------------------------------------------------------------------------
+[Mercury_7236040] [MAT_PROPMATERIAL_DENSITY, EARTH_OUTER_HYDRO]
+Variation in which property between water at different temperatures contributes most to the formation of horizontal ocean layers having distinct temperatures?
+(A) density
+(B) viscosity
+(C) turbidity
+(D) acidity
+----------------------------------------------------------------------------------------------
+[Mercury_SC_409692] [MAT_PROPMATERIAL_DENSITY, MAT_MEAS_INST_BALANCE, MAT_MEAS_INST_GRADUATED]
+Paula determines a property of a marble using a balance and a graduated cylinder. What property is Paula most likely determining by using both tools?
+(A) density
+(B) length
+(C) mass
+(D) volume
+----------------------------------------------------------------------------------------------
+[CSZ_2009_8_CSZ20870] [MAT_PROPMATERIAL_DENSITY, MAT_PROPO_MASS]
+Red-clay bricks have a density of approximately 2000 kg/m^3. Air has a density of 1 kg/m^3. Which of the following has the lowest mass?
+(A) 2 m^3 of bricks
+(B) 4 m^3 of bricks
+(C) 6000 m^3 of air
+(D) 10,000 m^3 of air

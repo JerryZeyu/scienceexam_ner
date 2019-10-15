@@ -1,0 +1,234 @@
+T1	LivingThing 2794 2807	living things
+T2	Reptile 489 495	lizard
+T3	Reptile 477 482	snake
+T4	Amphibian 469 473	toad
+T6	AnimalPart 1134 1140	organs
+T7	Human 782 788	humans
+T8	Human 1034 1040	humans
+T10	Cell 1124 1129	cells
+T13	Cell 1825 1829	cell
+T14	AnimalCellPart 243 250	nucleus
+T15	PlantCellPart 243 250	nucleus
+T17	CellProcesses 1830 1845	differentiation
+T23	Genetics 187 209	hereditary information
+T24	Genetics 2612 2615	DNA
+T25	Genetics 2627 2630	DNA
+T26	Genetics 1564 1567	DNA
+T27	Genetics 1328 1331	DNA
+T28	Genetics 1810 1813	DNA
+T29	Genetics 3005 3008	DNA
+T30	Genetics 3048 3051	DNA
+T31	Genetics 2582 2585	DNA
+T32	Genetics 3309 3312	DNA
+T33	Genetics 2549 2552	DNA
+T34	Genetics 2221 2243	independent assortment
+T35	Genetics 854 861	alleles
+T36	Genetics 2311 2318	alleles
+T37	Genetics 1295 1313	complementary base
+T38	Genetics 2567 2570	RNA
+T39	Genetics 2575 2578	RNA
+T40	Genetics 2619 2622	RNA
+T41	Genetics 2634 2637	RNA
+T42	Genetics 1609 1619	amino acid
+T46	Genetics 3014 3025	Amino acids
+T47	Gene 1879 1884	genes
+T48	Gene 1952 1957	genes
+T50	Gene 1101 1106	genes
+T51	Gene 575 580	genes
+T52	Gene 866 880	recessive gene
+T53	Gene 255 259	gene
+T54	Gene 2003 2007	gene
+T55	Gene 1925 1929	gene
+T56	Inheritance 819 840	polygenic inheritance
+T57	Inheritance 2249 2270	polygenic inheritance
+T59	Inheritance 187 209	hereditary information
+T60	Inheritance 794 814	incomplete dominance
+T61	Inheritance 2276 2296	incomplete dominance
+T62	Inheritance 746 757	inheritance
+T65	GeneticProcesses 1910 1916	copies
+T66	PartsOfDNA 1317 1324	adenine
+T67	PartsOfDNA 2971 2982	Nucleotides
+T68	PartsOfDNA 3088 3099	nucleotides
+T69	PartsOfDNA 1362 1369	guanine
+T70	PartsOfDNA 3382 3389	guanine
+T71	PartsOfDNA 1350 1357	thymine
+T72	PartsOfDNA 1609 1619	amino acid
+T73	PartsOfDNA 1337 1345	cytosine
+T74	PartsOfDNA 3014 3025	Amino acids
+T75	PartsOfRNA 1317 1324	adenine
+T76	PartsOfRNA 2971 2982	Nucleotides
+T77	PartsOfRNA 3088 3099	nucleotides
+T78	PartsOfRNA 1374 1380	uracil
+T79	PartsOfRNA 1362 1369	guanine
+T80	PartsOfRNA 3382 3389	guanine
+T81	PartsOfRNA 1337 1345	cytosine
+T82	GeneticRelations 2149 2164	Fraternal twins
+T90	Monera 1111 1119	microbes
+T93	Development 1849 1859	developing
+T94	Development 453 461	develops
+T98	PrenatalOrganismStates 563 566	egg
+T99	PrenatalOrganismStates 516 519	egg
+T100	PrenatalOrganismStates 539 542	egg
+T101	PrenatalOrganismStates 588 591	egg
+T103	PrenatalOrganismStates 438 452	fertilized egg
+T104	PrenatalOrganismStates 1860 1867	embryos
+T112	PartsOfTheReproductiveSystem 215 223	egg cell
+T113	PartsOfTheReproductiveSystem 228 238	sperm cell
+T117	NutritiveSubstancesForAnimalsOrPlants 3372 3377	sugar
+T118	NutritiveSubstancesForAnimalsOrPlants 1978 1985	protein
+T119	NutritiveSubstancesForAnimalsOrPlants 2641 2648	protein
+T120	NutritiveSubstancesForAnimalsOrPlants 2589 2596	protein
+T121	NutritiveSubstancesForAnimalsOrPlants 2601 2608	protein
+T122	NutritiveSubstancesForAnimalsOrPlants 2556 2563	protein
+T123	NutritiveSubstancesForAnimalsOrPlants 3057 3065	Proteins
+T124	NutritiveSubstancesForAnimalsOrPlants 3141 3149	proteins
+T125	NutritiveSubstancesForAnimalsOrPlants 3105 3118	Nucleic acids
+T130	Unit 1538 1543	units
+T131	Unit 179 183	unit
+T133	Property 2194 2209	characteristics
+T134	Property 1044 1049	trait
+T135	Property 1792 1806	characteristic
+T142	Age 528 531	age
+T147	Complexity 1532 1537	basic
+T164	Gender 505 508	sex
+T165	OtherHumanProperties 767 777	blood type
+T167	Size 551 555	size
+T168	Size 2850 2856	larger
+T169	Size 2914 2920	larger
+T170	Size 2809 2816	smaller
+T171	Size 2947 2954	smaller
+T176	GeneticProperty 1962 1968	active
+T177	CardinalNumber 1643 1644	4
+T178	CardinalNumber 1637 1638	3
+T179	CardinalNumber 1625 1626	1
+T180	CardinalNumber 1631 1632	2
+T181	CardinalNumber 1071 1074	one
+T182	RelativeNumber 172 178	single
+T183	RelativeNumber 1602 1608	single
+T184	RelativeNumber 845 853	multiple
+T185	RelativeNumber 2302 2310	multiple
+T186	RelativeNumber 1083 1087	many
+T187	RelativeNumber 1527 1531	many
+T188	RelativeNumber 1905 1909	many
+T190	Compound 3358 3367	phosphate
+T192	ElementalComponents 1568 1576	molecule
+T193	ElementalComponents 3313 3321	molecule
+T195	MolecularProperties 3403 3407	bond
+T196	Element 3394 3402	hydrogen
+T202	Substances 2921 2930	substance
+T204	Substances 2817 2827	substances
+T205	Substances 2857 2867	substances
+T206	Substances 2955 2965	substances
+T211	ChangeInto 462 466	into
+T212	Classify 159 169	identifies
+T214	Cause 417 427	determines
+T215	ContainBeComposedOf 2180 2185	share
+T218	Create 3040 3047	make up
+T219	Create 3133 3140	make up
+T221	Create 3080 3087	make up
+T222	Create 2997 3004	make up
+T223	Create 1593 1599	encode
+T225	Create 1989 1997	produced
+T227	Create 3333 3340	encoded
+T230	Create 2842 2849	make up
+T231	Create 2931 2935	made
+T234	Differentiate 1830 1845	differentiation
+T235	Verify 2892 2901	correctly
+T236	Verify 2487 2494	correct
+T238	Identify 1057 1067	determined
+T240	Identify 417 427	determines
+T243	Indicate 2477 2482	shows
+T245	Occur 1889 1896	present
+T246	Occur 1934 1941	present
+T249	Represent 3322 3332	represents
+T250	Represent 2902 2911	describes
+T252	Require 1581 1589	required
+T256	CombineAdd 2939 2946	linking
+T257	CombineAdd 3070 3076	linked
+T258	CombineAdd 3123 3129	linked
+T259	CombineAdd 2987 2993	linked
+T260	CombineAdd 3030 3036	linked
+T261	CombineAdd 2832 2838	linked
+T262	Associate 1088 1093	pairs
+T263	Associate 1075 1079	pair
+T268	Relations 1910 1916	copies
+T269	ResponseType 154 158	term
+T270	Cause 758 766	controls
+T272	WordsForData 1547 1558	information
+T273	WordsForData 3341 3352	information
+T275	ProbabilityAndCertainty 2165 2168	may
+T277	RelativeLocations 1559 1561	in
+T278	RelativeLocations 1031 1033	In
+T279	RelativeLocations 779 781	in
+T280	RelativeLocations 1846 1848	in
+T281	RelativeLocations 2791 2793	In
+T282	RelativeLocations 1325 1327	in
+T284	Cause 1068 1070	by
+T285	Cause 1998 2000	by
+T286	Cause 2936 2938	by
+T287	RelativeDirection 2616 2618	to
+T288	RelativeDirection 2586 2588	to
+T289	Result 3037 3039	to
+T290	RelativeDirection 2609 2611	to
+T291	RelativeDirection 2631 2633	to
+T292	RelativeDirection 2638 2640	to
+T293	Result 3130 3132	to
+T294	Result 3077 3079	to
+T296	Result 2839 2841	to
+T297	RelativeDirection 2553 2555	to
+T298	Result 2994 2996	to
+T299	RelativeDirection 2564 2566	to
+T300	RelativeDirection 2579 2581	to
+T308	Comparisons 2186 2193	similar
+T309	Comparisons 484 486	or
+T310	Comparisons 1080 1082	or
+T311	Comparisons 2169 2171	or
+T313	ImportanceComparison 2509 2516	central
+T317	Biology 2526 2543	molecular biology
+T318	GenericTerms 154 158	term
+T319	AbilityAvailability 1050 1053	can
+T324	BeliefKnowledge 2517 2522	dogma
+T327	Pattern 2495 2500	order
+T328	Exemplar 738 742	type
+T330	Method 1523 1526	How
+T331	Method 1901 1904	how
+T332	ObjectPart 3299 3303	part
+T334	Negations 2176 2179	not
+T338	Cause 2210 2216	due to
+T339	ProbabilityAndCertainty 428 435	whether
+T340	ProbabilityAndCertainty 2892 2901	correctly
+T341	ProbabilityAndCertainty 2487 2494	correct
+T343	ProbabilityAndCertainty 2172 2175	may
+T346	LevelOfInclusion 1920 1924	each
+T347	LevelOfInclusion 411 416	these
+T348	LevelOfInclusion 2471 2476	these
+T349	LevelOfInclusion 2869 2874	Which
+T350	LevelOfInclusion 1946 1951	which
+T351	LevelOfInclusion 148 153	Which
+T352	LevelOfInclusion 402 407	Which
+T353	LevelOfInclusion 1873 1878	which
+T354	LevelOfInclusion 3293 3298	Which
+T355	LevelOfInclusion 2462 2467	Which
+T359	NUMBER 1071 1074	one
+T363 NUMBER 1643 1644 4 
+T11	ActUponSomething 758 766	controls
+T12	StateOfBeing 1054 1056	be
+T5	StateOfBeing 1288 1290	is
+T20	StateOfBeing 1577 1580	are
+T21	GeneticProcesses 1593 1599	encode
+T22	Cause 1814 1821	results
+T16	StateOfBeing 1885 1888	are
+T18	StateOfBeing 1930 1933	are
+T19	StateOfBeing 1958 1961	are
+T43	StateOfBeing 1986 1988	is
+T9	Comparisons 2809 2816	smaller
+T44	StateOfBeing 2828 2831	are
+T45	Comparisons 2850 2856	larger
+T49	LevelOfInclusion 2878 2891	the following
+T58	Comparisons 2914 2920	larger
+T63	Comparisons 2947 2954	smaller
+T64	StateOfBeing 2983 2986	are
+T83	StateOfBeing 3026 3029	are
+T84	StateOfBeing 3066 3069	are
+T85	StateOfBeing 3119 3122	are
+T86	GeneticProcesses 3333 3340	encoded

@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7154490] [LIFE_NITROGENCYCLE]
+In order for nitrogen to be used for growth in organisms, it must be "fixed." When nitrogen is "fixed," it is combined into the form of ammonium or other nitrogen ions. During which type of fixation do organisms and nitrogen interact?
+(A) biological
+(B) combustion
+(C) industrial
+(D) lightning
+----------------------------------------------------------------------------------------------
+[Mercury_7026600] [LIFE_NITROGENCYCLE]
+Planting certain crop plants in a field causes a disruption of the natural nitrogen cycle in that field. Which outcome would this disruption most DIRECTLY cause in the field over time?
+(A) topsoil erodes
+(B) soil nutrients decrease
+(C) desert conditions appear
+(D) atmospheric carbon dioxide increases
+----------------------------------------------------------------------------------------------
+[MCAS_2006_9_16] [LIFE_NITROGENCYCLE]
+Which of the following correctly explains how atmospheric nitrogen is converted to nitrogen compounds used by living organisms?
+(A) Sunlight converts atmospheric nitrogen to a form usable by protists.
+(B) Plant leaves convert atmospheric nitrogen to a form usable by animals.
+(C) Bacteria in soil convert atmospheric nitrogen to a form usable by plants.
+(D) Invertebrate animals in soil convert atmospheric nitrogen to a form usable by fungi.
+----------------------------------------------------------------------------------------------
+[Mercury_7001645] [LIFE_NITROGENCYCLE, EARTH_HUMIMP_RES_SOIL]
+Planting legumes in order to add nitrogen to soil most likely causes
+(A) a decrease in the amount of acid rain.
+(B) an enrichment in the fertility of the soil.
+(C) an increase in the ratio of nitrogen to oxygen in the system.
+(D) a reduction in the soil's ability to manufacture its own nitrogen.
+----------------------------------------------------------------------------------------------
+[Mercury_7005023] [LIFE_NITROGENCYCLE, EARTH_HUMIMP_RES_SOIL]
+Which effect would the growing of legume crops such as beans and soybeans have?
+(A) increase the efficiency of photosynthesis
+(B) greater immunity of crops against diseases
+(C) fewer bacteria in soil and in living organisms
+(D) more usable nitrogen for other plants
+----------------------------------------------------------------------------------------------
+[Mercury_7172778] [LIFE_NITROGENCYCLE, LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Decomposers increase the fertility of the soil and prevent dead organisms from building up in the environment. In which way do decomposers make the soil more fertile?
+(A) by adding carbon
+(B) by adding nitrogen
+(C) by removing excess water
+(D) by removing excess minerals
+----------------------------------------------------------------------------------------------
+[Mercury_7008330] [LIFE_NITROGENCYCLE, LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Biotic nitrogen fixation is performed by certain
+(A) lichens.
+(B) viruses.
+(C) bacteria.
+(D) mammals.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2004_8_5] [LIFE_REPROD]
+If a species is no longer able to reproduce, it will
+(A) adapt to its environment
+(B) become immune to disease
+(C) become extinct
+(D) increase its population
+----------------------------------------------------------------------------------------------
+[NAEP_2000_8_S21+9] [LIFE_REPROD]
+Which of the following is most consistent with the modern theory of evolution?
+(A) Parents pass their physical traits to their offspring; those offspring with traits that help them survive in the environment are able to reproduce.
+(B) Parents change their physical traits in order to survive in the environment, then those parental traits are passed to their offspring.
+(C) Life on this planet came from another planet far out in space.
+(D) Living organisms have not changed for hundreds of millions of years.
+----------------------------------------------------------------------------------------------
+[Mercury_416365] [LIFE_REPROD]
+For centuries, farmers have been taking cuttings of productive plants and rooting the cuttings to make new plants. Which kind of modern technology uses genetic information most similarly to the cutting and rooting process?
+(A) genetic engineering
+(B) DNA fingerprinting
+(C) cloning of organisms
+(D) antibody therapy
+----------------------------------------------------------------------------------------------
+[Mercury_7248238] [LIFE_REPROD]
+Mosquito fish found on the islands of the Bahamas live in various isolated freshwater ponds that were once a single body of water. When several male and female mosquito fish are taken from two isolated ponds and placed into a single pond, the breeding preference of each mosquito fish is for fish from its own original pond. Which of these most likely resulted in this breeding preference?
+(A) Availability of food influenced the breeding preferences of the fish.
+(B) Competition for a suitable mate influenced the breeding preferences.
+(C) Predators in the pond influenced the breeding preferences of the fish.
+(D) Speciation due to reproductive isolation influenced the breeding preferences.

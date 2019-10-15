@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[TIMSS_2011_8_pg121] [LIFE_FUNCT_FEATANDFUNCT_ANIM_IMMUNE]
+Bacteria that enter the body are destroyed by which type of cells?
+(A) white blood cells
+(B) red blood cells
+(C) kidney cells
+(D) lung cells
+----------------------------------------------------------------------------------------------
+[Mercury_7136623] [LIFE_FUNCT_FEATANDFUNCT_ANIM_IMMUNE]
+A science teacher is discussing the immune system with his class. Which statement should the teacher make about this system?
+(A) It produces new cells to carry oxygen.
+(B) It produces chemicals to regulate growth.
+(C) It produces antibodies to fight bacteria.
+(D) It produces electrical signals to control the body.
+----------------------------------------------------------------------------------------------
+[Mercury_7250215] [LIFE_FUNCT_FEATANDFUNCT_ANIM_IMMUNE]
+What is the primary function of macrophages?
+(A) absorb oxygen and transfer it to body cells
+(B) consume pathogens and assist the immune system
+(C) accumulate at an injury and initiate the clotting process
+(D) contain metabolites and maintain a balance of fluids
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_8_7] [LIFE_FUNCT_FEATANDFUNCT_ANIM_IMMUNE, LIFE_FUNCT_FEATANDFUNCT_CELLBIO]
+Specialized cells protect the human body from disease-causing microbes by
+(A) producing chemicals that destroy the microbes
+(B) dissolving wastes from the microbes
+(C) creating recessive genes in the microbes
+(D) supplying oxygen and nutrients to the microbes
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_4_20] [LIFE_FUNCT_FEATANDFUNCT_ANIM_LOCOMOTION]
+The main function of a duck's webbed feet is to help the duck
+(A) make noise
+(B) protect itself
+(C) swim in water
+(D) find a mate
+----------------------------------------------------------------------------------------------
+[TAKS_2009_5_33] [LIFE_FUNCT_FEATANDFUNCT_ANIM_LOCOMOTION]
+Which of the following animal features most helps the animal move around in its habitat?
+(A) A bird's sharp beak
+(B) A cow's tail
+(C) A sea turtle's flippers
+(D) A black bear's fur
+----------------------------------------------------------------------------------------------
+[MCAS_2009_5_6517] [LIFE_FUNCT_FEATANDFUNCT_ANIM_LOCOMOTION]
+A squid is an animal that lives in the ocean. It pumps a stream of water out of its body, causing it to move rapidly. Which of the following mechanical systems moves in a way most similar to the squid?
+(A) a bus
+(B) a helicopter
+(C) a rocket
+(D) a train
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_8_30] [LIFE_FUNCT_FEATANDFUNCT_ANIM_LOCOMOTION]
+Which three systems of the human body function together to move and control body parts?
+(A) nervous, skeletal, and muscular
+(B) muscular, endocrine, and excretory
+(C) digestive, excretory, and reproductive
+(D) circulatory, endocrine, and respiratory
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_8_3] [LIFE_FUNCT_FEATANDFUNCT_ANIM_LOCOMOTION]
+Feathers, wings, and the hollow bones of birds are examples of
+(A) adaptations for flight
+(B) responses to stimuli
+(C) unnecessary body parts
+(D) reproductive structures
+----------------------------------------------------------------------------------------------
+[Mercury_7040740] [LIFE_FUNCT_FEATANDFUNCT_ANIM_LOCOMOTION]
+What MAJOR advantage does nekton have over plankton in locating food?
+(A) Nekton can actively swim.
+(B) Nekton can see in the dark.
+(C) Nekton do not eat much food.
+(D) Nekton can eat anything in the ocean.
+----------------------------------------------------------------------------------------------
+[Mercury_7064383] [LIFE_FUNCT_FEATANDFUNCT_ANIM_LOCOMOTION]
+The muscles exert forces on the body and enable movement by
+(A) pushing on tendons.
+(B) squeezing ligaments.
+(C) stimulating the spinal cord.
+(D) pulling on bones.
+----------------------------------------------------------------------------------------------
+[Mercury_7010920] [LIFE_FUNCT_FEATANDFUNCT_ANIM_LOCOMOTION]
+Which human body systems are most directly involved when a person is walking?
+(A) muscular and nervous
+(B) excretory and respiratory
+(C) circulatory and endocrine
+(D) digestive and reproductive
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416160] [LIFE_FUNCT_FEATANDFUNCT_ANIM_MUSCULAR]
+Bones support the body. What pulls and pushes on bones to move them?
+(A) blood
+(B) nerves
+(C) muscles
+(D) skin
+----------------------------------------------------------------------------------------------
+[Mercury_SC_409886] [LIFE_FUNCT_FEATANDFUNCT_ANIM_MUSCULAR]
+The systems of the human body work together. Which system works with the skeletal system by pulling on the bones to create movement?
+(A) digestive
+(B) circulatory
+(C) muscular
+(D) nervous

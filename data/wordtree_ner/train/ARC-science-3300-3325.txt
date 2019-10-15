@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7041248] [MAT_CHEM_ENDOEXO]
+Two chemicals are mixed together in a beaker that is sitting in an ice water bath. The ice in the water melts as the chemicals react for one minute. What type of reaction is taking place?
+(A) endothermic, in which energy is absorbed
+(B) endothermic, in which energy is released
+(C) exothermic, in which energy is absorbed
+(D) exothermic, in which energy is released
+----------------------------------------------------------------------------------------------
+[Mercury_7033495] [MAT_CHEM_ENDOEXO]
+A student mixed baking soda with vinegar and observed that the reaction was endothermic. When is a reaction endothermic?
+(A) when it is reversible
+(B) when it can be repeated
+(C) when it requires heat to make it happen
+(D) when energy is released by the process
+----------------------------------------------------------------------------------------------
+[Mercury_7013143] [MAT_CHEM_ENDOEXO]
+Which of these is an example of an endothermic process?
+(A) fireworks display
+(B) glowing light stick
+(C) first-aid instant cold pack
+(D) gasoline-burning car engine
+----------------------------------------------------------------------------------------------
+[Mercury_7012723] [MAT_CHEM_ENDOEXO]
+Endothermic reactions are reactions that require more energy to start than they give off in the products. Which statement describes an endothermic reaction?
+(A) It gives off heat energy and is hot to the touch.
+(B) It absorbs heat energy and is cold to the touch.
+(C) It gives off light energy and produces visible light.
+(D) It gives off water and is wet to the touch.
+----------------------------------------------------------------------------------------------
+[Mercury_7032708] [MAT_CHEM_ENDOEXO]
+A nuclear reaction, such as those which occur in a nuclear power plant, can be classified as what type of reaction?
+(A) solar
+(B) chemical
+(C) exothermic
+(D) endothermic
+----------------------------------------------------------------------------------------------
+[Mercury_7027038] [MAT_CHEM_ENDOEXO, SCI_INFERENCE_REPORT]
+A student concludes that a chemical reaction performed in a classroom investigation was exothermic. To communicate the validity of this conclusion, which would make the best visual evidence in a presentation?
+(A) photographs of reactants and products
+(B) listing of masses of reactants and products
+(C) listing of time from start to finish of reaction
+(D) photograph of a flame produced when the chemicals reacted
+----------------------------------------------------------------------------------------------
+[Mercury_415543] [MAT_CHEM_PERIODICTAB]
+What chemical symbol represents the element iron?
+(A) Fe
+(B) I
+(C) Ir
+(D) Pb
+----------------------------------------------------------------------------------------------
+[Mercury_414132] [MAT_CHEM_PERIODICTAB]
+Which of these is the chemical symbol for magnesium?
+(A) Ma
+(B) Mg
+(C) Mn
+(D) Mu
+----------------------------------------------------------------------------------------------
+[Mercury_415544] [MAT_CHEM_PERIODICTAB]
+Which combination of letters could be used as a chemical symbol for an element?
+(A) BR
+(B) Chl
+(C) Dy
+(D) FeO
+----------------------------------------------------------------------------------------------
+[Mercury_415546] [MAT_CHEM_PERIODICTAB]
+The chemical symbol for niobium is Nb. Based on its symbol, what can be concluded about niobium?
+(A) Niobium is a compound.
+(B) Niobium is an element.
+(C) Niobium is a metal.
+(D) Niobium is a mixture.
+----------------------------------------------------------------------------------------------
+[Mercury_7077630] [MAT_CHEM_PERIODICTAB]
+The smallest part of an element that retains the properties of the element is the
+(A) proton.
+(B) nucleus.
+(C) electron.
+(D) atom.
+----------------------------------------------------------------------------------------------
+[Mercury_7084298] [MAT_CHEM_PERIODICTAB]
+Two elements in the same group on the Periodic Table of the Elements are most similar in their
+(A) atomic mass.
+(B) number of protons.
+(C) atomic size.
+(D) chemical reactivity.
+----------------------------------------------------------------------------------------------
+[Mercury_404786] [MAT_CHEM_PERIODICTAB]
+Which of these is an element?
+(A) KBr
+(B) O_{2}
+(C) 2KCl
+(D) FeO_{2}
+----------------------------------------------------------------------------------------------
+[Mercury_7162628] [MAT_CHEM_PERIODICTAB]
+The periodic table provides information about the atoms of different elements. Which is a characteristic of an atom determines what element it is?
+(A) number of neutrons
+(B) number of protons
+(C) state of matter
+(D) atomic mass
+----------------------------------------------------------------------------------------------
+[Mercury_7264058] [MAT_CHEM_PERIODICTAB]
+Atoms of which of these elements are part of many organic molecules?
+(A) calcium
+(B) magnesium
+(C) oxygen
+(D) silicon
+----------------------------------------------------------------------------------------------
+[Mercury_7084333] [MAT_CHEM_PERIODICTAB]
+An element is identified by
+(A) its number of protons.
+(B) the atomic mass.
+(C) the type of charge.
+(D) its number of isotopes.
+----------------------------------------------------------------------------------------------
+[Mercury_7245805] [MAT_CHEM_PERIODICTAB]
+Which of these elements is found in the greatest amount in organisms?
+(A) carbon
+(B) iron
+(C) lead
+(D) neon
+----------------------------------------------------------------------------------------------
+[MCAS_1999_8_30] [MAT_CHEM_PERIODICTAB]
+Because sulfur cannot be decomposed by simple chemical methods into two or more different substances, it is classified as
+(A) an element.
+(B) a compound.
+(C) a mixture.
+(D) a molecule.
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5188] [MAT_CHEM_PERIODICTAB]
+What is the smallest unit of an element that still has the properties of that element?
+(A) an atom
+(B) a compound
+(C) an electron
+(D) a molecule
+----------------------------------------------------------------------------------------------
+[Mercury_7007823] [MAT_CHEM_PERIODICTAB]
+Reading from left to right, elements in the same period on the Periodic Table of the Elements
+(A) have the same reactivity.
+(B) decrease in atomic mass.
+(C) increase in atomic number.
+(D) have the same number of electrons.
+----------------------------------------------------------------------------------------------
+[Mercury_7221288] [MAT_CHEM_PERIODICTAB]
+Hydrogen is located on the left side of the periodic table in the same column as the alkali metals, but it has characteristics of a nonmetal. Which of the following is a physical property of hydrogen?
+(A) Hydrogen can bond to itself.
+(B) Hydrogen makes positive ions.
+(C) Hydrogen is a gas at room temperature.
+(D) Hydrogen is combustible.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2004_8_25] [MAT_CHEM_PERIODICTAB]
+Which scientific model could be used to predict the properties of an element?
+(A) closed loop system
+(B) Punnett square
+(C) Periodic Table
+(D) water cycle chart
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_2] [MAT_CHEM_PERIODICTAB]
+Which statement best explains how periods on the periodic table are organized?
+(A) increasing atomic number from left to right
+(B) increasing number of neutrons from left to right
+(C) decreasing number of electrons from left to right
+(D) decreasing atomic mass number from left to right
+----------------------------------------------------------------------------------------------
+[MSA_2012_8_41] [MAT_CHEM_PERIODICTAB]
+The Periodic Table of the Elements is arranged so that elements with similar characteristics are in the same column. Which element is a highly reactive metal?
+(A) chlorine (Cl)
+(B) helium (He)
+(C) magnesium (Mg)
+(D) silver (Ag)
+----------------------------------------------------------------------------------------------
+[Mercury_7212433] [MAT_CHEM_PERIODICTAB]
+Gold atoms can be identified based on the number of which subatomic particles?
+(A) neutrons
+(B) electrons
+(C) nuclei
+(D) protons

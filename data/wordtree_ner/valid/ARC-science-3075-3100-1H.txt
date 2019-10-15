@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[TIMSS_2011_4_pg92] [LIFE_REPROD_SEXASEX_SEX]
+Some animals are very rare. For example, there are very few Siberian tigers. If the only Siberian tigers left are female, what will most likely happen?
+(A) The females will find another type of male animal to mate with and produce more Siberian tigers.
+(B) The females will mate with each other and produce more Siberian tigers.
+(C) The females will only be able to produce female Siberian tigers.
+(D) The females will not be able to produce more Siberian tigers, and they will die out.
+----------------------------------------------------------------------------------------------
+[Mercury_406732] [LIFE_REPROD_SEXASEX_SEX]
+Which best describes sexual reproduction in all animals?
+(A) Egg and sperm join together.
+(B) Pollen and seed join together.
+(C) Offspring have traits of only one parent.
+(D) Offspring are identical to one parent.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2012_7_4] [LIFE_REPROD_SEXASEX_SEX]
+Which describes the role of sexual reproduction in plants and animals?
+(A) keeps all organisms looking similar
+(B) ensures the continuation of the species
+(C) produces offspring that are identical to the parents
+(D) increases the size of any population over a long period of time
+----------------------------------------------------------------------------------------------
+[ACTAAP_2009_7_17] [LIFE_REPROD_SEXASEX_SEX]
+In plants, which describes sexual reproduction but not asexual reproduction?
+(A) Five limbs are grafted onto the same tree.
+(B) New plants are grown from pieces of other plants.
+(C) A fertilized egg cell divides to produce an embryo.
+(D) Offspring are produced that have the same genetic information as the parent.
+----------------------------------------------------------------------------------------------
+[MDSA_2011_8_1] [LIFE_REPROD_SEXASEX_SEX]
+During sexual reproduction, a sperm cell fertilizes an egg cell to form a fertilized egg. The fertilized egg then develops into a new organism. Which statement describes the primary advantage of sexual reproduction over asexual reproduction?
+(A) Sexual reproduction produces identical offspring.
+(B) Sexual reproduction results in less adaptable offspring.
+(C) Sexual reproduction generates a large number of offspring.
+(D) Sexual reproduction results in genetic variation in offspring.
+----------------------------------------------------------------------------------------------
+[MCAS_2006_8_34] [LIFE_REPROD_SEXASEX_SEX]
+Spirogyra are green algae that can reproduce sexually. Which of the following features identifies reproduction in Spirogyra as sexual reproduction?
+(A) The cells of parent algae have nuclei.
+(B) Each offspring contains chloroplasts.
+(C) Several offspring may be produced at once.
+(D) Genetic material is contributed by two parent cells.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_8_12] [LIFE_REPROD_SEXASEX_SEX]
+Naturally occurring variations within a species are mainly the result of mutations and
+(A) sexual reproduction
+(B) dynamic equilibrium
+(C) metabolism
+(D) camouflage
+----------------------------------------------------------------------------------------------
+[MEA_2013_8_5] [LIFE_REPROD_SEXASEX_SEX]
+Which sentence describes a characteristic of offspring produced by sexual reproduction?
+(A) The offspring have half the amount of genetic material as the parents.
+(B) The offspring contain genetic material from both parents.
+(C) The female offspring contain only genes from the mother.
+(D) The male offspring contain only genes from the father.
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5165] [LIFE_REPROD_SEXASEX_SEX]
+Which of the following is the primary advantage of sexual reproduction when compared to asexual reproduction?
+(A) There is a greater number of offspring.
+(B) There is more food available to offspring.
+(C) There is greater genetic variety in offspring.
+(D) There is a longer development time for offspring.
+----------------------------------------------------------------------------------------------
+[TIMSS_1995_8_K12] [LIFE_REPROD_SEXASEX_SEX]
+The male insects in a population are treated to prevent sperm production. Would this reduce this insect population?
+(A) No, because the insects would still mate.
+(B) No, because it would not change the offspring mutation rate.
+(C) Yes, because it would sharply decrease the reproduction rate.
+(D) Yes, because the males would die.
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg6] [LIFE_REPROD_SEXASEX_SEX]
+A son can inherit traits
+(A) only from his father
+(B) only from his mother
+(C) from both his father and his mother
+(D) from either his father or his mother, but not from both

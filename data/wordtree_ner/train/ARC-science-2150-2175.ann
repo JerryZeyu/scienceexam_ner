@@ -1,0 +1,580 @@
+T2	Light 8633 8638	light
+T3	Light 9099 9104	Light
+T4	LevelOfInclusion 6704 6708	full
+T13	SystemParts 195 205	structures
+T14	Communicate 3008 3016	commands
+T21	ReleaseEnergy 177 188	transmitted
+T22	SoundEnergy 2780 2786	sounds
+T24	PartsOfTheNervousSystem 3772 3776	soma
+T27	Aquatic 588 596	chordate
+T32	Mammal 9375 9386	prairie dog
+T33	Mammal 9429 9440	prairie dog
+T34	Mammal 9532 9543	prairie dog
+T35	Mammal 5450 5457	opossum
+T51	AnimalCellPart 7591 7595	tail
+T61	AnimalPart 1459 1463	body
+T62	AnimalPart 1888 1892	body
+T68	AnimalPart 5948 5954	organs
+T69	AnimalPart 6059 6065	organs
+T72	AnimalPart 2930 2935	brain
+T73	AnimalPart 2975 2980	brain
+T74	AnimalPart 3026 3031	brain
+T84	AnimalPart 2883 2887	ears
+T85	AnimalPart 2917 2921	ears
+T86	AnimalPart 3039 3043	ears
+T91	ActionsForAnimals 5462 5472	give birth
+T92	ActionsForAnimals 5621 5634	maternal care
+T93	ActionsForAnimals 927 935	sprinted
+T94	ActionsForAnimals 2379 2383	kick
+T96	ActionsForAnimals 9504 9508	hide
+T97	ActionsForAnimals 3262 3267	kicks
+T100	Human 9116 9121	human
+T101	Human 6038 6043	human
+T102	Human 4864 4869	human
+T103	Human 5864 5869	human
+T104	Human 3248 3261	soccer player
+T105	Human 2336 2349	Soccer player
+T106	Human 4019 4025	humans
+T107	Human 1916 1922	runner
+T114	HumanPart 2438 2445	muscles
+T115	HumanPart 9122 9125	eye
+T119	HumanPart 5870 5874	body
+T120	HumanPart 1935 1940	ankle
+T122	HumanPart 6120 6124	eyes
+T123	HumanPart 5935 5942	tissues
+T135	PartsOfTheEye 9142 9148	retina
+T136	PartsOfTheEye 9154 9159	pupil
+T137	PartsOfTheEye 9165 9169	iris
+T138	PartsOfTheEye 9175 9179	lens
+T139	Cell 7903 7908	cells
+T140	Cell 7949 7954	cells
+T143	Cell 8149 8154	cells
+T144	Cell 7966 7971	cells
+T146	Cell 5928 5933	cells
+T147	Cell 3651 3656	cells
+T148	Cell 8010 8015	cells
+T150	Cell 7991 7996	cells
+T151	Cell 8034 8039	cells
+T152	Cell 211 217	neuron
+T153	Cell 3746 3752	neuron
+T154	Cell 258 264	neuron
+T155	Cell 8044 8053	skin cell
+T156	Cell 8080 8089	skin cell
+T158	Cell 3734 3738	cell
+T160	Cell 6692 6696	cell
+T163	Cell 3639 3646	Neurons
+T166	AnimalCellPart 3803 3810	nucleus
+T170	CellsAndGenetics 4008 4015	gametes
+T171	CellsAndGenetics 6716 6727	chromosomes
+T172	CellsAndGenetics 7091 7102	chromosomes
+T173	Eukaryote 7960 7965	yeast
+T177	Gene 7609 7628	genetic information
+T178	Inheritance 7073 7081	inherits
+T179	Mutation 7268 7277	mutations
+T180	GeneticRelations 7112 7118	mother
+T181	GeneticRelations 7293 7299	mother
+T182	GeneticRelations 7162 7168	mother
+T183	GeneticRelations 6977 6983	mother
+T184	GeneticRelations 4424 4430	mother
+T185	GeneticRelations 4678 4684	mother
+T186	GeneticRelations 7942 7948	parent
+T193	Bacteria 8001 8009	bacteria
+T195	ActionsForAnimals 9409 9414	barks
+T196	Taxonomy 5218 5225	species
+T197	Taxonomy 6044 6051	species
+T198	OrganicProcesses 6650 6657	process
+T200	OrganicProcesses 5182 5190	function
+T201	OrganicProcesses 5996 6004	function
+T205	Birth 5467 5472	birth
+T206	Birth 4341 4350	pregnancy
+T207	Birth 7008 7017	pregnancy
+T208	Birth 4560 4565	fetal
+T209	WordsForOffspring 5481 5490	offspring
+T210	WordsForOffspring 5639 5648	offspring
+T211	WordsForOffspring 4329 4333	baby
+T212	Development 4318 4328	developing
+T213	Development 7045 7056	development
+T214	Reproduction 6078 6090	reproduction
+T215	Reproduction 7645 7664	sexual reproduction
+T216	Reproduction 5695 5704	reproduce
+T222	Reproduction 6763 6776	fertilization
+T223	Reproduction 4341 4350	pregnancy
+T224	Reproduction 7008 7017	pregnancy
+T225	PrenatalOrganismStates 4008 4015	gametes
+T226	PrenatalOrganismStates 7036 7042	embryo
+T227	PrenatalOrganismStates 6474 6480	embryo
+T228	PrenatalOrganismStates 7128 7134	embryo
+T229	PrenatalOrganismStates 7066 7072	embryo
+T230	PrenatalOrganismStates 7199 7205	embryo
+T231	PrenatalOrganismStates 7252 7258	embryo
+T232	PrenatalOrganismStates 6466 6469	egg
+T237	PrenatalOrganismStates 4468 4473	fetus
+T238	PrenatalOrganismStates 6446 6451	fetus
+T239	PrenatalOrganismStates 8134 8148	fertilized egg
+T241	Homeostasis 1077 1085	regulate
+T242	LivingDying 6022 6030	survival
+T243	LivingDying 5683 5690	survive
+T244	LivingDying 9387 9393	living
+T245	Toxins 4298 4303	waste
+T247	AnimalSystemsProcesses 2409 2421	organ system
+T248	AnimalSystemsProcesses 4870 4882	organ system
+T249	AnimalSystemsProcesses 1481 1493	organ system
+T250	DigestiveSystem 1973 1989	digestive system
+T251	DigestiveSystem 1998 2014	digestive system
+T252	DigestiveSystem 4916 4932	digestive system
+T253	DigestiveSystem 5231 5240	digestive
+T254	DigestiveSystem 3363 3372	digestive
+T255	DigestiveSystem 1181 1190	digestive
+T256	DigestiveSystem 603 618	digestive tract
+T258	DigestionActions 6749 6758	digestion
+T261	PartsOfTheDigestiveSystem 6168 6175	stomach
+T262	PartsOfTheDigestiveSystem 6136 6145	esophagus
+T263	PartsOfTheDigestiveSystem 6181 6192	gallbladder
+T264	PartsOfTheDigestiveSystem 6161 6166	mouth
+T267	RespiratorySystem 2050 2068	respiratory system
+T268	RespiratorySystem 2503 2521	respiratory system
+T269	RespiratorySystem 4956 4974	respiratory system
+T270	RespiratorySystem 3377 3388	respiratory
+T271	RespiratorySystem 1209 1220	respiratory
+T272	RespirationActions 1094 1103	breathing
+T273	RespirationActions 4481 4490	breathing
+T274	RespirationActions 6733 6744	respiration
+T275	PartsOfTheRespiratorySystem 6161 6166	mouth
+T276	PartsOfTheRespiratorySystem 1024 1029	lungs
+T277	PartsOfTheRespiratorySystem 4687 4692	lungs
+T278	PartsOfTheRespiratorySystem 6129 6134	lungs
+T279	ExcretorySystem 1195 1204	excretory
+T280	ExcretorySystem 3349 3358	excretory
+T281	ExcretorySystem 5257 5266	excretory
+T282	PartsOfTheExcretorySystem 4566 4571	urine
+T283	PartsOfTheExcretorySystem 1024 1029	lungs
+T284	PartsOfTheExcretorySystem 4687 4692	lungs
+T285	PartsOfTheExcretorySystem 6129 6134	lungs
+T288	CirculatorySystem 1633 1644	circulatory
+T289	CirculatorySystem 3418 3429	circulatory
+T290	CirculatorySystem 1598 1609	circulatory
+T291	CirculatorySystem 1225 1236	circulatory
+T292	CirculatorySystem 677 695	circulatory system
+T293	CirculatorySystem 2023 2041	circulatory system
+T294	CirculatorySystem 2530 2548	circulatory system
+T295	PartsOfTheCirculatorySystem 4648 4661	blood vessels
+T296	PartsOfTheCirculatorySystem 1038 1043	heart
+T297	PartsOfTheCirculatorySystem 1113 1118	heart
+T298	PartsOfTheCirculatorySystem 6151 6156	heart
+T300	Blood 4433 4438	blood
+T302	ImmuneSystem 1546 1559	immune system
+T303	ImmuneSystem 1614 1627	immune system
+T304	ImmuneSystem 3338 3344	immune
+T305	EndocrineSystem 2478 2494	endocrine system
+T306	EndocrineSystem 1167 1176	endocrine
+T309	EndocrineActions 1077 1085	regulate
+T310	PartsOfEndocrineSystem 4031 4037	testes
+T311	PartsOfEndocrineSystem 4042 4049	ovaries
+T312	PartsOfEndocrineSystem 6197 6204	ovaries
+T313	PartsOfEndocrineSystem 6168 6175	stomach
+T314	PartsOfEndocrineSystem 6206 6212	uterus
+T315	PartsOfEndocrineSystem 4399 4407	placenta
+T316	PartsOfEndocrineSystem 4519 4527	placenta
+T317	PartsOfEndocrineSystem 7181 7189	placenta
+T318	PartsOfEndocrineSystem 7234 7242	placenta
+T319	PartsOfEndocrineSystem 6435 6440	ovary
+T320	PartsOfEndocrineSystem 1038 1043	heart
+T321	PartsOfEndocrineSystem 1113 1118	heart
+T322	PartsOfEndocrineSystem 6151 6156	heart
+T324	NervousSystem 1950 1964	nervous system
+T325	NervousSystem 2077 2091	nervous system
+T326	NervousSystem 3664 3678	nervous system
+T327	NervousSystem 2455 2469	nervous system
+T328	NervousSystem 2124 2138	nervous system
+T329	NervousSystem 4937 4951	nervous system
+T330	NervousSystem 3393 3400	nervous
+T331	NervousSystem 1534 1541	nervous
+T332	NervousSystem 1155 1162	nervous
+T333	NervousSystem 5245 5252	nervous
+T334	NervousSystem 1565 1572	nervous
+T335	PartsOfTheNervousSystem 3790 3798	dendrite
+T336	PartsOfTheNervousSystem 2860 2874	sensory neuron
+T337	PartsOfTheNervousSystem 313 326	myelin sheath
+T338	PartsOfTheNervousSystem 346 362	nodes of Ranvier
+T339	PartsOfTheNervousSystem 211 217	neuron
+T340	PartsOfTheNervousSystem 3746 3752	neuron
+T341	PartsOfTheNervousSystem 258 264	neuron
+T342	PartsOfTheNervousSystem 6103 6114	spinal cord
+T343	PartsOfTheNervousSystem 3781 3785	axon
+T344	PartsOfTheNervousSystem 332 341	dendrites
+T345	PartsOfTheNervousSystem 2930 2935	brain
+T346	PartsOfTheNervousSystem 2975 2980	brain
+T347	PartsOfTheNervousSystem 3026 3031	brain
+T348	PartsOfTheNervousSystem 6096 6101	brain
+T349	PartsOfTheNervousSystem 158 172	Nerve impulses
+T350	PartsOfTheNervousSystem 655 665	nerve tube
+T353	PartsOfTheNervousSystem 3639 3646	Neurons
+T354	PartsOfTheNervousSystem 2985 2997	motor neuron
+T355	PartsOfTheNervousSystem 367 372	axons
+T356	PartsOfTheNervousSystem 2892 2904	interneurons
+T357	MuscularSystem 1129 1137	muscular
+T358	MuscularSystem 2100 2115	muscular system
+T359	MuscularSystem 3317 3332	muscular system
+T360	MuscularSystem 1577 1592	muscular system
+T361	MuscularSystem 1649 1664	muscular system
+T362	PartsOfTheMuscularSystem 2438 2445	muscles
+T363	PartsOfTheMuscularSystem 2361 2375	muscle systems
+T364	IntegumentarySystem 3434 3447	integumentary
+T365	PartsOfTheIntegumentarySystem 8044 8053	skin cell
+T366	PartsOfTheIntegumentarySystem 8080 8089	skin cell
+T367	SkeletalSystem 714 722	skeleton
+T368	SkeletalSystem 1142 1150	skeletal
+T369	SkeletalSystem 3405 3413	skeletal
+T371	ReproductiveSystem 4979 4998	reproductive system
+T372	ReproductiveSystem 5271 5283	reproductive
+T373	PartsOfTheReproductiveSystem 4377 4391	umbilical cord
+T374	PartsOfTheReproductiveSystem 4599 4613	umbilical cord
+T375	PartsOfTheReproductiveSystem 4031 4037	testes
+T376	PartsOfTheReproductiveSystem 4042 4049	ovaries
+T377	PartsOfTheReproductiveSystem 6197 6204	ovaries
+T378	PartsOfTheReproductiveSystem 4054 4061	scrotum
+T379	PartsOfTheReproductiveSystem 4066 4080	fallopian tube
+T380	PartsOfTheReproductiveSystem 6218 6232	fallopian tube
+T381	PartsOfTheReproductiveSystem 6206 6212	uterus
+T382	PartsOfTheReproductiveSystem 7547 7555	egg cell
+T383	PartsOfTheReproductiveSystem 4901 4909	egg cell
+T384	PartsOfTheReproductiveSystem 8105 8113	egg cell
+T386	PartsOfTheReproductiveSystem 4892 4897	sperm
+T387	PartsOfTheReproductiveSystem 6456 6461	sperm
+T388	PartsOfTheReproductiveSystem 7522 7532	sperm cell
+T389	PartsOfTheReproductiveSystem 8095 8100	sperm
+T390	PartsOfTheReproductiveSystem 6435 6440	ovary
+T391	Senses 8392 8397	taste
+T392	Senses 8676 8681	taste
+T393	Senses 9608 9616	touching
+T394	Senses 8402 8407	touch
+T395	Senses 8644 8649	sight
+T396	Senses 2798 2805	hearing
+T397	Senses 8370 8377	hearing
+T398	Senses 8654 8661	hearing
+T399	Senses 9571 9578	hearing
+T400	Senses 8897 8903	senses
+T401	Senses 9583 9591	smelling
+T402	Senses 8318 8323	sense
+T403	Senses 8571 8576	sense
+T404	Senses 9516 9521	sense
+T405	Senses 8382 8387	smell
+T406	Senses 8666 8671	smell
+T407	Senses 9596 9603	tasting
+T408	SensoryTerms 2780 2786	sounds
+T409	SensoryTerms 9415 9421	loudly
+T415	SensoryTerms 2775 2779	loud
+T416	SensoryTerms 2798 2805	hearing
+T427	SensoryTerms 2944 2960	sound-processing
+T431	Injuries 1469 1473	harm
+T433	Injuries 1923 1930	sprains
+T434	Nutrition 6996 7000	diet
+T435	Nutrition 5590 5594	food
+T436	Nutrition 7148 7152	food
+T437	PoorHealth 6986 6995	unhealthy
+T444	Measurements 5635 5638	per
+T447	MeasuringSpeed 1044 1048	rate
+T448	MeasuringSpeed 1104 1108	rate
+T449	MeasuringSpeed 1119 1123	rate
+T450	MeasuringSpeed 5537 5541	rate
+T462	ManmadeObjects 2386 2390	ball
+T463	ManmadeObjects 3270 3274	ball
+T477	Property 557 571	characteristic
+T478	Property 7502 7516	characteristic
+T484	Age 5556 5562	mature
+T485	Age 6688 6691	new
+T486	Age 7899 7902	new
+T487	Age 7987 7990	new
+T488	Age 8030 8033	new
+T489	Ability 2806 2813	ability
+T490	Ability 8614 8621	ability
+T491	Ability 8841 8848	ability
+T494	Gender 5443 5449	female
+T496	Gender 4003 4007	male
+T504	Shape 648 654	hollow
+T505	Shape 7561 7566	round
+T506	Shape 7567 7572	shape
+T507	Size 5514 5520	larger
+T508	Texture 8357 8364	texture
+T509	Composition 700 704	bony
+T519	Quality 8861 8867	useful
+T520	Speed 9478 9485	quickly
+T521	Complexity 2817 2823	direct
+T522	Complexity 3299 3307	directly
+T528	Position 670 676	closed
+T529	Position 641 647	dorsal
+T530	AbilityAvailability 5581 5589	reliable
+T531	Safety 2753 2761	exposure
+T532	Safety 7021 7028	harmful
+T533	Safety 9459 9465	danger
+T541	Rarity 5987 5995	specific
+T542	AmountComparison 2765 2774	extremely
+T543	Numbers 5571 5577	number
+T544	Numbers 5611 5617	amount
+T545	CardinalNumber 5478 5480	15
+T546	CardinalNumber 624 627	two
+T547	CardinalNumber 1869 1872	two
+T548	CardinalNumber 3282 3285	two
+T549	CardinalNumber 5476 5477	5
+T550	RelativeNumber 7082 7086	half
+T558	EarthPartsGrossGroundAtmosphere 1011 1014	air
+T570	Compound 4283 4297	carbon dioxide
+T593	Element 7215 7221	oxygen
+T595	GaseousMatter 1011 1014	air
+T610	ActUponSomething 2999 3007	applying
+T612	ActUponSomething 1897 1908	interacting
+T620	AmountChangingActions 5497 5506	increases
+T623	AmountChangingActions 1053 1062	increased
+T624	AmountChangingActions 2791 2797	reduce
+T626	Believe 9449 9453	know
+T629	ChangeInto 7982 7986	into
+T630	ChangeInto 8025 8029	into
+T633	CombineAdd 4503 4511	absorbed
+T634	Relations 4641 4647	shared
+T635	CombineAdd 9105 9111	enters
+T636	ContainBeComposedOf 619 623	with
+T637	CombineAdd 3308 3312	with
+T638	Cause 5507 5511	with
+T639	ContainBeComposedOf 6697 6701	with
+T641	CombineAdd 8115 8122	uniting
+T642	Communicate 9554 9565	communicate
+T643	Communicate 3701 3708	signals
+T644	Communicate 6962 6970	explains
+T645	Communicate 3760 3766	signal
+T648	ContainBeComposedOf 5981 5984	has
+T649	ContainBeComposedOf 5878 5886	composed
+T650	ContainBeComposedOf 7600 7608	contains
+T652	Create 8126 8133	produce
+T653	Create 8067 8074	produce
+T654	Cause 1512 1519	produce
+T656	Create 4304 4312	produced
+T657	Create 6420 6428	produced
+T658	Create 6673 6682	formation
+T660	Create 3994 4002	produces
+T661	Create 4883 4891	produces
+T663	ContainBeComposedOf 5908 5912	made
+T667	Differentiate 5916 5927	specialized
+T669	Harm 2824 2830	damage
+T670	Harm 1469 1473	harm
+T671	Harm 7021 7028	harmful
+T672	Help 6010 6014	aids
+T675	Help 1447 1454	protect
+T676	Identify 8335 8344	determine
+T677	Identify 8592 8601	determine
+T678	IncreaseDecrease 5497 5506	increases
+T679	IncreaseDecrease 1053 1062	increased
+T685	Move 927 935	sprinted
+T686	Move 9105 9111	enters
+T687	Separate 4581 4586	exits
+T688	Move 9486 9488	go
+T692	Transportation 4362 4369	carried
+T693	Transportation 4625 4632	carried
+T694	Transportation 7278 7285	carried
+T695	Transportation 3684 3688	send
+T696	Transportation 3753 3757	send
+T706	LightMovement 8625 8632	reflect
+T707	Observe 8872 8891	making observations
+T708	Occur 4268 4275	happens
+T709	PerformAnActivity 2422 2433	coordinates
+T710	PhysicalActivity 986 989	run
+T711	PerformAnActivity 1495 1499	work
+T712	PerformAnActivity 3294 3298	work
+T716	PerformAnActivity 3739 3743	does
+T717	Preserve 5198 5210	continuation
+T718	Preserve 1447 1454	protect
+T720	Represent 4253 4262	describes
+T721	Require 7633 7641	involved
+T726	Release 4450 4458	released
+T727	Release 4539 4547	released
+T729	Divide 7972 7981	splitting
+T730	Divide 8016 8024	dividing
+T731	Divide 8055 8063	dividing
+T738	Uptake 3693 3700	receive
+T740	Uptake 265 273	receives
+T741	Uptake 7135 7143	receives
+T742	Uptake 7206 7214	receives
+T743	Uptake 7259 7267	receives
+T744	Uptake 999 1005	taking
+T745	Use 6070 6074	used
+T746	Use 8327 8331	used
+T747	Use 8584 8588	used
+T749	Use 9545 9550	using
+T751	Use 2351 2354	use
+T758	TemporalProperty 2744 2752	Repeated
+T761	ResponseType 4243 4252	statement
+T762	ResponseType 6952 6961	statement
+T769	RelativeTime 968 970	At
+T771	RelativeTime 4412 4416	then
+T772	RelativeTime 4495 4499	then
+T773	RelativeTime 4576 4580	then
+T774	RelativeTime 4666 4670	then
+T775	RelativeTime 975 978	end
+T777	RelativeTime 4334 4340	during
+T778	RelativeTime 7001 7007	during
+T779	RelativeTime 1909 1913	when
+T780	RelativeTime 3241 3245	When
+T781	ManmadeLocations 960 966	school
+T782	ManmadeLocations 947 952	track
+T785	TerrestrialLocations 9489 9500	underground
+T786	RelativeLocations 2876 2878	in
+T787	RelativeLocations 9394 9396	in
+T789	RelativeLocations 7642 7644	in
+T790	RelativeLocations 4016 4018	in
+T792	RelativeLocations 6075 6077	in
+T793	RelativeLocations 2968 2970	in
+T794	RelativeLocations 6429 6431	in
+T796	RelativeLocations 705 713	internal
+T798	RelativeLocations 953 955	at
+T801	Cause 2814 2816	by
+T802	Cause 7286 7288	by
+T803	Cause 4370 4372	by
+T804	Cause 4512 4514	by
+T805	Cause 4474 4476	by
+T806	Cause 4313 4315	by
+T807	RelativeLocations 2905 2912	between
+T811	RelativeDirection 2762 2764	to
+T812	Result 8123 8125	to
+T813	RelativeDirection 4417 4419	to
+T814	RelativeDirection 4276 4278	to
+T815	RelativeDirection 3032 3034	to
+T818	Result 8064 8066	to
+T820	RelativeDirection 2831 2833	to
+T822	RelativeDirection 4671 4673	to
+T823	RelativeDirection 4392 4394	to
+T825	RelativeDirection 7029 7031	to
+T829	RelativeDirection 3017 3021	from
+T830	RelativeDirection 1464 1468	from
+T831	RelativeDirection 7933 7937	from
+T832	RelativeDirection 3710 3714	From
+T833	RelativeDirection 7153 7157	from
+T834	RelativeDirection 7103 7107	from
+T835	RelativeDirection 4459 4463	from
+T836	RelativeDirection 1015 1019	into
+T837	RelativeDirection 2391 2395	into
+T841	PrepositionalDirections 936 942	around
+T845	PrepositionalDirections 4633 4640	through
+T846	PrepositionalDirections 9126 9133	through
+T847	PrepositionalDirections 7222 7229	through
+T848	PrepositionalDirections 7169 7176	through
+T849	PrepositionalDirections 4548 4555	through
+T850	PrepositionalDirections 4587 4594	through
+T851	PrepositionalDirections 189 194	along
+T852	Comparisons 5890 5899	different
+T853	Comparisons 7923 7932	different
+T854	Comparisons 4898 4900	or
+T855	Comparisons 9423 9428	Other
+T856	AmountComparison 7918 7922	most
+T857	AmountComparison 8856 8860	most
+T858	AmountComparison 1006 1010	more
+T859	AmountComparison 8075 8079	more
+T860	ImportanceComparison 5174 5181	primary
+T862	DistanceComparison 9469 9473	near
+T863	DistanceComparison 9442 9448	nearby
+T871	NaturalSelection 6022 6030	survival
+T872	NaturalSelection 5683 5690	survive
+T873	NaturalSelection 6781 6790	evolution
+T874	Undiscovered 9504 9508	hide
+T879	AbilityAvailability 1443 1446	can
+T880	AbilityAvailability 2787 2790	can
+T881	AbilityAvailability 5458 5461	can
+T882	AbilityAvailability 8577 8580	can
+T883	AbilityAvailability 575 584	exclusive
+T885	Relations 1897 1908	interacting
+T886	Relations 1500 1508	together
+T911	AnimalSystemsProcesses 3286 3293	systems
+T912	SystemAndFunctions 5900 5907	systems
+T914	AnimalSystemsProcesses 1873 1880	systems
+T918	AnimalSystemsProcesses 1069 1076	systems
+T921	HumanPart 3983 3993	structures
+T922	SystemParts 5970 5980	structures
+T923	SystemParts 6406 6416	structures
+T924	SystemParts 2840 2850	structures
+T927	ActUponSomething 2422 2433	coordinates
+T968	GapsAndCracks 628 636	openings
+T971	Exemplar 7875 7882	example
+T1004	StateOfBeing 995 998	was
+T1005	StateOfBeing 7577 7585	presence
+T1009	Event 224 230	action
+T1016	GenericTerms 8348 8354	object
+T1017	GenericTerms 8605 8611	object
+T1018	ObjectPart 2961 2967	center
+T1020	ObjectPart 248 252	part
+T1024	ObjectQuantification 3721 3728	portion
+T1026	Negations 7533 7536	but
+T1027	Negations 7537 7540	not
+T1037	ManmadeLocations 2398 2402	goal
+T1041	Cause 6971 6974	why
+T1042	Cause 278 289	stimulation
+T1043	Source 5595 5602	sources
+T1045	Response 299 307	impulses
+T1046	Response 1436 1442	reflex
+T1047	Response 1522 1528	reflex
+T1080	ObjectQuantification 6709 6712	set
+T1082	GroupsOfOrganisms 5521 5527	litter
+T1083	GroupsOfOrganisms 9399 9408	community
+T1085	OpportunitiesAndTheirExtent 231 240	potential
+T1086	ProbabilityAndCertainty 5657 5667	likelihood
+T1087	ProbabilityAndCertainty 7883 7888	would
+T1088	ProbabilityAndCertainty 5678 5682	will
+T1089	LevelOfInclusion 5956 5960	Each
+T1093	LevelOfInclusion 9526 9531	these
+T1094	LevelOfInclusion 293 298	these
+T1095	LevelOfInclusion 5964 5969	these
+T1096	LevelOfInclusion 6400 6405	these
+T1097	LevelOfInclusion 3977 3982	these
+T1098	LevelOfInclusion 6391 6396	Which
+T1099	LevelOfInclusion 3276 3281	which
+T1100	LevelOfInclusion 1475 1480	Which
+T1101	LevelOfInclusion 1863 1868	Which
+T1102	LevelOfInclusion 5545 5550	which
+T1103	LevelOfInclusion 551 556	Which
+T1104	LevelOfInclusion 3968 3973	Which
+T1105	LevelOfInclusion 8835 8840	Which
+T1106	LevelOfInclusion 6946 6951	Which
+T1107	LevelOfInclusion 6053 6058	Which
+T1108	LevelOfInclusion 7491 7496	Which
+T1109	LevelOfInclusion 7869 7874	Which
+T1110	LevelOfInclusion 8312 8317	Which
+T1111	LevelOfInclusion 5154 5159	Which
+T1112	LevelOfInclusion 3715 3720	which
+T1113	LevelOfInclusion 8565 8570	Which
+T1114	LevelOfInclusion 9510 9515	Which
+T1115	LevelOfInclusion 242 247	Which
+T1116	LevelOfInclusion 6644 6649	Which
+T1117	LevelOfInclusion 2834 2839	which
+T1118	LevelOfInclusion 4858 4863	Which
+T1122	LevelOfInclusion 5673 5677	some
+T1127	Problem 9459 9465	danger
+T1132	Viewpoint 8919 8929	creativity
+T1133	Viewpoint 8934 8945	imagination
+T1134	Viewpoint 8908 8914	memory
+T1147	NUMBER 624 627	two
+T1148	PERSON 921 926	Anita
+T1149	PERSON 1086 1091	Anita
+T1150	NUMBER 1869 1872	two
+T1151	NUMBER 3282 3285	two
+T15	StateOfBeing 218 220	as
+T453	StateOfBeing 173 176	are
+T464	StateOfBeing 572 574	is
+T50	StateOfBeing 1893 1896	are
+T12	StateOfBeing 3647 3650	are
+T9	StateOfBeing 4359 4361	is
+T17	StateOfBeing 4447 4449	is
+T23	StateOfBeing 4536 4538	is
+T42	StateOfBeing 4622 4624	is
+T16	StateOfBeing 4500 4502	is
+T43	AnimalSystemsProcesses 5160 5171	body system
+T44	StateOfBeing 5191 5193	is
+T48	StateOfBeing 5875 5877	is
+T10	StateOfBeing 6066 6069	are
+T11	StateOfBeing 6417 6419	is
+T30	Cause 6658 6668	results in
+T5	StateOfBeing 7018 7020	is
+T31	StateOfBeing 7497 7499	is
+T29	Cause 7889 7898	result in
+T6	StateOfBeing 7914 7917	are
+T7	StateOfBeing 8324 8326	is
+T8	StateOfBeing 8581 8583	be
+T18	StateOfBeing 8849 8851	is
+T1	StateOfBeing 9466 9468	is
+T19	StateOfBeing 9522 9525	are

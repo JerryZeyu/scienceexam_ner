@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407295] [OTHER_HIST]
+Louis Pasteur created a process that reduced the amount of bacteria in milk. How does this process most likely benefit people?
+(A) by helping to prevent food allergies
+(B) by encouraging people to eat healthy foods
+(C) by helping to keep people from becoming ill
+(D) by curing diseases caused by lack of vitamins
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401799] [OTHER_HIST]
+Which scientist is credited with using a telescope in the seventeenth century to discover the moons of Jupiter?
+(A) Galileo
+(B) Kepler
+(C) Einstein
+(D) Newton
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401004] [OTHER_HIST]
+What enabled Galileo in the 17th century to see the moons of Jupiter?
+(A) Jupiter came close to Earth during his lifetime.
+(B) He realized that all of the planets go around the Sun.
+(C) He invented advanced tools for looking at the sky.
+(D) Earlier scientists failed to take an interest in the sky.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401660] [OTHER_HIST]
+When Isaac Newton theorized that gravity caused objects to fall to the ground, he had also discovered the force that causes
+(A) chemicals to react.
+(B) volcanoes to erupt.
+(C) lightning to strike Earth.
+(D) the planets to orbit the Sun.
+----------------------------------------------------------------------------------------------
+[VASoL_2011_5_4] [OTHER_HIST]
+Early scientists most likely saw a discharge of electricity for the first time when observing a
+(A) waterfall
+(B) rainbow
+(C) lightning storm
+(D) volcano erupting
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401676] [OTHER_HIST]
+Darwin's theory that animal species can change over time was inspired by his research on which set of islands?
+(A) the Philippine Islands
+(B) the Virgin Islands
+(C) the Hawaiian Islands
+(D) the Galapagos Islands
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401005] [OTHER_HIST]
+Which scientist is best known for studying plants and animals?
+(A) Isaac Newton
+(B) Albert Einstein
+(C) Charles Darwin
+(D) Nicolaus Copernicus
+----------------------------------------------------------------------------------------------
+[Mercury_LBS10054] [OTHER_HIST]
+Which did Thomas Edison invent?
+(A) microscope
+(B) compass
+(C) light bulb
+(D) steam engine
+----------------------------------------------------------------------------------------------
+[Mercury_182858] [OTHER_HIST]
+Who was the first person to base a system of classification on organisms having similar structures?
+(A) Aristotle
+(B) Darwin
+(C) Einstein
+(D) Linnaeus
+----------------------------------------------------------------------------------------------
+[Mercury_7009783] [OTHER_HIST]
+The Heliocentric Theory, as supported by Copernicus, revolutionized scientific theories regarding
+(A) the life cycle.
+(B) the water cycle.
+(C) the solar system.
+(D) the immune system.
+----------------------------------------------------------------------------------------------
+[Mercury_7027353] [OTHER_HIST]
+Newton's work in physics helped to provide mathematical explanations for the earlier conclusions of which scientist?
+(A) Ptolemy
+(B) Aristotle
+(C) Nicolas Copernicus
+(D) Dmitri Mendeleev
+----------------------------------------------------------------------------------------------
+[Mercury_7043120] [OTHER_HIST]
+A scientist developed a model that described the actions of DNA in the cell nuclei, which helped explain how traits were inherited. Which scientist helped develop this model?
+(A) Bohr
+(B) Hooke
+(C) Mendel
+(D) Watson
+----------------------------------------------------------------------------------------------
+[Mercury_7032375] [OTHER_HIST]
+Which scientist studied biology by traveling by ship to different islands observing animal life, and developed a hypothesis about how species change?
+(A) Galileo Galilei
+(B) Albert Einstein
+(C) Charles Darwin
+(D) Sir Isaac Newton
+----------------------------------------------------------------------------------------------
+[Mercury_7043103] [OTHER_HIST]
+The change in the use of one model of the solar system to the use of another model resulted in major changes in science and society. Which two scientists produced the earlier and later models, respectively?
+(A) Hooke and Mendel
+(B) Newton and Galileo
+(C) Aristotle and Einstein
+(D) Ptolemy and Copernicus
+----------------------------------------------------------------------------------------------
+[Mercury_7027300] [OTHER_HIST]
+Which scientist formulated rules that describe the observable relationships of plant traits to the traits of the ancestor plants?
+(A) Linus Pauling
+(B) Gregor Mendel
+(C) James Watson
+(D) Albert Einstein
+----------------------------------------------------------------------------------------------
+[Mercury_7212415] [OTHER_HIST]
+The Greek philosopher Aristotle described matter with the phrase "unable to be divided." The modern concept that grew from Aristotle's idea is the
+(A) atom.
+(B) proton.
+(C) neutron.
+(D) electron.
+----------------------------------------------------------------------------------------------
+[Mercury_175070] [OTHER_HIST]
+The work of which scientist serves as the basis for many procedures used in agriculture, such as selective breeding of plants?
+(A) Darwin
+(B) Mendel
+(C) Einstein
+(D) Pasteur
+----------------------------------------------------------------------------------------------
+[Mercury_7009800] [OTHER_HIST]
+Copernicus changed the way people viewed the solar system by
+(A) claiming Earth is in orbit about the Sun.
+(B) inventing, then improving, the telescope.
+(C) writing the theory of the infinite universe.
+(D) showing planetary orbits are elliptical.
+----------------------------------------------------------------------------------------------
+[Mercury_7218155] [OTHER_HIST]
+In the 1500s, Nicolaus Copernicus proposed a new theory on the heliocentric structure of the solar system. Which of these statements best describes this new theory?
+(A) Earth is at the center of the solar system.
+(B) There are eight planets in the solar system.
+(C) The Sun is at the center of the solar system.
+(D) Moons have circular orbits in the solar system.
+----------------------------------------------------------------------------------------------
+[Mercury_186375] [OTHER_HIST]
+An agricultural scientist, George Washington Carver, is most famous for his research on
+(A) tobacco.
+(B) peanuts.
+(C) mold.
+(D) corn.
+----------------------------------------------------------------------------------------------
+[Mercury_186358] [OTHER_HIST]
+Which scientist is known for his genetics experiments with pea plants?
+(A) Charles Darwin
+(B) Gregor Mendel
+(C) Carolus Linnaeus
+(D) Robert Hooke
+----------------------------------------------------------------------------------------------
+[Mercury_7013615] [OTHER_HIST]
+In the 17th century, Gregor Mendel crossed pea plants with different traits and observed the results in their offspring. To which of these did Mendel contribute most directly with his work?
+(A) medicine
+(B) agriculture
+(C) science of force and motion
+(D) science of heredity and variation
+----------------------------------------------------------------------------------------------
+[Mercury_7222810] [OTHER_HIST]
+In the 17th century, Galileo proposed a hypothesis to explain how suction pumps work. Galileo's hypothesis was disproved, but later it helped Torricelli in the development of an instrument for measuring atmospheric pressure. How did Galileo's hypothesis most likely help with the development of this new technology?
+(A) by leading Galileo to design a different technology
+(B) by allowing another scientist to critique Galileo's hypothesis
+(C) by providing evidence of the effects of atmospheric pressure
+(D) by inspiring another scientist to test an alternative hypothesis
+----------------------------------------------------------------------------------------------
+[MCAS_2000_4_6] [OTHER_HIST]
+Which technology was developed most recently?
+(A) cellular telephone
+(B) television
+(C) refrigerator
+(D) airplane
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10938] [OTHER_HIST]
+Which of these scientific advances occurred first?
+(A) the invention of the telescope
+(B) the building of submarines
+(C) the generation of electricity
+(D) the breeding of plants

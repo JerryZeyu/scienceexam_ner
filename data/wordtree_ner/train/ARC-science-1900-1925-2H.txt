@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_8_33] [LIFE_EXTINCTION_MASSEX]
+Extinction of a species is most likely to occur as a result of
+(A) evolution
+(B) migration
+(C) selective breeding
+(D) environmental changes
+----------------------------------------------------------------------------------------------
+[Mercury_7235655] [LIFE_EXTINCTION_MASSEX]
+Some localized layers of rock contain the element iridium. Iridium is most often found in space objects such as meteoroids and asteroids. The discovery of these iridium-containing layers has been matched to which phenomena in Earth's history?
+(A) tectonic plate separations
+(B) mass species extinctions
+(C) orbital path changes
+(D) magnetic pole reversals
+----------------------------------------------------------------------------------------------
+[Mercury_7203263] [LIFE_EXTINCTION, EARTH_HUMIMP_WHAT_HABITATDEST]
+Deforestation in the rainforest can lead to localized extinctions of populations of some organisms. Once an area is deforested, which is most likely to decrease and result in organisms' extinctions?
+(A) the amount of annual rainfall
+(B) competition between consumers
+(C) the energy available to producers
+(D) diversity of the resources in the habitat
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415467] [LIFE_FUNCT_ENVCOND_ANIM]
+Which change would most likely cause deer to die or leave a woodland?
+(A) a forest fire
+(B) a rainstorm
+(C) a snow storm
+(D) a sinkhole
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405233] [LIFE_FUNCT_ENVCOND_ANIM]
+Deer live in forest for shelter. If the forest was cut down, which situation would most likely happen?
+(A) The deer would find shelter in a different habitat.
+(B) The deer would wait for the forest to grow back.
+(C) The deer would move to another forest area.
+(D) The deer would change the type of foods they eat.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415477] [LIFE_FUNCT_ENVCOND_ANIM]
+Which animal would most likely stay where it is?
+(A) a fox in forest fire
+(B) a frog whose pond has dried up
+(C) a beaver that just finished building its dam
+(D) a rabbit whose food is gone because of a drought
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415480] [LIFE_FUNCT_ENVCOND_ANIM]
+Which change would most likely increase the number of salamanders?
+(A) flood
+(B) drought
+(C) fire
+(D) landslide
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415468] [LIFE_FUNCT_ENVCOND_ANIM]
+Heavy rains cause flooding in a valley. Which animals would most likely thrive?
+(A) porcupines
+(B) otters
+(C) deer
+(D) mice
+----------------------------------------------------------------------------------------------
+[Mercury_SC_409238] [LIFE_FUNCT_ENVCOND_ANIM]
+An owl hunts mice that live in a farmer's field. After the farmer gathers the crops, the mice have fewer places to hide. Which is most likely to happen after the crops are gathered?
+(A) The owl will catch more mice.
+(B) The owl will hunt in a different field.
+(C) The owl will have new material to build its nest.
+(D) The owl will have a hard time feeding its young.
+----------------------------------------------------------------------------------------------
+[OHAT_2009_5_3] [LIFE_FUNCT_ENVCOND_ANIM]
+A mosquito is a type of flying insect that lays eggs in puddles or small pools of water. When larvae develop from eggs, the larvae come to the surface to get air through special breathing tubes. After one to two weeks, the larvae become pupae and then turn into adults. How would a dry summer affect a mosquito population?
+(A) The mosquito larvae would take longer to become pupae.
+(B) The adult mosquitoes would have fewer places to lay eggs.
+(C) The adult mosquitoes would get fluids by feeding more often.
+(D) The mosquito larvae would use their breathing tubes to live on land.
+----------------------------------------------------------------------------------------------
+[MCAS_2010_5_9] [LIFE_FUNCT_ENVCOND_ANIM]
+All the ponds in an area dried up during a drought. The population of which of the following animals that live in the area is most affected by the drought?
+(A) deer
+(B) frog
+(C) hawk
+(D) squirrel
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400395] [LIFE_FUNCT_ENVCOND_ANIM]
+If an environment becomes warmer and drier, the change that would most likely help a species adapt would be an increase in its
+(A) amount of body fat.
+(B) amount of body hair.
+(C) ability to climb trees.
+(D) ability to store water.
+----------------------------------------------------------------------------------------------
+[Mercury_7186970] [LIFE_FUNCT_ENVCOND_ANIM]
+Warm water contains less dissolved oxygen than colder water. Which population will be most affected by a long period of hot, dry days?
+(A) fish in ponds
+(B) fish in oceans
+(C) plants in lakes
+(D) plants in streams
+----------------------------------------------------------------------------------------------
+[Mercury_7168665] [LIFE_FUNCT_ENVCOND_ANIM]
+A pesticide gets into the waters of the Everglades and wipes out many of the fish, amphibian and bird populations on which alligators depend for food. Which change would most likely occur among the alligator population?
+(A) increase in the reproduction rate
+(B) decrease in the number of alligator deaths
+(C) increase in aggression between individuals
+(D) decrease in the number of alligators migrating

@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_182210] [OTHER]
+Which of the following eras is known as the "Age of Mammals"?
+(A) Precambrian
+(B) Paleozoic
+(C) Mesozoic
+(D) Cenozoic
+----------------------------------------------------------------------------------------------
+[OHAT_2009_5_4] [OTHER]
+Scientists often work together to solve a problem. Sometimes they work in laboratories. Sometimes they are outside doing fieldwork. The chart provides a list of some careers in science. Which scientists might work together to save a polluted wetland?
+(A) chemist, botanist and ecologist
+(B) astronomer, ecologist and physicist
+(C) physicist, paleontologist and chemist
+(D) botanist, astronomer and paleontologist
+----------------------------------------------------------------------------------------------
+[Mercury_SC_409254] [OTHER]
+A grocery company found a way to keep fresh foods from spoiling when transporting them long distances. How might this new technology help people in Hawaii?
+(A) by increasing the types of food available in stores
+(B) by decreasing the amount of food sold in stores
+(C) by increasing the time it takes to shop in stores
+(D) by decreasing the number of stores
+----------------------------------------------------------------------------------------------
+[Mercury_7091928] [OTHER]
+All nations need to import and export goods for their economic survival. As a result, many island nations have developed advanced technology for transporting goods by
+(A) space.
+(B) rail.
+(C) sea.
+(D) road.
+----------------------------------------------------------------------------------------------
+[MCAS_2009_8_5] [OTHER]
+Which of the following would be most effective in reducing air traffic congestion at a busy airport?
+(A) providing performance feedback to pilots
+(B) providing flight information to passengers
+(C) increasing the number of aircraft at the airport
+(D) increasing the number of runways at the airport
+----------------------------------------------------------------------------------------------
+[MCAS_2002_8_19] [OTHER]
+In the construction of a house, the words excavation, slab, and footing are associated with the
+(A) roof.
+(B) floor.
+(C) frame.
+(D) foundation.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_6] [OTHER_CURIOSITY]
+A person named Leonardo da Vinci studied many things including animals, geology, clouds, and flight. His study of birds helped him design the first parachute. Everything he saw made him ask how and why. Which human quality most likely made this person want to study many different things?
+(A) duty
+(B) wisdom
+(C) kindness
+(D) curiosity
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_4_4] [OTHER_CURIOSITY]
+Benjamin Franklin invented many different things. Among his inventions were bifocal glasses, the lightning rod, and a type of iron stove. Which personal quality most likely led to the invention of these things?
+(A) humor
+(B) honesty
+(C) curiosity
+(D) leadership
+----------------------------------------------------------------------------------------------
+[Mercury_7124338] [OTHER_CURIOSITY]
+A questioning mind would be helpful for a scientist because it would lead the scientist to
+(A) become more creative.
+(B) distrust the work of other scientists.
+(C) work to accept published hypotheses.
+(D) conduct research to confirm or disprove theories.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405764] [OTHER_DEVICE]
+John was using his mp3 player when it suddenly stopped working. What is the first thing John should do to try correcting the problem?
+(A) recharge the battery
+(B) take the player apart
+(C) replace the player with a new one
+(D) change to a different song
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405208] [OTHER_DEVICE]
+Which fact is a benefit of airplanes?
+(A) Airplanes are hard to fly.
+(B) Airplanes cost a lot of money.
+(C) Airplanes can travel very quickly.
+(D) Airplanes take off from the airport.
+----------------------------------------------------------------------------------------------
+[AIMS_2008_4_9] [OTHER_DEVICE]
+Which invention has technology that helps people keep food fresh for a long period of time?
+(A) dishwasher
+(B) refrigerator
+(C) electric mixer
+(D) microwave oven
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_5] [OTHER_DEVICE]
+Changes in the weather are important to people living in Alaska. Which two tools best help scientists to share information about weather?
+(A) radio and computer
+(B) clock and notebook
+(C) television and hand lens
+(D) microscope and telephone
+----------------------------------------------------------------------------------------------
+[MCAS_1999_4_34] [OTHER_DEVICE]
+In the first half of this century, which technology allowed people, for the first time, to work IN the city but live OUTSIDE the city?
+(A) airplanes
+(B) automobiles
+(C) telephones
+(D) television
+----------------------------------------------------------------------------------------------
+[MCAS_1999_4_30] [OTHER_DEVICE]
+Many people like to use microwave ovens rather than traditional ovens. The main reason for this is that microwave ovens
+(A) take less time to cook food than regular ovens do.
+(B) get hotter than regular ovens.
+(C) do not leave spattered grease or food on the inside.
+(D) cannot overcook food.
+----------------------------------------------------------------------------------------------
+[Mercury_7220308] [OTHER_DEVICE]
+Discarded electronic devices, such as outdated computers and cell phones, contain materials that can be toxic to the environment. Which statement best explains why humans continue to use these technologies?
+(A) Electronics have become less expensive over time.
+(B) Some areas have recycling programs for electronics.
+(C) Industries that produce electronics help the economy.
+(D) Humans value the benefits of these devices over their cost.
+----------------------------------------------------------------------------------------------
+[MCAS_2000_8_33] [OTHER_DEVICE]
+Signs in many stores and restaurants warn that microwaves are in use. What is the main reason for this warning?
+(A) Some people do not like food cooked in microwave ovens.
+(B) Microwaves sometimes affect people's sense of sight.
+(C) Microwaves sometimes cause hair or teeth to fall out.
+(D) Some people have pacemakers that may be affected by microwaves.
+----------------------------------------------------------------------------------------------
+[Mercury_7212030] [OTHER_DEVICE]
+Compared to similar-sized gasoline-powered vehicles, electric-gasoline-hybrid vehicles are primarily designed to
+(A) produce more horsepower.
+(B) eliminate greenhouse gas emissions.
+(C) operate independently of fossil fuels.
+(D) provide better gas mileage.
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5185] [OTHER_DEVICE]
+Which of the following tools is most useful for tightening a small mechanical fastener?
+(A) chisel
+(B) pliers
+(C) sander
+(D) saw
+----------------------------------------------------------------------------------------------
+[MCAS_2016_8_5] [OTHER_DEVICE]
+An engineer constructs a prototype from wood. Which of the following is the best tool for the engineer to use to make the prototype's surface smooth?
+(A) band saw
+(B) chisel
+(C) drill
+(D) sandpaper
+----------------------------------------------------------------------------------------------
+[MCAS_2009_8_2] [OTHER_DEVICE]
+Sherry is going to use her computer to draw a three-dimensional box. She wants to be able to specify the exact dimensions and angles and to rotate the box as needed on the screen. Which of the following types of programs would Sherry most likely use for this purpose?
+(A) word processing software
+(B) math spreadsheet program
+(C) Internet-based search engine
+(D) computer-aided design program
+----------------------------------------------------------------------------------------------
+[MCAS_2003_8_23] [OTHER_DEVICE]
+Which of the following is the best example of a custom-made product?
+(A) graphing calculator
+(B) light bulb
+(C) needle nose pliers
+(D) artificial leg
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5170] [OTHER_DEVICE]
+Which of the following identifies the primary function of a radio station tower in a communication system?
+(A) decoder
+(B) encoder
+(C) receiver
+(D) transmitter
+----------------------------------------------------------------------------------------------
+[MCAS_2004_8_27] [OTHER_DEVICE]
+Which of the following is an example of an assistive device?
+(A) contact lens
+(B) motorcycle
+(C) raincoat
+(D) coffee pot
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400171] [OTHER_DEVICE]
+The use of the Internet has changed life for many people by directly allowing them to
+(A) build bigger houses.
+(B) communicate faster.
+(C) drive larger cars.
+(D) eat junk food.

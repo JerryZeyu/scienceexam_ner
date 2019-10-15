@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_410899] [SCI_INFERENCE_QUESTIONING, LIFE_INTERDEP_FOODCHAIN_PLANTPROD]
+Claudia's teacher places a photograph of an organism on the board. He asks Claudia to determine if the organism is a plant or an animal. The answer to which question will best help Claudia determine if the organism is a plant or an animal?
+(A) Does the organism have cells?
+(B) Does the organism reproduce?
+(C) Does the organism live in the forest?
+(D) Does the organism make its own food?
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402033] [SCI_INFERENCE_REPORT]
+What is the best way for a student to describe the results of an experiment?
+(A) in a diagram
+(B) in an oral report
+(C) in a written report
+(D) in a photo essay
+----------------------------------------------------------------------------------------------
+[Mercury_7207393] [SCI_INFERENCE_REPORT]
+The concept of continental drift, continents drifting over the ocean floors, was proposed by Alfred Wegner in 1915. This concept was replaced by the theory of plate tectonics in the 1960s. Changes from the continental drift concept to the plate tectonics theory required which of the following?
+(A) strong earthquakes occurring along fault zones
+(B) data and ideas being shared among scientists
+(C) a scientific law being passed by Congress
+(D) teachers beginning to teach the newer theory
+----------------------------------------------------------------------------------------------
+[Mercury_7222040] [SCI_INFERENCE_REPORT]
+How should researchers share their findings with other scientists to validate their study of the effectiveness of a new medication?
+(A) e-mail the research results to local newspapers
+(B) publish the research results in a scientific journal
+(C) publish the results in brochures for doctors
+(D) discuss the research results on the Internet
+----------------------------------------------------------------------------------------------
+[Mercury_LBS10378] [SCI_INFERENCE_REPORT]
+The following represents a number displayed on a calculator. 1.454545 E3. Which of the following shows how a student should record this number in a laboratory report?
+(A) (1.45)^3
+(B) 1 5/11
+(C) 1.45 x 10^3
+(D) 1.45 x 3
+----------------------------------------------------------------------------------------------
+[Mercury_7042875] [SCI_INFERENCE_REPORT]
+A student is working on a science project display for the school science fair. To best communicate why her conclusions are valid, what should be included on the display?
+(A) a list of authoritative sources that supports her conclusion
+(B) instructions for viewers to repeat her procedures
+(C) clearly illustrated diagrams of the scientific principles involved
+(D) a complete write-up of her experimental method and data collected
+----------------------------------------------------------------------------------------------
+[Mercury_7207585] [SCI_INFERENCE_REPORT]
+A meeting of scientists, called a symposium, occurs every year to share recent research about the atmosphere of Earth. This symposium mainly serves which purpose in science?
+(A) to test research methods used by other scientists
+(B) to develop questions about space research
+(C) to discuss the meaning of new discoveries
+(D) to explain gas properties to the general public
+----------------------------------------------------------------------------------------------
+[Mercury_7205905] [SCI_INFERENCE_REPORT]
+At science conventions, scientists present their research, and members of the audience can discuss or ask questions about the research. The main value of these science conventions is that they allow scientists to
+(A) see new places.
+(B) find money for projects.
+(C) practice public speaking.
+(D) exchange their ideas.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406705] [SCI_INFERENCE_REPORT]
+Anna's class counted the number of butterflies in the school garden for an assignment. Anna's results were different from the rest of the class. What should she do?
+(A) Change the assignment.
+(B) Leave the results alone.
+(C) Match her results with the class.
+(D) Ask the teacher to count for her.
+----------------------------------------------------------------------------------------------
+[Mercury_7107398] [SCI_INFERENCE_REPORT]
+Some researchers predicted that mice could learn their way around a maze quickly if given a food reward. After many trials, the results came back but differed from the hypothesis. How should the researchers proceed?
+(A) Show some results that agree with the hypothesis.
+(B) Report the results accurately and then form a new hypothesis.
+(C) Conduct more trials until the hypothesis is proven.
+(D) Rewrite the hypothesis to better match the results.
+----------------------------------------------------------------------------------------------
+[Mercury_7114870] [SCI_INFERENCE_REPORT, LIFE_INTERDEP_SUCCESSION]
+A student prepares a report on gradual environmental changes. Which is the best topic for this report?
+(A) forest fires in mountain regions
+(B) succession that transforms grassland to forest
+(C) decomposition of a desert rodent
+(D) flash flooding in a country area

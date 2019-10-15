@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7027020] [SCI_GRAPH]
+A student investigated the percentage of energy obtained from several food sources for a population of eagles. Which format is the best way to display this data?
+(A) a table
+(B) a pie chart
+(C) a bar graph
+(D) a line graph
+----------------------------------------------------------------------------------------------
+[Mercury_7214673] [SCI_GRAPH]
+Students recorded the initial and final temperatures of different-colored soils exposed to direct sunlight for three hours. The students want to compare the total temperature change for each soil color. Which of these formats would be the most appropriate for displaying the results of this investigation?
+(A) bar graph
+(B) line graph
+(C) pie chart
+(D) data table
+----------------------------------------------------------------------------------------------
+[Mercury_7211995] [SCI_GRAPH]
+Some students were investigating the relationship between position, time, and speed. The students marked the initial position of a toy car. The students set the car into motion and marked the position of the car each second. Which of these are most appropriate for recording and analyzing the students' data?
+(A) a table and a bar graph
+(B) a table and a line graph
+(C) a pie chart and a bar graph
+(D) a pie chart and a line graph
+----------------------------------------------------------------------------------------------
+[Mercury_7213850] [SCI_GRAPH]
+A line graph is best used to
+(A) compare many variables.
+(B) display data as parts of a whole.
+(C) track the relationship between two variables over time.
+(D) organize data using pictures of objects.
+----------------------------------------------------------------------------------------------
+[MCAS_2006_5_29] [SCI_GRAPH]
+Four rods of equal thickness but made of different metals were tested with equal amounts of weight to see which was most flexible. Which of the following is the best way to report the results of this experiment?
+(A) a list of each type of rod used
+(B) a sketch of each rod before testing
+(C) a table showing how much each rod weighed
+(D) a bar graph showing how much each rod bent
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401208] [SCI_GRAPH]
+Which type of graph would best display the changes in temperature over a 24 hour period?
+(A) line graph
+(B) pictograph
+(C) circle (pie) graph
+(D) stem-and-leaf graph
+----------------------------------------------------------------------------------------------
+[Mercury_7084123] [SCI_GRAPH]
+A scientist observes changes in a bee population every day for thirty days. The scientist arranges the data in a pictogram. Which form of data display is most similar to the organization of a pictogram?
+(A) pie chart
+(B) line graph
+(C) bar graph
+(D) data table
+----------------------------------------------------------------------------------------------
+[Mercury_7082145] [SCI_GRAPH]
+How should a line graph be used to display distance and time data for a moving object?
+(A) The y-axis should be labeled as time, which is the dependent variable.
+(B) The y-axis should be labeled as distance, which is the independent variable.
+(C) The x-axis should be labeled as distance, which is the dependent variable.
+(D) The x-axis should be labeled as time, which is the independent variable.
+----------------------------------------------------------------------------------------------
+[Mercury_7038273] [SCI_GRAPH]
+While conducting an experiment, a student collects several different water temperatures, two mass measurements, and three volume measurements. Which of these would be the best way to organize the data?
+(A) in a table
+(B) in a graph
+(C) in a written narrative
+(D) illustrated with pictures
+----------------------------------------------------------------------------------------------
+[Mercury_7220238] [SCI_GRAPH]
+A student collects data about the dates and strengths of historical earthquakes in Nevada. Which of the following would be best for reporting the strengths of these earthquakes over time?
+(A) a topographic map
+(B) a line graph
+(C) a series of photographs
+(D) a table of pictographs
+----------------------------------------------------------------------------------------------
+[Mercury_7215180] [SCI_GRAPH]
+Scientists are collecting granite samples in the mountains of western Nevada. Which of these formats is best to display and compare the percent of minerals found in one granite sample?
+(A) bar graph
+(B) line graph
+(C) pie chart
+(D) scatterplot
+----------------------------------------------------------------------------------------------
+[Mercury_7032288] [SCI_GRAPH]
+For half an hour, a student watches two different types of flowering bushes and counts the number of butterflies that come to feed on each bush. What would be the best way to show the data?
+(A) a scatterplot
+(B) a pie chart
+(C) a bar graph
+(D) a line graph
+----------------------------------------------------------------------------------------------
+[Mercury_7080448] [SCI_GRAPH, EARTH_WEATHER_ERO_EROSION]
+In order to make a line graph showing the rate of erosion on the banks of a river during a week-long flood, the y-axis should be labeled as the width of the river bank, in meters. The best label for the x-axis is time, in
+(A) seconds.
+(B) minutes.
+(C) hours.
+(D) days.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2007_7_32] [SCI_INFERENCE]
+Which is true of scientific discoveries?
+(A) All scientific discoveries are based solely on observation and never experimentation.
+(B) Sometimes scientific discoveries are made by accident, like the discovery of penicillin.
+(C) If a scientist cannot provide the exact time and place his or her discovery was made, it is dismissed.
+(D) All scientific discoveries are regulated by government agencies, like the Food and Drug Administration.

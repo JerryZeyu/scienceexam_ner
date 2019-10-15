@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7223353] [MAT_CHEM_PERIODICTAB]
+Based on their locations in the periodic table, which element has chemical properties most similar to those of calcium, Ca?
+(A) beryllium, Be
+(B) potassium, K
+(C) titanium, Ti
+(D) yttrium, Y
+----------------------------------------------------------------------------------------------
+[CSZ_2009_8_CSZ30768] [MAT_CHEM_PERIODICTAB]
+Which of the following elements is best able to combine with itself and hydrogen [H] to form large molecules?
+(A) sodium [Na]
+(B) lithium [Li]
+(C) sulfur [S]
+(D) carbon [C]
+----------------------------------------------------------------------------------------------
+[Mercury_411730] [MAT_CHEM_PERIODICTAB]
+In which pair of elements are both metalloids?
+(A) Sn and Sb
+(B) Sb and Te
+(C) Te and I
+(D) I and Xe
+----------------------------------------------------------------------------------------------
+[Mercury_7212118] [MAT_CHEM_PERIODICTAB]
+Aluminum is an element. Which of the following best describes the smallest particle of aluminum that retains all the properties of aluminum?
+(A) a molecule
+(B) an atom
+(C) a proton
+(D) an electron
+----------------------------------------------------------------------------------------------
+[Mercury_7274348] [MAT_CHEM_PERIODICTAB]
+Which of these is one similarity of the elements in the first group of the periodic table?
+(A) The elements in the group have similar atomic masses.
+(B) The elements in the group have the same number of electrons.
+(C) The elements in the group are very unreactive metals.
+(D) The elements in the group react with oxygen in similar ways.
+----------------------------------------------------------------------------------------------
+[Mercury_7038763] [MAT_CHEM_PERIODICTAB]
+All elements found on the left side of the Periodic Table of the Elements have what properties in common?
+(A) They are solids at room temperature.
+(B) They don't conduct electricity.
+(C) They are brittle and dull.
+(D) They are radioactive.
+----------------------------------------------------------------------------------------------
+[MCAS_2004_8_9] [MAT_CHEM_PERIODICTAB]
+What is the smallest particle of the element gold (Au) that can still be classified as gold?
+(A) atom
+(B) molecule
+(C) neutron
+(D) proton
+----------------------------------------------------------------------------------------------
+[Mercury_7009415] [MAT_CHEM_PERIODICTAB]
+Strontium, barium, and radium are grouped together on the Periodic Table of the Elements because they all have
+(A) a bright silver and white coloring.
+(B) similar electron configurations.
+(C) strong radioactive properties.
+(D) few or no stable isotopes.
+----------------------------------------------------------------------------------------------
+[Mercury_7007735] [MAT_CHEM_PERIODICTAB]
+The smallest particle of an element is
+(A) an atom.
+(B) a mixture.
+(C) a molecule.
+(D) a compound.
+----------------------------------------------------------------------------------------------
+[Mercury_401011] [MAT_CHEM_PERIODICTAB]
+The noble gases, helium, neon, argon, krypton, xenon, and radon, rarely react with other elements because they
+(A) are low-density gases.
+(B) are not abundant on Earth.
+(C) have complete outermost energy levels.
+(D) have two electrons in their outermost energy level.
+----------------------------------------------------------------------------------------------
+[MDSA_2007_8_5] [MAT_CHEM_PERIODICTAB]
+Use The Periodic Table of the Elements and the information below to answer the question. Magnesium metal (Mg) is grayish-white in color and reacts actively with water. Fluorine (F2) is a greenish-yellow gas at room temperature and is a member of the halogen family. These two elements react to produce magnesium fluoride (MgF2), a chemical commonly used in making windows and lenses. How do the elements magnesium (Mg) and fluorine (F2) produce the compound magnesium fluoride (MgF2)?
+(A) by nuclear connection
+(B) by physically combining
+(C) by magnetic connection
+(D) by chemically combining
+----------------------------------------------------------------------------------------------
+[Mercury_7011060] [MAT_CHEM_PERIODICTAB]
+Which statement best describes the organization of the Periodic Table of the Elements?
+(A) All gases are grouped together.
+(B) Gases easily form compounds with other elements.
+(C) Elements within a group have similar properties.
+(D) Elements within a period have the same number of electrons.
+----------------------------------------------------------------------------------------------
+[Mercury_7221253] [MAT_CHEM_PERIODICTAB]
+The alkaline earth metal elements are in the same family in the periodic table because they all have
+(A) one valence electron.
+(B) two valence electrons.
+(C) seven valence electrons.
+(D) eight valence electrons.
+----------------------------------------------------------------------------------------------
+[Mercury_7012548] [MAT_CHEM_PERIODICTAB]
+Elements in the same column of the Periodic Table of the Elements all
+(A) have the same number of protons.
+(B) share the same atomic structure.
+(C) have similar physical characteristics.
+(D) share the same number of neutrons.
+----------------------------------------------------------------------------------------------
+[AIMS_2008_8_14] [MAT_CHEM_PERIODICTAB]
+Which sentence about the periodic table of elements is true?
+(A) All elements in period 2 are metals.
+(B) All elements in group 18 are metals.
+(C) Metals are found on the left side of the periodic table.
+(D) Metals are found on the right side of the periodic table.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_22] [MAT_CHEM_PERIODICTAB]
+Which pair of elements has the most similar properties?
+(A) Li and B
+(B) I and Ca
+(C) K and He
+(D) N and P
+----------------------------------------------------------------------------------------------
+[Mercury_7030818] [MAT_CHEM_PERIODICTAB]
+On the periodic table, the elements in group 18 (8A) (helium, neon, argon, etc.) are grouped together because
+(A) they are lighter than air.
+(B) they have full outer electron shells.
+(C) they have excess electrons to share.
+(D) they easily react with other elements.
+----------------------------------------------------------------------------------------------
+[Mercury_7274330] [MAT_CHEM_PERIODICTAB]
+Where are the most reactive nonmetals located on the periodic table?
+(A) the uppermost complete row of the table
+(B) the rows at the bottom of the table connecting two sections
+(C) the column at the far left side of the table
+(D) the second column from the right side of the table
+----------------------------------------------------------------------------------------------
+[Mercury_7024763] [MAT_CHEM_PERIODICTAB]
+Which element is most likely to form an ion with a negative 2 charge?
+(A) oxygen
+(B) nitrogen
+(C) beryllium
+(D) magnesium
+----------------------------------------------------------------------------------------------
+[Mercury_412642] [MAT_CHEM_PERIODICTAB]
+Which of following is a property shared by the elements in the carbon family?
+(A) an atomic number of 6
+(B) an atomic mass of 12
+(C) the same electron configuration
+(D) the number of valence electrons
+----------------------------------------------------------------------------------------------
+[Mercury_412149] [MAT_CHEM_PERIODICTAB]
+Sodium, Na, is in the same group as
+(A) Ne.
+(B) Mg.
+(C) Ca.
+(D) K.
+----------------------------------------------------------------------------------------------
+[Mercury_7034860] [MAT_CHEM_PERIODICTAB]
+According to the Periodic Table of the Elements, mercury (Hg) is different from other metals because mercury is
+(A) solid at room temperature.
+(B) liquid at room temperature.
+(C) lighter than all other metals.
+(D) heavier than all other metals.
+----------------------------------------------------------------------------------------------
+[TAKS_2009_8_47] [MAT_CHEM_PERIODICTAB]
+According to the periodic table, all of the following are metals except
+(A) sodium
+(B) zinc
+(C) fluorine
+(D) calcium
+----------------------------------------------------------------------------------------------
+[CSZ_2009_8_CSZ20770] [MAT_CHEM_PERIODICTAB]
+Iron oxides, such as rust, form when iron metal reacts with oxygen in the air. What are the chemical symbols for the two elements found in iron oxide?
+(A) I and O
+(B) Ir and O
+(C) Fe and O
+(D) Pb and O
+----------------------------------------------------------------------------------------------
+[MCAS_2000_8_25] [MAT_CHEM_PERIODICTAB]
+The periodic table of the elements is systematically organized according to the
+(A) rate at which the elements chemically react.
+(B) hardness of the elements.
+(C) structure of the atoms of the elements.
+(D) radioactivity of the atoms of the elements.

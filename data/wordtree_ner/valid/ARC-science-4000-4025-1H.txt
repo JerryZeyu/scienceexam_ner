@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[ACTAAP_2008_5_2] [SCI_INFERENCE_EXPDESIGN]
+What is the best way for a marine scientist to determine the eating habits of sharks?
+(A) Tag one shark and monitor its eating habits for one day.
+(B) Tag one shark and monitor its eating habits for one year.
+(C) Tag several sharks and monitor their eating habits for one day.
+(D) Tag several sharks and monitor their eating habits for one year.
+----------------------------------------------------------------------------------------------
+[MCAS_2008_5_5633] [SCI_INFERENCE_EXPDESIGN]
+Students want to plant a lemon tree at their school, but the cold winter temperatures in Massachusetts would kill the tree. Which of the following is the best solution to this problem?
+(A) planting several lemon trees together in a row
+(B) building a greenhouse to shelter the lemon tree
+(C) giving the lemon tree extra fertilizer in the winter
+(D) tying a stake to the lemon tree for support during the winter
+----------------------------------------------------------------------------------------------
+[Mercury_408134] [SCI_INFERENCE_EXPDESIGN]
+Students on two different school campuses are comparing the growth rate of grass three weeks after fertilizer has been applied. The same fertilizer and the same amount of water are used on both campuses. Which additional variable is most important to control when the results of the two investigations are compared?
+(A) type of grass used
+(B) amount of trees in the area
+(C) the weather conditions of the day
+(D) the time of day the measurements are taken
+----------------------------------------------------------------------------------------------
+[Mercury_401665] [SCI_INFERENCE_EXPDESIGN]
+A student hypothesizes that the amount of water a plant receives will affect how long it grows before reaching maturity. To test this hypothesis, the student will need
+(A) several digital scales.
+(B) a wet paper towel.
+(C) several identical plant seeds.
+(D) different sizes of containers.
+----------------------------------------------------------------------------------------------
+[Mercury_7133368] [SCI_INFERENCE_EXPDESIGN]
+Students dropped different rocks into sand to simulate meteorite impacts. Their goal was to determine which rock made the deepest crater. Which variable should the students control in order to have the most accurate results?
+(A) the height from which the rocks are dropped
+(B) the average time it takes the rocks to fall
+(C) the density of the rocks
+(D) the mass of the rocks
+----------------------------------------------------------------------------------------------
+[Mercury_7163118] [SCI_INFERENCE_EXPDESIGN]
+In a laboratory activity, four different types of rock were placed in identical acid solutions for one week. Each sample was then measured to see if any of the rock mass was dissolved by the acid solution. Which is the dependent (responding) variable in this activity?
+(A) the mass of each rock
+(B) the type of rock tested
+(C) the length of time of the test
+(D) the amount of dissolved rock
+----------------------------------------------------------------------------------------------
+[Mercury_7159530] [SCI_INFERENCE_EXPDESIGN]
+Rolando wants to see at what temperature various liquids boil. He boils tap water and records the temperature. He then boils tap water with milk added and tap water with sugar added. What is the purpose of boiling plain tap water first?
+(A) to include a factor to manipulate
+(B) to have a possible explanation to a problem
+(C) to change one variable while observing the others
+(D) to provide a standard by which to compare the results
+----------------------------------------------------------------------------------------------
+[Mercury_7159548] [SCI_INFERENCE_EXPDESIGN]
+Students conducted an investigation with green bananas. They hypothesized that an onion placed near a banana could increase the rate at which the banana ripened. They placed one onion and one banana in each of three containers. In a fourth container they placed a banana, but no onion. Which statement best explains why the onion was left out of the fourth container?
+(A) The onion would contaminate the fourth trial.
+(B) The container without the onion is the control.
+(C) Three containers with onions are enough to conduct the test.
+(D) The container without the onion is the independent variable.
+----------------------------------------------------------------------------------------------
+[MCAS_1999_8_15] [SCI_INFERENCE_EXPDESIGN]
+While studying the relationship between number of trees and amount of atmospheric oxygen, which of the following would be most important to take into account?
+(A) contributions to atmospheric oxygen from sources other than trees
+(B) the ways in which industrialized nations use trees
+(C) the root area of trees
+(D) the bark mass of trees
+----------------------------------------------------------------------------------------------
+[Mercury_7211348] [SCI_INFERENCE_EXPDESIGN]
+A student wants to use a stream table to test the influence of water acidity on the erosion rate of a stream. Which variable should be constant in this experiment?
+(A) angle of tilt of the table
+(B) acidity of the water
+(C) amount of sediment eroded
+(D) rate that sediment is eroded
+----------------------------------------------------------------------------------------------
+[Mercury_7191590] [SCI_INFERENCE_EXPDESIGN]
+Jake is testing how light affects plant growth. He grows two plants in identical pots with the same amount of water and fertilizer. Jake grows one of the plants in the sun, and the other in the shade. Which part of Jake's process indicates that there is a control for this investigation?
+(A) He is growing plants in identical pots.
+(B) He is using the same amount of water.
+(C) He is growing one plant out of the sun.
+(D) He is using the same amount of fertilizer.

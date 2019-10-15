@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[MDSA_2009_4_18] [LIFE_CLASSIFICATION]
+Scientists group animals based on physical features. Trout are classified as fish because of what physical feature?
+(A) Fish have gills.
+(B) Fish eat the same food.
+(C) Fish live in the same area.
+(D) Fish have the same predators.
+----------------------------------------------------------------------------------------------
+[Mercury_404792] [LIFE_CLASSIFICATION]
+Scientists have categorized trees based on whether they keep or lose their leaves each year. Another logical way to categorize trees is based on the
+(A) types of nutrients needed to grow.
+(B) amount of oxygen that is released into the air.
+(C) color of leaves that are produced.
+(D) type of fruit that is produced.
+----------------------------------------------------------------------------------------------
+[Mercury_414102] [LIFE_CLASSIFICATION]
+Organisms can be separated by their most basic characteristics into the broadest groups known as
+(A) kingdoms.
+(B) domains.
+(C) phyla.
+(D) orders.
+----------------------------------------------------------------------------------------------
+[Mercury_7114888] [LIFE_CLASSIFICATION]
+Which conclusion can be made about earthworms because they do not have an internal skeleton?
+(A) They are invertebrates.
+(B) They have radial symmetry.
+(C) They are made of one segment.
+(D) They have an open circulatory system.
+----------------------------------------------------------------------------------------------
+[Mercury_417463] [LIFE_CLASSIFICATION]
+Casey has found several identical marine animals attached to an artificial reef in the Gulf of Mexico. Which characteristic would identify the animals as mollusks?
+(A) brain
+(B) tentacles
+(C) muscular foot
+(D) hard outer casing
+----------------------------------------------------------------------------------------------
+[Mercury_7161210] [LIFE_CLASSIFICATION]
+The classification of some organisms has changed. Which new process is used to reclassify organisms?
+(A) Organisms are now given Latin-based scientific names.
+(B) Structures are now examined at the molecular level.
+(C) Organisms are now divided into three kingdoms.
+(D) Structures are now used to classify organisms.
+----------------------------------------------------------------------------------------------
+[LEAP__7_10356] [LIFE_CLASSIFICATION]
+What do scientists mean when they refer to a population?
+(A) all the organisms in an ecosystem
+(B) all the species that share similar anatomical features
+(C) all the animals that acquire resources through similar methods
+(D) all the interbreeding members of a certain species in an ecosystem
+----------------------------------------------------------------------------------------------
+[Mercury_417474] [LIFE_CLASSIFICATION]
+The scientific name for a giraffe is Giraffa camelopardalis. What two levels of classification does this name represent?
+(A) family and order
+(B) kingdom and genus
+(C) phylum and domain
+(D) genus and species
+----------------------------------------------------------------------------------------------
+[Mercury_417473] [LIFE_CLASSIFICATION]
+For two organisms to be classified as the same species, they must produce offspring that are
+(A) fertile.
+(B) adaptable.
+(C) alive at birth.
+(D) identical to the parents.
+----------------------------------------------------------------------------------------------
+[Mercury_7115448] [LIFE_CLASSIFICATION]
+The greatest amount of diversity can be found among which type of organism?
+(A) plants
+(B) animals
+(C) bacteria
+(D) fungi
+----------------------------------------------------------------------------------------------
+[Mercury_417455] [LIFE_CLASSIFICATION]
+Which organism belongs in the kingdom Protista?
+(A) sponge
+(B) liverwort
+(C) mushroom
+(D) paramecium

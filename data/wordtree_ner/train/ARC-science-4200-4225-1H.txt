@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[MCAS_2005_5_6] [SCI_INFERENCE_WHATTESTING]
+David planted ten corn seeds in sandy soil and ten corn seeds in clay soil. He kept both groups of plants at room temperature, gave them the same amount of water, and placed them all in the same sunny room. Which of the following questions is David most able to answer with his experiment?
+(A) How much soil and water do corn seeds need to grow?
+(B) Do corn plants grow better in sandy soil or in clay soil?
+(C) Do corn plants grown in sandy soil need more water than corn plants grown in clay soil?
+(D) What are the effects of soil, temperature, water, and sunshine on the growth of corn plants?
+----------------------------------------------------------------------------------------------
+[Mercury_7213273] [SCI_INFERENCE_WHATTESTING]
+An engineer measured the time it takes sound to travel through samples of different materials. All of the samples were identical in shape and size. The measurements were made using ultrasonic waves with a frequency of 5 megahertz. Which question was the engineer most likely trying to answer?
+(A) In which material does sound travel fastest?
+(B) In which material does sound travel farthest?
+(C) Does frequency affect the distance sound travels?
+(D) Does the shape of the medium affect the speed of sound?
+----------------------------------------------------------------------------------------------
+[Mercury_7005408] [SCI_INFERENCE_WHATTESTING]
+A student uses a pH meter to measure the acidity of a water sample from a lake. For what purpose is the student most likely testing the water?
+(A) to learn what organisms could survive in the lake
+(B) to determine the age of the lake
+(C) to understand how people use the lake
+(D) to find out the depth of the lake
+----------------------------------------------------------------------------------------------
+[MCAS_2000_8_27] [SCI_INFERENCE_WHATTESTING]
+Read the description of the experiment below to answer the question. One hundred pea seeds were put in petri dishes and covered with wet paper towels. The petri dishes were then put inside black plastic bags. Half of them were placed in an incubator set to 10°C. The remaining half were placed in an incubator set to 30°C. This experiment was most likely designed to study the effect of which variable on the germination of pea seeds?
+(A) temperature
+(B) water
+(C) light
+(D) seed type
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405887] [SCI_INFERENCE_WHATTESTING]
+Scientists go to a lake once a month to take samples of water. They are most likely studying the
+(A) number of fish.
+(B) depth of the lake.
+(C) quality of the water.
+(D) speed of the water.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_4_33] [SCI_INFERENCE_WHATTESTING, FOR_FRICTION]
+A student gives a red toy car a push on a wooden floor. The student then pushes the same red toy car on a cement floor. Which question is the student most likely investigating?
+(A) How fast does a toy car usually roll?
+(B) What is the best way to make a toy car roll?
+(C) Which surface allows a toy car to roll farther?
+(D) Does color have an effect on the distance a toy car rolls?
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_1] [SCI_INFERENCE, MAT_PROPO_CLASS]
+Students are studying some leaves. They group the leaves by shape. Which science process are the students using when they put the leaves in different groups?
+(A) classifying
+(B) predicting
+(C) measuring
+(D) experimenting
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401369] [SCI_MODELS]
+Members of a planning team build a model of a nearby stream and then block the stream to show how it can form a lake. Which is a limitation of the model?
+(A) showing how a nearby town will avoid flooding
+(B) explaining how the lake will be used for recreation
+(C) explaining how some of the water can be used for agriculture
+(D) showing how the dam will affect the plants and animals in the area
+----------------------------------------------------------------------------------------------
+[Mercury_7064278] [SCI_MODELS]
+Street maps are examples of two dimensional models. Which information cannot be determined using a basic map?
+(A) distance from place to place
+(B) directions such as north and south
+(C) names of highways and roads
+(D) elevations such as distance above sea level
+----------------------------------------------------------------------------------------------
+[Mercury_7016958] [SCI_MODELS]
+A greenhouse is used as a model of the atmosphere. Which of the following cannot be demonstrated by the model?
+(A) energy used to evaporate water
+(B) changes in greenhouse gases
+(C) light energy trapped as heat energy
+(D) energy that builds up in the greenhouse air
+----------------------------------------------------------------------------------------------
+[Mercury_7027073] [SCI_MODELS]
+A team of surveyors takes measurements of ground altitude at horizontal intervals of 1 meter over a 400 square meter area. These measurements can best be used to produce which representation of the area?
+(A) a topographical map
+(B) a map of wind currents
+(C) a plate tectonic diagram
+(D) a chart of sedimentary layers

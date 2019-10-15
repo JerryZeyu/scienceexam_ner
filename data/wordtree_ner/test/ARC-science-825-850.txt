@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[MCAS_2016_8_13] [EARTH_INNER_CMC_CORE]
+Earth's core is primarily composed of which of the following materials?
+(A) basalt
+(B) iron
+(C) magma
+(D) quartz
+----------------------------------------------------------------------------------------------
+[Mercury_7057698] [EARTH_INNER_CMC_CORE]
+The core of Earth is divided into two layers. The outer core is made of
+(A) basaltic rocks.
+(B) silicate rocks.
+(C) solid iron and nickel.
+(D) molten iron and nickel.
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5168] [EARTH_INNER_CMC_CORE]
+Which of the following Earth layers has the greatest density?
+(A) crust
+(B) mantle
+(C) inner core
+(D) outer core
+----------------------------------------------------------------------------------------------
+[Mercury_7234203] [EARTH_INNER_CMC_CORE]
+Which property of Earth's interior keeps the innermost part in a solid state?
+(A) relatively low temperature
+(B) extremely high pressure
+(C) high rate of heat flow
+(D) low rate of radioactive decay
+----------------------------------------------------------------------------------------------
+[Mercury_7263673] [EARTH_INNER_CMC_CORE]
+Which relationship between Earth's outer core and inner core generates a large portion of Earth's magnetic field?
+(A) their relative masses
+(B) their relative motions
+(C) their relative diameters
+(D) their relative circumferences
+----------------------------------------------------------------------------------------------
+[Mercury_7253663] [EARTH_INNER_CMC_CORE]
+Some of the thermal structure of Earth is the result of a combination of chemical composition, temperature, and pressure. Which is a boundary that best demonstrates a contact point between layers having relatively the same temperature and chemical composition?
+(A) lithosphere and mesosphere
+(B) inner core and outer core
+(C) outer core and mantle
+(D) mantle and crust
+----------------------------------------------------------------------------------------------
+[Mercury_7234185] [EARTH_INNER_CMC_CORE]
+Which part of Earth's structure is composed of a solid mixture of nickel and iron?
+(A) the inner core
+(B) the outer core
+(C) the lithosphere
+(D) the asthenosphere
+----------------------------------------------------------------------------------------------
+[Mercury_7085400] [EARTH_INNER_CMC_CRUST]
+The abundance of a mineral at the surface of Earth most likely depends upon the
+(A) climate of a particular region.
+(B) types of elements available in the crust.
+(C) thicknesses of nearby rock layers.
+(D) exposure of the elements to the environment.
+----------------------------------------------------------------------------------------------
+[Mercury_7091980] [EARTH_INNER_CMC_CRUST]
+The interior of Earth is made up of several physically different layers. The solid layer of Earth that moves over a viscous layer is called the
+(A) core.
+(B) crust.
+(C) asthenosphere.
+(D) atmosphere.
+----------------------------------------------------------------------------------------------
+[Mercury_7071715] [EARTH_INNER_CMC_CRUST]
+A difference between the oceanic crust and the continental crust is that the oceanic crust is
+(A) composed chiefly of sedimentary rocks.
+(B) more dense than the continental crust.
+(C) older than the continental crust.
+(D) continually being created.
+----------------------------------------------------------------------------------------------
+[Mercury_7161228] [EARTH_INNER_CMC_CRUST]
+Evidence indicates that the magnetic field of Earth has reversed direction many times throughout history. After a magnetic reversal, which would most likely be affected?
+(A) the length and severity of seasons
+(B) the formation of new tectonic plates
+(C) the direction of rotation of Earth on the axis
+(D) the alignment of minerals in newly formed crust
+----------------------------------------------------------------------------------------------
+[Mercury_7056508] [EARTH_INNER_CMC_CRUST]
+The movement of crustal plates results from circulating currents in material beneath the crust of Earth. Which best describes the material which moves the crustal plates?
+(A) hot water
+(B) molten rock
+(C) liquid metal
+(D) solid iron
+----------------------------------------------------------------------------------------------
+[Mercury_7233538] [EARTH_INNER_CMC_CRUST]
+Which layer of Earth makes up the smallest percentage of the planet's mass?
+(A) crust
+(B) inner core
+(C) mantle
+(D) outer core
+----------------------------------------------------------------------------------------------
+[Mercury_7222740] [EARTH_INNER_CMC_CRUST, EARTH_INNER_CMC_CORE]
+Which layers of Earth are mostly made of solid material?
+(A) inner core and outer core
+(B) crust and inner core
+(C) crust and mantle
+(D) mantle and outer core
+----------------------------------------------------------------------------------------------
+[Mercury_403913] [EARTH_INNER_CMC_MANTLE]
+Earth is made of different layers that have varying characteristics. Which is the thickest layer?
+(A) the mantle
+(B) the inner core
+(C) the outer core
+(D) the crust
+----------------------------------------------------------------------------------------------
+[Mercury_404099] [EARTH_INNER_CMC_MANTLE]
+What best describes the mantle of Earth?
+(A) a thin layer that is located on the surface
+(B) a solid layer made of iron and nickel
+(C) the largest layer between the crust and outer core
+(D) the smallest layer that is made up of molten rock
+----------------------------------------------------------------------------------------------
+[MDSA_2011_8_10] [EARTH_INNER_CMC_MANTLE]
+The crust, the mantle, and the core are structures of Earth. Which description is a feature of Earth's mantle?
+(A) contains fossil remains
+(B) consists of tectonic plates
+(C) is located at the center of Earth
+(D) has properties of both liquids and solids
+----------------------------------------------------------------------------------------------
+[Mercury_7057943] [EARTH_INNER_CMC_MANTLE]
+Earth is composed of layers of material with different properties. Which of the following is most likely to be in constant motion?
+(A) core
+(B) mantle
+(C) oceanic crust
+(D) continental crust
+----------------------------------------------------------------------------------------------
+[MCAS_2003_8_9] [EARTH_INNER_CMC_MANTLE]
+Which is the thickest layer of Earth?
+(A) crust
+(B) inner core
+(C) mantle
+(D) outer core
+----------------------------------------------------------------------------------------------
+[Mercury_7233555] [EARTH_INNER_CMC_MANTLE]
+Which layer of Earth is the source of lava that erupts from volcanoes?
+(A) asthenosphere
+(B) inner core
+(C) outer core
+(D) lithosphere
+----------------------------------------------------------------------------------------------
+[VASoL_2007_5_26] [EARTH_INNER_CMC_MANTLE]
+What layer of Earth is located just below the crust?
+(A) Inner core
+(B) Mantle
+(C) Continental shelf
+(D) Outer core
+----------------------------------------------------------------------------------------------
+[Mercury_7236128] [EARTH_INNER_CMC_MANTLE, MAT_PROPMATERIAL_DENSITY]
+Earth's mantle, primarily composed of silicate and magnesium oxide rocks, floats on top of the liquid iron and nickel outer core. Which difference between these two layers of Earth resulted in their differentiation?
+(A) age
+(B) velocity
+(C) viscosity
+(D) density
+----------------------------------------------------------------------------------------------
+[MSA_2015_5_8] [EARTH_INNER_EARTHQUAKES]
+Natural processes cause rapid and slow changes to Earth's surface. Which event causes changes to Earth's surface most rapidly?
+(A) an earthquake shaking the ground
+(B) sediment washing into a bay
+(C) a rainstorm weathering rock
+(D) water flowing in stream
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400519] [EARTH_INNER_EARTHQUAKES]
+In studying layers of rock sediment, a geologist found an area where older rock was layered on top of younger rock. Which best explains how this occurred?
+(A) Earthquake activity folded the rock layers.
+(B) Volcanic eruptions destroyed a rock layer.
+(C) Erosion removed several layers of rock.
+(D) Weathering changed the layering of the rocks.
+----------------------------------------------------------------------------------------------
+[Mercury_7081428] [EARTH_INNER_EARTHQUAKES]
+When an earthquake wave passes from the crust to the mantle, the wave
+(A) reverses direction.
+(B) changes speed.
+(C) increases energy.
+(D) stops moving.

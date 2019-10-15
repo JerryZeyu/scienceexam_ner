@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[VASoL_2009_3_30] [MAT_PROPMATERIAL_HARD]
+Which of these BEST describes the way a feather feels?
+(A) Colorful
+(B) Soft
+(C) Low
+(D) Bright
+----------------------------------------------------------------------------------------------
+[MCAS_2008_5_5637] [MAT_PROPMATERIAL_HARD]
+A statue and a table are both made of the same type of marble. Which of the following properties will most likely be the same for both of these objects?
+(A) size
+(B) shape
+(C) weight
+(D) hardness
+----------------------------------------------------------------------------------------------
+[MCAS_2001_5_4] [MAT_PROPMATERIAL_HARD]
+To compare the hardness of different minerals, it would be BEST to find
+(A) the color of the minerals.
+(B) which minerals scratch other minerals.
+(C) which minerals reflect light most strongly.
+(D) the samples that feel smoothest to the touch.
+----------------------------------------------------------------------------------------------
+[Mercury_7034930] [MAT_PROPMATERIAL_HARD]
+Diamonds are sometimes used as the tips of drill bits. Which physical property of a diamond MOST likely makes it a good cutting tool?
+(A) its electrical properties
+(B) its thermal properties
+(C) its hardness
+(D) its density
+----------------------------------------------------------------------------------------------
+[Mercury_7085243] [MAT_PROPMATERIAL_LUSTER]
+Which property of a mineral can be determined just by looking at it?
+(A) luster
+(B) mass
+(C) weight
+(D) hardness
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2016_4_26] [MAT_PROPMATERIAL_MAG]
+Which object will most likely be attracted to a magnet?
+(A) wooden block
+(B) plastic cup
+(C) metal nail
+(D) glass bead
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_4_1] [MAT_PROPMATERIAL_MAG]
+If an object is attracted to a magnet, the object is most likely made of
+(A) wood
+(B) plastic
+(C) cardboard
+(D) metal
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_4_pg5] [MAT_PROPMATERIAL_MAG]
+A strong magnet will separate a mixture of
+(A) clear glass and green glass.
+(B) paper cups and plastic cups.
+(C) iron nails and aluminum nails.
+(D) sand and salt.
+----------------------------------------------------------------------------------------------
+[MCAS_2009_5_6516] [MAT_PROPMATERIAL_MAG]
+Which of the following statements best explains why magnets usually stick to a refrigerator door?
+(A) The refrigerator door is smooth.
+(B) The refrigerator door contains iron.
+(C) The refrigerator door is a good conductor.
+(D) The refrigerator door has electric wires in it.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401625] [MAT_PROPMATERIAL_MAG]
+Which object would best help a student determine if a block of an unknown material is magnetic?
+(A) wooden ruler
+(B) paper clip
+(C) glass marble
+(D) magnifying glass
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402078] [MAT_PROPMATERIAL_MAG]
+Which item would a magnet attract?
+(A) iron nail
+(B) wool cloth
+(C) wooden stick
+(D) glass marble
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402250] [MAT_PROPMATERIAL_MAG]
+In a mixture, a magnet is used to separate some particles from sand. The dark particles are most likely made of which element?
+(A) sodium
+(B) iron
+(C) sulfur
+(D) copper
+----------------------------------------------------------------------------------------------
+[Mercury_7212135] [MAT_PROPMATERIAL_MAG]
+Which of these will always produce a magnetic field?
+(A) a bar of steel
+(B) a bar of aluminum
+(C) an electric current
+(D) an electric charge
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401256] [MAT_PROPMATERIAL_MAG]
+Which object most likely has magnetic properties?
+(A) iron nail
+(B) plastic clip
+(C) rubber eraser
+(D) wooden spoon
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400150] [MAT_PROPMATERIAL_MAG, MAT_PROPMATERIAL_ELECCOND, MAT_PROPMATERIAL_THERMCOND]
+Which object will conduct electricity, conduct heat, and be attracted to a magnet?
+(A) iron nail
+(B) wooden toothpick
+(C) aluminum foil
+(D) cotton ball
+----------------------------------------------------------------------------------------------
+[LEAP_2002_4_10246] [MAT_PROPMATERIAL_ODOR]
+Mrs. Henderson's class has five small, covered boxes. One contains perfume; another contains dried onions. There is also a box of pine needles, a box of lemon pieces, and a box with a paper towel wet with vanilla flavoring. Which should they do to get the best information about what is in each box?
+(A) Shake the boxes.
+(B) Smell the boxes.
+(C) Listen to the boxes.
+(D) Weigh the boxes.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400861] [MAT_PROPMATERIAL_REFLECT]
+Which object best reflects light?
+(A) gray door
+(B) white floor
+(C) black sweater
+(D) brown carpet
+----------------------------------------------------------------------------------------------
+[Mercury_7132038] [MAT_PROPMATERIAL_REFLECT]
+What would be the best evidence that two substances are made of different types of matter?
+(A) Two substances have different reactions to light.
+(B) Two substances have different temperatures.
+(C) Two substances have different volumes.
+(D) Two substances have different shapes.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_4_13] [MAT_PROPMATERIAL_REFLECT]
+A boy can see his face when he looks into a calm pond. Which physical property of the pond makes this happen?
+(A) flexibility
+(B) reflectiveness
+(C) temperature
+(D) volume
+----------------------------------------------------------------------------------------------
+[VASoL_2008_3_2] [MAT_PROPMATERIAL_SOLUBILITY]
+Which of these dissolve in water?
+(A) Sand grains
+(B) Sugar cubes
+(C) Plastic straws
+(D) Wooden spoons
+----------------------------------------------------------------------------------------------
+[Mercury_SC_414042] [MAT_PROPMATERIAL_SOLUBILITY]
+A student poured some sugar into a glass of water. After the water was stirred, no solid sugar remained in the glass. Which statement best describes what happened?
+(A) The sugar reacted with water to form elements.
+(B) The sugar reacted with water to form a mixture.
+(C) The sugar dissolved in water to form a solution.
+(D) The sugar dissolved in water to form compounds.
+----------------------------------------------------------------------------------------------
+[Mercury_7210263] [MAT_PROPMATERIAL_SOLUBILITY]
+Which of these is a property of water that allows it to transport materials through the Earth system?
+(A) It expands as it solidifies.
+(B) It is transparent.
+(C) It dissolves many substances.
+(D) It is a compound.
+----------------------------------------------------------------------------------------------
+[Mercury_416384] [MAT_PROPMATERIAL_SOLUBILITY]
+A group of scientists predicts that Earth's oceans will be able to take up more carbon dioxide as atmospheric carbon dioxide levels increase and the atmosphere warms. Which of these statements about the solubility of gases in ocean water would lead you to question this prediction?
+(A) Solubility decreases with an increase in salinity.
+(B) Solubility decreases with an increase in temperature.
+(C) Solubility increases with an increase in pressure.
+(D) Solubility increases with an increase in pH.
+----------------------------------------------------------------------------------------------
+[Mercury_7214935] [MAT_PROPMATERIAL_SOLUBILITY]
+Paper chromatography is a process used to separate mixtures of substances into their components. The components are carried by a mobile phase through a stationary phase made of absorbent paper. An investigation analyzed a sample of black ink to determine its components.Which property allows the components to separate?
+(A) the solubility of the components in the mobile phase
+(B) the evaporation rate of the components at a certain temperature
+(C) the magnetic property of the components
+(D) the thickness of the paper used as the stationary phase
+----------------------------------------------------------------------------------------------
+[Mercury_7210280] [MAT_PROPMATERIAL_SPECIFICHEAT]
+Because water can hold a large amount of heat, which effect do oceans have on nearby land areas?
+(A) They prevent rapid extreme temperature changes.
+(B) They form high-pressure areas that cause magma currents.
+(C) They provide the energy that triggers volcanic events.
+(D) They lower the freezing point of fresh water.

@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7166618] [CEL_FEATURES_GALACTIC]
+The Milky Way is a part of 30 or more galaxies called the Local Group. Which would be the most likely reason these galaxies are considered to be part of the Local Group?
+(A) They are all the same type of galaxy.
+(B) They all have the same number of stars.
+(C) They are all attracted to each other by gravity.
+(D) They can all be seen without the aid of a telescope.
+----------------------------------------------------------------------------------------------
+[MEA_2013_8_16] [CEL_FEATURES_GALACTIC]
+What is a galaxy?
+(A) a moon that orbits a planet
+(B) a planet that orbits the Sun
+(C) a very large system of stars that is held together by gravity
+(D) a very large system of planets that is held together by the Sun
+----------------------------------------------------------------------------------------------
+[MCAS_2008_8_5607] [CEL_FEATURES_GALACTIC]
+Which of the following is the best estimate of the number of stars in a typical galaxy?
+(A) tens
+(B) hundreds
+(C) thousands
+(D) billions
+----------------------------------------------------------------------------------------------
+[Mercury_7026635] [CEL_FEATURES_GALACTIC]
+The Milky Way Galaxy is visible as a bright region in the night sky. Modern telescopic observation has made it possible to discover that the brightness of the Milky Way Galaxy is due primarily to which structure?
+(A) clouds of hot gas
+(B) large numbers of stars
+(C) high energy compounds
+(D) extremely reflective ice particles
+----------------------------------------------------------------------------------------------
+[Mercury_7097965] [CEL_FEATURES_GALACTIC]
+What do the Milky Way Galaxy and other galaxies in the universe have in common?
+(A) They are similar in shape.
+(B) They rotate in the same direction.
+(C) They contain the same number of stars.
+(D) They have similar elements.
+----------------------------------------------------------------------------------------------
+[MCAS_8_2014_14] [CEL_FEATURES_GALACTIC]
+A student uses the following characteristics to describe a group of objects in space. * 200 billion stars * 30 million light years from Earth * 500 light years in diameter Which of the following is the student most likely describing?
+(A) a galaxy
+(B) the universe
+(C) a constellation
+(D) the solar system
+----------------------------------------------------------------------------------------------
+[Mercury_186270] [CEL_FEATURES_GALACTIC]
+What type of galaxy is the Milky Way?
+(A) spiral
+(B) elliptical
+(C) irregular
+(D) oval
+----------------------------------------------------------------------------------------------
+[Mercury_7012898] [CEL_FEATURES_GALACTIC]
+Which statement is the best description of the Milky Way galaxy?
+(A) a collection of gases held together by inertia
+(B) a group of planets revolving around a single star
+(C) a collection of stars and gases with the Sun as its center
+(D) a group of stars, dust, and planets held together by gravity
+----------------------------------------------------------------------------------------------
+[Mercury_7222968] [CEL_FEATURES_GALACTIC]
+In 2004 the Hubble space telescope captured images of distant star clusters, each containing about a million stars. These star clusters were most likely part of which structure?
+(A) a black hole
+(B) a galaxy
+(C) a nebula
+(D) a solar system
+----------------------------------------------------------------------------------------------
+[Mercury_7001663] [CEL_FEATURES_GALACTIC]
+Which characteristic below most likely accounts for our limited knowledge of galaxies?
+(A) their tiny size
+(B) their magnetic cores
+(C) their inability to produce light
+(D) their great distance from Earth
+----------------------------------------------------------------------------------------------
+[Mercury_7033618] [CEL_FEATURES_GALACTIC]
+Which of these can be described as a system of stars, gases, dust, and other matter that orbits a common center of gravity?
+(A) an asteroid
+(B) a galaxy
+(C) a nebula
+(D) a comet
+----------------------------------------------------------------------------------------------
+[Mercury_7041493] [CEL_FEATURES_GALACTIC]
+All these statements concerning galaxies are accurate except
+(A) They contain millions of stars.
+(B) Most can be seen without a telescope.
+(C) They are millions of light-years apart.
+(D) Space contains several billion galaxies.
+----------------------------------------------------------------------------------------------
+[Mercury_7008085] [CEL_FEATURES_GALACTIC]
+Which of the following has the greatest mass?
+(A) star
+(B) moon
+(C) planet
+(D) galaxy
+----------------------------------------------------------------------------------------------
+[Mercury_7109218] [CEL_FEATURES_GALACTIC]
+Which region of the Milky Way contains a population that consists mostly of old stars?
+(A) the halo
+(B) the spiral arms
+(C) the nuclear bulge
+(D) the open clusters
+----------------------------------------------------------------------------------------------
+[Mercury_7122553] [CEL_FEATURES_GALACTIC]
+Just as biologists classify living things, astronomers classify galaxies. What feature is used to classify galaxies?
+(A) size
+(B) shape
+(C) color
+(D) brightness
+----------------------------------------------------------------------------------------------
+[Mercury_7210718] [CEL_FEATURES_GALACTIC, CEL_FEATURES_STELLAR]
+In which structure is the Sun located?
+(A) Milky Way Galaxy
+(B) Andromeda Galaxy
+(C) Cat's Eye Nebula
+(D) Horseshoe Nebula
+----------------------------------------------------------------------------------------------
+[Mercury_7084525] [CEL_FEATURES_GALACTIC, SCI_INFERENCE_OBSERV]
+A student observes a glowing band across the night sky. This glowing band is most likely
+(A) orbiting planets in the solar system.
+(B) a partial view of the Milky Way galaxy.
+(C) an asteroid orbiting the Sun.
+(D) light from stars in a distant galaxy.
+----------------------------------------------------------------------------------------------
+[Mercury_7123410] [CEL_FEATURES_METEOR]
+A meteoroid becomes a meteorite when it
+(A) impacts the surface of a planet.
+(B) encounters the atmosphere of a planet.
+(C) makes a complete orbit around a planet.
+(D) starts to burn up in the atmosphere of a planet.
+----------------------------------------------------------------------------------------------
+[Mercury_7122798] [CEL_FEATURES_METEOR]
+The air in front of a meteor is compressed as it passes through the atmosphere of Earth. This causes the meteor to
+(A) gain mass.
+(B) gain velocity.
+(C) increase in temperature.
+(D) increase in surface area.
+----------------------------------------------------------------------------------------------
+[NAEP_2005_4_S10+1] [CEL_FEATURES_MOONS]
+The surface of the Moon is covered with craters. Most of these craters were formed by
+(A) eruptions of active volcanoes
+(B) the impacts of many meteoroids
+(C) shifting rock on the Moon's surface ("moonquakes")
+(D) tidal forces caused by the Earth and Sun
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_4_pg56] [CEL_FEATURES_MOONS]
+What is the main reason we can see the Moon?
+(A) The Moon reflects light from the Earth.
+(B) The Moon reflects the light from the Sun.
+(C) The Moon produces its own light.
+(D) The Moon is larger than stars.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_16] [CEL_FEATURES_MOONS]
+Which object in our solar system reflects light and is a satellite that orbits around one planet?
+(A) Earth
+(B) Mercury
+(C) the Sun
+(D) the Moon
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400986] [CEL_FEATURES_MOONS]
+Why is it safer to look at the Moon than it is to look at the Sun?
+(A) The Moon is less bright.
+(B) The Moon is closer to Earth.
+(C) The Moon shines mostly at night.
+(D) The Moon is full only once a month.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401314] [CEL_FEATURES_MOONS]
+Compared to Earth, the Moon is
+(A) drier.
+(B) larger.
+(C) heavier.
+(D) brighter.
+----------------------------------------------------------------------------------------------
+[VASoL_2011_5_35] [CEL_FEATURES_MOONS]
+The surface of the Moon is made up of
+(A) craters, highlands, and flat areas
+(B) swirling gases
+(C) large bodies of water
+(D) a mixture of gases and water

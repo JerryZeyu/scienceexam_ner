@@ -1,0 +1,622 @@
+T5	Satellite 5560 5569	satellite
+T7	Force 743 748	force
+T9	Gravity 752 759	gravity
+T10	MagneticForce 5545 5554	magnetism
+T12	Pressure 790 802	air pressure
+T15	Uptake 2865 2872	absorbs
+T17	Animal 5313 5320	animals
+T27	Reptile 3894 3900	turtle
+T35	ActionsForAnimals 4604 4611	fishing
+T48	Human 5348 5356	humanity
+T50	GroupsOfScientists 1504 1509	class
+T51	GroupsOfScientists 4212 4217	class
+T53	Human 5139 5148	explorers
+T54	Human 4589 4595	sailor
+T55	Angiosperm 2723 2729	potato
+T56	Angiosperm 2852 2858	potato
+T57	Angiosperm 2928 2934	potato
+T60	PhysicalActivity 648 654	stands
+T63	PerformAnActivity 2695 2703	conducts
+T111	Foods 2723 2729	potato
+T112	Foods 2852 2858	potato
+T113	Foods 2928 2934	potato
+T116	Measurements 5778 5785	measure
+T117	Measurements 6057 6064	measure
+T118	Measurements 6781 6788	measure
+T120	Measurements 4227 4234	measure
+T121	Measurements 2368 2375	measure
+T122	Measurements 5239 5246	measure
+T123	Measurements 8244 8251	measure
+T125	Measurements 6348 6355	measure
+T126	Measurements 6670 6678	measures
+T127	Measurements 7345 7357	measurements
+T128	Measurements 7520 7532	measurements
+T129	Measurements 7039 7050	measurement
+T131	Measurements 712 720	measured
+T134	MeasuringSpeed 3512 3517	speed
+T135	MeasuringSpeed 3883 3888	speed
+T136	MeasuringSpeed 4239 4244	speed
+T139	DistanceUnit 2077 2087	Centimeter
+T140	DistanceUnit 2137 2147	centimeter
+T147	MassUnit 690 696	pounds
+T148	VolumeUnit 6076 6087	milliliters
+T149	VolumeUnit 7396 7398	mL
+T150	VolumeUnit 6089 6091	mL
+T151	VolumeUnit 7413 7415	mL
+T152	VolumeUnit 7447 7449	mL
+T153	VolumeUnit 7430 7432	mL
+T165	ManmadeObjects 3523 3530	toy car
+T166	ManmadeObjects 4696 4700	Rope
+T167	ManmadeObjects 5522 5531	invention
+T170	HeatingAppliance 1326 1339	Bunsen burner
+T172	LiquidHoldingContainersRecepticles 7769 7778	container
+T176	LiquidHoldingContainersRecepticles 2114 2132	Graduated cylinder
+T177	LiquidHoldingContainersRecepticles 8667 8685	graduated cylinder
+T178	LiquidHoldingContainersRecepticles 1275 1293	graduated cylinder
+T179	LiquidHoldingContainersRecepticles 3947 3965	graduated cylinder
+T180	LiquidHoldingContainersRecepticles 8717 8735	graduated cylinder
+T181	LiquidHoldingContainersRecepticles 6438 6456	graduated cylinder
+T182	LiquidHoldingContainersRecepticles 8751 8769	graduated cylinder
+T183	LiquidHoldingContainersRecepticles 8365 8383	graduated cylinder
+T184	LiquidHoldingContainersRecepticles 1751 1769	graduated cylinder
+T185	LiquidHoldingContainersRecepticles 6107 6125	graduated cylinder
+T186	LiquidHoldingContainersRecepticles 1701 1719	graduated cylinder
+T187	LiquidHoldingContainersRecepticles 2054 2072	graduated cylinder
+T188	LiquidHoldingContainersRecepticles 6875 6893	graduated cylinder
+T189	LiquidHoldingContainersRecepticles 7149 7167	graduated cylinder
+T190	LiquidHoldingContainersRecepticles 2992 3010	graduated cylinder
+T191	LiquidHoldingContainersRecepticles 7585 7603	graduated cylinder
+T192	LiquidHoldingContainersRecepticles 5852 5870	graduated cylinder
+T193	LiquidHoldingContainersRecepticles 1678 1696	graduated cylinder
+T194	LiquidHoldingContainersRecepticles 239 257	Graduated cylinder
+T199	Device 4300 4307	devices
+T200	MagneticDevice 2519 2525	magnet
+T201	MagneticDevice 3593 3599	magnet
+T203	ScientificTools 1556 1576	scientific equipment
+T204	ScientificTools 142 146	tool
+T205	ScientificTools 2880 2884	tool
+T206	ScientificTools 7051 7055	tool
+T207	ScientificTools 3154 3158	tool
+T208	ScientificTools 403 407	tool
+T209	ScientificTools 5762 5766	tool
+T210	ScientificTools 6746 6750	tool
+T211	ScientificTools 8236 8240	tool
+T215	ScientificTools 1176 1181	tools
+T216	ScientificTools 2348 2353	tools
+T217	ScientificTools 3846 3851	tools
+T218	ScientificTools 7465 7470	tools
+T220	ScientificTools 6022 6032	instrument
+T221	ScientificTools 6320 6330	instrument
+T222	ScientificTools 2010 2021	instruments
+T223	Examine 5778 5785	measure
+T224	Identify 6057 6064	measure
+T225	Examine 6781 6788	measure
+T227	Examine 4227 4234	measure
+T228	Examine 2368 2375	measure
+T229	Examine 5239 5246	measure
+T230	Examine 8244 8251	measure
+T232	Examine 6348 6355	measure
+T233	DistanceMeasuringTools 3984 3995	meter stick
+T234	DistanceMeasuringTools 3931 3942	Meter stick
+T235	DistanceMeasuringTools 8349 8360	meter stick
+T236	DistanceMeasuringTools 3627 3638	meter stick
+T237	DistanceMeasuringTools 7552 7563	meter stick
+T238	DistanceMeasuringTools 207 218	Meter stick
+T239	DistanceMeasuringTools 4374 4386	tape measure
+T240	DistanceMeasuringTools 4431 4443	tape measure
+T243	DistanceMeasuringTools 1234 1241	compass
+T246	Examine 6670 6678	measures
+T250	DistanceMeasuringTools 5826 5831	ruler
+T251	DistanceMeasuringTools 456 461	ruler
+T252	DistanceMeasuringTools 2963 2968	ruler
+T253	DistanceMeasuringTools 1224 1229	ruler
+T254	DistanceMeasuringTools 2148 2153	ruler
+T255	DistanceMeasuringTools 6146 6151	ruler
+T256	DistanceMeasuringTools 2088 2093	ruler
+T257	DistanceMeasuringTools 2443 2448	ruler
+T258	DistanceMeasuringTools 3558 3563	ruler
+T259	DistanceMeasuringTools 2417 2422	ruler
+T262	DistanceMeasuringTools 4738 4752	Measuring tape
+T263	DistanceMeasuringTools 4012 4024	metric ruler
+T264	DistanceMeasuringTools 7132 7144	metric ruler
+T265	Examine 712 720	measured
+T266	TimeMeasuringTools 3248 3257	stopwatch
+T267	TimeMeasuringTools 4334 4343	stopwatch
+T268	TimeMeasuringTools 4417 4426	stopwatch
+T270	TimeMeasuringTools 3604 3613	stopwatch
+T271	TimeMeasuringTools 2486 2495	stopwatch
+T272	TimeMeasuringTools 3970 3979	Stopwatch
+T273	TimeMeasuringTools 6404 6413	stopwatch
+T274	TemperatureMeasuringTools 1310 1321	thermometer
+T275	TemperatureMeasuringTools 3281 3292	thermometer
+T276	TemperatureMeasuringTools 5836 5847	thermometer
+T277	TemperatureMeasuringTools 2158 2169	Thermometer
+T278	TemperatureMeasuringTools 6156 6167	thermometer
+T279	TemperatureMeasuringTools 7116 7127	thermometer
+T280	TemperatureMeasuringTools 489 500	thermometer
+T281	TemperatureMeasuringTools 6837 6848	thermometer
+T282	TemperatureMeasuringTools 3568 3579	thermometer
+T283	TemperatureMeasuringTools 223 234	Thermometer
+T284	TemperatureMeasuringTools 6420 6431	thermometer
+T285	TemperatureMeasuringTools 2098 2109	thermometer
+T286	ViewingTools 4359 4369	binoculars
+T287	ViewingTools 4391 4401	binoculars
+T288	ViewingTools 5600 5610	binoculars
+T289	ViewingTools 3643 3649	camera
+T290	ViewingTools 4348 4354	camera
+T291	ViewingTools 4406 4412	camera
+T292	ViewingTools 1640 1650	microscope
+T293	ViewingTools 8640 8650	microscope
+T294	ViewingTools 1736 1746	microscope
+T295	ViewingTools 6820 6830	microscope
+T296	ViewingTools 2455 2465	microscope
+T297	ViewingTools 1246 1256	microscope
+T298	ViewingTools 3536 3546	microscope
+T299	ViewingTools 2975 2985	microscope
+T300	ViewingTools 2502 2512	microscope
+T301	ViewingTools 8702 8712	microscope
+T302	ViewingTools 5574 5583	telescope
+T303	MassMeasuringTool 7172 7191	triple beam balance
+T306	MassMeasuringTool 5814 5821	balance
+T307	MassMeasuringTool 1655 1662	balance
+T308	MassMeasuringTool 2042 2049	Balance
+T309	MassMeasuringTool 1724 1731	balance
+T310	MassMeasuringTool 1298 1305	balance
+T311	MassMeasuringTool 8655 8662	balance
+T312	MassMeasuringTool 2472 2479	balance
+T314	MassMeasuringTool 8690 8697	balance
+T315	MassMeasuringTool 4000 4007	Balance
+T316	MassMeasuringTool 477 484	balance
+T317	MassMeasuringTool 2429 2436	balance
+T318	MassMeasuringTool 2949 2956	balance
+T320	MassMeasuringTool 2174 2181	balance
+T321	MassMeasuringTool 4029 4036	Balance
+T323	MassMeasuringTool 195 202	Balance
+T324	MassMeasuringTool 6130 6141	pan balance
+T325	MassMeasuringTool 6386 6397	pan balance
+T326	MassMeasuringTool 8316 8327	pan balance
+T327	VolumeMeasuringTool 466 472	beaker
+T328	VolumeMeasuringTool 1667 1673	beaker
+T329	VolumeMeasuringTool 8740 8746	beaker
+T330	VolumeMeasuringTool 2114 2132	Graduated cylinder
+T331	VolumeMeasuringTool 8667 8685	graduated cylinder
+T332	VolumeMeasuringTool 1275 1293	graduated cylinder
+T333	VolumeMeasuringTool 3947 3965	graduated cylinder
+T334	VolumeMeasuringTool 8717 8735	graduated cylinder
+T335	VolumeMeasuringTool 6438 6456	graduated cylinder
+T336	VolumeMeasuringTool 8751 8769	graduated cylinder
+T337	VolumeMeasuringTool 8365 8383	graduated cylinder
+T338	VolumeMeasuringTool 1751 1769	graduated cylinder
+T339	VolumeMeasuringTool 6107 6125	graduated cylinder
+T340	VolumeMeasuringTool 1701 1719	graduated cylinder
+T341	VolumeMeasuringTool 2054 2072	graduated cylinder
+T342	VolumeMeasuringTool 6875 6893	graduated cylinder
+T343	VolumeMeasuringTool 7149 7167	graduated cylinder
+T344	VolumeMeasuringTool 2992 3010	graduated cylinder
+T345	VolumeMeasuringTool 7585 7603	graduated cylinder
+T346	VolumeMeasuringTool 5852 5870	graduated cylinder
+T347	VolumeMeasuringTool 1678 1696	graduated cylinder
+T348	VolumeMeasuringTool 239 257	Graduated cylinder
+T349	WeightMeasuringTool 3236 3241	scale
+T350	WeightMeasuringTool 660 665	scale
+T351	WeightMeasuringTool 6855 6868	balance scale
+T354	WeightMeasuringTool 675 680	scale
+T355	WeightMeasuringTool 728 733	scale
+T356	WeightMeasuringTool 7568 7580	spring scale
+T357	WeightMeasuringTool 8332 8344	spring scale
+T358	ElectricityMeasuringTool 1261 1270	voltmeter
+T360	MagneticDirectionMeasuringTool 4916 4923	compass
+T361	MagneticDirectionMeasuringTool 1234 1241	compass
+T362	MagneticDirectionMeasuringTool 5588 5595	compass
+T363	MagneticDirectionMeasuringTool 5155 5162	compass
+T364	MagneticDirectionMeasuringTool 4705 4721	Magnetic compass
+T365	SafetyEquipment 3669 3683	safety goggles
+T367	ComputingDevice 3264 3274	calculator
+T368	ComputingDevice 3581 3591	calculator
+T369	ComputingDevice 3615 3625	calculator
+T370	ComputingDevice 3548 3556	computer
+T372	TechnologicalInstrument 3264 3274	calculator
+T373	TechnologicalInstrument 3581 3591	calculator
+T374	TechnologicalInstrument 3615 3625	calculator
+T375	TechnologicalInstrument 3643 3649	camera
+T376	TechnologicalInstrument 4348 4354	camera
+T377	TechnologicalInstrument 4406 4412	camera
+T378	TechnologicalInstrument 7538 7547	test tube
+T379	TechnologicalInstrument 3548 3556	computer
+T380	TechnologicalInstrument 3651 3667	digital recorder
+T382	LandVehicle 4250 4257	bicycle
+T383	SpaceVehicle 5560 5569	satellite
+T384	WaterVehicle 4672 4676	boat
+T385	ClothesTextiles 4726 4733	Blanket
+T386	ClothesTextiles 4696 4700	Rope
+T399	PhysicalProperty 1974 1981	volumes
+T400	PhysicalProperty 1526 1533	density
+T401	PhysicalProperty 1607 1614	density
+T402	PhysicalProperty 8610 8617	density
+T404	PhysicalProperty 8256 8262	volume
+T405	PhysicalProperty 6626 6632	volume
+T406	PhysicalProperty 6360 6366	volume
+T407	PhysicalProperty 7815 7821	volume
+T408	PhysicalProperty 863 869	volume
+T409	PhysicalProperty 6683 6689	volume
+T410	PhysicalProperty 5790 5796	volume
+T411	PhysicalProperty 6793 6799	volume
+T412	PhysicalProperty 7076 7082	volume
+T415	Temperature 3198 3202	warm
+T416	Numbers 2796 2809	concentration
+T417	PropertyOfProduction 5537 5544	natural
+T418	Mass 2391 2395	mass
+T419	Mass 172 176	mass
+T420	Mass 433 437	mass
+T421	Mass 835 839	mass
+T422	Mass 1963 1969	masses
+T423	Mass 2914 2920	masses
+T424	Shape 7757 7768	cylindrical
+T425	Shape 7785 7796	cylindrical
+T427	Shape 7797 7802	shape
+T428	Shape 4905 4910	arrow
+T433	Size 1974 1981	volumes
+T434	Size 7088 7093	small
+T435	Size 8189 8194	small
+T436	Size 8256 8262	volume
+T437	Size 6626 6632	volume
+T438	Size 6360 6366	volume
+T439	Size 7815 7821	volume
+T440	Size 863 869	volume
+T441	Size 6683 6689	volume
+T442	Size 5790 5796	volume
+T443	Size 6793 6799	volume
+T444	Size 7076 7082	volume
+T445	AmountComparison 2789 2795	higher
+T447	Length 2380 2386	length
+T451	Quality 5251 5258	quality
+T452	Quality 2894 2898	best
+T453	Quality 3856 3860	best
+T454	Quality 6340 6344	best
+T455	Quality 8231 8235	best
+T456	Quality 3478 3484	useful
+T457	Quality 4322 4328	useful
+T458	Quality 8583 8589	useful
+T459	Move 4661 4667	direct
+T460	TemporalProperty 3184 3188	long
+T465	TemporalProperty 7809 7814	fixed
+T466	Position 648 654	stands
+T472	Position 803 814	surrounding
+T473	Speed 3512 3517	speed
+T474	Speed 3883 3888	speed
+T475	Speed 4239 4244	speed
+T477	OtherAnimalProperties 5308 5312	wild
+T481	Numbers 8164 8172	quantity
+T482	Numbers 2834 2840	amount
+T483	Numbers 8195 8201	amount
+T484	CardinalNumber 7440 7441	4
+T485	CardinalNumber 1985 1990	three
+T486	CardinalNumber 7410 7412	15
+T487	CardinalNumber 2006 2009	two
+T488	CardinalNumber 4296 4299	two
+T489	CardinalNumber 6073 6075	10
+T490	CardinalNumber 7423 7424	3
+T491	CardinalNumber 7389 7390	1
+T492	CardinalNumber 7444 7446	20
+T493	CardinalNumber 7406 7407	2
+T494	CardinalNumber 7427 7429	30
+T503	RelativeNumber 7340 7344	some
+T506	Calculations 8594 8605	calculating
+T508	AquaticAnimalPart 2401 2409	seashell
+T520	OtherAnimalProperties 4620 4624	lost
+T522	BodiesOfWater 4628 4631	sea
+T525	PartsOfBodiesOfWater 4685 4690	shore
+T528	Minerals 2813 2817	salt
+T529	Rock 1537 1541	rock
+T530	Rock 1622 1626	rock
+T531	Rock 8623 8627	rock
+T532	Igneous 7103 7110	granite
+T533	ManmadeObjects 1991 1998	marbles
+T538	Locations 5189 5194	lands
+T539	TypesOfTerrestrialEcosystems 5360 5368	tropical
+T560	PhasesOfWater 2844 2849	water
+T561	PhasesOfWater 6096 6101	water
+T562	PhasesOfWater 5262 5276	drinking water
+T563	PhasesOfWater 6636 6641	water
+T564	PhasesOfWater 1144 1149	water
+T565	PhasesOfWater 6693 6698	water
+T566	PhasesOfWater 3203 3208	water
+T568	PhasesOfWater 1093 1098	water
+T569	PhasesOfWater 6807 6812	water
+T570	PhasesOfWater 3220 3223	ice
+T571	StateOfMatter 7905 7911	liquid
+T572	LiquidMatter 1063 1069	liquid
+T573	LiquidMatter 5802 5808	liquid
+T574	LiquidMatter 1123 1129	liquid
+T575	StateOfMatter 8270 8276	liquid
+T576	StateOfMatter 7953 7959	liquid
+T577	LiquidMatter 6372 6378	liquid
+T578	StateOfMatter 6706 6712	liquid
+T579	LiquidMatter 1212 1218	liquid
+T580	StateOfMatter 7925 7931	liquid
+T581	StateOfMatter 7869 7874	solid
+T582	StateOfMatter 7896 7901	solid
+T583	StateOfMatter 7963 7966	gas
+T584	StateOfMatter 7827 7842	state of matter
+T591	SolidMatter 3220 3223	ice
+T592	GranularSolids 8205 8216	baking soda
+T594	GranularSolids 2813 2817	salt
+T595	LiquidMatter 2844 2849	water
+T596	LiquidMatter 6096 6101	water
+T599	LiquidMatter 1144 1149	water
+T601	LiquidMatter 3203 3208	water
+T603	LiquidMatter 1093 1098	water
+T604	LiquidMatter 6807 6812	water
+T605	LiquidMatter 5262 5276	drinking water
+T607	LiquidMatter 8176 8183	vinegar
+T608	LiquidMatter 8277 8284	vinegar
+T610	Changes 6642 6649	changes
+T612	PhaseChangingActions 6658 6665	freezes
+T613	PhaseChangingActions 6728 6735	freezes
+T614	PhaseChangingActions 3212 3216	melt
+T619	Alter 2823 2829	affect
+T623	ObjectQuantification 2859 2864	slice
+T624	ObjectQuantification 2730 2736	slices
+T625	ObjectQuantification 2935 2941	slices
+T626	LocationChangingActions 1135 1140	float
+T627	LocationChangingActions 4896 4904	floating
+T628	LocationChangingActions 1153 1157	sink
+T632	Identify 6614 6618	know
+T633	ChangeInto 4616 4619	got
+T642	Collect 3489 3499	collecting
+T643	CombineAdd 2865 2872	absorbs
+T644	CombineAdd 8155 8161	adding
+T645	ContainBeComposedOf 8146 8154	included
+T652	CombineAdd 1084 1092	mix with
+T654	Use 2718 2722	with
+T657	ContainBeComposedOf 7489 7493	have
+T658	ContainBeComposedOf 1057 1060	has
+T659	ContainBeComposedOf 7779 7782	has
+T660	Create 7335 7339	made
+T662	Communicate 681 686	reads
+T663	Examine 1951 1958	compare
+T664	Examine 2902 2909	compare
+T665	Examine 1513 1521	studying
+T668	Help 4652 4656	help
+T669	Help 5284 5291	protect
+T670	Identify 7067 7071	find
+T671	Identify 5328 5337	determine
+T672	Identify 3170 3179	determine
+T673	Identify 419 428	determine
+T674	Identify 2774 2783	determine
+T675	Identify 158 167	determine
+T676	Identify 1593 1602	determine
+T677	Identify 3869 3878	determine
+T678	Move 5168 5177	traveling
+T679	Move 5225 5231	travel
+T681	Move 3907 3912	walks
+T682	LiquidMovement 1135 1140	float
+T683	GaseousMovement 4896 4904	floating
+T685	LiquidMovement 1153 1157	sink
+T693	Preserve 5284 5291	protect
+T694	Require 2358 2364	needed
+T695	Require 7861 7865	must
+T696	Require 7917 7921	must
+T697	Require 1585 1589	need
+T698	Require 3192 3197	takes
+T699	Require 1182 1188	should
+T700	Require 2022 2028	should
+T701	Require 6033 6039	should
+T703	StateOfBeing 4616 4619	got
+T705	Uptake 7507 7513	obtain
+T706	Use 7499 7503	used
+T707	Use 5770 5774	used
+T708	Use 411 415	used
+T709	Use 2032 2036	used
+T710	Use 7059 7063	used
+T711	Use 1192 1196	used
+T712	Use 3162 3166	used
+T713	Use 3861 3865	used
+T714	Use 150 154	used
+T715	Use 8285 8289	used
+T716	Use 5532 5536	uses
+T717	Use 5149 5152	use
+T718	Use 6774 6777	use
+T719	Use 6050 6053	use
+T721	Hypothesizing 1103 1110	predict
+T722	Examine 1200 1207	examine
+T724	PerformingResearch 7362 7370	recorded
+T727	PerformingResearch 1513 1521	studying
+T735	AnalyzingResearch 8594 8605	calculating
+T736	Comparisons 1951 1958	compare
+T737	Comparisons 2902 2909	compare
+T739	Experimentation 8127 8140	investigation
+T740	Experimentation 8297 8310	investigation
+T741	Experimentation 2707 2717	experiment
+T742	WordsForData 3500 3504	data
+T743	WordsForData 7376 7381	data:
+T750	RelativeTime 6723 6727	then
+T751	RelativeTime 4581 4586	While
+T752	RelativeTime 4258 4264	during
+T753	RelativeTime 5163 5167	when
+T754	RelativeTime 6650 6654	when
+T755	CardinalNumber 7393 7395	45
+T756	Frequency 4924 4930	always
+T757	Indicate 4931 4937	points
+T758	Locations 5369 5374	areas
+T761	TerrestrialLocations 4268 4275	outdoor
+T762	RelativeLocations 1158 1165	beneath
+T763	RelativeLocations 5357 5359	in
+T764	StateOfBeing 6699 6701	in
+T765	RelativeLocations 7752 7754	in
+T766	RelativeLocations 8290 8292	in
+T767	RelativeLocations 4625 4627	at
+T768	RelativeLocations 655 657	on
+T770	RelativeLocations 4911 4913	on
+T771	RelativeLocations 1141 1143	on
+T773	Cause 721 723	by
+T774	Directions 3921 3925	path
+T775	Directions 5212 5221	direction
+T776	CardinalDirectionsNorthEastSouthWest 4954 4958	west
+T777	CardinalDirectionsNorthEastSouthWest 4985 4990	north
+T778	CardinalDirectionsNorthEastSouthWest 4974 4979	south
+T779	CardinalDirectionsNorthEastSouthWest 4964 4968	east
+T780	RelativeLocations 4600 4603	out
+T781	Goal 3167 3169	to
+T782	RelativeDirection 4682 4684	to
+T783	RelativeDirection 5178 5180	to
+T784	Goal 7064 7066	to
+T788	Goal 3866 3868	to
+T789	Goal 1100 1102	To
+T790	Goal 6054 6056	to
+T796	Goal 6345 6347	to
+T797	Goal 5775 5777	to
+T798	Goal 2365 2367	to
+T802	Goal 1590 1592	to
+T803	Goal 8241 8243	to
+T808	RelativeDirection 8184 8186	to
+T811	RelativeDirection 4677 4681	back
+T812	RelativeDirection 5303 5307	from
+T815	Relevant 3505 3507	on
+T819	PrepositionalDirections 3913 3918	along
+T820	PrepositionalDirections 4938 4945	towards
+T822	VerbsForLocate 5203 5209	locate
+T823	Comparisons 1150 1152	or
+T824	Comparisons 7902 7904	or
+T825	Comparisons 7960 7962	or
+T826	QualityComparison 2894 2898	best
+T827	QualityComparison 3856 3860	best
+T828	QualityComparison 6340 6344	best
+T829	QualityComparison 8231 8235	best
+T831	AmountComparison 5338 5344	levels
+T833	AmountComparison 7477 7481	most
+T834	AmountComparison 8578 8582	most
+T835	AmountComparison 4317 4321	most
+T836	AmountComparison 3473 3477	most
+T837	AmountComparison 6762 6766	most
+T840	ObservationInstrumentsTelescopeBinoculars 4359 4369	binoculars
+T841	ObservationInstrumentsTelescopeBinoculars 4391 4401	binoculars
+T842	ObservationInstrumentsTelescopeBinoculars 5600 5610	binoculars
+T843	ObservationInstrumentsTelescopeBinoculars 3643 3649	camera
+T844	ObservationInstrumentsTelescopeBinoculars 4348 4354	camera
+T845	ObservationInstrumentsTelescopeBinoculars 4406 4412	camera
+T846	ObservationInstrumentsTelescopeBinoculars 5574 5583	telescope
+T848	Scientists 6042 6049	student
+T849	Scientists 877 884	student
+T850	Scientists 774 781	student
+T851	Scientists 847 854	student
+T852	Scientists 819 826	student
+T853	Scientists 2757 2764	student
+T854	Scientists 1049 1056	student
+T855	Scientists 640 647	student
+T856	Scientists 1934 1941	student
+T857	Scientists 2687 2694	student
+T859	GroupsOfScientists 8107 8115	Students
+T862	Discovery 5522 5531	invention
+T863	Undiscovered 5181 5188	unknown
+T864	Undiscovered 4620 4624	lost
+T866	AbilityAvailability 7880 7885	could
+T867	AbilityAvailability 7937 7942	could
+T896	RelativeNumber 3180 3183	how
+T897	Method 8116 8123	planned
+T898	StateOfBeing 6713 6718	state
+T906	StateOfBeing 4596 4599	was
+T907	StateOfBeing 7494 7498	been
+T908	StateOfBeing 706 711	being
+T911	TypesOfEvent 1504 1509	class
+T912	TypesOfEvent 4212 4217	class
+T932	GeometricSpatialObjects 3224 3228	cube
+T933	GenericTerms 183 189	object
+T934	GenericTerms 444 450	object
+T935	GenericTerms 4639 4645	object
+T936	Move 4931 4937	points
+T937	GenericTerms 3457 3464	objects
+T938	ObjectQuantification 1542 1549	samples
+T939	ObjectQuantification 1627 1634	samples
+T940	ObjectQuantification 7850 7856	sample
+T941	ObjectQuantification 7745 7751	sample
+T942	ObjectQuantification 7382 7388	Sample
+T943	ObjectQuantification 7399 7405	Sample
+T944	ObjectQuantification 7416 7422	Sample
+T945	ObjectQuantification 7433 7439	Sample
+T946	ObjectQuantification 8628 8634	sample
+T947	ObjectQuantification 7094 7099	piece
+T948	Negations 1080 1083	not
+T950	Goal 155 157	to
+T951	Goal 416 418	to
+T953	Goal 1942 1947	wants
+T954	Goal 2765 2770	wants
+T955	Goal 4218 4223	wants
+T956	Goal 6605 6610	wants
+T958	Cause 5129 5132	Why
+T964	ProbabilityAndCertainty 6767 6773	likely
+T965	ProbabilityAndCertainty 7482 7488	likely
+T966	ProbabilityAndCertainty 1111 1118	whether
+T967	ProbabilityAndCertainty 7471 7476	would
+T968	ProbabilityAndCertainty 6331 6336	would
+T969	ProbabilityAndCertainty 4308 4313	would
+T970	ProbabilityAndCertainty 5133 5138	would
+T971	ProbabilityAndCertainty 8569 8574	would
+T972	ProbabilityAndCertainty 2885 2890	would
+T973	ProbabilityAndCertainty 4646 4651	would
+T974	ProbabilityAndCertainty 6065 6072	exactly
+T975	ProbabilityAndCertainty 1130 1134	will
+T976	ProbabilityAndCertainty 2818 2822	will
+T982	LevelOfInclusion 7459 7464	these
+T983	LevelOfInclusion 7514 7519	these
+T984	LevelOfInclusion 7889 7895	either
+T985	LevelOfInclusion 7946 7952	either
+T986	LevelOfInclusion 4290 4295	which
+T987	LevelOfInclusion 4633 4638	Which
+T988	LevelOfInclusion 8546 8551	Which
+T989	LevelOfInclusion 3148 3153	Which
+T990	LevelOfInclusion 3840 3845	Which
+T991	LevelOfInclusion 397 402	Which
+T992	LevelOfInclusion 6740 6745	Which
+T993	LevelOfInclusion 2000 2005	Which
+T994	LevelOfInclusion 1170 1175	which
+T995	LevelOfInclusion 6314 6319	Which
+T996	LevelOfInclusion 6016 6021	Which
+T997	LevelOfInclusion 7033 7038	Which
+T998	LevelOfInclusion 3451 3456	Which
+T999	LevelOfInclusion 2874 2879	Which
+T1000	LevelOfInclusion 7450 7455	Which
+T1001	LevelOfInclusion 5516 5521	Which
+T1002	LevelOfInclusion 8218 8223	Which
+T1003	LevelOfInclusion 2342 2347	Which
+T1004	LevelOfInclusion 5756 5761	Which
+T1013	NUMBER 1985 1990	three
+T1014	NUMBER 2006 2009	two
+T1015	NUMBER 4296 4299	two
+T1016	NUMBER 6073 6075	10
+T1017	PERSON 6598 6604	Angelo
+T1018	PERSON 6755 6761	Angelo
+T1019	PERSON 7330 7334	Joel
+T1020	NUMBER 7389 7390	1
+T1022	NUMBER 7406 7407	2
+T1024	NUMBER 7423 7424	3
+T1026	NUMBER 7440 7441	4
+T1030	StateOfBeing 147 149	is
+T96	StateOfBeing 408 410	is
+T20	CardinalNumber 687 689	85
+T24	StateOfBeing 703 705	is
+T25	ActUponSomething 760 769	acting on
+T8	StateOfBeing 1189 1191	be
+T13	StateOfBeing 1510 1512	is
+T14	StateOfBeing 2029 2031	be
+T29	StateOfBeing 2354 2357	are
+T16	TypesOfWaterInBodiesOfWater 2741 2751	salt water
+T33	StateOfBeing 2891 2893	be
+T34	StateOfBeing 3159 3161	is
+T6	StateOfBeing 3852 3855	are
+T19	RelativeTime 3901 3903	as
+T28	TimeMeasuringTools 4041 4050	stopwatch
+T37	TypesOfEvent 4276 4288	lab exercise
+T41	Experimentation 4276 4288	lab exercise
+T43	StateOfBeing 4314 4316	be
+T11	StateOfBeing 5767 5769	is
+T2	StateOfBeing 6337 6339	be
+T3	StateOfBeing 7056 7058	is
+T1	StateOfBeing 7866 7868	be
+T18	StateOfBeing 7886 7888	be
+T21	StateOfBeing 7922 7924	be
+T23	StateOfBeing 7943 7945	be
+T26	PerformAnActivity 8116 8123	planned
+T30	StateOfBeing 8224 8226	is
+T4	LevelOfInclusion 8555 8568	the following
+T22	StateOfBeing 8575 8577	be

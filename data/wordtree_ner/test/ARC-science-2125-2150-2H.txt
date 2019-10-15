@@ -1,0 +1,99 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7021210] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+The brain and spinal cord are parts of which body system?
+(A) nervous
+(B) excretory
+(C) endocrine
+(D) respiratory
+----------------------------------------------------------------------------------------------
+[ACTAAP_2008_7_12] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+What is the smallest structural and functional unit of the nervous system?
+(A) brain
+(B) organ
+(C) neuron
+(D) spinal cord
+----------------------------------------------------------------------------------------------
+[Mercury_7081795] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+Which is a major organ of the nervous system?
+(A) brain
+(B) stomach
+(C) lung
+(D) bone
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_8_pg71] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+Cells that conduct messages are known as
+(A) skin cells
+(B) nerve cells
+(C) blood cells
+(D) kidney cells
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg24] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+When a person sees something, what carries the message from the eyes to the brain?
+(A) arteries
+(B) glands
+(C) muscles
+(D) nerves
+(E) veins
+----------------------------------------------------------------------------------------------
+[Mercury_7128275] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+Nerve cells transmitting messages to the body best demonstrate which primary function?
+(A) the transfer of energy
+(B) the exchange of gases
+(C) the elimination of waste
+(D) the absorption of nutrients
+----------------------------------------------------------------------------------------------
+[Mercury_7029488] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+In the human body, what part of the central nervous system connects with other nerves outside of the central nervous system?
+(A) dendrite
+(B) cerebrum
+(C) cerebellum
+(D) spinal cord
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_23] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+The interaction of the skeletal and muscular systems to produce locomotion is coordinated by which human body system?
+(A) circulatory
+(B) excretory
+(C) nervous
+(D) respiratory
+----------------------------------------------------------------------------------------------
+[Mercury_7058048] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+The brain, spinal cord, and nerves are organs that perform which primary function?
+(A) supporting the body and enabling it to move
+(B) transporting oxygen, wastes, and nutrients throughout the body
+(C) producing male and female gametes
+(D) conducting messages to coordinate body functions
+----------------------------------------------------------------------------------------------
+[Mercury_7239488] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+The body is able to detect pressure on its surface by which direct means?
+(A) releasing of hormones in skin
+(B) changing in volume of fat and muscle cells
+(C) signaling by sensory neurons
+(D) changing of voltage in interneurons
+----------------------------------------------------------------------------------------------
+[Mercury_7239523] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+A signal from the brain to a muscle in the arm is transmitted by which structures?
+(A) sensory neurons
+(B) interneurons
+(C) motor neurons
+(D) mechanoreceptor neurons
+----------------------------------------------------------------------------------------------
+[Mercury_7239470] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+Which of the following is a function of the motor neurons in the nervous system?
+(A) to directly apply force to the skeletal system
+(B) to gather information about the stimuli
+(C) to transmit messages from the brain to the body
+(D) to directly control the action of muscles
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_15] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+Which body system sends electrical signals to all other body systems?
+(A) circulatory system
+(B) digestive system
+(C) muscular system
+(D) nervous system
+----------------------------------------------------------------------------------------------
+[Mercury_7075233] [LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+Rabies can lead to an infection of the brain. This directly causes problems in the
+(A) excretory system.
+(B) nervous system.
+(C) skeletal system.
+(D) integumentary system.

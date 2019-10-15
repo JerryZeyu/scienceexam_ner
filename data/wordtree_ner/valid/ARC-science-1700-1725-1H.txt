@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7262815] [LIFE_CLASSIFICATION]
+Which set contains kingdoms that contain only heterotrophs?
+(A) Protists, Fungi
+(B) Bacteria, Animals
+(C) Plants, Fungi
+(D) Animals, Fungi
+----------------------------------------------------------------------------------------------
+[MCAS_2006_9_38-v1] [LIFE_CLASSIFICATION]
+Which of the following distinguishes the organisms in the kingdom Fungi from other eukaryotic organisms?
+(A) Fungi are unicellular.
+(B) Fungi reproduce sexually.
+(C) Fungi obtain nutrients by absorption.
+(D) Fungi make food through photosynthesis.
+----------------------------------------------------------------------------------------------
+[Mercury_7262833] [LIFE_CLASSIFICATION]
+A new organism is discovered. It is multicellular, autotrophic, and does not move on its own. In which kingdoms could the organism belong?
+(A) Fungi and Plants
+(B) Protists and Plants
+(C) Animals and Fungi
+(D) Protists and Animals
+----------------------------------------------------------------------------------------------
+[Mercury_7228708] [LIFE_CLASSIFICATION]
+What goal does taxonomy accomplish?
+(A) explains the differences between living organisms
+(B) classifies living organisms into groups
+(C) predicts the types of undiscovered organisms
+(D) establishes relationships of organisms with their habitats
+----------------------------------------------------------------------------------------------
+[Mercury_182350] [LIFE_CLASSIFICATION]
+If two organisms are classified in different orders but are in the same class, which of these statements is true?
+(A) The organisms have the same genus.
+(B) The organisms are in the same phylum.
+(C) The organisms are in different kingdoms.
+(D) The organisms are members of the same species.
+----------------------------------------------------------------------------------------------
+[Mercury_7228218] [LIFE_CLASSIFICATION]
+An organism's cells include organelles and a cell wall. In which taxonomic group or groups might the organism be classified?
+(A) plants only
+(B) bacteria or archaea
+(C) plants, fungi, or protists
+(D) bacteria, fungi, or protists
+----------------------------------------------------------------------------------------------
+[Mercury_7145250] [LIFE_CLASSIFICATION]
+A cow and a frog have similar bone structures in their forelimbs. Both have phalanges, radius, ulna, and humerus bones. However, the cow and frog are animals with very different life cycles from each other. Which most likely describes why the body structures of these animals are so similar?
+(A) Both have undergone similar mutations.
+(B) Both descended from a common ancestor.
+(C) Both reacted similarly to environmental pressures.
+(D) Both spread out from the same geographical region.
+----------------------------------------------------------------------------------------------
+[Mercury_7228165] [LIFE_CLASSIFICATION]
+In which taxonomic group are organisms found that share the characteristic of storing hereditary material in a single loop of DNA?
+(A) bacteria
+(B) fungi
+(C) plants
+(D) animals
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407784] [LIFE_CLASSIFICATION]
+What do all vertebrate animals have in common?
+(A) They all have fur.
+(B) They all have backbones.
+(C) They all are warm-blooded.
+(D) They all have young that look like the adults.
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_4_pg26] [LIFE_CLASSIFICATION]
+An animal has six legs. What is it most likely to be?
+(A) a spider
+(B) a fly
+(C) a lizard
+(D) a centipede
+----------------------------------------------------------------------------------------------
+[MCAS_2013_5_17] [LIFE_CLASSIFICATION]
+One type of animal hatches from an egg, breathes through gills when it is young, and mainly lives on land as an adult. Into which group is this animal classified?
+(A) amphibians
+(B) birds
+(C) mammals
+(D) reptiles

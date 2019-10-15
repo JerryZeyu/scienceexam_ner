@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_414502] [CEL_SPACEEX_HUMAN]
+To which planet do National Aeronautics and Space Administration (NASA) scientists hope to send humans next?
+(A) Mars
+(B) Venus
+(C) Jupiter
+(D) Mercury
+----------------------------------------------------------------------------------------------
+[Mercury_7267890] [CEL_SPACEEX_HUMAN]
+Why is some food dehydrated for astronauts to eat in space?
+(A) to make the food less messy to eat
+(B) to preserve the food for extended flights
+(C) to increase the food's nutritional content
+(D) to keep the food from floating off the plate
+----------------------------------------------------------------------------------------------
+[Mercury_7267925] [CEL_SPACEEX_HUMAN]
+The outer layers of astronauts' space suits are reflective in order to protect them from
+(A) the vacuum of space.
+(B) intense sunlight.
+(C) micrometeoroids.
+(D) water loss.
+----------------------------------------------------------------------------------------------
+[Mercury_7245858] [CEL_SPACEEX_HUMAN, LIFE_FUNCT_FUNCT_ANIMESS]
+In the initial stages of manned space exploration, scientists needed to address adequate nutrition to provide astronauts with energy throughout the mission. Which of these criteria could not be used when considering food and energy for astronauts during manned space flights?
+(A) history of space food
+(B) food crumbs in zero gravity
+(C) rehydration of certain foods
+(D) food storage for long periods
+----------------------------------------------------------------------------------------------
+[Mercury_7123288] [CEL_SPACEEX_ROBOT]
+In 1976, the Viking I Lander was sent to Mars to analyze atmospheric gases and soil samples. The Viking I Lander was most likely a
+(A) space probe.
+(B) space shuttle.
+(C) lunar module.
+(D) natural satellite.
+----------------------------------------------------------------------------------------------
+[MCAS_2004_8_13] [CEL_SPACEEX_VEHICLE]
+When a balloon is filled with air and suddenly released, it will fly around the room as the air escapes. If compared to space transportation, the escaping air is most similar to what subsystem of a spacecraft?
+(A) guidance
+(B) propulsion
+(C) support
+(D) suspension
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400865] [CEL_TIDES]
+What event happens in a daily cycle?
+(A) cliffs erode
+(B) rivers flood
+(C) volcanoes erupt
+(D) high and low tides
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400385] [CEL_TIDES]
+Which of these natural events occurs at time intervals that are the most regular?
+(A) drought and flooding
+(B) high tides and low tides
+(C) clear skies and cloudy skies
+(D) hot weather and cool weather
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400039] [CEL_TIDES]
+The gravitational attraction of the Moon causes which effect on Earth?
+(A) ocean tides
+(B) time of day
+(C) energy from the Sun
+(D) phases of the Moon
+----------------------------------------------------------------------------------------------
+[Mercury_7171920] [CEL_TIDES]
+Kailey and LeAnn were preparing a report on ocean tides. Which information should they include in their report concerning the greatest influence on the strength of a high tide in a particular area?
+(A) the position of the Moon around Earth
+(B) the position of Earth around the Sun
+(C) the rotation of the Moon
+(D) the rotation of Earth
+----------------------------------------------------------------------------------------------
+[MEA_2010_8_20-v1] [CEL_TIDES]
+What is the most likely outcome of the Moon moving away from Earth?
+(A) A lunar day is shorter.
+(B) A lunar eclipse lasts longer.
+(C) Earth moves closer to the Sun.
+(D) Earth's tides decrease in size.
+----------------------------------------------------------------------------------------------
+[Mercury_7007945] [CEL_TIDES]
+When would the highest tides occur along the Texas coast?
+(A) at sunrise
+(B) at sunset
+(C) during a full moon
+(D) during a half moon
+----------------------------------------------------------------------------------------------
+[MCAS_2016_8_9] [CEL_TIDES]
+Which of the following is a cause of the ocean levels periodically rising and then falling?
+(A) the slight tilt of the Moon
+(B) the force of gravity from the Moon
+(C) the convection within Earth's mantle
+(D) the revolution of Earth around the Sun
+----------------------------------------------------------------------------------------------
+[MEA_2011_8_10] [CEL_TIDES]
+Which gravitational pull has the greatest influence on Earth's tides?
+(A) the gravitational pull between Earth and the Moon
+(B) the gravitational pull between Earth and the Sun
+(C) the gravitational pull between Earth and Jupiter
+(D) the gravitational pull between Earth and Mars
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_8_39] [CEL_TIDES]
+The Moon has the greatest effect on Earth's
+(A) year
+(B) seasons
+(C) ocean tides
+(D) daylight hours
+----------------------------------------------------------------------------------------------
+[TIMSS_2011_8_pg87] [CEL_TIDES]
+Which of the following is the major cause of tides?
+(A) heating of the oceans by the Sun
+(B) gravitational pull of the Moon
+(C) earthquakes on the ocean floor
+(D) changes in wind direction
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402287] [CEL_TIDES]
+What evidence is there that the gravitational pull of the Moon has a direct effect on Earth?
+(A) climate variations
+(B) change of seasons
+(C) number of earthquakes
+(D) changes in tidal ranges
+----------------------------------------------------------------------------------------------
+[Mercury_7007893] [CEL_TIDES]
+Ocean tides result mainly from
+(A) surface winds.
+(B) radiant heat from stars.
+(C) Earth's tilt on its axis.
+(D) the Moon's gravitational pull.
+----------------------------------------------------------------------------------------------
+[MCAS_2004_9_16] [CEL_TIDES, CEL_DISTANCE]
+Tides, such as those along the coast of Massachusetts, are caused by gravitational attractions acting on Earth. Why is the gravitational attraction of the Moon a greater factor in determining tides than the gravitational attraction of the much larger Sun?
+(A) Earth is much closer to the Moon than to the Sun.
+(B) The Sun's gravity is a factor only during the day.
+(C) The Moon's core has a much greater density than the Sun's core.
+(D) The Sun's mass is smaller than the mass of the Moon.
+----------------------------------------------------------------------------------------------
+[Mercury_7176085] [CEL_TIDES, CEL_DISTANCE]
+The influence of the Moon on the tides on Earth is greater than that of the Sun. Which best explains this?
+(A) The Moon is more similar in composition to Earth than the Sun.
+(B) The Moon has a smaller mass than Earth and the Sun.
+(C) The Moon has a higher density than the Sun.
+(D) The Moon is closer to Earth than the Sun.
+----------------------------------------------------------------------------------------------
+[Mercury_7084560] [CEL_TIDES, CEL_DISTANCES]
+Tides on Earth are influenced more by the Moon than the Sun because the Moon is
+(A) brighter than the Sun.
+(B) larger than Earth.
+(C) colder than Earth.
+(D) closer than the Sun.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10615] [CEL_TIDES, CEL_ECLIPSE]
+All of these are examples of the ways Earth and the Moon interact except
+(A) the phases of the Moon.
+(B) the tides on Earth.
+(C) seasons on Earth.
+(D) lunar eclipses.
+----------------------------------------------------------------------------------------------
+[Mercury_7171938] [CEL_TIDES, CEL_MOONPHASES]
+Ocean tides of Earth are strongly influenced by the Moon. During which lunar phases are ocean tides lowest on Earth?
+(A) full and first quarter
+(B) full moon and new moon
+(C) last quarter and new moon
+(D) first quarter and last quarter
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_8_pg97] [CEL_TIMEMOTION]
+An Earth year is the length of time it takes for
+(A) Earth to rotate once on its axis
+(B) the Moon to revolve once around Earth
+(C) the Sun to revolve once around Earth
+(D) Earth to revolve once around the Sun
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_2] [CEL_TIMEMOTION]
+The longitude of a location determines which time zone it is in. Different time zones are the result of
+(A) Earth's rotation
+(B) Earth's revolution
+(C) the Moon's rotation
+(D) the Moon's revolution

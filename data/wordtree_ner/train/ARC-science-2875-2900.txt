@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2016_4_1] [LIFE_LIVINGNONLIVING]
+Which list contains only nonliving things?
+(A) coins, snakes, birds
+(B) water, rocks, sunlight
+(C) rubber ball, plants, house
+(D) soil, fish, air
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_4_pg58] [LIFE_LIVINGNONLIVING]
+Which group consists only of living things?
+(A) rabbit, seed, bird
+(B) seed, bird, wind
+(C) Volcano, candle, rabbit
+(D) wind, candle, volcano
+----------------------------------------------------------------------------------------------
+[LEAP_2001_4_10241] [LIFE_LIVINGNONLIVING]
+Which of these is a nonliving thing?
+(A) a mushroom
+(B) a tree
+(C) a worm
+(D) a river
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_8_20] [LIFE_LIVINGNONLIVING]
+One important difference between living things and nonliving things is that only living things have
+(A) compounds
+(B) elements
+(C) molecules
+(D) cells
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408918] [LIFE_MEASTOOLS]
+The first microscopes were built in the 1600s. Microscopes have improved since then, but still perform the same job. How do microscopes most help scientists?
+(A) They make small objects easier to see.
+(B) They make distant objects appear closer.
+(C) They reduce the glare from shiny objects.
+(D) The improve the brightness of dim objects.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_4_44] [LIFE_MEASTOOLS]
+Which tool would best help a person observe the parts of a plant cell?
+(A) hand lens
+(B) telescope
+(C) binoculars
+(D) microscope
+----------------------------------------------------------------------------------------------
+[CSZ_2004_5_CSZ10300] [LIFE_MEASTOOLS]
+A scientist needs to take a picture of the well-ordered arrangements of the atoms and molecules within a substance. Which of the following instruments would be best for the scientist to use?
+(A) a laser light with holograph.
+(B) a seismograph.
+(C) an electron microscope.
+(D) a stereoscope.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405793] [LIFE_MEASTOOLS]
+Carolina uses a microscope to view a soil sample taken from her backyard. Which part of the soil would she ONLY be able to see with a microscope?
+(A) bacteria
+(B) grass
+(C) rainwater
+(D) rocks
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401368] [LIFE_MEASTOOLS]
+Which set of equipment would be best to use when investigating what is found in a sample of pond water?
+(A) net, gloves, specimen bags
+(B) beaker, calculator, graph paper
+(C) microscope, eye dropper, slides
+(D) measuring tape, thermometer, clipboard
+----------------------------------------------------------------------------------------------
+[Mercury_7044538] [LIFE_MEASTOOLS]
+Which instrument should a student use to best examine bacteria?
+(A) telescope
+(B) hand lens
+(C) microscope
+(D) computer probes
+----------------------------------------------------------------------------------------------
+[Mercury_7012600] [LIFE_MEASTOOLS]
+What are petri dishes used for in a lab?
+(A) reflecting light to form images
+(B) measuring the mass of molecules
+(C) growing bacteria in a controlled setting
+(D) observing the strength of physical forces
+----------------------------------------------------------------------------------------------
+[Mercury_7038535] [LIFE_MEASTOOLS]
+Which instrument would be used when studying a unit on amphibian anatomy?
+(A) a beaker
+(B) a telescope
+(C) a dissecting kit
+(D) a graduated cylinder
+----------------------------------------------------------------------------------------------
+[Mercury_7043523] [LIFE_MEASTOOLS]
+Which are the best tools to use for growing and studying bacterial cultures?
+(A) beakers
+(B) Petri dishes
+(C) microscopes
+(D) graduated cylinders
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_22] [LIFE_MEASTOOLS]
+Which tool would best help a student closely observe the smallest living thing in a drop of pond water?
+(A) telescope
+(B) binoculars
+(C) hand lens
+(D) microscope
+----------------------------------------------------------------------------------------------
+[Mercury_LBS10399] [LIFE_MEASTOOLS]
+A microscope magnifies an object with 50x magnification. How long is the object if the image appears to be 0.5 cm long?
+(A) 100 cm
+(B) 25 cm
+(C) 2.5 cm
+(D) 0.01 cm
+----------------------------------------------------------------------------------------------
+[LEAP__5_10310] [LIFE_NITROGENCYCLE]
+Where would nitrogen most easily be found in the nitrogen cycle?
+(A) in animal waste
+(B) in drinking water supplies
+(C) in underground mineral deposits
+(D) in carbon dioxide released by factories into the atmosphere
+----------------------------------------------------------------------------------------------
+[Mercury_7091840] [LIFE_NITROGENCYCLE]
+After nitrogen becomes part of the lithosphere, what is the next change that nitrogen will undergo?
+(A) used as a nutrient by plants
+(B) fixed by bacteria in the soil
+(C) converted into oxygen
+(D) absorbed into the atmosphere by lightning
+----------------------------------------------------------------------------------------------
+[Mercury_7187233] [LIFE_NITROGENCYCLE]
+Plants in a forest need to obtain nutrients from the soil to survive. How do most of the nutrients get back in the soil once the forest plants have used them for growth?
+(A) Organic matter recycles from dead organisms.
+(B) Commercial fertilizers are applied by humans.
+(C) Solar radiation reaches the ground surface.
+(D) Rainwater drips off of living organisms.
+----------------------------------------------------------------------------------------------
+[Mercury_7016065] [LIFE_NITROGENCYCLE]
+Fertilizers added by farmers to the soil contain high amounts of nitrates. How do fertilizers affect the nitrogen cycle?
+(A) More nitrates are available for plants to absorb.
+(B) More nitrates are available for animals to eat.
+(C) More nitrogen gas is released into the atmosphere.
+(D) More nitrogen is converted by bacteria into nitrates.
+----------------------------------------------------------------------------------------------
+[Mercury_7107205] [LIFE_NITROGENCYCLE]
+How does an ecosystem benefit when leaves fall from a tree and decompose on the soil?
+(A) Nutrients are released into the soil.
+(B) Soil erosion decreases.
+(C) Carbon dioxide is absorbed by the soil.
+(D) Soil temperature decreases.
+----------------------------------------------------------------------------------------------
+[Mercury_7032813] [LIFE_NITROGENCYCLE]
+Which type of organism is the best at fixing nitrogen?
+(A) bacteria
+(B) fungi
+(C) protists
+(D) animals
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_33] [LIFE_NITROGENCYCLE]
+Which best explains the importance of nitrogen in the cycling of energy and matter?
+(A) Nitrogen increases protein production in plants.
+(B) Nitrogen decreases protein production in plants.
+(C) Nitrogen decreases the effectiveness of photosynthesis.
+(D) Nitrogen increases the effectiveness of photosynthesis.
+----------------------------------------------------------------------------------------------
+[Mercury_7165323] [LIFE_NITROGENCYCLE]
+Materials such as carbon and nitrogen go through cycles. The cycling of nitrogen waste materials is mostly dependent upon the role of which factor?
+(A) atmosphere
+(B) bacteria
+(C) sunlight
+(D) trees
+----------------------------------------------------------------------------------------------
+[Mercury_7024325] [LIFE_NITROGENCYCLE]
+Which event would most likely occur if the number of nitrogen fixing bacteria were reduced within an ecosystem?
+(A) plants would have more nitrates to take up
+(B) plants and animals would decompose faster
+(C) high levels of ammonia would accumulate in the soil
+(D) the level of nitrogen gas in the atmosphere would increase
+----------------------------------------------------------------------------------------------
+[Mercury_182385] [LIFE_NITROGENCYCLE]
+In which process is nitrogen from the air put into a form that plants can use?
+(A) nitrification
+(B) denitrification
+(C) nitrogen saturation
+(D) nitrogen fixation

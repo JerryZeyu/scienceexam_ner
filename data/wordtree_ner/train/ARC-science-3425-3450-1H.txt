@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[NAEP_2009_4_S11+16] [MAT_COS_MELTING]
+Which is an example of melting?
+(A) Flowing water making a rock smooth
+(B) A carrot becoming soft when cooked
+(C) Sugar mixed into tea making the tea sweet
+(D) Butter changing into liquid in a warm pan
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401261] [MAT_COS_MELTING]
+When ice melts, it becomes a
+(A) gas.
+(B) solid.
+(C) liquid.
+(D) plasma.
+----------------------------------------------------------------------------------------------
+[MDSA_2008_5_40] [MAT_COS_MELTING]
+A student is investigating changes in the states of matter. The student fills a graduated cylinder with 50 milliliters of packed snow. The graduated cylinder has a mass of 50 grams when empty and 95 grams when filled with the snow. The packed snow changes to liquid water when the snow is put in a warm room. Which statement best describes this process?
+(A) Cooling causes the snow to melt.
+(B) Cooling causes the snow to freeze.
+(C) Heating causes the snow to freeze.
+(D) Heating causes the snow to melt.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401320] [MAT_COS_MELTING]
+When the wax from a candle drips, the wax has reached
+(A) its boiling point.
+(B) its melting point.
+(C) a chemical change.
+(D) a physical change.
+----------------------------------------------------------------------------------------------
+[VASoL_2009_5_4] [MAT_COS_MELTING]
+When ice cream is left out of a freezer, the ice cream changes from a ___.
+(A) solid to a gas
+(B) gas to a liquid
+(C) solid to a liquid
+(D) liquid to a gas
+----------------------------------------------------------------------------------------------
+[Mercury_7084280] [MAT_COS_MELTING]
+A student observes zinc turning from a solid to a liquid in a laboratory investigation. Which statement describes the change in zinc atoms while melting?
+(A) The mass of the zinc atoms decreased.
+(B) The zinc atoms lost their relative fixed position.
+(C) The zinc atoms were changed into atoms of another element.
+(D) The size of the zinc atoms decreased.
+----------------------------------------------------------------------------------------------
+[Mercury_7221690] [MAT_COS_MELTING]
+During which change of state do the particles of a substance move from being tightly packed together to having more freedom of movement?
+(A) a solid becoming a liquid
+(B) a gas becoming a solid
+(C) a gas becoming a liquid
+(D) a liquid becoming a solid
+----------------------------------------------------------------------------------------------
+[MCAS_2005_8_14] [MAT_COS_MELTING]
+If 1 kg of the compound toluene melts at -95°C, then 500 g of toluene will
+(A) melt at -47.5°C.
+(B) melt at -95°C.
+(C) boil at 95°C.
+(D) boil at 47.5°C.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405304] [MAT_COS_MELTING]
+A student placed an ice cube on a plate in the sun. Ten minutes later, only water was on the plate. Which process caused the ice cube to change to water?
+(A) condensation
+(B) evaporation
+(C) freezing
+(D) melting
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_4_9] [MAT_COS_MELTING]
+A student removes an ice cube tray from the freezer and places it on a table. The ice cubes are solid and cold. The student forgets to put the ice cube tray back into the freezer. The next day, the ice cubes should be
+(A) liquid and warmer
+(B) solid and warmer
+(C) liquid and colder
+(D) solid and colder
+----------------------------------------------------------------------------------------------
+[Mercury_7007963] [MAT_COS_MELTING]
+Which statement best explains why ice cubes will melt in a glass of tea?
+(A) The tea becomes saturated.
+(B) The ice cubes gain energy.
+(C) The tea's freezing point increases.
+(D) The ice cube's melting point decreases.

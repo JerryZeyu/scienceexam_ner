@@ -1,0 +1,388 @@
+T12	Energy 1408 1417	radiation
+T13	Energy 5114 5120	energy
+T14	Energy 5175 5181	energy
+T15	Energy 5481 5487	energy
+T18	ThermalEnergy 1408 1417	radiation
+T21	LivingThing 1441 1449	organism
+T22	LivingThing 2303 2311	organism
+T23	Insect 2313 2324	Fruit flies
+T24	Insect 2382 2391	fruit fly
+T25	Insect 2495 2504	fruit fly
+T26	Mammal 633 637	cats
+T27	Mammal 550 553	cat
+T31	AnimalPart 4716 4722	organs
+T36	Human 1722 1727	human
+T37	Human 3008 3013	human
+T38	Human 4659 4664	human
+T39	Human 4795 4801	humans
+T40	Human 5062 5069	athlete
+T41	Human 5093 5100	athlete
+T42	Human 5148 5155	athlete
+T43	HumanPart 4665 4669	body
+T44	HumanPart 5103 5107	body
+T47	Cell 2371 2376	cells
+T48	Cell 2737 2742	cells
+T49	Cell 5158 5163	cells
+T50	Cell 3292 3297	cells
+T51	Cell 3388 3393	cells
+T53	Cell 4809 4817	cellular
+T54	Cell 5186 5194	cellular
+T56	Cell 992 1005	spindle fiber
+T58	Cell 2616 2620	cell
+T59	Cell 5443 5447	cell
+T61	Cell 5492 5496	cell
+T63	Cell 2697 2701	cell
+T64	Cell 4380 4384	cell
+T65	Cell 3651 3655	cell
+T66	Cell 2656 2660	cell
+T67	Cell 2569 2573	cell
+T68	Cell 2522 2526	cell
+T69	AnimalCellPart 4886 4899	Golgi complex
+T70	AnimalCellPart 5512 5525	cell membrane
+T71	AnimalCellPart 4463 4475	mitochondria
+T72	AnimalCellPart 5547 5559	mitochondria
+T73	AnimalCellPart 4847 4868	endoplasmic reticulum
+T74	AnimalCellPart 3428 3449	endoplasmic reticulum
+T75	AnimalCellPart 3964 3985	endoplasmic reticulum
+T76	AnimalCellPart 5564 5585	endoplasmic reticulum
+T77	AnimalCellPart 4423 4444	endoplasmic reticulum
+T78	AnimalCellPart 4480 4495	Golgi apparatus
+T79	AnimalCellPart 5210 5225	Golgi apparatus
+T80	AnimalCellPart 3683 3692	cytoplasm
+T81	AnimalCellPart 4873 4881	lysosome
+T82	AnimalCellPart 3709 3717	ribosome
+T83	AnimalCellPart 3951 3959	ribosome
+T84	AnimalCellPart 5248 5256	ribosome
+T85	AnimalCellPart 3329 3338	organelle
+T86	AnimalCellPart 3936 3945	organelle
+T87	AnimalCellPart 4754 4763	organelle
+T88	AnimalCellPart 5128 5137	organelle
+T93	AnimalCellPart 3411 3423	cytoskeleton
+T111	AnimalCellPart 3990 4003	mitochondrion
+T112	AnimalCellPart 4829 4842	mitochondrion
+T113	AnimalCellPart 5230 5243	mitochondrion
+T114	AnimalCellPart 4449 4458	lysosomes
+T115	AnimalCellPart 3399 3406	nucleus
+T116	AnimalCellPart 3697 3704	nucleus
+T117	AnimalCellPart 5261 5268	nucleus
+T118	AnimalCellPart 971 987	nuclear membrane
+T119	PlantCellPart 4847 4868	endoplasmic reticulum
+T120	PlantCellPart 3428 3449	endoplasmic reticulum
+T121	PlantCellPart 3964 3985	endoplasmic reticulum
+T122	PlantCellPart 5564 5585	endoplasmic reticulum
+T123	PlantCellPart 4423 4444	endoplasmic reticulum
+T125	PlantCellPart 3683 3692	cytoplasm
+T126	PlantCellPart 3709 3717	ribosome
+T127	PlantCellPart 3951 3959	ribosome
+T128	PlantCellPart 5248 5256	ribosome
+T129	PlantCellPart 5512 5525	cell membrane
+T130	PlantCellPart 3329 3338	organelle
+T131	PlantCellPart 3936 3945	organelle
+T132	PlantCellPart 4754 4763	organelle
+T133	PlantCellPart 5128 5137	organelle
+T155	PlantCellPart 3411 3423	cytoskeleton
+T156	PlantCellPart 4886 4899	Golgi complex
+T157	PlantCellPart 3990 4003	mitochondrion
+T158	PlantCellPart 4829 4842	mitochondrion
+T159	PlantCellPart 5230 5243	mitochondrion
+T160	PlantCellPart 3399 3406	nucleus
+T161	PlantCellPart 3697 3704	nucleus
+T162	PlantCellPart 5261 5268	nucleus
+T163	PlantCellPart 971 987	nuclear membrane
+T164	CellProcesses 1508 1515	meiosis
+T165	CellsAndGenetics 1711 1718	gametes
+T166	CellsAndGenetics 1865 1872	gametes
+T167	CellsAndGenetics 3722 3731	chromatin
+T168	CellsAndGenetics 941 951	chromosome
+T169	CellsAndGenetics 1275 1285	chromosome
+T170	CellsAndGenetics 2758 2768	chromosome
+T172	CellsAndGenetics 2713 2724	chromosomes
+T173	CellsAndGenetics 1911 1922	chromosomes
+T174	CellsAndGenetics 2589 2600	chromosomes
+T175	CellsAndGenetics 1824 1835	chromosomes
+T176	CellsAndGenetics 2460 2471	chromosomes
+T177	CellsAndGenetics 1984 1995	chromosomes
+T178	CellsAndGenetics 2253 2264	Chromosomes
+T179	CellsAndGenetics 582 595	X chromosomes
+T180	CellsAndGenetics 2970 2981	chromosomes
+T181	CellsAndGenetics 2632 2643	chromosomes
+T182	CellsAndGenetics 2542 2553	chromosomes
+T183	CellsAndGenetics 1477 1488	chromosomes
+T184	CellsAndGenetics 2037 2048	chromosomes
+T185	CellsAndGenetics 1770 1781	chromosomes
+T186	CellsAndGenetics 1955 1966	chromosomes
+T187	CellsAndGenetics 2399 2410	chromosomes
+T188	CellsAndGenetics 2672 2683	chromosomes
+T189	Eukaryote 3301 3320	eukaryotic organism
+T190	Genetics 288 306	DNA fingerprinting
+T191	Genetics 1314 1317	DNA
+T192	Genetics 1393 1396	DNA
+T193	Genetics 1373 1381	blastula
+T197	Genetics 335 355	chromosomal analysis
+T215	Genetics 311 330	gel electrophoresis
+T216	Genetics 4217 4226	ribosomal
+T219	Gene 2277 2296	genetic information
+T220	Inheritance 211 222	inheritance
+T221	Mutation 1302 1310	deletion
+T222	Mutation 1342 1351	Mutations
+T223	GeneticProcesses 4202 4213	synthesized
+T224	GeneticProcesses 1325 1336	translation
+T225	PartsOfAChromosome 956 966	centromere
+T226	GeneticRelations 926 935	offspring
+T251	BacteriaPart 3683 3692	cytoplasm
+T252	BacteriaPart 3709 3717	ribosome
+T253	BacteriaPart 3951 3959	ribosome
+T254	BacteriaPart 5248 5256	ribosome
+T255	BacteriaPart 3454 3469	plasma membrane
+T259	PlantPart 5530 5542	chloroplasts
+T261	OrganicProcesses 4783 4791	function
+T262	OrganicProcesses 5195 5204	functions
+T263	OrganicProcesses 5497 5506	functions
+T267	Birth 2484 2494	fertilized
+T268	Birth 2997 3007	fertilized
+T269	Birth 1428 1433	birth
+T270	WordsForOffspring 926 935	offspring
+T272	Reproduction 1884 1901	produce offspring
+T273	Reproduction 2338 2357	sexual reproduction
+T274	Reproduction 2325 2334	reproduce
+T279	PrenatalOrganismStates 1711 1718	gametes
+T280	PrenatalOrganismStates 1865 1872	gametes
+T282	PrenatalOrganismStates 2505 2508	egg
+T283	PrenatalOrganismStates 2693 2696	egg
+T284	PrenatalOrganismStates 2652 2655	egg
+T285	PrenatalOrganismStates 2518 2521	egg
+T286	Metabolism 3661 3671	glycolysis
+T287	Toxins 4700 4705	waste
+T288	DigestionActions 4670 4679	processes
+T289	ExcretorySystem 4730 4746	excretory system
+T291	PartsOfTheMuscularSystem 3265 3274	machinery
+T292	PartsOfTheMuscularSystem 3278 3291	smooth muscle
+T293	PartsOfTheMuscularSystem 3221 3236	Actin filaments
+T297	PartsOfTheReproductiveSystem 3014 3022	egg cell
+T298	PartsOfTheReproductiveSystem 2563 2568	sperm
+T299	PartsOfTheReproductiveSystem 2610 2615	sperm
+T300	PartsOfTheReproductiveSystem 2731 2736	sperm
+T302	Nutrition 4695 4699	food
+T303	Nutrition 5468 5477	nutrients
+T304	Health 675 682	fertile
+T305	NutritiveSubstancesForAnimalsOrPlants 3905 3913	proteins
+T306	NutritiveSubstancesForAnimalsOrPlants 4184 4192	Proteins
+T318	FormChangingActions 4294 4302	packaged
+T326	Property 896 902	traits
+T339	OtherOrganismProperties 2484 2494	fertilized
+T340	OtherOrganismProperties 2997 3007	fertilized
+T342	OtherAnimalProperties 675 682	fertile
+T343	OtherAnimalProperties 688 698	aggressive
+T344	Gender 663 669	female
+T345	Gender 1858 1864	female
+T346	Gender 1728 1733	males
+T348	Gender 653 657	male
+T349	Gender 1849 1853	male
+T350	Gender 1738 1745	females
+T351	Shape 1930 1935	shape
+T352	Size 2013 2017	size
+T355	Size 2003 2009	larger
+T356	Size 4244 4253	extensive
+T363	Quality 1789 1793	best
+T364	Quality 2428 2432	best
+T365	Rarity 1266 1274	abnormal
+T366	Rarity 1841 1848	typical
+T367	Move 4307 4315	directed
+T368	Exemplar 235 242	various
+T369	Complexity 4244 4253	extensive
+T371	VisualProperty 536 549	Tortoiseshell
+T372	Color 525 530	color
+T373	TemporalProperty 4254 4272	post-translational
+T375	TemporalProperty 3894 3899	Newly
+T377	PropertyOfMotion 3358 3369	contractile
+T378	PropertyOfMotion 3253 3264	contractile
+T381	Rarity 2477 2483	normal
+T383	Numbers 1286 1292	number
+T384	Numbers 1760 1766	number
+T385	Numbers 1945 1951	number
+T386	Numbers 2027 2033	number
+T387	CardinalNumber 2397 2398	8
+T388	CardinalNumber 2540 2541	8
+T389	CardinalNumber 2587 2588	8
+T391	CardinalNumber 2630 2631	4
+T392	CardinalNumber 2670 2671	4
+T393	CardinalNumber 2711 2712	4
+T394	CardinalNumber 2729 2730	4
+T396	CardinalNumber 578 581	two
+T397	CardinalNumber 2756 2757	1
+T399	RelativeNumber 2057 2059	by
+T403	RelativeNumber 2965 2969	many
+T405	Calculations 1967 1974	doubles
+T407	Create 5164 5170	supply
+T408	PhysicalActivity 5073 5080	running
+T415	AtomComponents 5261 5268	nucleus
+T434	Alter 4273 4285	modification
+T435	Alter 4405 4417	modification
+T437	Alter 3918 3926	modified
+T439	Alter 1923 1929	change
+T441	AmountChangingActions 2049 2056	reduces
+T442	ChangeInto 1996 2002	become
+T444	ChangeInto 5459 5467	converts
+T446	CombineAdd 1873 1880	combine
+T451	Communicate 2433 2441	explains
+T452	Compete 5083 5087	race
+T454	ContainBeComposedOf 1746 1750	have
+T455	ContainBeComposedOf 2392 2396	have
+T456	ContainBeComposedOf 2265 2272	contain
+T457	ContainBeComposedOf 2527 2535	contains
+T458	ContainBeComposedOf 2574 2582	contains
+T460	Create 566 574	produced
+T461	Create 2621 2629	provides
+T462	Create 2661 2669	provides
+T463	Create 2702 2710	provides
+T464	Create 4202 4213	synthesized
+T465	Create 2748 2755	provide
+T466	Create 3900 3904	made
+T467	Examine 198 206	studying
+T469	Identify 881 891	determines
+T470	Move 916 922	passed
+T471	Move 3370 3378	movement
+T477	StateOfBeing 1996 2002	become
+T480	Occur 3672 3677	occur
+T481	Occur 4236 4243	undergo
+T482	Occur 1352 1361	occurring
+T483	Occur 1809 1816	happens
+T484	PerformAnActivity 5073 5080	running
+T487	PerformAnActivity 4764 4772	performs
+T490	PerformAnActivity 3656 3660	does
+T491	Communicate 1794 1803	describes
+T492	Require 4388 4396	involved
+T493	Require 5108 5113	needs
+T494	Separate 1492 1500	separate
+T497	StopRemove 1455 1462	Failure
+T498	StopRemove 4684 4694	eliminates
+T500	Use 4706 4711	using
+T501	Use 265 268	use
+T504	PerformingResearch 198 206	studying
+T505	Cause 881 891	determines
+T510	ResponseType 2418 2427	statement
+T514	RelativeTime 1418 1423	after
+T515	RelativeTime 1318 1324	during
+T516	RelativeTime 1362 1368	during
+T517	RelativeTime 1501 1507	during
+T518	RelativeTime 1836 1840	when
+T519	Frequency 642 648	always
+T520	RelativeLocations 3927 3929	in
+T521	RelativeLocations 5141 5143	in
+T523	RelativeLocations 4792 4794	in
+T525	RelativeLocations 3644 3646	in
+T526	RelativeLocations 3275 3277	in
+T527	RelativeLocations 4397 4399	in
+T528	RelativeLocations 2472 2474	in
+T529	RelativeLocations 531 533	in
+T530	RelativeLocations 2992 2994	in
+T531	RelativeLocations 4214 4216	in
+T532	RelativeLocations 3379 3381	in
+T533	RelativeLocations 1397 1404	exposed
+T534	RelativeLocations 4802 4804	at
+T535	Cause 575 577	by
+T537	Cause 2335 2337	by
+T538	RelativeLocations 3638 3643	Where
+T542	RelativeDirection 4316 4318	to
+T543	RelativeDirection 5478 5480	to
+T544	Result 1881 1883	to
+T545	RelativeDirection 1817 1819	to
+T546	RelativeDirection 923 925	to
+T548	VerbsForLocate 2986 2991	found
+T549	Comparisons 4775 4782	similar
+T550	Comparisons 1755 1759	same
+T551	QualityComparison 1789 1793	best
+T552	QualityComparison 2428 2432	best
+T555	AmountComparison 253 257	most
+T556	AmountComparison 1241 1245	most
+T557	AmountComparison 2359 2363	Most
+T560	Occupation 5062 5069	athlete
+T561	Occupation 5093 5100	athlete
+T562	Occupation 5148 5155	athlete
+T563	GroupsOfScientists 186 197	researchers
+T566	AbilityAvailability 554 557	can
+T567	Relations 1466 1476	homologous
+T573	SystemParts 4227 4235	subunits
+T574	SystemParts 5448 5458	structures
+T575	SystemParts 4354 4364	structural
+T576	SystemParts 871 880	structure
+T578	SystemProcessStages 1382 1387	stage
+T579	SystemProcessStages 4818 4823	level
+T580	Representation 274 283	cladogram
+T583	Pattern 223 231	patterns
+T587	Exemplar 624 629	types
+T590	Method 171 180	technique
+T593	TypesOfEvent 5083 5087	race
+T596	ObjectPart 3241 3245	part
+T600	ObjectQuantification 4365 4374	component
+T605	Safety 1397 1404	exposed
+T606	Goal 4335 4346	destination
+T607	Cause 3342 3353	responsible
+T608	Source 2446 2452	source
+T609	Source 5164 5170	supply
+T610	Relevant 4323 4334	appropriate
+T613	ProbabilityAndCertainty 258 264	likely
+T614	ProbabilityAndCertainty 1246 1252	likely
+T615	ProbabilityAndCertainty 602 607	would
+T616	ProbabilityAndCertainty 1235 1240	would
+T617	Indicate 608 612	mean
+T618	ProbabilityAndCertainty 181 185	will
+T619	ProbabilityAndCertainty 908 912	will
+T620	LevelOfInclusion 2536 2539	all
+T621	LevelOfInclusion 2583 2586	all
+T622	LevelOfInclusion 2743 2747	each
+T623	LevelOfInclusion 2060 2064	half
+T624	LevelOfInclusion 235 242	various
+T628	LevelOfInclusion 618 623	these
+T629	LevelOfInclusion 3382 3387	these
+T630	LevelOfInclusion 5437 5442	these
+T631	LevelOfInclusion 3930 3935	which
+T632	LevelOfInclusion 2412 2417	Which
+T633	LevelOfInclusion 4348 4353	Which
+T634	LevelOfInclusion 1783 1788	Which
+T635	LevelOfInclusion 5122 5127	Which
+T636	LevelOfInclusion 165 170	Which
+T637	LevelOfInclusion 5428 5433	Which
+T638	LevelOfInclusion 4748 4753	Which
+T639	LevelOfInclusion 1212 1217	Which
+T640	LevelOfInclusion 865 870	Which
+T641	LevelOfInclusion 3323 3328	Which
+T642	LevelOfInclusion 3241 3245	part
+T643	LevelOfInclusion 558 562	only
+T647	Problem 243 252	disorders
+T654	NUMBER 578 581	two
+T655	NUMBER 2397 2398	8
+T656	NUMBER 2540 2541	8
+T657	NUMBER 2587 2588	8
+T658	NUMBER 2630 2631	4
+T659	NUMBER 2670 2671	4
+T660	NUMBER 2711 2712	4
+T661	NUMBER 2729 2730	4
+T662	NUMBER 2756 2757	1
+T663	NUMBER 3028 3030	22
+T664	NUMBER 3035 3037	23
+T665	NUMBER 3042 3044	44
+T666	NUMBER 3049 3051	46
+T35	StateOfBeing 563 565	be
+T45	StateOfBeing 638 641	are
+T7	StateOfBeing 913 915	be
+T16	LevelOfInclusion 1221 1234	the following
+T89	Cause 1253 1262	result in
+T90	StopRemove 1302 1310	deletion
+T92	Comparisons 2003 2009	larger
+T32	StateOfBeing 2982 2985	are
+T9	StateOfBeing 3237 3240	are
+T20	StateOfBeing 3339 3341	is
+T3	AnimalCellPart 3454 3469	plasma membrane
+T10	AnimalCellPart 3454 3469	plasma membrane
+T11	StateOfBeing 3914 3917	are
+T2	AnimalCellPart 4008 4023	nuclear envelop
+T17	PlantCellPart 4008 4023	nuclear envelop
+T33	StateOfBeing 4198 4201	are
+T34	StateOfBeing 4290 4293	are
+T8	StateOfBeing 4385 4387	is
+T1	PlantCellPart 4480 4495	Golgi apparatus
+T5	StateOfBeing 5070 5072	is
+T28	PlantCellPart 5210 5225	Golgi apparatus
+T6	Bacteria 5512 5525	cell membrane
+T4	PlantCellPart 5547 5559	mitochondria

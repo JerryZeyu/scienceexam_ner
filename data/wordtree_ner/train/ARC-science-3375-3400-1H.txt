@@ -1,0 +1,76 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400838] [MAT_COS_BOILING, MAT_COS_EVAP]
+What happens at the boiling point of a substance?
+(A) liquid becomes a gas
+(B) solid becomes a gas
+(C) liquid becomes a solid
+(D) solid becomes a liquid
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402050] [MAT_COS_BOILING, MAT_COS_MELTING]
+Which is needed for both boiling and melting to occur?
+(A) solids
+(B) gases
+(C) heat
+(D) pressure
+----------------------------------------------------------------------------------------------
+[NAEP_2005_4_S13+9] [MAT_COS_CONDENSING]
+Which is an example of water condensing?
+(A) A puddle disappearing on a hot summer afternoon
+(B) Sweat forming on your forehead after you do a lot of exercise
+(C) Ice cubes melting when you put them out in the sun
+(D) Dew forming on plants during a cold night
+----------------------------------------------------------------------------------------------
+[NAEP_2005_4_S13+4] [MAT_COS_CONDENSING]
+If you breathe on a mirror, part of the mirror clouds up. What are you actually seeing when you see the mirror cloud up?
+(A) Water droplets that formed from cooled water vapor in your breath
+(B) Carbon dioxide that you are breathing out from your lungs
+(C) Oxygen that you are breathing out from your lungs
+(D) Cooled nitrogen in the air around you
+----------------------------------------------------------------------------------------------
+[MCAS_2003_5_24] [MAT_COS_CONDENSING]
+During which of the processes below does water vapor change to liquid water?
+(A) melting
+(B) freezing
+(C) evaporation
+(D) condensation
+----------------------------------------------------------------------------------------------
+[TIMSS_2011_4_pg76] [MAT_COS_CONDENSING]
+Which of the following describes condensation?
+(A) a liquid changing to a solid
+(B) a solid changing to a liquid
+(C) a solid changing to a gas
+(D) a gas changing to a liquid
+----------------------------------------------------------------------------------------------
+[MCAS_2013_8_29420] [MAT_COS_CONDENSING]
+A cold can of juice is removed from the refrigerator and is placed outdoors on a warm day. After several minutes, moisture appears on the outside of the cold can. Which of the following statements best explains why the moisture appears?
+(A) The warm air absorbs cold from the can and changes to a liquid.
+(B) Water vapor in the air condenses into a liquid on the cold can.
+(C) The warm air causes heat to flow out of the can and condense in the air.
+(D) Water vapor in the air absorbs heat from the can and changes to a liquid.
+----------------------------------------------------------------------------------------------
+[Mercury_7212065] [MAT_COS_CONDENSING, MAT_COS_TEMP]
+Which statement best describes the motion of water molecules as the water changes state from steam to liquid?
+(A) The molecules move faster and occupy more space.
+(B) The molecules move slower and occupy more space.
+(C) The molecules move faster and occupy less space.
+(D) The molecules move slower and occupy less space.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_10] [MAT_COS_EVAP]
+On a warm sunny afternoon, ocean water splashed onto a rock. A short time later, the rock was dry. Which statement best explains what happened to the water on the rock?
+(A) Heat caused the water to become a gas.
+(B) Heat melted the water and it disappeared.
+(C) Salt caused the water to become a gas.
+(D) Salt melted the water and it disappeared.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_4_10] [MAT_COS_EVAP]
+Which is the best example of evaporation?
+(A) raindrops freezing
+(B) an ice cube melting
+(C) a puddle drying in the sun
+(D) a sponge soaking up water
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_4_12] [MAT_COS_EVAP]
+A student measured the volume of water in a pan. The student boiled the water for thirty minutes and then measured the volume of the water again. The volume of water most likely
+(A) decreased
+(B) increased
+(C) remained the same

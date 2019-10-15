@@ -1,0 +1,176 @@
+----------------------------------------------------------------------------------------------
+[Mercury_402349] [MAT_MEAS_UNIT_PH]
+According to a pH scale, which pH would be the strongest acid?
+(A) 3
+(B) 6
+(C) 9
+(D) 12
+----------------------------------------------------------------------------------------------
+[ACTAAP_2007_7_5] [MAT_MEAS_UNIT_PRESSURE]
+An experiment is performed with a sealed container. The container starts out with a temperature of 70 degrees F and an air pressure of 20 psi. The container is heated, and the pressure inside the container rises evenly with increased temperature. If the container is cooled back to 70 degrees F, what will the air pressure be?
+(A) 10 psi
+(B) 20 psi
+(C) 30 psi
+(D) 40 psi
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408343] [MAT_MEAS_UNIT_TEMP]
+Angela wants to report daily weather conditions. In which unit should Angela record the air temperature?
+(A) degrees Celsius
+(B) centimeters
+(C) milliliters
+(D) grams
+----------------------------------------------------------------------------------------------
+[MDSA_2009_5_46] [MAT_MEAS_UNIT_TIME]
+Students measure the time for toy cars of different masses to roll down a hill. Which of the following units should the students use to measure time?
+(A) centimeters
+(B) grams
+(C) milliliters
+(D) seconds
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10824] [MAT_MEAS_UNIT_VOL]
+Which pair of English and metric units has most nearly the same value?
+(A) liter and quart
+(B) gram and ounce
+(C) kilogram and pound
+(D) kilometer and mile
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407308] [MAT_MIXTURE]
+A student combined rice cereal with melted marshmallows. Which best describes what the student made?
+(A) an atom
+(B) a mixture
+(C) a molecule
+(D) an element
+----------------------------------------------------------------------------------------------
+[TIMSS_2011_4_pg64] [MAT_MIXTURES]
+Which of these is a mixture?
+(A) salt water
+(B) sugar
+(C) water vapor
+(D) salt
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408557] [MAT_MIXTURES]
+Sarah's class is learning about mixtures and solutions. Her teacher writes four statements on the board. Which statement best describes a mixture?
+(A) Both substances mix evenly.
+(B) Both substances can evaporate.
+(C) One substance dissolves into another.
+(D) One substance can be separated from the other.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401255] [MAT_MIXTURES]
+Vinegar and water are placed in a container and stirred. What is formed when they are mixed?
+(A) gas
+(B) solid
+(C) solution
+(D) compound
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407568] [MAT_MIXTURES]
+Mark wants to make lemonade for his friends. He uses water, lemon juice, and sugar. Which of these best describes the lemonade?
+(A) a mixture
+(B) a metal
+(C) an element
+(D) a compound
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408685] [MAT_MIXTURES]
+Soda water is a liquid that has bubbles of carbon dioxide in it. Which term best describes soda water?
+(A) a mixture
+(B) a molecule
+(C) an element
+(D) a compound
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401254] [MAT_MIXTURES]
+When oil and water are mixed together, they form a
+(A) gas.
+(B) solid.
+(C) compound.
+(D) suspension.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_8_28] [MAT_MIXTURES]
+During a lab investigation a scientist heats a solid substance. The scientist observes that the solid has two different melting points. The scientist is able to separate the two resulting liquids. Which statement best classifies the original solid substance?
+(A) It was an atom.
+(B) It was a mixture.
+(C) It was an element.
+(D) It was a compound.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407569] [MAT_MIXTURES]
+Andy adds a small amount of water to sand and makes shapes with the wet sand. Which of these best describes the wet sand?
+(A) a mixture
+(B) a solution
+(C) an element
+(D) a compound
+----------------------------------------------------------------------------------------------
+[CSZ_2004_5_CSZ10110] [MAT_MIXTURES_ALLOYS]
+Sterling silver is a combination of silver and copper. Which of the following is also a combination of two or more metals?
+(A) aluminum.
+(B) lead.
+(C) gold.
+(D) brass.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407440] [MAT_MIXTURES_COMPOUNDS]
+Which of these items contains only a solution?
+(A) a jar of pickles
+(B) a bottle of juice
+(C) a bag of peanuts
+(D) a can of mixed fruit
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408396] [MAT_MIXTURES_COMPOUNDS]
+Students stir salt, sand, sawdust, and seashells into a jar filled with water. Which of the materials will form a solution?
+(A) salt and water
+(B) sand and sawdust
+(C) seashells and water
+(D) sawdust and seashells
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406073] [MAT_MIXTURES_COMPOUNDS]
+A student completes several tasks while making breakfast. During which task does the student make a solution?
+(A) adding sugar to tea
+(B) pouring milk on cereal
+(C) spreading jelly on toast
+(D) sprinkling cheese on eggs
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408361] [MAT_MIXTURES_COMPOUNDS]
+Phyllis investigated what happened when she added some different substances to water. Which substance can combine with water to form a solution?
+(A) oil
+(B) rocks
+(C) soil
+(D) sugar
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402081] [MAT_MIXTURES_COMPOUNDS]
+What is made when sugar is dissolved in water?
+(A) a colloid
+(B) a solution
+(C) a suspension
+(D) an evaporation
+----------------------------------------------------------------------------------------------
+[ACTAAP_2012_7_13] [MAT_MIXTURES_COMPOUNDS]
+Which substance is a compound?
+(A) sodium
+(B) chlorine
+(C) table salt
+(D) salt water
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5169] [MAT_MIXTURES_COMPOUNDS]
+Which of the following is an example of the formation of a mixture?
+(A) rust forming on an iron nail
+(B) sugar crystals dissolving in water
+(C) sodium and chlorine forming table salt
+(D) hydrogen and oxygen reacting to produce water
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_8_pg101] [MAT_MIXTURES_COMPOUNDS]
+Sugar is made up of many molecules. When sugar is dissolved in water, what happens to these molecules?
+(A) They no longer exist.
+(B) They exist in solution.
+(C) They evaporate.
+(D) They combine with water to form new elements.
+----------------------------------------------------------------------------------------------
+[MCAS_2007_8_5172] [MAT_MIXTURES_COMPOUNDS]
+Which of the following substances can be separated into several elements?
+(A) nitrogen
+(B) zinc
+(C) air
+(D) aluminum
+----------------------------------------------------------------------------------------------
+[TIMSS_1995_8_Q14] [MAT_MIXTURES_COMPOUNDS]
+A mixture of powdered iron and sulfur is heated. What will be formed?
+(A) a single element
+(B) two other elements
+(C) a solution
+(D) an alloy
+(E) a compound

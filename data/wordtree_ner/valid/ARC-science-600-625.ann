@@ -1,0 +1,899 @@
+T2	CelestialLightOnEarth 1170 1178	sunlight
+T3	CelestialLightOnEarth 3252 3260	sunlight
+T4	CelestialLightOnEarth 3381 3389	sunlight
+T5	CelestialLightOnEarth 3967 3975	sunlight
+T15	Planet 2761 2767	planet
+T16	InnerPlanets 2708 2713	Earth
+T17	InnerPlanets 7822 7827	Earth
+T31	Star 3243 3246	Sun
+T50	Energy 4629 4635	energy
+T51	Energy 9323 9329	energy
+T52	Energy 4878 4884	energy
+T53	Energy 5460 5466	energy
+T54	Energy 4461 4467	energy
+T59	Energy 3158 3164	energy
+T63	Energy 10600 10606	energy
+T64	Energy 3291 3297	energy
+T69	Energy 5155 5161	energy
+T71	OtherEnergyResources 5609 5616	nuclear
+T75	Energy 5919 5924	power
+T80	AbsorbEnergy 2773 2783	absorption
+T82	AbsorbEnergy 10586 10594	consumes
+T83	ElectricalEnergy 5424 5443	hydroelectric power
+T84	ElectricalEnergy 5391 5407	electrical power
+T86	ElectricalEnergy 8539 8550	electricity
+T87	ElectricalEnergy 1886 1897	electricity
+T88	ElectricalEnergy 2414 2425	electricity
+T89	ElectricalEnergy 5858 5869	electricity
+T90	ElectricalEnergy 4421 4432	electricity
+T91	ElectricalEnergy 5516 5527	electricity
+T92	ElectricalEnergy 3981 3992	electricity
+T93	ElectricalEnergy 4321 4332	electricity
+T94	ElectricalEnergy 6237 6248	electricity
+T95	EnergyWaves 3229 3233	rays
+T96	EnergyWaves 3669 3678	microwave
+T102	IncreaseDecrease 4609 4616	heating
+T103	TransferEnergy 3956 3966	converting
+T107	ActionsForAnimals 1849 1854	built
+T108	ActionsForAnimals 6964 6969	build
+T109	ActionsForAnimals 5813 5821	building
+T110	ActionsForAnimals 7036 7044	Building
+T116	Human 5793 5800	Michael
+T117	Human 749 755	People
+T118	Human 4890 4896	people
+T119	Human 6870 6875	human
+T120	Human 3944 3950	humans
+T127	CellProcesses 2869 2883	photosynthesis
+T128	Fungi 1056 1062	fungi
+T129	Create 5377 5387	generation
+T131	Plant 276 282	plants
+T137	Plant 7285 7290	trees
+T138	Plant 9241 9246	trees
+T139	Plant 7358 7363	trees
+T140	Plant 930 935	trees
+T141	Plant 774 779	trees
+T142	Plant 8888 8893	trees
+T143	Plant 9349 9354	trees
+T144	Plant 9302 9307	trees
+T145	Plant 10005 10010	trees
+T146	Plant 9619 9624	trees
+T147	Plant 827 832	trees
+T148	Plant 10504 10509	trees
+T149	Plant 6622 6627	trees
+T150	Plant 9192 9197	trees
+T151	Plant 7093 7098	trees
+T152	Plant 6997 7002	trees
+T153	Plant 9959 9964	trees
+T154	Plant 7752 7757	crops
+T156	Plant 1145 1155	vegetation
+T157	Taxonomy 455 462	species
+T158	Taxonomy 9994 10001	species
+T159	Taxonomy 5803 5809	family
+T160	Taxonomy 5949 5955	family
+T161	OrganicProcesses 2858 2865	process
+T163	PhysicalActivity 6876 6886	activities
+T164	PhysicalActivity 7787 7795	activity
+T165	PhysicalActivity 8411 8419	activity
+T170	Use 10586 10594	consumes
+T184	ResultsOfDecomposition 4499 4506	compost
+T185	LivingDying 873 879	health
+T186	LivingDying 976 982	health
+T187	LivingDying 10020 10030	endangered
+T188	PlantProcesses 7904 7924	production of oxygen
+T189	PlantProcesses 2869 2883	photosynthesis
+T193	FossilFuel 3634 3637	gas
+T221	Nutrition 1105 1113	nutrient
+T222	Nutrition 504 508	food
+T223	Nutrition 1032 1036	food
+T224	Nutrition 4479 4483	food
+T225	Nutrition 7533 7542	nutrients
+T226	Health 873 879	health
+T227	Health 976 982	health
+T228	Health 1081 1090	fertility
+T232	PlantNutrients 1429 1434	humus
+T233	PlantNutrients 1552 1557	humus
+T234	PlantNutrients 1607 1612	humus
+T244	Agriculture 8593 8603	cover crop
+T245	Agriculture 7752 7757	crops
+T247	Agriculture 218 227	livestock
+T248	Agriculture 522 531	livestock
+T251	Agriculture 7107 7115	farmland
+T253	ActionsForAgriculture 6984 6992	Planting
+T254	ActionsForAgriculture 8582 8590	planting
+T255	ActionsForAgriculture 9202 9211	harvested
+T256	ActionsForAgriculture 9251 9260	harvested
+T257	ActionsForAgriculture 210 217	grazing
+T258	ActionsForAgriculture 7746 7751	raise
+T259	ActionsForAgriculture 190 197	farming
+T260	ActionsForAgriculture 9221 9230	replanted
+T261	ActionsForAgriculture 9265 9274	replanted
+T262	ActionsForAgriculture 4095 4103	farmland
+T264	MeasuringSpeed 396 400	rate
+T265	MeasuringSpeed 9287 9291	rate
+T288	TimeUnit 5080 5085	years
+T295	ManmadeObjects 6351 6362	power lines
+T296	ManmadeObjects 5005 5015	technology
+T297	ManmadeObjects 10368 10373	boxes
+T300	ManmadeObjects 10565 10570	trash
+T310	CookingToolsFood 3634 3643	gas grill
+T311	CookingToolsFood 3688 3700	solar cooker
+T312	CookingToolsFood 3669 3683	microwave oven
+T315	CookingToolsFood 3648 3664	electric fry pan
+T317	ElectricAppliance 1961 1982	electrical appliances
+T318	LiquidHoldingContainersRecepticles 6589 6596	bottles
+T330	Device 5990 5996	engine
+T331	ElectricityAndCircuits 3648 3656	electric
+T335	ElectricityAndCircuits 1886 1897	electricity
+T343	ElectricityGeneration 6328 6346	hydroelectric dams
+T344	ElectricityGeneration 2384 2402	photovoltaic cells
+T345	ElectricityGeneration 6044 6063	nuclear power plant
+T346	ElectricityGeneration 2163 2182	gasoline generators
+T347	ElectricityGeneration 6023 6039	coal power plant
+T348	ElectricityGeneration 6307 6323	diesel generator
+T349	ElectricityGeneration 6001 6018	solar roof panels
+T350	ElectricityGeneration 2115 2126	solar panel
+T351	ElectricityGeneration 4649 4660	solar panel
+T352	ElectricityGeneration 2083 2102	hydroelectric plant
+T356	ElectricalEnergySource 6328 6346	hydroelectric dams
+T357	ElectricalEnergySource 2384 2402	photovoltaic cells
+T358	ElectricalEnergySource 6044 6063	nuclear power plant
+T359	ElectricalEnergySource 2163 2182	gasoline generators
+T360	ElectricalEnergySource 6023 6039	coal power plant
+T361	ElectricalEnergySource 6307 6323	diesel generator
+T362	ElectricalEnergySource 6001 6018	solar roof panels
+T363	ElectricalEnergySource 2115 2126	solar panel
+T364	ElectricalEnergySource 4649 4660	solar panel
+T365	ElectricalEnergySource 2083 2102	hydroelectric plant
+T367	ScientificTools 4947 4956	equipment
+T369	LightProducingObject 4585 4594	lightbulb
+T370	LightProducingObject 4600 4604	lamp
+T371	SystemOfCommunication 10342 10352	newspapers
+T372	TechnologicalInstrument 5005 5015	technology
+T373	TechnologicalComponent 6351 6362	power lines
+T374	WaterVehicle 4521 4525	boat
+T375	WaterVehiclePart 4550 4555	sails
+T396	Age 7009 7012	old
+T398	Age 10619 10622	new
+T399	Age 7047 7050	new
+T400	Age 5824 5827	new
+T402	Age 6970 6973	new
+T403	Age 9955 9958	new
+T404	Age 6993 6996	new
+T409	NationalityOrigin 444 454	non-native
+T411	NationalityOrigin 269 275	native
+T413	OtherOrganismProperties 10020 10030	endangered
+T414	Temperature 2749 2756	warm up
+T415	Temperature 4609 4616	heating
+T416	Composition 303 310	natural
+T422	Size 2077 2082	small
+T425	LightMovement 1179 1190	penetration
+T427	Width 8506 8510	thin
+T428	Wetness 182 185	dry
+T429	Material 9369 9377	material
+T430	SyntheticMaterial 6583 6588	glass
+T432	NaturalMaterial 410 417	topsoil
+T433	NaturalMaterial 10358 10367	cardboard
+T434	NaturalMaterial 9833 9838	paper
+T435	NaturalMaterial 10074 10079	paper
+T436	NaturalMaterial 10623 10628	paper
+T437	NaturalMaterial 10442 10447	paper
+T438	NaturalMaterial 10303 10308	paper
+T439	NaturalMaterial 9865 9870	paper
+T440	NaturalMaterial 10487 10492	paper
+T441	NaturalMaterial 9900 9905	paper
+T442	ManmadeObjects 6549 6554	paper
+T443	NaturalMaterial 9975 9980	paper
+T444	NaturalMaterial 9926 9931	paper
+T445	NaturalMaterial 10045 10050	paper
+T446	NaturalMaterial 2203 2207	wood
+T447	NaturalMaterial 8250 8254	wood
+T448	NaturalMaterial 9148 9152	wood
+T454	Quality 2670 2674	best
+T455	Quality 3869 3873	best
+T456	ImportanceComparison 9843 9852	important
+T457	Rarity 8210 8219	abundance
+T458	Rarity 5883 5892	renewable
+T459	Rarity 5480 5489	renewable
+T460	Rarity 5353 5362	renewable
+T461	Rarity 8823 8832	renewable
+T462	Rarity 4441 4450	renewable
+T463	Rarity 9578 9587	renewable
+T464	Rarity 2352 2361	renewable
+T465	Rarity 509 518	available
+T466	Rarity 3409 3418	available
+T469	Rarity 4364 4376	nonrenewable
+T470	Rarity 9155 9167	nonrenewable
+T471	Rarity 3271 3280	unlimited
+T472	Speed 580 587	quickly
+T473	Complexity 4993 5004	complicated
+T475	VisualProperty 8453 8462	turbidity
+T479	Speed 396 400	rate
+T480	PropertyOfMotion 9287 9291	rate
+T481	Position 767 773	fallen
+T482	Position 923 929	fallen
+T483	Position 7351 7357	fallen
+T489	Safety 4937 4946	dangerous
+T490	Cost 5138 5146	cheapest
+T491	Cost 4571 4584	energy-saving
+T492	Cost 10059 10068	expensive
+T510	Numbers 6612 6618	number
+T511	Numbers 2023 2029	amount
+T512	Numbers 3281 3287	amount
+T513	Numbers 6692 6698	amount
+T514	Numbers 7848 7854	amount
+T516	ArithmeticMeasure 5068 5076	billions
+T522	RelativeNumber 8210 8219	abundance
+T533	RelativeNumber 1907 1913	little
+T534	RelativeNumber 9893 9899	enough
+T538	RelativeNumber 140 144	many
+T539	RelativeNumber 3215 3219	many
+T540	RelativeNumber 7280 7284	many
+T541	RelativeNumber 10265 10269	Some
+T545	EarthPartsGrossGroundAtmosphere 3195 3205	atmosphere
+T546	EarthPartsGrossGroundAtmosphere 3365 3375	atmosphere
+T547	EarthPartsGrossGroundAtmosphere 7808 7818	atmosphere
+T548	EarthPartsGrossGroundAtmosphere 8001 8004	air
+T552	TectonicPlates 2803 2814	continental
+T553	AtmosphericLayers 3337 3348	ozone layer
+T556	NaturalResources 9330 9338	resource
+T557	NaturalResources 9588 9596	resource
+T558	NaturalResources 9168 9176	resource
+T559	NaturalResources 9815 9823	resource
+T560	NaturalResources 2362 2370	resource
+T561	NaturalResources 9378 9386	resource
+T562	NaturalResources 8833 8841	resource
+T566	NaturalResources 5893 5902	resources
+T567	NaturalResources 8964 8973	resources
+T568	NaturalResources 5363 5372	resources
+T569	NaturalResources 4377 4386	resources
+T570	NaturalResources 5467 5476	resources
+T573	FossilFuel 5981 5989	gasoline
+T574	FossilFuel 4289 4300	natural gas
+T575	FossilFuel 4348 4359	natural gas
+T579	FossilFuel 6307 6313	diesel
+T580	FossilFuel 4063 4066	oil
+T581	FossilFuel 9602 9605	oil
+T582	FossilFuel 5580 5589	petroleum
+T583	FossilFuel 4339 4343	coal
+T584	FossilFuel 2195 2199	coal
+T585	FossilFuel 4280 4284	coal
+T586	FossilFuel 8530 8534	coal
+T587	FossilFuel 9610 9614	coal
+T588	FossilFuel 4013 4017	coal
+T589	FossilFuel 6023 6027	coal
+T590	OtherEnergyResources 5424 5443	hydroelectric power
+T591	OtherEnergyResources 6044 6057	nuclear power
+T592	OtherEnergyResources 2431 2450	hydrothermal energy
+T593	OtherEnergyResources 2472 2489	geothermal energy
+T597	OtherEnergyResources 3967 3975	sunlight
+T599	OtherEnergyResources 6291 6302	solar power
+T600	OtherEnergyResources 3688 3693	solar
+T601	OtherEnergyResources 5621 5626	solar
+T603	OtherEnergyResources 6001 6006	solar
+T611	OtherEnergyResources 5594 5604	geothermal
+T612	OtherEnergyResources 2787 2799	solar energy
+T613	OtherEnergyResources 4839 4851	solar energy
+T614	OtherEnergyResources 2957 2969	solar energy
+T615	OtherEnergyResources 2718 2730	solar energy
+T616	OtherEnergyResources 4962 4974	Solar energy
+T617	OtherEnergyResources 2455 2467	solar energy
+T618	OtherEnergyResources 4906 4918	Solar energy
+T619	OtherEnergyResources 3123 3135	Solar energy
+T620	OtherEnergyResources 5035 5047	solar energy
+T621	OtherEnergyResources 2838 2850	solar energy
+T622	OtherEnergyResources 2902 2914	solar energy
+T623	OtherEnergyResources 5105 5117	solar energy
+T624	ChangesToResources 8942 8952	conserving
+T625	GeographicFormations 2815 2826	land masses
+T631	BodiesOfWater 8475 8481	stream
+T632	GeographicFormations 4039 4049	reservoirs
+T633	TypesOfWaterInBodiesOfWater 8953 8963	freshwater
+T642	StopRemove 7707 7713	burned
+T643	ConstructiveDestructiveForces 7460 7467	erosion
+T644	ConstructiveDestructiveForces 1445 1454	weathered
+T645	ConstructiveDestructiveForces 1587 1596	weathered
+T646	ConstructiveDestructiveForces 1685 1694	weathered
+T647	ConstructiveDestructiveForces 421 427	eroded
+T648	Minerals 8933 8937	gold
+T649	Minerals 8916 8924	minerals
+T650	Minerals 9629 9635	silver
+T651	Minerals 1436 1443	crystal
+T652	Minerals 1559 1566	crystal
+T653	Minerals 1646 1653	crystal
+T661	Rock 1455 1459	rock
+T662	Rock 1636 1640	rock
+T663	Rock 1695 1699	rock
+T664	Rock 1477 1481	rock
+T665	Rock 1670 1674	rock
+T666	Rock 1597 1601	rock
+T667	Rock 1424 1427	ore
+T668	Rock 1572 1575	ore
+T669	Rock 1676 1679	ore
+T670	Metamorphic 1465 1476	metamorphic
+T671	Metamorphic 1624 1635	metamorphic
+T672	Metamorphic 1658 1669	metamorphic
+T680	Soil 311 324	soil covering
+T681	Soil 410 417	topsoil
+T682	Soil 1429 1434	humus
+T683	Soil 1552 1557	humus
+T684	Soil 1607 1612	humus
+T685	Soil 1076 1080	soil
+T686	Soil 1380 1384	soil
+T687	Soil 8227 8231	clay
+T690	PropertiesOfSoil 1081 1090	fertility
+T692	NaturalPhenomena 803 807	fire
+T693	NaturalPhenomena 1013 1017	fire
+T694	NaturalPhenomena 7441 7445	fire
+T695	NaturalPhenomena 2975 2982	auroras
+T696	NaturalPhenomena 7460 7467	erosion
+T697	NaturalPhenomena 1445 1454	weathered
+T698	NaturalPhenomena 1587 1596	weathered
+T700	NaturalPhenomena 7503 7510	drought
+T701	NaturalPhenomena 421 427	eroded
+T702	WeatherPhenomena 7258 7267	windstorm
+T703	WeatherPhenomena 1914 1918	wind
+T706	NaturalPhenomena 1685 1694	weathered
+T707	WeatherPhenomena 7503 7510	drought
+T708	WeatherPhenomena 7947 7964	greenhouse effect
+T711	Precipitation 566 574	rainfall
+T717	EcosystemsEnvironment 6928 6937	ecosystem
+T718	EcosystemsEnvironment 7406 7415	ecosystem
+T719	EcosystemsEnvironment 3611 3622	environment
+T720	EcosystemsEnvironment 5563 5574	environment
+T721	EcosystemsEnvironment 6264 6275	environment
+T724	ExamplesOfHabitats 479 483	land
+T725	ExamplesOfHabitats 7726 7730	land
+T726	ExamplesOfHabitats 165 169	land
+T727	ExamplesOfHabitats 551 555	land
+T728	ExamplesOfHabitats 6956 6960	land
+T731	ExamplesOfHabitats 250 255	lands
+T732	ExamplesOfHabitats 941 948	forests
+T733	ExamplesOfHabitats 785 792	forests
+T734	ExamplesOfHabitats 4082 4089	forests
+T735	ExamplesOfHabitats 7681 7688	Forests
+T736	ExamplesOfHabitats 8897 8904	forests
+T741	ExamplesOfHabitats 6892 6898	forest
+T742	ExamplesOfHabitats 8571 8577	forest
+T743	ExamplesOfHabitats 969 975	forest
+T744	ExamplesOfHabitats 1006 1012	forest
+T745	ExamplesOfHabitats 1138 1144	forest
+T746	ExamplesOfHabitats 1049 1055	forest
+T747	ExamplesOfHabitats 887 893	forest
+T748	TypesOfTerrestrialEcosystems 1860 1866	desert
+T750	EnvironmentalDamageDestruction 2033 2056	environmental pollution
+T751	EnvironmentalDamageDestruction 6652 6661	pollution
+T752	EnvironmentalDamageDestruction 229 240	Overgrazing
+T753	EnvironmentalDamageDestruction 335 346	overgrazing
+T754	EnvironmentalDamageDestruction 7983 7993	pollutants
+T755	EnvironmentalDamageDestruction 357 372	desertification
+T756	EnvironmentalDamageDestruction 3911 3933	environmental problems
+T757	EnvironmentalDamageDestruction 7947 7964	greenhouse effect
+T759	Matter 9369 9377	material
+T760	Compound 7858 7872	carbon dioxide
+T775	Element 9629 9635	silver
+T779	Element 401 403	at
+T792	Element 7918 7924	oxygen
+T796	PhasesOfWater 8447 8452	water
+T797	PhasesOfWater 1580 1585	water
+T798	PhasesOfWater 4538 4543	water
+T799	PhasesOfWater 1617 1622	water
+T800	PhasesOfWater 1417 1422	water
+T806	WrittenMedia 10334 10340	papers
+T807	NaturalResources 7311 7317	Timber
+T808	ManmadeObjects 9833 9838	paper
+T809	ManmadeObjects 10074 10079	paper
+T810	ManmadeObjects 10623 10628	paper
+T813	ManmadeObjects 9865 9870	paper
+T814	ManmadeObjects 10487 10492	paper
+T815	ManmadeObjects 9900 9905	paper
+T817	ManmadeObjects 9975 9980	paper
+T818	ManmadeObjects 9926 9931	paper
+T819	ManmadeObjects 10045 10050	paper
+T822	PlantPart 8250 8254	wood
+T823	PlantPart 9148 9152	wood
+T826	MetalSolids 8260 8265	steel
+T827	MetalSolids 8495 8500	steel
+T828	MetalSolids 8857 8870	aluminum cans
+T831	LiquidMatter 8447 8452	water
+T832	LiquidMatter 1580 1585	water
+T833	LiquidMatter 4538 4543	water
+T834	LiquidMatter 1617 1622	water
+T835	LiquidMatter 1417 1422	water
+T843	Substances 1405 1415	substances
+T844	Substances 1510 1520	substances
+T847	Changes 3599 3606	changes
+T850	Changes 2939 2953	transformation
+T851	Changes 5057 5063	change
+T861	ChemicalChange 2187 2194	burning
+T862	ChemicalChange 4272 4279	Burning
+T863	ChemicalChange 8522 8529	burning
+T864	ChemicalChange 7707 7713	burned
+T879	Mixtures 1489 1500	combination
+T884	ActUponSomething 2688 2699	interaction
+T888	Alter 10093 10102	recycling
+T889	Alter 9800 9809	Recycling
+T890	Alter 8847 8856	recycling
+T891	Alter 1114 1123	recycling
+T892	Alter 10576 10585	Recycling
+T893	Alter 10432 10441	recycling
+T894	Alter 859 865	impact
+T895	Alter 901 907	impact
+T898	IncreaseDecrease 7892 7899	reduces
+T899	IncreaseDecrease 9932 9939	reduces
+T901	Alter 9917 9925	recycled
+T902	Alter 10036 10044	recycled
+T904	IncreaseDecrease 3902 3910	reducing
+T905	Alter 10295 10302	recycle
+T907	FormChangingActions 8487 8494	rolling
+T911	StopRemove 9944 9951	cutting
+T912	FormChangingActions 7699 7702	cut
+T915	StopRemove 10521 10524	cut
+T921	AmountChangingActions 7481 7490	increases
+T922	AmountChangingActions 7450 7459	decreases
+T923	AmountChangingActions 7933 7942	decreases
+T924	AmountChangingActions 7973 7982	decreases
+T925	AmountChangingActions 381 391	increasing
+T926	AmountChangingActions 1159 1169	increasing
+T927	AmountChangingActions 988 997	increased
+T928	AmountChangingActions 1022 1031	increased
+T929	AmountChangingActions 6566 6575	increased
+T930	AmountChangingActions 6602 6611	increased
+T931	AmountChangingActions 1066 1075	decreased
+T932	AmountChangingActions 1128 1137	decreased
+T933	AmountChangingActions 6642 6651	decreased
+T934	AmountChangingActions 6682 6691	decreased
+T935	AmountChangingActions 7421 7428	reduces
+T936	AmountChangingActions 7836 7843	reduces
+T937	AmountChangingActions 7892 7899	reduces
+T938	AmountChangingActions 9932 9939	reduces
+T939	AmountChangingActions 796 802	reduce
+T940	AmountChangingActions 491 499	reducing
+T941	AmountChangingActions 3902 3910	reducing
+T942	LocationChangingActions 4560 4567	putting
+T943	AmountChangingActions 8438 8446	increase
+T944	AvoidReject 1094 1104	preventing
+T945	Believe 840 847	thought
+T946	Believe 9565 9575	considered
+T947	Buy 10478 10481	buy
+T951	ChangeInto 2970 2974	into
+T952	ChangeInto 3976 3980	into
+T953	ChangeInto 4090 4094	into
+T954	ChangeInto 8501 8505	into
+T957	Changes 4071 4081	converting
+T958	Classify 9565 9575	considered
+T959	Choose 1540 1546	choose
+T960	Choose 5846 5850	like
+T962	CleanUp 6943 6951	Clearing
+T966	StopRemove 7515 7522	removes
+T967	Collect 4636 4645	collected
+T973	CombineAdd 6984 6992	Planting
+T974	CombineAdd 8582 8590	planting
+T978	CombineAdd 2379 2383	with
+T979	Use 4624 4628	with
+T980	CombineAdd 559 565	absorb
+T981	CombineAdd 9221 9230	replanted
+T982	CombineAdd 9265 9274	replanted
+T983	ContainBeComposedOf 5415 5423	includes
+T985	Create 3261 3267	offers
+T986	Communicate 1366 1371	asked
+T987	ContainBeComposedOf 10278 10282	have
+T989	Cause 851 855	have
+T990	ContainBeComposedOf 10540 10544	have
+T991	Cause 7796 7800	have
+T992	Cause 961 965	have
+T994	ContainBeComposedOf 5339 5342	has
+T995	Cause 6899 6902	has
+T997	ContainBeComposedOf 4055 4062	contain
+T999	Create 7873 7883	production
+T1000	Create 4411 4418	produci
+T1001	Create 7904 7914	production
+T1002	Create 2406 2413	produce
+T1003	Create 4313 4320	produce
+T1004	Create 8149 8161	construction
+T1006	Create 1849 1854	built
+T1007	Create 4833 4838	makes
+T1009	Create 5507 5515	generate
+T1016	Create 6964 6969	build
+T1017	Create 2062 2074	constructing
+T1020	Create 5813 5821	building
+T1021	Create 7036 7044	Building
+T1023	Create 10612 10618	making
+T1025	Create 5870 5879	generated
+T1028	Create 1375 1379	make
+T1029	Create 4494 4498	make
+T1030	Create 9984 9988	made
+T1031	Create 9888 9892	make
+T1032	Create 7102 7106	make
+T1033	Create 10080 10084	made
+T1035	Create 6528 6537	invention
+T1037	Examine 6711 6715	read
+T1040	Harm 287 298	breaks down
+T1041	Harm 5549 5558	degrading
+T1042	Harm 256 264	destroys
+T1044	StopRemove 6628 6636	cut down
+T1045	StopRemove 7023 7031	cut down
+T1046	Harm 6255 6259	harm
+T1047	Harm 7392 7396	harm
+T1048	Harm 3352 3360	damaging
+T1049	Help 6905 6920	positive effect
+T1050	Help 10413 10428	positive effect
+T1052	Help 5940 5944	help
+T1053	Identify 3889 3893	find
+T1054	Identify 4031 4038	finding
+T1055	IncreaseDecrease 7481 7490	increases
+T1056	IncreaseDecrease 7450 7459	decreases
+T1057	IncreaseDecrease 7933 7942	decreases
+T1058	IncreaseDecrease 7973 7982	decreases
+T1059	IncreaseDecrease 381 391	increasing
+T1060	IncreaseDecrease 1159 1169	increasing
+T1061	IncreaseDecrease 988 997	increased
+T1062	IncreaseDecrease 1022 1031	increased
+T1063	IncreaseDecrease 6566 6575	increased
+T1064	IncreaseDecrease 6602 6611	increased
+T1065	IncreaseDecrease 1066 1075	decreased
+T1066	IncreaseDecrease 1128 1137	decreased
+T1067	IncreaseDecrease 6642 6651	decreased
+T1068	IncreaseDecrease 6682 6691	decreased
+T1069	IncreaseDecrease 3321 3329	thinning
+T1070	IncreaseDecrease 8801 8806	limit
+T1072	IncreaseDecrease 8438 8446	increase
+T1073	Move 2107 2114	placing
+T1074	StopRemove 760 766	remove
+T1075	StopRemove 814 822	Removing
+T1076	StopRemove 914 922	removing
+T1082	Transportation 4511 4518	gliding
+T1088	LightMovement 2888 2898	reflection
+T1093	Occur 8162 8174	predominates
+T1094	Permit 435 443	allowing
+T1100	PerformAnActivity 2736 2745	functions
+T1101	PerformAnActivity 330 334	does
+T1103	Preserve 10093 10102	recycling
+T1104	Preserve 9800 9809	Recycling
+T1105	Preserve 8847 8856	recycling
+T1106	Preserve 1114 1123	recycling
+T1107	Preserve 10576 10585	Recycling
+T1108	Preserve 10432 10441	recycling
+T1109	Preserve 8942 8952	conserving
+T1111	Preserve 9917 9925	recycled
+T1112	Preserve 10036 10044	recycled
+T1113	Preserve 10295 10302	recycle
+T1115	Represent 2675 2684	describes
+T1116	Represent 10401 10410	describes
+T1118	Require 10470 10474	need
+T1119	Require 10510 10514	need
+T1120	Require 4919 4927	involves
+T1121	Require 1521 1527	should
+T1122	Require 3423 3429	should
+T1123	Require 4975 4983	requires
+T1133	StopRemove 1094 1104	preventing
+T1135	StopRemove 8555 8568	clear-cutting
+T1136	StopRemove 6943 6951	Clearing
+T1138	StopRemove 7336 7346	get rid of
+T1139	Succeed 5956 5966	accomplish
+T1141	Uptake 466 474	colonize
+T1143	Uptake 9202 9211	harvested
+T1144	Uptake 9251 9260	harvested
+T1145	Uptake 3206 3214	receives
+T1146	Uptake 8909 8915	mining
+T1148	Use 201 205	used
+T1149	Use 9359 9363	used
+T1150	Use 7738 7742	used
+T1151	Use 9312 9316	used
+T1152	Use 3433 3437	used
+T1153	Use 2374 2378	used
+T1154	Use 1947 1956	operating
+T1155	Use 2157 2162	using
+T1156	Use 4544 4549	using
+T1157	Use 4433 4438	using
+T1158	Use 4473 4478	using
+T1159	Use 9911 9916	using
+T1160	Use 1385 1390	using
+T1161	Use 2187 2194	burning
+T1162	Use 4272 4279	Burning
+T1163	Use 8522 8529	burning
+T1165	Use 6576 6579	use
+T1166	Use 5854 5857	use
+T1167	Use 4897 4900	use
+T1168	Use 6542 6545	use
+T1169	Use 2831 2834	use
+T1171	Permit 1939 1946	lead to
+T1175	Hypothesizing 840 847	thought
+T1177	PerformingResearch 3877 3885	research
+T1186	ResponseType 10390 10400	statements
+T1192	RelativeTime 3172 3178	future
+T1193	RelativeTime 836 839	now
+T1194	RelativeTime 3438 3441	now
+T1196	StateOfBeing 9275 9277	at
+T1203	RelativeTime 9140 9144	When
+T1204	RelativeTime 9236 9240	When
+T1205	RelativeTime 9344 9348	When
+T1206	RelativeTime 9182 9186	When
+T1207	RelativeTime 9297 9301	When
+T1209	Year 5080 5085	years
+T1211	Frequency 3399 3405	always
+T1213	Locations 7071 7075	area
+T1214	Locations 8194 8198	area
+T1216	ManmadeLocations 6974 6979	homes
+T1218	ManmadeLocations 10270 10277	schools
+T1219	ManmadeLocations 10462 10469	Schools
+T1226	ManmadeLocations 7051 7058	highway
+T1231	ManmadeLocations 4619 4623	home
+T1232	ManmadeLocations 6665 6676	trash dumps
+T1233	ManmadeLocations 1840 1845	house
+T1234	ManmadeLocations 1990 1995	house
+T1235	ManmadeLocations 2147 2152	house
+T1236	ManmadeLocations 5828 5833	house
+T1238	ManmadeLocations 10530 10539	Landfills
+T1240	ManmadeLocations 7401 7405	park
+T1242	ManmadeLocations 4095 4103	farmland
+T1243	ManmadeLocations 7107 7115	farmland
+T1244	PartsOfABuilding 8143 8148	Frame
+T1245	PartsOfABuilding 2135 2139	roof
+T1247	TerrestrialLocations 7296 7309	national park
+T1248	TerrestrialLocations 154 163	the world
+T1249	TerrestrialLocations 3302 3311	the world
+T1250	TerrestrialLocations 2920 2934	polar snowcaps
+T1251	RelativeLocations 1855 1857	in
+T1252	RelativeLocations 8463 8465	in
+T1253	RelativeLocations 6887 6889	in
+T1254	RelativeLocations 6662 6664	in
+T1255	RelativeLocations 4595 4597	in
+T1256	RelativeLocations 7994 7996	in
+T1257	RelativeLocations 137 139	In
+T1258	RelativeLocations 1983 1985	in
+T1259	RelativeLocations 2851 2853	in
+T1260	RelativeLocations 8894 8896	in
+T1261	RelativeLocations 8175 8177	in
+T1262	RelativeLocations 5528 5530	in
+T1263	RelativeLocations 7291 7293	in
+T1264	RelativeLocations 354 356	in
+T1265	RelativeLocations 1874 1879	there
+T1272	RelativeLocations 2128 2130	on
+T1273	Cause 1091 1093	by
+T1276	Use 5880 5882	by
+T1277	Cause 1156 1158	by
+T1278	Cause 4646 4648	by
+T1283	RelativeLocations 1868 1873	where
+T1284	RelativeLocations 7003 7008	where
+T1285	RelativeLocations 2700 2707	between
+T1297	Result 2403 2405	to
+T1299	Goal 10292 10294	to
+T1307	Goal 5504 5506	to
+T1309	Goal 7099 7101	to
+T1316	Result 4491 4493	to
+T1317	Result 2746 2748	to
+T1318	Goal 3886 3888	to
+T1319	Goal 6961 6963	to
+T1322	Use 9989 9993	from
+T1323	RelativeDirection 4862 4866	from
+T1324	RelativeDirection 2915 2919	from
+T1325	RelativeDirection 3234 3238	from
+T1326	RelativeDirection 936 940	from
+T1327	RelativeDirection 780 784	from
+T1339	PrepositionalDirections 401 403	at
+T1341	PrepositionalDirections 4526 4533	through
+T1342	PrepositionalDirections 7059 7066	through
+T1343	PrepositionalDirections 966 968	on
+T1344	PrepositionalDirections 866 868	on
+T1345	PrepositionalDirections 7801 7803	on
+T1346	PrepositionalDirections 6921 6923	on
+T1348	GeopoliticalLocations 7296 7309	national park
+T1349	GeopoliticalLocations 8182 8193	New England
+T1352	VerbsForLocate 2107 2114	placing
+T1353	VerbsForLocate 4031 4038	finding
+T1354	Comparisons 178 181	too
+T1355	Comparisons 9212 9216	than
+T1356	Comparisons 10069 10073	than
+T1357	Comparisons 10607 10611	than
+T1358	Comparisons 4852 4861	different
+T1359	Comparisons 2200 2202	or
+T1360	Comparisons 9282 9286	same
+T1362	Comparisons 4872 4877	other
+T1363	Comparisons 10559 10564	other
+T1364	QualityComparison 2670 2674	best
+T1365	QualityComparison 3869 3873	best
+T1367	AmountComparison 10498 10503	Fewer
+T1368	AmountComparison 10054 10058	less
+T1369	AmountComparison 10482 10486	less
+T1370	AmountComparison 10545 10549	less
+T1371	AmountComparison 2017 2022	least
+T1372	AmountComparison 3623 3628	least
+T1373	AmountComparison 6280 6285	least
+T1374	AmountComparison 8426 8430	most
+T1375	AmountComparison 949 953	most
+T1376	AmountComparison 4988 4992	most
+T1377	AmountComparison 9970 9974	most
+T1378	AmountComparison 4867 4871	most
+T1379	AmountComparison 4932 4936	most
+T1380	AmountComparison 7380 7384	most
+T1381	AmountComparison 575 579	more
+T1382	AmountComparison 9187 9191	more
+T1383	AmountComparison 10595 10599	more
+T1384	AmountComparison 1902 1906	very
+T1385	DistanceComparison 8468 8474	nearby
+T1386	ScientificTheoryExperimentationAndHistory 3845 3855	topic area
+T1393	Scientists 1355 1362	student
+T1394	Scientists 1532 1539	student
+T1395	Scientists 10326 10333	student
+T1404	Undiscovered 4009 4012	new
+T1409	AbilityAvailability 9881 9887	cannot
+T1410	AbilityAvailability 7731 7734	can
+T1411	AbilityAvailability 1933 1938	could
+T1412	AbilityAvailability 8795 8800	could
+T1413	AbilityAvailability 509 518	available
+T1414	AbilityAvailability 3409 3418	available
+T1415	AbilityAvailability 5494 5503	available
+T1416	AbilityAvailability 7523 7532	available
+T1417	AbilityAvailability 9893 9899	enough
+T1418	AbilityAvailability 10550 10554	room
+T1419	Relations 2688 2699	interaction
+T1421	SystemAndFunctions 10283 10291	programs
+T1427	SystemParts 4947 4956	equipment
+T1432	Exemplar 3220 3225	kinds
+T1436	Exemplar 5147 5151	kind
+T1437	Exemplar 4400 4407	example
+T1438	Method 3894 3898	ways
+T1439	Method 4305 4309	ways
+T1440	Method 326 329	How
+T1441	Method 7365 7368	How
+T1442	StateOfBeing 3349 3351	is
+T1443	StateOfBeing 9840 9842	is
+T1444	StateOfBeing 7694 7698	been
+T1445	StateOfBeing 7018 7022	were
+T1447	Actions 1926 1932	action
+T1449	ObjectPart 145 150	parts
+T1452	ObjectQuantification 8511 8517	sheets
+T1453	ObjectQuantification 4484 4490	pieces
+T1455	Negations 3395 3398	not
+T1456	Negations 5053 5056	not
+T1458	Negations 1883 1885	no
+T1460	Negations 5541 5548	without
+T1461	Negations 10085 10092	without
+T1471	Result 347 353	result
+T1472	Result 859 865	impact
+T1473	Result 901 907	impact
+T1479	Result 7765 7776	consequence
+T1480	Goal 7328 7332	want
+T1481	Goal 5971 5975	goal
+T1482	Cause 3934 3940	caused
+T1483	Cause 8199 8205	due to
+T1484	Cause 5118 5124	causes
+T1485	Cause 3179 3186	because
+T1486	Cause 9853 9860	because
+T1487	Cause 539 546	causing
+T1488	Cause 2007 2012	cause
+T1489	Source 4018 4026	reserves
+T1490	Source 4451 4457	source
+T1491	Source 6227 6233	source
+T1492	Source 5025 5031	supply
+T1493	Source 5095 5101	supply
+T1494	Source 8811 8817	supply
+T1496	Source 5925 5933	supplies
+T1497	Source 1037 1044	sources
+T1504	Group 1489 1500	combination
+T1506	ProbabilityAndCertainty 954 960	likely
+T1507	ProbabilityAndCertainty 7385 7391	likely
+T1508	ProbabilityAndCertainty 8431 8437	likely
+T1509	ProbabilityAndCertainty 7369 7374	would
+T1510	ProbabilityAndCertainty 3856 3861	would
+T1511	ProbabilityAndCertainty 5840 5845	would
+T1512	ProbabilityAndCertainty 2001 2006	would
+T1513	ProbabilityAndCertainty 6249 6254	would
+T1514	ProbabilityAndCertainty 5934 5939	would
+T1515	ProbabilityAndCertainty 8420 8425	would
+T1516	ProbabilityAndCertainty 908 913	would
+T1517	ProbabilityAndCertainty 3390 3394	will
+T1518	ProbabilityAndCertainty 5048 5052	will
+T1519	ProbabilityAndCertainty 756 759	may
+T1528	LevelOfInclusion 5454 5459	these
+T1529	LevelOfInclusion 244 249	these
+T1530	LevelOfInclusion 10384 10389	these
+T1531	LevelOfInclusion 1504 1509	these
+T1532	LevelOfInclusion 6864 6869	these
+T1533	LevelOfInclusion 5913 5918	these
+T1534	ObjectQuantification 7013 7017	ones
+T1535	LevelOfInclusion 4334 4338	Both
+T1536	LevelOfInclusion 6855 6860	Which
+T1537	LevelOfInclusion 404 409	which
+T1538	LevelOfInclusion 6221 6226	Which
+T1539	LevelOfInclusion 9556 9561	Which
+T1540	LevelOfInclusion 1920 1925	Which
+T1541	LevelOfInclusion 5904 5909	Which
+T1542	LevelOfInclusion 1483 1488	Which
+T1543	LevelOfInclusion 3839 3844	Which
+T1544	LevelOfInclusion 2346 2351	Which
+T1545	LevelOfInclusion 4388 4393	Which
+T1546	LevelOfInclusion 10375 10380	Which
+T1547	LevelOfInclusion 895 900	Which
+T1548	LevelOfInclusion 2647 2652	Which
+T1549	LevelOfInclusion 8772 8777	Which
+T1550	LevelOfInclusion 5409 5414	which
+T1551	LevelOfInclusion 7759 7764	Which
+T1552	LevelOfInclusion 3580 3585	Which
+T1553	LevelOfInclusion 5445 5450	Which
+T1554	LevelOfInclusion 8405 8410	Which
+T1558	LevelOfInclusion 10265 10269	Some
+T1559	LevelOfInclusion 145 150	parts
+T1561	Problem 6505 6520	negative effect
+T1562	Problem 808 812	risk
+T1563	Problem 998 1002	risk
+T1564	Problem 7433 7437	risk
+T1565	Problem 7495 7499	risk
+T1567	Problem 7468 7476	problems
+T1580	BusinessIndustry 7318 7327	companies
+T1581	BusinessIndustry 9871 9880	companies
+T1582	BusinessIndustry 8237 8244	masonry
+T1584	Examine 3877 3885	research
+T1594	Products 10309 10317	products
+T1595	Products 10448 10456	products
+T1597	WrittenMedia 10342 10352	newspapers
+T1598	WrittenMedia 6702 6707	books
+T1604	Cities 5329 5338	Las Vegas
+T1605	Cities 5531 5540	Las Vegas
+T1607	NUMBER 6466 6476	_2008_4_37
+T1609	LOCATION 8182 8193	New England
+T246	StateOfBeing 175 177	is
+T122	StateOfBeing 198 200	is
+T81	Uptake 559 565	absorb
+T41	Goal 793 795	to
+T106	Safety 808 812	risk
+T169	StateOfBeing 833 835	is
+T42	Safety 998 1002	risk
+T130	StateOfBeing 1363 1365	is
+T172	LevelOfInclusion 1391 1404	the following
+T112	StateOfBeing 1846 1848	is
+T114	StateOfBeing 1880 1882	is
+T21	StateOfBeing 2371 2373	is
+T48	OtherEnergyResources 2494 2508	nuclear energy
+T49	LevelOfInclusion 2656 2669	the following
+T56	IncreaseDecrease 2749 2756	warm up
+T46	StateOfBeing 3136 3138	is
+T47	Communicate 3139 3153	referred to as
+T57	Believe 3139 3153	referred to as
+T1	StateOfBeing 3406 3408	be
+T18	StateOfBeing 3430 3432	be
+T19	CookingToolsFood 3586 3598	cooking tool
+T6	StateOfBeing 3862 3864	be
+T58	VerbsForLocate 3997 4008	looking for
+T11	StateOfBeing 4301 4304	are
+T60	StateOfBeing 4360 4363	are
+T62	StateOfBeing 4394 4396	is
+T45	Numbers 5025 5031	supply
+T55	StateOfBeing 5131 5133	be
+T61	Comparisons 5138 5146	cheapest
+T22	AbilityAvailability 5343 5349	access
+T24	StateOfBeing 5477 5479	is
+T23	StateOfBeing 5810 5812	is
+T10	OtherEnergyResources 6328 6341	hydroelectric
+T25	ManMadeGeographicFormations 6342 6346	dams
+T26	StateOfBeing 6555 6557	is
+T9	StopRemove 7080 7092	Cutting down
+T12	Move 7268 7279	knocks down
+T14	Harm 7268 7279	knocks down
+T27	Safety 7433 7437	risk
+T28	IncreaseDecrease 7421 7428	reduces
+T29	Safety 7495 7499	risk
+T30	StopRemove 7699 7702	cut
+T32	Goal 7714 7716	so
+T33	StateOfBeing 7735 7737	be
+T7	Rock 8237 8244	masonry
+T20	LevelOfInclusion 8781 8794	the following
+T34	Numbers 8811 8817	supply
+T35	ChangesToResources 8801 8806	limit
+T36	StopRemove 8875 8887	cutting down
+T37	Exemplar 8925 8932	such as
+T38	StateOfBeing 9145 9147	is
+T39	StateOfBeing 9198 9201	are
+T40	StateOfBeing 9217 9220	are
+T43	StateOfBeing 9247 9250	are
+T44	StateOfBeing 9308 9311	are
+T65	StateOfBeing 9317 9319	as
+T66	StateOfBeing 9355 9358	are
+T67	StateOfBeing 9364 9366	as
+T68	StateOfBeing 9562 9564	is
+T70	Exemplar 9825 9832	such as
+T13	StateOfBeing 9981 9983	is
+T72	StateOfBeing 10016 10019	are
+T73	StateOfBeing 10051 10053	is
+T74	Exemplar 10318 10325	such as
+T76	StateOfBeing 10518 10520	be

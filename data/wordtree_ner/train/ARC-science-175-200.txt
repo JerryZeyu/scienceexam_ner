@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[MCAS_2005_8_5] [CEL_FEATURES_PLANET]
+Mercury, the planet nearest to the Sun, has extreme surface temperatures, ranging from 465°C in sunlight to -180°C in darkness. Why is there such a large range of temperatures on Mercury?
+(A) The planet is too small to hold heat.
+(B) The planet is heated on only one side.
+(C) The planet reflects heat from its dark side.
+(D) The planet lacks an atmosphere to hold heat.
+----------------------------------------------------------------------------------------------
+[MCAS_2012_8_23647] [CEL_FEATURES_PLANET]
+Which of the following statements best describes how the four planets closest to the Sun are different from the next four planets in our solar system?
+(A) The four closest planets are more dense.
+(B) The four closest planets have more moons.
+(C) The four closest planets have greater diameters.
+(D) The four closest planets take longer to complete one orbit.
+----------------------------------------------------------------------------------------------
+[NAEP_2005_4_S14+10] [CEL_FEATURES_PLANET, CEL_FEATURES_MOONS]
+Rocks and Earth and on the Moon are made of similar materials. What does this observation most likely suggest?
+(A) Both the Moon and Earth split off from the Sun.
+(B) Life must have existed on the Moon at one time.
+(C) The Moon was probably formed from material from Earth.
+(D) The whole solar system is made up of the same kinds of rocks.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401765] [CEL_FEATURES_PLANET, CEL_FEATURES_MOONS]
+The Earth and the Moon have all of these common features except
+(A) core.
+(B) crust.
+(C) water.
+(D) mantle.
+----------------------------------------------------------------------------------------------
+[MCAS_2004_5_27] [CEL_FEATURES_SOLARSYSTEMS]
+Which of the following organisms have the greatest effect on an ecosystem because of the changes they make to their environment?
+(A) bees building a hive in a hollow tree
+(B) wasps building a nest in a leafy bush
+(C) beavers building a dam across a stream
+(D) fish digging a burrow on a river bottom
+----------------------------------------------------------------------------------------------
+[Mercury_7214533] [CEL_FEATURES_SOLARSYSTEMS]
+Which of these locations in the solar system contains the most asteroids?
+(A) the surface of the Sun
+(B) the ring system of Saturn
+(C) between Mars and Jupiter
+(D) between Mercury and Venus
+----------------------------------------------------------------------------------------------
+[MEA_2010_8_4-v1] [CEL_FEATURES_SOLARSYSTEMS]
+Which statement describes the location of our Sun in the universe?
+(A) Our Sun orbits Earth in the Andromeda galaxy.
+(B) Our Sun orbits Earth in the Milky Way galaxy.
+(C) Our Sun is the center of a solar system in the Milky Way galaxy.
+(D) Our Sun is the center of a solar system in the Andromeda galaxy.
+----------------------------------------------------------------------------------------------
+[MCAS_2000_8_1] [CEL_FEATURES_SOLARSYSTEMS]
+Which list contains only things that are part of our solar system?
+(A) planets, moons, comets
+(B) galaxies, quasars, asteroids
+(C) black holes, novas, stars
+(D) clusters, asteroids, meteors
+----------------------------------------------------------------------------------------------
+[Mercury_188633] [CEL_FEATURES_SOLARSYSTEMS]
+A scientist is searching for areas where new solar systems might form. What feature is the scientist looking for?
+(A) a star similar to our Sun
+(B) a cloud of dust and gas
+(C) an oxygen-rich atmosphere
+(D) a gravitational acceleration of 9.8 m/sec2
+----------------------------------------------------------------------------------------------
+[Mercury_7235865] [CEL_FEATURES_SOLARSYSTEMS]
+The oldest Moon rocks have been dated to a time shortly after the estimated date of the formation of our solar system. Approximately how old are these Moon rocks?
+(A) 6.4 billion years
+(B) 4.5 billion years
+(C) 2.8 billion years
+(D) 1.7 billion years
+----------------------------------------------------------------------------------------------
+[Mercury_7218208] [CEL_FEATURES_SOLARSYSTEMS, CEL_ORBIT]
+In the solar system, moons orbit planets. Which of these do planets orbit?
+(A) the Sun
+(B) Halley's comet
+(C) the asteroid belt
+(D) a black hole
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_4_pg28] [CEL_FEATURES_STELLAR]
+Which of these is hottest?
+(A) The Earth
+(B) Mars
+(C) The Moon
+(D) The Sun
+----------------------------------------------------------------------------------------------
+[MDSA_2010_4_14] [CEL_FEATURES_STELLAR]
+A star is a celestial object that produces its own heat and light. Which of these celestial objects is the closest star to Earth?
+(A) Mars
+(B) Venus
+(C) the sun
+(D) the moon
+----------------------------------------------------------------------------------------------
+[NAEP_2000_4_S12+2] [CEL_FEATURES_STELLAR]
+How hot is it on the surface of the Sun?
+(A) Not quite as hot as boiling water
+(B) About as hot as fire
+(C) About 100°F
+(D) Much hotter than almost anything on Earth
+----------------------------------------------------------------------------------------------
+[MCAS_1999_4_12] [CEL_FEATURES_STELLAR]
+Which of the following is a SOURCE of light?
+(A) Earth
+(B) planet
+(C) star
+(D) moon
+----------------------------------------------------------------------------------------------
+[TIMSS_2011_4_pg37] [CEL_FEATURES_STELLAR]
+Which two objects produce their own light?
+(A) candle and moon
+(B) moon and mirror
+(C) sun and candle
+(D) mirror and sun
+----------------------------------------------------------------------------------------------
+[ACTAAP_2013_5_15] [CEL_FEATURES_STELLAR]
+Compared to other stars in our galaxy, which is the best description of our Sun?
+(A) larger size, higher temperature
+(B) smaller size, higher temperature
+(C) larger size, average temperature
+(D) average size, average temperature
+----------------------------------------------------------------------------------------------
+[ACTAAP_2014_5_16] [CEL_FEATURES_STELLAR]
+The temperature in a hot star is high enough to pull electrons away from atoms. What state of matter results from this process?
+(A) gas
+(B) solid
+(C) liquid
+(D) plasma
+----------------------------------------------------------------------------------------------
+[Mercury_LBS10300] [CEL_FEATURES_STELLAR]
+A star is a large astronomical body that
+(A) reflects light.
+(B) condenses light.
+(C) emits light.
+(D) absorbs light.
+----------------------------------------------------------------------------------------------
+[Mercury_7199098] [CEL_FEATURES_STELLAR]
+Nuclear fusion is the source of energy for stars. Besides hydrogen, which other element is most likely also common in stars?
+(A) helium
+(B) nitrogen
+(C) oxygen
+(D) uranium
+----------------------------------------------------------------------------------------------
+[Mercury_188650] [CEL_FEATURES_STELLAR]
+Which of the following processes is an important part of star formation?
+(A) nuclear fusion
+(B) nuclear fission
+(C) molecular fusion
+(D) molecular fission
+----------------------------------------------------------------------------------------------
+[Mercury_7218173] [CEL_FEATURES_STELLAR]
+Which of these stars is most similar to the Sun?
+(A) the red giant star Arcturus
+(B) the white dwarf star Sirius B
+(C) the main sequence star Alpha Mensae
+(D) the blue supergiant star Rigel
+----------------------------------------------------------------------------------------------
+[Mercury_7214463] [CEL_FEATURES_STELLAR]
+Compared to the Sun, a red star most likely has a greater
+(A) volume.
+(B) rate of rotation.
+(C) surface temperature.
+(D) number of orbiting planets.
+----------------------------------------------------------------------------------------------
+[Mercury_7100730] [CEL_FEATURES_STELLAR]
+Most stars are similar to each other in
+(A) brightness.
+(B) composition.
+(C) diameter.
+(D) temperature.
+----------------------------------------------------------------------------------------------
+[Mercury_7139983] [CEL_FEATURES_STELLAR]
+What may form as a direct result of a star collapsing?
+(A) constellation
+(B) galaxy
+(C) protostar
+(D) supernova

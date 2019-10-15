@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7008295] [EARTH_HUMIMP_WHAT_HABITATDEST]
+Which could be a possible way to prevent wildlife species from becoming endangered?
+(A) drinking less water
+(B) establishing more habitats
+(C) cutting down more forests
+(D) stopping underground coal mining
+----------------------------------------------------------------------------------------------
+[Mercury_7044118] [EARTH_HUMIMP_WHAT_HABITATDEST]
+What will be the most likely result for some species of animals with the continued burning of rain forests in Africa?
+(A) soil erosion
+(B) destruction of their habitats
+(C) improved nutrients in the soil
+(D) more grasses as a result of burning
+----------------------------------------------------------------------------------------------
+[Mercury_7211103] [EARTH_HUMIMP_WHAT_HABITATDEST]
+Which statement describes a harmful effect of clearing rainforests for farmland?
+(A) makes more land available for local farmers
+(B) removes valuable habitat for local species
+(C) increases local groundwater levels
+(D) provides income for local residents
+----------------------------------------------------------------------------------------------
+[Mercury_7018235] [EARTH_HUMIMP_WHAT_HABITATDEST]
+The most common way humans contribute to the extinction of organisms is by
+(A) rotation of crops.
+(B) use of fertilizers.
+(C) destruction of habitat.
+(D) introduction of competing species.
+----------------------------------------------------------------------------------------------
+[Mercury_7115063] [EARTH_HUMIMP_WHAT_HABITATDEST]
+Which of the following is most likely to disrupt a wetland ecosystem?
+(A) construction of a housing development
+(B) planting native wildflowers
+(C) a period of heavy rainfall
+(D) a lightning strike
+----------------------------------------------------------------------------------------------
+[Mercury_7115395] [EARTH_HUMIMP_WHAT_HABITATDEST]
+Which changes will most likely have a negative effect on an ecosystem?
+(A) building a road
+(B) planting a tree
+(C) adding a freshwater source
+(D) creating a nature sanctuary
+----------------------------------------------------------------------------------------------
+[Mercury_7092295] [EARTH_HUMIMP_WHAT_HABITATDEST]
+Which action creates competition between environmental concerns and economic gains?
+(A) protecting endangered wildlife
+(B) reintroducing wildlife into their natural habitats
+(C) using forest land to build homes
+(D) using city buses for transportation
+----------------------------------------------------------------------------------------------
+[Mercury_7203508] [EARTH_HUMIMP_WHAT_HABITATDEST]
+The numbat, a small Australian marsupial, requires fallen logs and dead trees for shelter and for its primary food, termites. Loss of old-growth forests containing logs and dead trees could threaten the numbat with extinction. What would be the best method to protect the numbat from extinction?
+(A) provide feeding stations with termites for the numbats
+(B) protect areas of old-growth forest from clear-cutting
+(C) prohibit hiking in forests where numbats live
+(D) move the numbat to a different habitat
+----------------------------------------------------------------------------------------------
+[Mercury_7137638] [EARTH_HUMIMP_WHAT_HABITATDEST, LIFE_INTERDEP_POPDYN]
+Acid rain caused by industrial pollution greatly reduces the number of trees in a forested region that is home to a particular species of bird. How might this decrease in the number of trees most likely affect this bird population?
+(A) The population will adapt to ground dwelling.
+(B) The population will decrease due to lack of resources.
+(C) The population will stabilize when it moves to another region.
+(D) The population will increase as predators move out of the region.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_4_27] [EARTH_HUMIMP_WHAT_POLL]
+Which human activity most often has a harmful effect on the environment?
+(A) breathing
+(B) growing
+(C) planting
+(D) polluting
+----------------------------------------------------------------------------------------------
+[MSA_2013_5_33] [EARTH_HUMIMP_WHAT_POLL]
+Beach pollution includes sewage, paper and plastic containers, and oil from boats. Which beach activity most likely increases beach pollution?
+(A) watching birds
+(B) collecting seashells
+(C) eating a picnic lunch
+(D) building a sand castle
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_8_27] [EARTH_HUMIMP_WHAT_POLL]
+Pesticides and fertilizers can help farmers to produce more crops. However, overuse of these chemicals can result in
+(A) ecological succession
+(B) material recycling
+(C) environmental pollution
+(D) selective breeding
+----------------------------------------------------------------------------------------------
+[LEAP_2001_8_10380] [EARTH_HUMIMP_WHAT_POLL]
+Which of these best defines the term "pollutant"?
+(A) anything humans add to the atmosphere and oceans
+(B) any substance that is harmful to the environment
+(C) any substance that is a waste product of industry
+(D) a substance that does not break down over time
+----------------------------------------------------------------------------------------------
+[MCAS_1998_4_4] [EARTH_HUMIMP_WHAT_POLL_AIR]
+People are developing electric cars that would replace gasoline-burning cars. One major advantage of the electric car is that it
+(A) accelerates faster.
+(B) causes less pollution.
+(C) gives a smoother ride.
+(D) needs no battery.
+----------------------------------------------------------------------------------------------
+[MDSA_2010_5_35] [EARTH_HUMIMP_WHAT_POLL_AIR]
+Many states require vehicles to be examined and to meet safety and pollution standards. What impact might vehicle inspections have on the environment?
+(A) The environment will not be polluted.
+(B) The environment will become more polluted.
+(C) Fewer pollutants will be released by vehicles.
+(D) Fewer pollutants will be produced by older vehicles.
+----------------------------------------------------------------------------------------------
+[Mercury_405470] [EARTH_HUMIMP_WHAT_POLL_AIR]
+In what way do transit systems, such as buses, benefit society?
+(A) by reducing the amount of pollution
+(B) by increasing the number of car sales
+(C) by increasing the amount of carbon dioxide in the air
+(D) by eliminating the possibility of accidents
+----------------------------------------------------------------------------------------------
+[Mercury_405944] [EARTH_HUMIMP_WHAT_POLL_AIR]
+Automobile engines built today are designed to be gas efficient. Gas-efficient engines most likely affect a city by reducing
+(A) air pollution.
+(B) heat pollution.
+(C) noise pollution.
+(D) light pollution.
+----------------------------------------------------------------------------------------------
+[Mercury_7203280] [EARTH_HUMIMP_WHAT_POLL_AIR]
+Sulfur scrubbers are devices installed in coal-fired power plants. Sulfur scrubbers reduce the emission of sulfur dioxide. What environmental problem are sulfur scrubbers most likely trying to address?
+(A) ozone
+(B) erosion
+(C) acid rain
+(D) nutrient runoff
+----------------------------------------------------------------------------------------------
+[TAKS_2009_8_9] [EARTH_HUMIMP_WHAT_POLL_AIR]
+Which of these would most likely improve the air quality in large Texas cities?
+(A) Limiting the number of cars on the roads
+(B) Switching to wood stoves for home heating
+(C) Requiring large vehicles to use diesel fuel
+(D) Maintaining filters in large buildings
+----------------------------------------------------------------------------------------------
+[TIMSS_1995_8_N5] [EARTH_HUMIMP_WHAT_POLL_AIR]
+One of the principal causes of acid rain is
+(A) waste acid from chemical factories being pumped into rivers
+(B) acid from chemical laboratories evaporating into the air
+(C) gases from burning coal and oil dissolving in water in the atmosphere
+(D) gases from air conditioners and refrigerators escaping into the atmosphere
+----------------------------------------------------------------------------------------------
+[Mercury_7041125] [EARTH_HUMIMP_WHAT_POLL_AIR]
+What is the greatest contributor to air pollution in the United States?
+(A) factories
+(B) automobiles
+(C) power plants
+(D) burning waste
+----------------------------------------------------------------------------------------------
+[Mercury_7093030] [EARTH_HUMIMP_WHAT_POLL_AIR]
+How does acid rain most likely affect forests?
+(A) Top soil loses all of its nutrients.
+(B) Plants begin to grow deeper roots.
+(C) Animals have more food sources.
+(D) Trees become less healthy over time.
+----------------------------------------------------------------------------------------------
+[Mercury_7032918] [EARTH_HUMIMP_WHAT_POLL_AIR]
+Which human activity has most negatively affected air quality?
+(A) burning coal
+(B) growing crops
+(C) using solar energy cells
+(D) constructing nuclear power plants
+----------------------------------------------------------------------------------------------
+[Mercury_7212345] [EARTH_HUMIMP_WHAT_POLL_AIR]
+Acid rain has a pH below 5.6. This rain can damage soil, lakes, crops, and buildings. Acid rain is caused by all of the following except
+(A) industrial emissions from factories.
+(B) coal that is burned to produce heat and power.
+(C) automobile exhaust.
+(D) nuclear power plants that produce radiation.
+----------------------------------------------------------------------------------------------
+[Mercury_7107258] [EARTH_HUMIMP_WHAT_POLL_AIR]
+When stratospheric ozone levels are reduced, the amount of ultraviolet radiation hitting Earth increases. Ozone depletion is most often caused
+(A) by the reversal of the magnetic field of Earth.
+(B) when fluorocarbons are released into the atmosphere.
+(C) when electromagnetic waves from the Sun increase.
+(D) by abrupt changes in weather and climate patterns.

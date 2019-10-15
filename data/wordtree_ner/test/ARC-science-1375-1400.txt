@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402624] [ENG_LIGHT_REFLECT]
+When light is bounced off a mirror, the light is
+(A) reflected.
+(B) refracted.
+(C) absorbed.
+(D) diffracted.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400360] [ENG_LIGHT_REFLECT]
+What does a mirror do to light that causes objects to appear backwards?
+(A) refracts
+(B) reflects
+(C) absorbs
+(D) blocks
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401633] [ENG_LIGHT_REFLECT]
+Which object is made to reflect light?
+(A) telescope
+(B) window
+(C) mirror
+(D) eyeglasses
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402262] [ENG_LIGHT_REFLECT]
+What type of energy travels through the body of a microscope that allows the specimen to be seen by a student?
+(A) heat
+(B) solar
+(C) light
+(D) electrical
+----------------------------------------------------------------------------------------------
+[VASoL_2007_5_35] [ENG_LIGHT_REFLECT]
+A shiny aluminum screen can be placed on the windshield of a parked car. This screen helps to keep the car cool because it
+(A) reflects the sunlight
+(B) absorbs heat
+(C) causes evaporation
+(D) conducts electricity
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401189] [ENG_LIGHT_REFLECT]
+Which is an example of light being reflected?
+(A) taking a picture
+(B) using a magnifying glass
+(C) looking into a mirror
+(D) using eyeglasses
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402625] [ENG_LIGHT_REFLECT]
+When a mirror is placed by a fish bowl with a beta fish swimming inside, the beta fish sees what appears to be another fish. This occurs because of
+(A) absorption.
+(B) refraction.
+(C) reflection.
+(D) diffraction.
+----------------------------------------------------------------------------------------------
+[Mercury_415687] [ENG_LIGHT_REFLECT]
+What process forms an image in a mirror?
+(A) absorbing light
+(B) reflecting light
+(C) refracting light
+(D) transmitting light
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg32] [ENG_LIGHT_REFLECT]
+A person in a dark room looking through a window can clearly see a person outside in the daylight. But a person outside cannot see the person inside. Why does this happen?
+(A) There is not enough light being reflected off the person in the room.
+(B) Light rays cannot pass through a window twice.
+(C) Outside light does not pass through windows.
+(D) Sunlight is not as intense as other sources of light.
+----------------------------------------------------------------------------------------------
+[Mercury_7211943] [ENG_LIGHT_REFLECT]
+Light sometimes behaves as waves and other times as particles. Which property of light is equally explainable by treating light as either particles or waves?
+(A) interference of light
+(B) reflection of light
+(C) diffraction of light
+(D) polarization of light
+----------------------------------------------------------------------------------------------
+[ACTAAP_2011_5_17] [ENG_LIGHT_REFLECT, LIFE_FUNCT_FEATANDFUNCT_ANIM_SENSES]
+Which types of objects are most easily seen by the human eye?
+(A) objects that reflect most of the light that strikes them
+(B) objects that refract most of the light that strikes them
+(C) objects that diffract most of the light that strikes them
+(D) objects that absorb most of the light that strikes them
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_4_pg24] [ENG_LIGHT_REFRACT]
+Which pair together could cause a rainbow?
+(A) Fog and clouds
+(B) Rain and snow
+(C) Clouds and ice
+(D) Sunshine and rain
+----------------------------------------------------------------------------------------------
+[VASoL_2011_5_12] [ENG_LIGHT_REFRACT]
+Which of the following is the best observation of the refraction of light?
+(A) Looking at oneself in a mirror
+(B) Looking at a shadow of an object
+(C) Viewing an object through an open window
+(D) Viewing an object partially in water
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402085] [ENG_LIGHT_REFRACT]
+Light is refracted the least when passing through a
+(A) telescope lens.
+(B) a tinted window.
+(C) magnifying glass.
+(D) a pair of eyeglasses.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400602] [ENG_LIGHT_REFRACT]
+Which process causes light to bend and form a rainbow?
+(A) frequency
+(B) resonance
+(C) refraction
+(D) reflection
+----------------------------------------------------------------------------------------------
+[ACTAAP_2008_5_1] [ENG_LIGHT_REFRACT]
+Sir Isaac Newton determined that white light is made up of all the colors of the rainbow. What did he use to discover this phenomenon?
+(A) a prism
+(B) a telescope
+(C) a microscope
+(D) a magnifying glass
+----------------------------------------------------------------------------------------------
+[Mercury_404686] [ENG_LIGHT_REFRACT]
+White light can be separated into all of its component colors by
+(A) mixing the three primary colors of light.
+(B) passing the light through a prism.
+(C) passing the light through a colored filter.
+(D) using a translucent material to filter the light.
+----------------------------------------------------------------------------------------------
+[Mercury_7180758] [ENG_LIGHT_REFRACT]
+During which activity will light most likely be refracted?
+(A) placing a scarf over the shade of a lamp
+(B) viewing objects using the side mirror of a car
+(C) looking at pebbles through the water in a stream
+(D) using a flashlight to light up a forest path at night
+----------------------------------------------------------------------------------------------
+[Mercury_7205485] [ENG_LIGHT_REFRACT]
+The spectrum of visible light can be seen in a rainbow because white light is
+(A) reflected and transmitted.
+(B) refracted and dispersed.
+(C) absorbed and diffracted.
+(D) produced and emitted.
+----------------------------------------------------------------------------------------------
+[LEAP_2003_8_10392] [ENG_LIGHT_REFRACT]
+Denise was driving east over a hill in the afternoon, shortly after a rain shower. Suddenly the sun broke through the clouds, and she saw a rainbow ahead of her. Which of the following made the rainbow possible?
+(A) Sunlight can be separated into all the colors of the rainbow.
+(B) Water reflects sunlight like a mirror to make it look colored.
+(C) Overhead black clouds reflect in puddles to cause a mirage.
+(D) Air pollution causes the sky to look colored under these conditions.
+----------------------------------------------------------------------------------------------
+[Mercury_7213518] [ENG_LIGHT_REFRACT]
+Light rays are focused by the lens of a camera through the process of
+(A) reflection.
+(B) refraction.
+(C) dispersion.
+(D) diffraction.
+----------------------------------------------------------------------------------------------
+[Mercury_7013773] [ENG_LIGHT_REFRACT]
+What takes place as a light wave enters a denser medium?
+(A) it is reflected
+(B) it is absorbed
+(C) it is refracted
+(D) it is compressed
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401592] [ENG_LIGHT_REFRACT]
+When light reaches an eyeglass lens, the light is
+(A) refracted.
+(B) reflected.
+(C) diffracted.
+(D) absorbed.
+----------------------------------------------------------------------------------------------
+[Mercury_7082093] [ENG_LIGHT_REFRACT]
+Which object is best used to demonstrate the bending of light as it passes through a substance?
+(A) convex lens
+(B) flat mirror
+(C) opaque rod
+(D) concave mirror
+----------------------------------------------------------------------------------------------
+[Mercury_7269080] [ENG_LIGHT_REFRACT, ENG_WAVES_GENERICPROP]
+Which model best illustrates the wave property that enables scientists to explore Earth's interior using seismic waves?
+(A) shining a light on rock in a bowl
+(B) shining a light through a prism
+(C) shining a light through a periscope
+(D) shining a light on a sundial

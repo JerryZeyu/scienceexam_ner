@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[Mercury_179008] [LIFE_REPROD_DNAINHERIT_DNA]
+What is the repeating monomer of a DNA molecule?
+(A) triglyceride
+(B) dipeptide
+(C) nucleotide
+(D) phospholipid
+----------------------------------------------------------------------------------------------
+[Mercury_7251930] [LIFE_REPROD_DNAINHERIT_DNA]
+All organisms contain DNA and RNA. What are the subunits of DNA and RNA?
+(A) simple sugars
+(B) amino acids
+(C) carbohydrates
+(D) nucleotides
+----------------------------------------------------------------------------------------------
+[Mercury_7186918] [LIFE_REPROD_DNAINHERIT_DNA]
+Some scientists have suggested that pandas may be more closely related to raccoons than to bears. What could scientists compare between pandas and the raccoons to help classify the panda more accurately?
+(A) their diets
+(B) their DNA
+(C) their body sizes
+(D) their geographic distribution
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_38] [LIFE_REPROD_DNAINHERIT_DNA]
+In the winter, the fur of the arctic fox is white. In summer, the fur darkens to a reddish brown. What most likely causes the fur of the fox to change color?
+(A) the amount of sunlight present
+(B) the fox's habitat
+(C) the fox's genes
+(D) the fox's age
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_8_9] [LIFE_REPROD_DNAINHERIT_DNA]
+The transfer of a section of DNA from one organism into the DNA of another organism by scientists is called
+(A) selective breeding
+(B) genetic engineering
+(C) natural selection
+(D) internal fertilization
+----------------------------------------------------------------------------------------------
+[Mercury_7239645] [LIFE_REPROD_DNAINHERIT_DNA]
+Every copy of a particular protein manufactured by a cell shows the same incorrect amino acid at the same point in its structure. According to the central dogma of molecular biology, in which structure does this error originate?
+(A) DNA
+(B) mRNA
+(C) tRNA
+(D) rRNA
+----------------------------------------------------------------------------------------------
+[Mercury_7228515] [LIFE_REPROD_DNAINHERIT_DNA]
+What aspect of the DNA molecule encodes hereditary information concerning an organism's traits?
+(A) the molecular mass
+(B) the sequence of base pairs
+(C) the distribution of electrical charges
+(D) the folded three-dimensional shape
+----------------------------------------------------------------------------------------------
+[Mercury_7239208] [LIFE_REPROD_DNAINHERIT_DNA]
+Which statement best describes the semiconservative replication sequence of the DNA sequence CCGCAT?
+(A) identical bases in the same order
+(B) complementary bases in the same order
+(C) identical bases in the reverse order
+(D) complementary bases in the reverse order
+----------------------------------------------------------------------------------------------
+[Mercury_7263463] [LIFE_REPROD_DNAINHERIT_DNA, LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL]
+Human DNA includes a class of genes called "tumor suppressors." What do these genes do in bone cells?
+(A) They restrict cell cycle progression in bone cells.
+(B) They promote the rapid development of bone cells.
+(C) They limit the number of bones in the human body.
+(D) They enable phosphorus and calcium to enter bone cells.
+----------------------------------------------------------------------------------------------
+[Mercury_7283448] [LIFE_REPROD_DNAINHERIT_DNA, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_PROTEINS]
+The directions for making a protein
+(A) result in DNA.
+(B) are carried by DNA.
+(C) result in amino acids.
+(D) are carried by amino acids.
+----------------------------------------------------------------------------------------------
+[Mercury_7057995] [LIFE_REPROD_DNAINHERIT_DNA, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME]
+Genes are located on chromosomes which are composed of
+(A) DNA.
+(B) RNA.
+(C) ATP.
+(D) ADP.
+----------------------------------------------------------------------------------------------
+[Mercury_7163258] [LIFE_REPROD_DNAINHERIT_DOMRECESS]
+In whitetail deer, females seldom grow antlers. Which best explains why male whitetail deer grow antlers but females seldom grow antlers?
+(A) Female deer have no need for antlers.
+(B) Male deer are older than female deer.
+(C) Antler growth is controlled by genes.
+(D) Antler growth depends on behavior.
+----------------------------------------------------------------------------------------------
+[Mercury_7200848] [LIFE_REPROD_DNAINHERIT_DOMRECESS]
+A plant that grows red flowers was crossed with the same kind of plant that grows white flowers. Their offspring grew pink flowers. Which best explains why the offspring grew pink flowers?
+(A) The offspring experienced a genetic mutation.
+(B) The offspring resulted from asexual reproduction.
+(C) The genes for flower color exhibited incomplete dominance.
+(D) A gene for pink-colored flowers was recessive in one of the parents.
+----------------------------------------------------------------------------------------------
+[Mercury_407987] [LIFE_REPROD_DNAINHERIT_DOMRECESS]
+In cherry tomatoes, red color (R) is dominant to yellow color (r). If two heterozygous plants are crossed, what percentage of the offspring will be yellow?
+(A) 0%
+(B) 25%
+(C) 50%
+(D) 100%

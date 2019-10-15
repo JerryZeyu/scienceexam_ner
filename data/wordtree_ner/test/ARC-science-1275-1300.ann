@@ -1,0 +1,500 @@
+T23	Star 275 278	sun
+T24	Star 1990 1994	star
+T28	MagneticEnergy 6443 6451	magnetic
+T32	Spectra 5820 5832	light energy
+T33	Spectra 4339 4351	light energy
+T34	Spectra 5032 5044	light energy
+T35	Spectra 4999 5011	light energy
+T36	Spectra 2628 2640	light energy
+T37	Spectra 1970 1982	light energy
+T38	Spectra 5496 5508	light energy
+T39	Spectra 2666 2678	light energy
+T40	Spectra 2702 2714	light energy
+T41	Spectra 2593 2605	light energy
+T43	Spectra 5414 5426	light energy
+T45	Energy 7564 7573	radiation
+T46	Energy 7638 7647	radiation
+T49	Energy 6813 6819	energy
+T59	Energy 2610 2624	nuclear energy
+T65	Energy 3807 3820	atomic energy
+T82	Energy 2481 2487	energy
+T84	Energy 795 801	energy
+T87	Energy 7618 7624	energy
+T94	Energy 6333 6339	energy
+T95	Energy 3388 3394	energy
+T99	Energy 7542 7548	energy
+T105	Energy 7103 7109	energy
+T108	Energy 3477 3485	chemical
+T109	Energy 3120 3128	Chemical
+T110	Energy 7139 7147	chemical
+T111	Energy 3440 3448	chemical
+T112	Energy 6418 6426	chemical
+T113	Energy 3051 3059	Chemical
+T114	Energy 3038 3046	Chemical
+T115	Energy 3539 3547	chemical
+T116	Energy 3526 3534	chemical
+T117	ThermalEnergy 5477 5491	thermal energy
+T118	ThermalEnergy 5514 5528	thermal energy
+T119	ThermalEnergy 5800 5814	thermal energy
+T120	Energy 3848 3863	chemical energy
+T121	Energy 5349 5364	chemical energy
+T122	Energy 5779 5794	chemical energy
+T123	Energy 757 772	chemical energy
+T124	Energy 5124 5139	chemical energy
+T125	Energy 4157 4172	chemical energy
+T127	Energy 5160 5174	nuclear energy
+T128	Energy 6431 6438	nuclear
+T129	Energy 7115 7122	nuclear
+T130	Energy 5454 5471	mechanical energy
+T131	Energy 6022 6039	mechanical energy
+T132	Energy 5533 5550	mechanical energy
+T133	Energy 5102 5119	mechanical energy
+T134	Energy 6372 6389	mechanical energy
+T135	Energy 5756 5773	mechanical energy
+T136	Energy 6099 6116	mechanical energy
+T137	Energy 3869 3886	mechanical energy
+T138	Energy 3826 3842	potential energy
+T141	Energy 3514 3524	mechanical
+T142	Energy 3010 3020	Mechanical
+T143	Energy 3428 3438	mechanical
+T144	Energy 2981 2991	Mechanical
+T145	Energy 3487 3497	mechanical
+T146	Energy 3561 3571	mechanical
+T147	Energy 7152 7162	mechanical
+T148	AbsorbEnergy 7607 7613	absorb
+T149	ElectricalEnergy 189 214	electromagnetic radiation
+T150	ElectricalEnergy 3549 3559	electrical
+T151	ElectricalEnergy 8204 8214	electrical
+T152	ElectricalEnergy 3502 3512	electrical
+T153	ElectricalEnergy 3450 3460	electrical
+T154	ElectricalEnergy 2995 3005	Electrical
+T155	ElectricalEnergy 3063 3073	Electrical
+T156	ElectricalEnergy 3092 3102	Electrical
+T157	ElectricalEnergy 3465 3475	electrical
+T158	ElectricalEnergy 6456 6466	electrical
+T159	ElectricalEnergy 5974 5991	Electrical energy
+T160	ElectricalEnergy 4686 4703	electrical energy
+T161	ElectricalEnergy 5059 5076	electrical energy
+T162	ElectricalEnergy 4087 4104	electrical energy
+T163	ElectricalEnergy 2645 2662	electrical energy
+T164	ElectricalEnergy 4978 4995	electrical energy
+T165	ElectricalEnergy 5432 5449	electrical energy
+T166	ElectricalEnergy 5392 5409	electrical energy
+T167	ElectricalEnergy 3759 3776	electrical energy
+T168	ElectricalEnergy 6076 6093	electrical energy
+T169	ElectricalEnergy 5716 5733	electrical energy
+T170	ElectricalEnergy 2219 2236	electrical energy
+T171	ElectricalEnergy 1949 1966	electrical energy
+T172	ElectricalEnergy 1216 1227	electricity
+T173	ElectricalEnergy 4357 4368	electricity
+T174	ElectricalEnergy 4621 4632	Electricity
+T175	EnergyWaves 8029 8034	waves
+T177	EnergyWaves 7891 7896	waves
+T178	EnergyWaves 7972 7977	waves
+T179	EnergyWaves 7820 7825	waves
+T180	EnergyWaves 7932 7937	waves
+T182	EnergyWaves 960 970	sound wave
+T183	EnergyWaves 222 232	radio wave
+T186	EnergyWaves 7554 7563	microwave
+T187	EnergyWaves 7628 7637	microwave
+T188	WavePerception 7983 7995	interference
+T189	MagneticEnergy 189 214	electromagnetic radiation
+T190	ReleaseEnergy 7920 7931	transmitted
+T191	ReleaseEnergy 7960 7971	transmitted
+T192	ReleaseEnergy 8003 8014	transmitted
+T193	IncreaseDecrease 7371 7376	heats
+T199	SoundEnergy 2577 2589	sound energy
+T200	SoundEnergy 2967 2977	Acoustical
+T201	SoundEnergy 3024 3034	Acoustical
+T202	SoundEnergy 3077 3087	Acoustical
+T203	SoundEnergy 3106 3116	Acoustical
+T204	SoundEnergy 960 965	sound
+T205	SoundEnergy 4114 4119	sound
+T212	ThermalEnergy 7127 7134	thermal
+T214	ThermalEnergy 2242 2253	heat energy
+T215	ThermalEnergy 7482 7486	heat
+T216	ThermalEnergy 4716 4727	heat energy
+T217	ThermalEnergy 7416 7420	heat
+T218	ThermalEnergy 5144 5155	heat energy
+T219	TransferEnergy 2911 2932	energy transformation
+T220	TransferEnergy 8226 8230	flow
+T221	TransferEnergy 5085 5094	converted
+T222	TransferEnergy 5737 5746	converted
+T223	TransferEnergy 6009 6018	converted
+T224	TransferEnergy 1940 1948	converts
+T225	TransferEnergy 4330 4338	converts
+T226	TransferEnergy 4969 4977	converts
+T227	TransferEnergy 6067 6075	converts
+T228	TransferEnergy 4079 4086	convert
+T229	Spectra 247 255	spectrum
+T237	ElectromagneticSpectrum 7554 7563	microwave
+T238	ElectromagneticSpectrum 7628 7637	microwave
+T242	Human 1684 1690	people
+T275	Nutrition 7377 7381	food
+T276	Nutrition 7496 7500	food
+T277	Nutrition 7529 7533	food
+T278	Nutrition 7430 7434	food
+T279	Nutrition 7602 7606	food
+T280	Foods 2033 2036	tea
+T282	Measurements 7846 7854	measures
+T287	IncreaseDecrease 6902 6910	speeding
+T299	ManmadeObjects 3721 3727	switch
+T300	ManmadeObjects 2259 2270	Alarm clock
+T301	ManmadeObjects 4735 4740	clock
+T303	Appliance 2275 2285	Hand dryer
+T304	Appliance 6056 6066	appliances
+T306	Appliance 2290 2293	Fan
+T308	Appliance 6122 6125	fan
+T309	HeatingAppliance 7356 7370	microwave oven
+T311	HeatingAppliance 6149 6154	stove
+T313	HeatingAppliance 7391 7395	oven
+T314	HeatingAppliance 7444 7448	oven
+T315	HeatingAppliance 287 291	lamp
+T316	HeatingAppliance 4964 4968	lamp
+T317	HeatingAppliance 6130 6134	lamp
+T318	HeatingAppliance 1535 1544	microwave
+T321	CookingToolsFood 4754 4768	electric stove
+T322	CookingToolsFood 7356 7370	microwave oven
+T324	CookingToolsFood 6149 6154	stove
+T326	CookingToolsFood 7391 7395	oven
+T327	CookingToolsFood 7444 7448	oven
+T328	CookingToolsFood 1535 1544	microwave
+T331	CoolingAppliance 1267 1278	ceiling fan
+T332	CoolingAppliance 3733 3744	ceiling fan
+T334	CoolingAppliance 2290 2293	Fan
+T336	CoolingAppliance 6122 6125	fan
+T337	ElectricAppliance 4754 4768	electric stove
+T338	ElectricAppliance 6698 6708	solar cell
+T339	ElectricAppliance 6747 6757	solar cell
+T340	ElectricAppliance 352 359	toaster
+T341	ElectricAppliance 1521 1528	toaster
+T342	ElectricAppliance 320 338	cellular telephone
+T343	ElectricAppliance 2298 2307	Telephone
+T344	Circuits 4065 4072	circuit
+T345	Circuits 8178 8185	circuit
+T347	Device 1006 1011	radar
+T348	Device 1016 1021	sonar
+T349	Device 1672 1677	Sonar
+T350	Device 7798 7803	Sonar
+T351	Device 4056 4064	doorbell
+T354	Device 1433 1439	device
+T355	Device 4318 4324	device
+T356	Device 4654 4660	device
+T357	Device 171 178	devices
+T362	ElectricityAndCircuits 343 351	electric
+T363	ElectricityAndCircuits 296 304	electric
+T366	ElectricityAndCircuits 3721 3727	switch
+T400	ElectricityGeneration 4461 4478	photovoltaic cell
+T401	ElectricityGeneration 4440 4455	photo generator
+T402	ElectricalEnergySource 7061 7073	wind turbine
+T404	ElectricalEnergySource 4797 4812	battery charger
+T405	ElectricalEnergySource 550 559	batteries
+T406	ElectricalEnergySource 643 652	batteries
+T408	ElectricalEnergySource 493 500	battery
+T409	ElectricalEnergySource 4412 4419	battery
+T411	ElectricalEnergySource 620 627	battery
+T413	ScientificTools 7804 7813	equipment
+T414	Identify 7846 7854	measures
+T415	TimeMeasuringTools 6855 6860	watch
+T416	TimeMeasuringTools 6791 6796	watch
+T417	TimeMeasuringTools 6680 6685	watch
+T418	TimeMeasuringTools 6662 6667	watch
+T419	TimeMeasuringTools 6891 6896	watch
+T420	TimeMeasuringTools 6835 6840	watch
+T421	TimeMeasuringTools 2259 2270	Alarm clock
+T422	TimeMeasuringTools 4735 4740	clock
+T423	ViewingTools 1040 1050	microscope
+T424	ViewingTools 1026 1035	telescope
+T425	LightExaminingTool 4425 4434	photocell
+T426	ComputingDevice 4391 4402	calculators
+T427	LightProducingObject 2001 2011	flashlight
+T428	LightProducingObject 305 315	light bulb
+T429	LightProducingObject 2456 2466	light bulb
+T430	LightProducingObject 287 291	lamp
+T431	LightProducingObject 4964 4968	lamp
+T432	LightProducingObject 6130 6134	lamp
+T433	LightProducingObject 1497 1502	laser
+T434	LightProducingObject 2018 2026	campfire
+T435	SystemOfCommunication 6139 6144	radio
+T436	SystemOfCommunication 4741 4746	radio
+T437	SystemOfCommunication 1509 1514	radio
+T438	SystemOfCommunication 2956 2961	radio
+T440	SystemOfCommunication 320 338	cellular telephone
+T441	SystemOfCommunication 2298 2307	Telephone
+T442	TechnologicalInstrument 6139 6144	radio
+T443	TechnologicalInstrument 4741 4746	radio
+T444	TechnologicalInstrument 1509 1514	radio
+T445	TechnologicalInstrument 2956 2961	radio
+T447	TechnologicalInstrument 4391 4402	calculators
+T448	LandVehicle 5320 5330	automobile
+T449	LandVehicle 1250 1260	motorcycle
+T450	LandVehicle 6395 6405	motorcycle
+T451	LandVehicle 3294 3299	train
+T452	LandVehicle 3412 3417	train
+T453	WaterVehicle 1235 1243	sailboat
+T454	VehicularSystemsParts 4776 4790	electric motor
+T455	VehicularSystemsParts 5700 5714	electric motor
+T459	VehicularSystemsParts 1285 1297	steam engine
+T461	VehicularSystemsParts 5331 5337	engine
+T462	VehicularSystemsParts 6406 6412	engine
+T474	Age 489 492	new
+T475	Age 6658 6661	new
+T476	Complexity 2894 2899	basic
+T477	PhysicalProperty 1745 1751	Weight
+T479	Temperature 1769 1780	Temperature
+T484	Temperature 7371 7376	heats
+T490	Mass 1745 1751	Weight
+T509	Size 6692 6697	small
+T510	Size 4382 4390	handheld
+T511	Size 699 704	large
+T512	Depth 7831 7835	deep
+T518	Quality 2545 2549	best
+T519	Quality 2879 2883	best
+T520	Quality 3346 3350	best
+T521	Quality 4709 4715	useful
+T522	VisualProperty 6866 6876	attractive
+T527	ColorChangingActions 279 286	tanning
+T528	Color 1735 1740	Color
+T529	TemporalProperty 532 536	long
+T532	PropertyOfMotion 4125 4131	motion
+T533	Speed 6902 6910	speeding
+T534	Circuits 8247 8253	closed
+T538	Use 1213 1215	on
+T541	Circuits 8267 8275	parallel
+T543	Cost 6779 6783	cost
+T549	CardinalNumber 2900 2905	three
+T550	CardinalNumber 2501 2504	one
+T551	ArithmeticMeasure 523 528	twice
+T552	ArithmeticMeasure 690 695	twice
+T555	RelativeNumber 5046 5050	much
+T559	RelativeNumber 4377 4381	many
+T560	RelativeNumber 4637 4641	many
+T570	LevelOfInclusion 233 239	region
+T571	FossilFuel 6343 6351	gasoline
+T572	FossilFuel 5368 5372	fuel
+T580	CookingToolsFood 2037 2043	kettle
+T588	ObjectQuantification 8215 8222	current
+T591	ElementalComponents 7512 7521	molecules
+T592	ElementalComponents 7585 7594	molecules
+T594	AtomComponents 727 736	electrons
+T608	PhasesOfWater 7506 7511	Water
+T609	PhasesOfWater 7579 7584	Water
+T610	PhasesOfWater 7836 7841	water
+T622	Changes 2488 2495	changes
+T650	Changes 2212 2218	change
+T651	Changes 2565 2571	change
+T652	Changes 5338 5348	transforms
+T656	Changes 4676 4685	transform
+T658	Changes 6355 6366	transformed
+T668	LocationChangingActions 7814 7819	sends
+T670	AmountChangingActions 6768 6774	reduce
+T679	ChangeInto 5383 5387	into
+T680	ChangeInto 4105 4109	into
+T683	ChangeInto 5747 5751	into
+T684	ChangeInto 4352 4356	into
+T685	ChangeInto 4704 4708	into
+T686	ChangeInto 6367 6371	into
+T687	ChangeInto 6094 6098	into
+T688	ChangeInto 5085 5094	converted
+T690	ChangeInto 6009 6018	converted
+T692	ChangeInto 3786 3795	transform
+T695	ChangeInto 1940 1948	converts
+T703	CombineAdd 628 632	with
+T704	CombineAdd 7607 7613	absorb
+T706	ObjectPart 6716 6720	face
+T707	Compete 540 549	competing
+T708	Compete 633 642	competing
+T709	ContainBeComposedOf 4633 4636	has
+T710	ContainBeComposedOf 6686 6689	has
+T711	ContainBeComposedOf 713 721	contains
+T712	Create 1469 1476	produce
+T713	Representation 6668 6674	design
+T714	Create 2200 2208	designed
+T715	Create 4664 4672	designed
+T716	Create 6802 6809	provide
+T717	Cause 3403 3407	make
+T718	Cause 6846 6850	make
+T722	Harm 781 789	destroys
+T724	Help 1678 1683	helps
+T726	Identify 3351 3361	identifies
+T727	Indicate 2884 2889	shows
+T730	Move 4125 4131	motion
+T731	Circuits 8258 8262	open
+T733	Transportation 7814 7819	sends
+T734	MechanicalMovement 3418 3422	move
+T735	MechanicalMovement 3317 3322	moves
+T741	LightMovement 7474 7481	focuses
+T742	LightMovement 7902 7912	refraction
+T743	LightMovement 7920 7931	transmitted
+T744	LightMovement 7960 7971	transmitted
+T745	LightMovement 8003 8014	transmitted
+T746	LightMovement 7881 7890	reflected
+T747	LightMovement 8019 8028	reflected
+T748	LightMovement 7534 7541	reflect
+T749	LightMovement 7407 7415	reflects
+T757	Permit 8195 8200	allow
+T760	PerformAnActivity 1203 1207	runs
+T768	PerformAnActivity 8186 8190	does
+T769	Preserve 745 751	stores
+T770	Preserve 517 522	lasts
+T771	Communicate 2550 2559	describes
+T772	Communicate 7340 7349	describes
+T773	Require 179 188	relies on
+T775	StopRemove 6882 6886	stop
+T776	Use 807 811	used
+T777	Use 1461 1465	used
+T778	Use 3395 3399	used
+T779	Use 4369 4373	used
+T782	Use 955 959	uses
+T783	Use 4642 4646	uses
+T784	Use 7084 7088	uses
+T785	Use 260 269	operation
+T786	Verify 659 667	validate
+T787	WaitStay 7868 7873	delay
+T793	WaitStay 517 522	lasts
+T794	Hypothesizing 673 678	claim
+T795	Hypothesizing 501 507	claims
+T796	Examine 6647 6655	examines
+T799	Validity 659 667	validate
+T803	WordsForData 1702 1713	information
+T804	MarkersOfTime 7863 7867	time
+T805	RelativeTime 5996 6005	sometimes
+T812	RelativeTime 802 806	when
+T813	RelativeTime 2449 2453	When
+T814	RelativeTime 3270 3274	When
+T815	RelativeTime 3714 3718	When
+T818	Locations 1756 1764	Location
+T820	ManmadeLocations 3333 3338	track
+T823	TerrestrialLocations 982 992	underwater
+T825	RelativeLocations 5694 5696	In
+T826	RelativeLocations 6340 6342	in
+T827	RelativeLocations 4374 4376	in
+T828	RelativeLocations 7522 7524	in
+T829	RelativeLocations 7595 7597	in
+T830	RelativeLocations 6390 6392	in
+T831	RelativeLocations 215 217	in
+T832	RelativeLocations 7398 7406	interior
+T833	RelativeLocations 7451 7459	interior
+T841	ContainBeComposedOf 560 565	under
+T842	Directions 7943 7952	direction
+T843	RelativeDirection 2590 2592	to
+T844	RelativeDirection 1967 1969	to
+T845	ChangeInto 4996 4998	to
+T847	RelativeDirection 2663 2665	to
+T850	Result 1466 1468	to
+T852	RelativeDirection 6019 6021	to
+T853	RelativeDirection 2510 2512	to
+T854	RelativeDirection 2625 2627	to
+T856	Result 4673 4675	to
+T858	Goal 2209 2211	to
+T859	RelativeDirection 2699 2701	to
+T862	RelativeDirection 2496 2500	from
+T863	RelativeDirection 6897 6901	from
+T864	RelativeDirection 7549 7553	from
+T865	RelativeDirection 3798 3802	into
+T868	RelativeDirection 2237 2241	into
+T869	RelativeDirection 7826 7830	into
+T876	PrepositionalDirections 7421 7425	onto
+T877	PrepositionalDirections 7487 7491	onto
+T878	PrepositionalDirections 8231 8238	through
+T880	RelativeLocations 6709 6711	on
+T885	PrepositionalDirections 3323 3328	along
+T886	Identify 1691 1695	find
+T888	VerbsForLocate 975 981	locate
+T889	Comparisons 602 612	comparison
+T890	Comparisons 2513 2520	another
+T891	Comparisons 5080 5084	also
+T892	Comparisons 570 574	same
+T893	Comparisons 7461 7465	like
+T894	QualityComparison 2545 2549	best
+T895	QualityComparison 2879 2883	best
+T896	QualityComparison 3346 3350	best
+T897	AmountComparison 790 794	less
+T898	AmountComparison 1446 1450	most
+T899	AmountComparison 722 726	more
+T900	AmountComparison 752 756	more
+T901	AmountComparison 6861 6865	more
+T902	ImportanceComparison 5373 5382	primarily
+T903	ImportanceComparison 7074 7083	primarily
+T904	ImportanceComparison 6726 6730	main
+T905	ImportanceComparison 4034 4041	primary
+T908	ObservationInstrumentsTelescopeBinoculars 1026 1035	telescope
+T909	PartsOfObservationInstruments 7468 7472	lens
+T913	Scientists 6639 6646	student
+T917	GenericTerms 2192 2196	item
+T919	SystemAndFunctions 4042 4050	function
+T920	SystemAndFunctions 6731 6739	function
+T924	SystemProcessStages 2906 2910	step
+T926	Pattern 3366 3371	order
+T928	Exemplar 6325 6329	type
+T929	Exemplar 7095 7099	type
+T930	Exemplar 2505 2509	form
+T931	Exemplar 3379 3384	types
+T933	Method 7350 7353	how
+T934	StateOfBeing 575 593	loading conditions
+T935	StateOfBeing 3780 3785	being
+T936	GenericTerms 1723 1729	object
+T937	GenericTerms 993 1000	objects
+T939	Negations 8191 8194	not
+T948	Source 6820 6826	source
+T949	Circuits 8280 8286	series
+T954	ProbabilityAndCertainty 1451 1457	likely
+T955	ProbabilityAndCertainty 653 658	would
+T956	ProbabilityAndCertainty 1440 1445	would
+T957	Relevant 1714 1719	about
+T958	ProbabilityAndCertainty 5992 5995	may
+T959	LevelOfInclusion 5996 6005	sometimes
+T961	LevelOfInclusion 949 954	these
+T962	LevelOfInclusion 1934 1939	these
+T963	LevelOfInclusion 6050 6055	these
+T964	LevelOfInclusion 5080 5084	also
+T965	LevelOfInclusion 7317 7322	Which
+T966	LevelOfInclusion 1696 1701	which
+T967	LevelOfInclusion 4648 4653	Which
+T968	LevelOfInclusion 148 153	Which
+T969	LevelOfInclusion 3340 3345	Which
+T970	LevelOfInclusion 2856 2861	Which
+T971	LevelOfInclusion 6319 6324	Which
+T972	LevelOfInclusion 1427 1432	Which
+T973	LevelOfInclusion 7089 7094	which
+T974	LevelOfInclusion 1180 1185	Which
+T975	LevelOfInclusion 6041 6046	Which
+T976	LevelOfInclusion 2522 2527	Which
+T977	LevelOfInclusion 2186 2191	Which
+T978	LevelOfInclusion 596 601	Which
+T979	LevelOfInclusion 1925 1930	Which
+T980	LevelOfInclusion 940 945	Which
+T985	LevelOfInclusion 1208 1212	ONLY
+T1000	NUMBER 2501 2504	one
+T762	LevelOfInclusion 157 170	the following
+T15	Advertising 501 507	claims
+T16	Comparisons 537 539	as
+T44	StateOfBeing 687 689	is
+T140	ContainBeComposedOf 745 751	stores
+T58	LevelOfInclusion 1189 1202	the following
+T176	StateOfBeing 1458 1460	be
+T13	Spectra 1477 1489	light energy
+T8	StateOfBeing 2197 2199	is
+T4	StateOfBeing 2467 2469	is
+T42	Start 2470 2479	turned on
+T57	LevelOfInclusion 2531 2544	the following
+T7	MagneticEnergy 2683 2698	magnetic energy
+T10	LevelOfInclusion 2865 2878	the following
+T11	PropertyOfProduction 2939 2955	battery-operated
+T12	PropertyOfProduction 3277 3293	battery operated
+T27	StateOfBeing 3300 3302	is
+T54	Start 3303 3312	turned on
+T25	StateOfBeing 3745 3747	is
+T30	Start 3748 3757	turned on
+T71	StateOfBeing 3777 3779	is
+T52	StateOfBeing 4073 4075	is
+T1	Spectra 4137 4151	radiant energy
+T3	StateOfBeing 4403 4405	is
+T26	StateOfBeing 4661 4663	is
+T6	Comparisons 5013 5027	In addition to
+T5	StateOfBeing 5077 5079	is
+T9	StateOfBeing 5734 5736	is
+T2	StateOfBeing 6006 6008	be
+T14	StateOfBeing 6352 6354	is
+T17	StateOfBeing 6758 6760	is
+T18	LevelOfInclusion 7326 7339	the following

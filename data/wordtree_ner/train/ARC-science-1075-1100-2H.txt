@@ -1,0 +1,98 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7185605] [EARTH_WEATHER_ERO_WEATHERING]
+Biotic forces can cause changes to the surface of Earth. Which is the best example of living organisms causing weathering?
+(A) Beavers building a dam across a stream.
+(B) Cattle walking and grazing in a grassland.
+(C) Salmon making nests for their eggs in a stream.
+(D) Tree seedlings growing and forming cracks in rocks.
+----------------------------------------------------------------------------------------------
+[Mercury_7143045] [EARTH_WEATHER_ERO_WEATHERING]
+Which of these best describes how the surface of a beach is formed?
+(A) mechanical weathering
+(B) chemical weathering
+(C) mass movement
+(D) volcanic eruption
+----------------------------------------------------------------------------------------------
+[Mercury_7207218] [EARTH_WEATHER_ERO_WEATHERING]
+Which is the best evidence that rocks found deep underground were once exposed at the surface?
+(A) The rocks have been melted by a magma.
+(B) The rocks have been broken by faults.
+(C) The rocks have been weathered by water.
+(D) The rocks have been folded by pressure.
+----------------------------------------------------------------------------------------------
+[Mercury_184345] [EARTH_WEATHER_ERO_WEATHERING]
+Which of the following is the best evidence that an area of land was once covered by a glacier?
+(A) limestone caverns
+(B) marine fossils
+(C) abrasion of surface rocks
+(D) peeling slabs of rock
+----------------------------------------------------------------------------------------------
+[Mercury_7008050] [EARTH_WEATHER_ERO_WEATHERING]
+Which is an example of organic weathering of rocks?
+(A) glaciers moving large pieces of a fractured rock
+(B) tree roots growing in a fractured rock
+(C) ice freezing on a rock surface
+(D) wind blowing sand against a rock surface
+----------------------------------------------------------------------------------------------
+[Mercury_7188703] [EARTH_WEATHER_ERO_WEATHERING]
+The weathering of landforms depends on various factors. Which area would most likely have the fastest rate of chemical weathering?
+(A) freezing and dry regions
+(B) warm and moist regions
+(C) cool and humid regions
+(D) hot and dry regions
+----------------------------------------------------------------------------------------------
+[Mercury_7164798] [EARTH_WEATHER_ERO_WEATHERING]
+The students observed a large crack found in a boulder with a tree growing out of it. Which process were the students observing?
+(A) oxidizing
+(B) deposition
+(C) weathering
+(D) decomposition
+----------------------------------------------------------------------------------------------
+[MCAS_2008_8_5698] [EARTH_WEATHER_ERO_WEATHERING]
+When bedrock in Massachusetts is examined, it often appears scraped and polished. Which of the following most likely caused the bedrock to appear scraped and polished?
+(A) crustal deformation
+(B) frequent earthquakes
+(C) glacial movement
+(D) volcanic eruptions
+----------------------------------------------------------------------------------------------
+[MCAS_2016_8_7] [EARTH_WEATHER_ERO_WEATHERING]
+Many natural rock formations change color over time. In Utah, for example, iron oxidized and formed red, orange, and yellow rock. Which of the following is the cause of this change?
+(A) chemical weathering
+(B) mechanical weathering
+(C) water erosion
+(D) wind erosion
+----------------------------------------------------------------------------------------------
+[Mercury_7172410] [EARTH_WEATHER_ERO_WEATHERING]
+The iron in iron-rich red soils may not be in a form that can be taken up by tree roots. As a result, leaves and needles may look yellow. Some trees release acids that convert iron in soil to a usable form. This change in soil chemistry is a type of which process?
+(A) deposition
+(B) weathering
+(C) precipitation
+(D) photosynthesis
+----------------------------------------------------------------------------------------------
+[Mercury_7183278] [EARTH_WEATHER_ERO_WEATHERING]
+Before rock can become soil, it must undergo certain processes. One process in the formation of soil involves plants. How can plants chemically change rocks into soil?
+(A) They weather rocks with acid.
+(B) They strip the rocks of minerals.
+(C) They break rocks into small pieces.
+(D) They increase the density of the rocks.
+----------------------------------------------------------------------------------------------
+[MCAS_2013_5_29401] [EARTH_WEATHER_ERO_WEATHERING]
+While hiking last year, Mike saw a large boulder next to a mountain trail. The boulder had no cracks. While hiking on the trail this year, he saw two large cracks in the boulder. Which of the following most likely caused these cracks to form?
+(A) shaking from high winds
+(B) pressure from flowing water
+(C) erosion due to falling rain and snow
+(D) weathering due to freezing and thawing
+----------------------------------------------------------------------------------------------
+[Mercury_SC_410870] [EARTH_WEATHER_ERO_WEATHERING]
+Weathering causes rocks and minerals to break into smaller pieces. Which event is the best example of weathering?
+(A) a raindrop splashing in a lake
+(B) a snowball rolling down a mountain
+(C) a river washing away soil from its bank
+(D) a tree root growing into the crack of a rock
+----------------------------------------------------------------------------------------------
+[Mercury_7143150] [EARTH_WEATHER_ERO_WEATHERING]
+Which process contributes most to the formation of a sinkhole?
+(A) plate movement
+(B) volcanic eruption
+(C) wind erosion
+(D) chemical weathering

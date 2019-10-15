@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[VASoL_2009_3_5] [MAT_MEAS_INST_MAGNIFY]
+Tony is studying ladybugs in a garden. Which of these would BEST help Tony to count the spots on a ladybug?
+(A) Stopwatch
+(B) Thermometer
+(C) Measuring cup
+(D) Magnifying glass
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405862] [MAT_MEAS_INST_MAGNIFY]
+A student is looking at insects using a magnifying lens. What about the insects can best be seen with the magnifying lens?
+(A) different colors of insect bodies
+(B) how insects protect themselves
+(C) type of eyes insects have
+(D) size of the insects
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_4_19] [MAT_MEAS_INST_MAGNIFY]
+A student is growing some plants for an experiment. She notices small white spots on the leaves. Which tool should she use to get a better look at the spots?
+(A) thermometer
+(B) hand lens
+(C) graduated cylinder
+(D) balance
+----------------------------------------------------------------------------------------------
+[MCAS_1999_4_6] [MAT_MEAS_INST_MAGNIFY]
+You wish to closely observe a small insect. Which tool is the best to use?
+(A) a balance
+(B) a test tube
+(C) a telescope
+(D) a magnifying glass
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400345] [MAT_MEAS_INST_MAGNIFY]
+A science class is taking a field trip to a forest to observe and study birds. Which tool would be most helpful for observing birds?
+(A) beakers
+(B) binoculars
+(C) safety goggles
+(D) microscopes
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401145] [MAT_MEAS_INST_MAGNIFY]
+Which tool would be best to use for counting the number of legs on an ant?
+(A) ruler
+(B) hand lens
+(C) calculator
+(D) microscope
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400835] [MAT_MEAS_INST_MAGNIFY]
+What tool would be used to examine a fingerprint?
+(A) a graduated cylinder
+(B) a hand lens
+(C) a pair of goggles
+(D) a thermometer
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400300] [MAT_MEAS_INST_MAGNIFY]
+Which of these tools would be best to use when observing insects in a field?
+(A) compass
+(B) hand lens
+(C) microscope
+(D) thermometer
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400372] [MAT_MEAS_INST_MAGNIFY]
+A student uses a hand lens to observe which of these objects?
+(A) a mountain
+(B) the Moon
+(C) an insect
+(D) bacteria
+----------------------------------------------------------------------------------------------
+[Mercury_SC_403009] [MAT_MEAS_INST_MAGNIFY]
+Which tool could be used to help someone count the number of ladybugs on a leaf?
+(A) hand lens
+(B) meter stick
+(C) microscope
+(D) graduated cylinder
+----------------------------------------------------------------------------------------------
+[Mercury_7014578] [MAT_MEAS_INST_MAGNIFY]
+Which tool should be used to compare the growth of an algal colony growing in a petri dish?
+(A) a scale
+(B) a ruler
+(C) a hand lens
+(D) a balance scale
+----------------------------------------------------------------------------------------------
+[MCAS_1999_8_35] [MAT_MEAS_INST_MAGNIFY]
+To observe materials up close and in greater detail we use
+(A) gripping tools.
+(B) optical tools.
+(C) cutting tools.
+(D) polishing tools.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407783] [MAT_MEAS_INST_RULER]
+Mrs. Gordon's class studies maple trees. Which property can the students measure with a meter stick?
+(A) the mass of a leaf
+(B) the volume of its sap
+(C) the length of a branch
+(D) the temperature of its bark
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407570] [MAT_MEAS_INST_RULER]
+Henry and Emily are building a tree house. Which tool should be used to measure the height of the door?
+(A) hammer
+(B) meter stick
+(C) balance
+(D) stopwatch
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401210] [MAT_MEAS_INST_RULER]
+Which tool is used to measure the diameter of a dime?
+(A) ruler
+(B) beaker
+(C) balance
+(D) compass
+----------------------------------------------------------------------------------------------
+[MCAS_2008_5_5647] [MAT_MEAS_INST_RULER]
+Annette is using many tools to build a doghouse. For which of the following would Annette most likely use a tape measure while building the doghouse?
+(A) deciding which type of wood to use
+(B) removing extra nails from the wood
+(C) attaching different pieces of wood together
+(D) determining where to cut the wood into pieces
+----------------------------------------------------------------------------------------------
+[Mercury_SC_412487] [MAT_MEAS_INST_RULER]
+A scientist is measuring the amount of movement along a fault. Which tool is best used for making this measurement?
+(A) barometer
+(B) stopwatch
+(C) meter stick
+(D) magnifying lens
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400141] [MAT_MEAS_INST_RULER]
+Which tool would be best to measure the length of a butterfly?
+(A) triple beam balance
+(B) graduated cylinder
+(C) metric ruler
+(D) thermometer
+----------------------------------------------------------------------------------------------
+[Mercury_7042805] [MAT_MEAS_INST_RULER]
+What tool would be most useful to calculate the volume of a glass prism?
+(A) ruler
+(B) scale
+(C) voltmeter
+(D) thermometer
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_12] [MAT_MEAS_INST_RULER, SCI_INFERENCE_QUESTIONING]
+Students are studying liquids that make bubbles. Which question could be answered by using a ruler?
+(A) Which liquid makes bubbles that are the largest?
+(B) Which liquid makes bubbles that are the prettiest?
+(C) Which liquid makes bubbles that are the best smelling?
+(D) Which liquid makes bubbles that are the most interesting?
+----------------------------------------------------------------------------------------------
+[Mercury_SC_413301] [MAT_MEAS_INST_THERM]
+The water in a pond gets colder one night. Which tool is best to observe its temperature change?
+(A) balance
+(B) magnifying glass
+(C) ruler
+(D) thermometer
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408027] [MAT_MEAS_INST_THERM]
+Anthony and Zach want to know how the temperature of the air affects the temperature of lake water. Which type of tool should they use to measure the temperatures?
+(A) balance
+(B) ruler
+(C) scale
+(D) thermometer
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_4_26] [MAT_MEAS_INST_THERM]
+In which example could a thermometer be used to show that heat energy is being transferred?
+(A) A piano is played by striking the keys.
+(B) A shovel is used to move dirt from one place to another.
+(C) A ball is thrown into the air.
+(D) A stove is used to boil water in a pan.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405147] [MAT_MEAS_INST_THERM]
+Sally is making candy on the stove. She places a thermometer in the candy. What is she measuring?
+(A) length
+(B) speed
+(C) temperature
+(D) weight
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400303] [MAT_MEAS_INST_THERM]
+Which of these tools is used to measure the melting point of ice?
+(A) hot plate
+(B) barometer
+(C) thermometer
+(D) meter stick

@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7175718] [LIFE_INTERDEP_ECOFEATURES, EARTH_WEATHER]
+In a tropical rainforest, the difference between daytime and nighttime temperatures is relatively small. In the desert, the difference between daytime and nighttime temperatures is very large. Which factor contributes to the lower variation in rainforest temperatures?
+(A) Foliage in the rainforest reflects heat.
+(B) Organisms in the rainforest absorb moisture.
+(C) Solar radiation in the rainforest is less intense.
+(D) Cloud cover in the rainforest helps to retain heat.
+----------------------------------------------------------------------------------------------
+[MCAS_2005_5_32] [LIFE_INTERDEP_ECOFEATURES, EARTH_WEATHER_CLIMATE]
+Which of the following climates has cold winters and hot summers?
+(A) polar
+(B) subtropical
+(C) temperate
+(D) tropical
+----------------------------------------------------------------------------------------------
+[Mercury_7267558] [LIFE_INTERDEP_ECOFEATURES, EARTH_WEATHER_EXTREME]
+Which event becomes more likely during a drought in a prairie ecosystem?
+(A) fire
+(B) tornado
+(C) landslide
+(D) earthquake
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401362] [LIFE_INTERDEP_ECOFEATURES, LIFE_ENVADP_ADAP]
+Which describes a specific characteristic necessary for survival in the desert?
+(A) conserving water
+(B) hiding from predators
+(C) hibernating for long periods
+(D) producing many offspring
+----------------------------------------------------------------------------------------------
+[OHAT_2007_8_23] [LIFE_INTERDEP_ECOFEATURES, LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO]
+In which environment is white fur color an advantage for survival?
+(A) desert
+(B) grassland
+(C) arctic tundra
+(D) temperate forest
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407674] [LIFE_INTERDEP_FOODCHAIN]
+Which diagram best shows how energy flows through a simple food chain?
+(A) Leaves -> Caterpillar -> Bird
+(B) Tree -> Bird -> Caterpillar
+(C) Leaves -> Tree -> Caterpillar
+(D) Caterpillar -> Leaves -> Bird
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS10584] [LIFE_INTERDEP_FOODCHAIN]
+Which of the following is a correct food chain?
+(A) human -> corn -> cow
+(B) corn -> human -> cow
+(C) corn -> cow -> human
+(D) cow -> human -> corn
+----------------------------------------------------------------------------------------------
+[Mercury_7128783] [LIFE_INTERDEP_FOODCHAIN]
+If a lake is polluted, which organism would most likely accumulate the highest concentration of contaminants?
+(A) bass
+(B) minnows
+(C) aquatic plants
+(D) fish-eating birds
+----------------------------------------------------------------------------------------------
+[MDSA_2011_8_34] [LIFE_INTERDEP_FOODCHAIN]
+Data indicate that chemical pollutants contaminate 53% of the waterways that empty into the Chesapeake Bay. These chemical pollutants are found in the tissues of animals living in the bay. Which group of people who live away from the bay might be most affected by these chemical pollutants?
+(A) people who walk near the bay
+(B) people who read books about the bay
+(C) people who consume fish from the bay
+(D) people who own boats docked in the bay
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_4_35] [LIFE_INTERDEP_FOODCHAIN]
+Algae are organisms that live in water. Scientists discovered a new type of red algae near Knight Island in Prince William Sound. Which statement is most likely a positive effect of this discovery?
+(A) Scientists studying the red algae are disturbing local wildlife.
+(B) The red algae may help scientists better understand local food webs.
+(C) Visitors to Alaska may want to collect the red algae and take it home.
+(D) The red algae may be moved by boat to other areas when people travel.
+----------------------------------------------------------------------------------------------
+[MDSA_2010_4_28] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+Some foods that humans eat, such as corn and peas, are actually seeds from plants. What best describes the role of humans in a food web containing these plants?
+(A) a consumer
+(B) a decomposer
+(C) a producer
+(D) a scavenger
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_4_pg33] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+Which animal eats only plants?
+(A) Cat
+(B) Dog
+(C) Lion
+(D) Rabbit
+----------------------------------------------------------------------------------------------
+[MCAS_2001_5_16] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+Which of the following is a consumer?
+(A) grain
+(B) rabbit
+(C) vegetable
+(D) tree
+----------------------------------------------------------------------------------------------
+[Mercury_179603] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+Animals that eat both plant matter and meat are referred to as
+(A) decomposers.
+(B) scavengers.
+(C) herbivores.
+(D) omnivores.
+----------------------------------------------------------------------------------------------
+[Mercury_7058083] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+How are animals that prey on other animals classified?
+(A) herbivores
+(B) carnivores
+(C) autotrophs
+(D) decomposers
+----------------------------------------------------------------------------------------------
+[MCAS_1999_8_24] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+Use the information below to answer the question. Each organism on Earth is a part of a complex relationship with other organisms. This relationship is called a food web. The following organisms are part of a food web typically located in and around a reservoir. algae fish rabbit eagle pine tree grass field mouse Which member of the food web is a carnivore?
+(A) field mouse
+(B) eagle
+(C) rabbit
+(D) algae
+----------------------------------------------------------------------------------------------
+[Mercury_7038220] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+The diet of a brown bear includes roots, grasses, berries, nuts, fish, insects, and mammals. Based on this description, in what category is a brown bear?
+(A) carnivore
+(B) herbivore
+(C) omnivore
+(D) decomposer
+----------------------------------------------------------------------------------------------
+[VASoL_2007_3_32] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+Cows are farm animals that eat only plants. Which of these kinds of living things is a cow?
+(A) Decomposer
+(B) Herbivore
+(C) Carnivore
+(D) Producer
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408859] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+American alligators are common in Florida wetlands. They are known to eat frogs, turtles, fish, mice, and birds. What role does an American alligator fill in its ecosystem?
+(A) consumer
+(B) decomposer
+(C) scavenger
+(D) producer
+----------------------------------------------------------------------------------------------
+[MCAS_2002_8_2] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS]
+In a food chain, living organisms that eat plants and are a food source for other animals are called
+(A) decomposers.
+(B) carnivores.
+(C) producers.
+(D) herbivores.
+----------------------------------------------------------------------------------------------
+[MCAS_2008_5_5627] [LIFE_INTERDEP_FOODCHAIN_CONSUMERS, LIFE_INTERDEP_FOODCHAIN_PLANTPROD]
+Which of the following events involves a consumer and producer in a food chain?
+(A) A cat eats a mouse.
+(B) A deer eats a leaf.
+(C) A hawk eats a mouse.
+(D) A snake eats a rat.
+----------------------------------------------------------------------------------------------
+[VASoL_2010_3_1] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Mold is often found growing on old bread. In a food chain, mold is a ___.
+(A) decomposer
+(B) producer
+(C) consumer
+(D) scavenger
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_4_26] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+When plants and animals die, which organisms help return nutrients to the food chain?
+(A) decomposers
+(B) predators
+(C) prey
+(D) producers
+----------------------------------------------------------------------------------------------
+[MCAS_1998_4_18] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+Which of the following helps the leaves break down after they have fallen off the tree?
+(A) meat-eaters
+(B) rocks
+(C) decomposers
+(D) cold temperatures
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2016_4_8] [LIFE_INTERDEP_FOODCHAIN_DECOMPOSER]
+What is a decomposer?
+(A) a living thing that breaks down dead organisms
+(B) a living thing that makes its own food
+(C) an animal that eats live plants
+(D) an animal that hunts other animals

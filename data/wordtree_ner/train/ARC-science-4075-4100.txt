@@ -1,0 +1,176 @@
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405506] [SCI_INFERENCE_OBSERV]
+Students perform an investigation designed to measure the daily growth of a bean plant. Which should the students do every day of this investigation?
+(A) record data
+(B) form hypothesis
+(C) form conclusion
+(D) define variables
+----------------------------------------------------------------------------------------------
+[LEAP_2009_4_10292] [SCI_INFERENCE_OBSERV]
+Sophie investigates the water supply at her school and the things that affect it. Which action is a direct observation?
+(A) tasting water from a water fountain
+(B) reading water test results
+(C) studying the rules for purifying water
+(D) investigating causes of water pollution
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408901] [SCI_INFERENCE_OBSERV]
+Ella has several wooden blocks. When Ella holds the blocks in her hand, she feels that they are rough. Which term best describes what Ella feels?
+(A) a prediction
+(B) a conclusion
+(C) a hypothesis
+(D) an observation
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2016_4_29] [SCI_INFERENCE_OBSERV]
+On a field trip, a student holds a frog and reports that it has slippery skin. This is an example of
+(A) a measurement
+(B) a prediction
+(C) an explanation
+(D) an observation
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_4_28] [SCI_INFERENCE_OBSERV]
+During an experiment, a student reports that a liquid turned green when mixed with another liquid. This is an example of
+(A) a measurement
+(B) a prediction
+(C) an explanation
+(D) an observation
+----------------------------------------------------------------------------------------------
+[MCAS_1998_4_9] [SCI_INFERENCE_OBSERV]
+For his science project, Alan began a study of sugar maple trees. He noticed many differences among the sugar maple trees near his school. Which of the following three characteristics would vary the LEAST?
+(A) height
+(B) number of leaves
+(C) type of seeds
+(D) trunk width
+----------------------------------------------------------------------------------------------
+[LEAP_2009_4_10293] [SCI_INFERENCE_OBSERV]
+Mrs. Tucker gives her class samples of different soil types. Which action best helps Tanisha identify each soil type?
+(A) smelling it
+(B) touching it
+(C) weighing it
+(D) measuring it
+----------------------------------------------------------------------------------------------
+[AIMS_2008_4_2] [SCI_INFERENCE_OBSERV]
+Which statement is an observation?
+(A) The plant has flowers.
+(B) The plant is very pretty.
+(C) The plant will grow berries.
+(D) The plant might be poisonous.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_407709] [SCI_INFERENCE_OBSERV]
+Dominic placed a caterpillar in a container with different kinds of leaves. Which information should he record to find out what food this caterpillar eats?
+(A) the type of leaves the caterpillar has eaten
+(B) the amount of time for all the leaves to be eaten
+(C) the number of leaves that were put in the container
+(D) the number of minutes the caterpillar spends eating
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_41] [SCI_INFERENCE_OBSERV]
+Two students are studying what makes ice melt fastest. They want to conduct an investigation. During which of these steps in their investigation will they measure the ice?
+(A) showing some graphs
+(B) making a conclusion
+(C) developing a hypothesis
+(D) collecting some data
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401599] [SCI_INFERENCE_OBSERV]
+A scientist studies how weathering and erosion can change the shape of a mountain. The scientist needs to collect information over what period of time to gather the most accurate information?
+(A) days
+(B) weeks
+(C) months
+(D) years
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401814] [SCI_INFERENCE_OBSERV]
+Which situation would be considered observation and measurement?
+(A) gathering the resources for a plant investigation
+(B) recording how much a plant grew daily for a week
+(C) predicting how much a plant will grow in one week
+(D) explaining why a plant grew differently under certain conditions
+----------------------------------------------------------------------------------------------
+[VASoL_2007_5_39] [SCI_INFERENCE_OBSERV]
+Which of the following is an observation about grasshoppers that a science class could have made on their nature walk?
+(A) The grasshoppers will live longest in a container filled with plants.
+(B) The grasshoppers are green with long back legs and antennae.
+(C) The grasshoppers will probably eat more grass than tree leaves.
+(D) The grasshoppers all hatched from eggs laid the year before.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400124] [SCI_INFERENCE_OBSERV]
+A scientist wanting to document a change in a river's flow pattern should observe a river over a period of
+(A) days.
+(B) weeks.
+(C) months.
+(D) years.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400215] [SCI_INFERENCE_OBSERV]
+Students researched monkeys at a zoo. They recorded the monkeys' traits and behaviors. This investigation activity is best described as
+(A) controlling.
+(B) hypothesizing.
+(C) observing.
+(D) inferring.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400024] [SCI_INFERENCE_OBSERV]
+Which method below would be the best way to determine if an egg, plastic foam, a piece of wood, or a candle would float on water?
+(A) observing each object in water
+(B) measuring the size of each object
+(C) calculating the weight of the objects
+(D) comparing the shapes of the objects
+----------------------------------------------------------------------------------------------
+[Mercury_SC_410961] [SCI_INFERENCE_OBSERV]
+A class learns about weather. The students in the class measure the outside air temperature at the same time each day. Which way of measuring the temperature would provide the most accurate data?
+(A) taking the measurement in the shade
+(B) placing the thermometer on the ground
+(C) taking a measurement using a different tool each day
+(D) recording the measurements from three thermometers
+----------------------------------------------------------------------------------------------
+[ACTAAP_2009_5_13] [SCI_INFERENCE_OBSERV]
+Alan is using cabbage juice to determine the relative pH of various household solutions. Which of these steps communicates the results of his investigation?
+(A) Conduct multiple trials
+(B) Write down a procedure
+(C) Identify the materials to be tested
+(D) Record observations and data in a journal
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401824] [SCI_INFERENCE_OBSERV]
+What part of the scientific method involves measuring the growth of a plant over a one-month period?
+(A) analysis
+(B) observation
+(C) conclusion
+(D) hypothesis
+----------------------------------------------------------------------------------------------
+[ACTAAP_2013_5_2] [SCI_INFERENCE_OBSERV]
+Which serve as evidence for a scientific theory?
+(A) guesses
+(B) opinions
+(C) arguments
+(D) observations
+----------------------------------------------------------------------------------------------
+[Mercury_7014858] [SCI_INFERENCE_OBSERV]
+Sugar is added to water and the mixture is stirred. Which observation is evidence that the sugar dissolved in the water?
+(A) Less sugar is visible.
+(B) The water is cloudy.
+(C) The sugar turned into crystals.
+(D) Bubbles formed in the water.
+----------------------------------------------------------------------------------------------
+[Mercury_7127173] [SCI_INFERENCE_OBSERV]
+A species of bird has not been seen since the 1900s and is considered extinct. Which evidence would best disprove the claim that the bird is extinct?
+(A) A bird watcher makes a sketch of the bird.
+(B) A scientist discovers fossil remains of the bird.
+(C) A researcher takes a photograph of the bird.
+(D) A park ranger finds a suitable habitat for the bird.
+----------------------------------------------------------------------------------------------
+[Mercury_7042823] [SCI_INFERENCE_OBSERV]
+What would be the best way to determine the role of squirrels in a forest ecosystem?
+(A) measure the length and mass of several squirrels
+(B) determine the genes that control squirrel traits
+(C) make field observations of squirrels in their natural habitat
+(D) read articles about the energy and nutrient requirements of squirrels
+----------------------------------------------------------------------------------------------
+[Mercury_7210000] [SCI_INFERENCE_OBSERV]
+Students make weather observations outside the school building, and then they record their observations. Which observation should be recorded as a fact?
+(A) The air feels very cold.
+(B) The wind is blowing at 5 m/s.
+(C) It is nicer than the day before.
+(D) It looks like it might warm up later.
+----------------------------------------------------------------------------------------------
+[TIMSS_1995_8_I15] [SCI_INFERENCE_OBSERV]
+Maria collected the gas given off by a glowing piece of charcoal. The gas was then bubbled through a small amount of colorless limewater. Part of Maria's report stated, "After the gas was put into the jar, the limewater gradually changed to a milky white color." This statement is
+(A) an observation
+(B) a conclusion
+(C) a generalization
+(D) an assumption of the investigation
+(E) a hypothesis

@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[MCAS_2002_5_12] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FAT]
+Camels have humps on their backs that store fat, allowing them to survive for many days without food. This makes camels well suited to desert life. This characteristic is an example of
+(A) adaptation.
+(B) instinct.
+(C) migration.
+(D) hibernation.
+----------------------------------------------------------------------------------------------
+[Mercury_7267978] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FAT, LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR]
+Why are seals able to live off the coast of Antarctica while frogs, snakes, and panthers are not?
+(A) Seals can swim.
+(B) Seals are predators.
+(C) Seals have fur and blubber.
+(D) Seals are warm-blooded animals.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2011_4_23] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR]
+A fox grows thicker fur as a season changes. This adaptation helps the fox to
+(A) find food
+(B) keep warmer
+(C) grow stronger
+(D) escape from predators
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_4_14] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR]
+Which physical structure would best help a bear to survive a winter in New York State?
+(A) big ears
+(B) black nose
+(C) thick fur
+(D) brown eyes
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_4_13] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR]
+During which season of the year would a rabbit's fur be thickest?
+(A) fall
+(B) spring
+(C) summer
+(D) winter
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_4_16] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR]
+Growing thicker fur in the winter helps some animals to
+(A) hide from danger
+(B) attract a mate
+(C) find food
+(D) keep warm
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401299] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR]
+Which characteristic would best help a land animal survive in a cold Arctic climate?
+(A) thick fur
+(B) large ears
+(C) smooth feet
+(D) slender body
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401736] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR]
+Which characteristic is most beneficial for an animal living on a snowy mountain?
+(A) thick fur
+(B) dark spots
+(C) moist skin
+(D) webbed feet
+----------------------------------------------------------------------------------------------
+[Mercury_7197943] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR]
+The fur color of a bear varies with its environment. Polar bears found in the Arctic have white fur, while black bears found in Pennsylvania have dark fur. Which best describes the variation of fur color amongst the bear species?
+(A) modified characteristic
+(B) ecological succession
+(C) structural adaptation
+(D) selective breeding
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_4_22] [LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR]
+The fur of some animals becomes thicker in the winter and is shed in the spring. These observations show how animals
+(A) respond to changes in the environment
+(B) move from place to place to survive
+(C) store fat for the winter
+(D) compete with other animals for food
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406721] [LIFE_ENVADP_ADAP_ANIM_STRUCT_HUNTING]
+Which characteristic of a bird most likely aids in obtaining food found in small places?
+(A) webbed feet
+(B) large body
+(C) soft feathers
+(D) skinny beak
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2009_4_20] [LIFE_ENVADP_ADAP_ANIM_STRUCT_HUNTING]
+Which structure of a bird is correctly paired with its function?
+(A) claws for obtaining food
+(B) wings for eliminating waste
+(C) feathers for breathing
+(D) eyes for growing
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408890] [LIFE_ENVADP_ADAP_ANIM_STRUCT_HUNTING]
+Frogs and salamanders compete with each other for insects. Both frogs and salamanders catch flying insects with their tongues. Which feature would most likely help both animals compete for flying insects?
+(A) sticky tongues
+(B) bright tongues
+(C) thick tongues
+(D) short tongues
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402089] [LIFE_ENVADP_ADAP_ANIM_STRUCT_HUNTING]
+Stout beardfish live in the deep ocean. They live so far down that there is no light. Which characteristic would best help stout beardfish to survive in the dark?
+(A) a mouth full of bristles
+(B) a brightly colored body
+(C) the ability to swim quickly
+(D) two whiskers that locate food
+----------------------------------------------------------------------------------------------
+[MCAS_2009_5_6510] [LIFE_ENVADP_ADAP_ANIM_STRUCT_HUNTING]
+A tuna is an ocean fish that is well adapted to catching small, fast-moving prey. Which of the following adaptations most helps a tuna swim fast to catch its prey?
+(A) large fins
+(B) sharp teeth
+(C) small gills
+(D) tough scales
+----------------------------------------------------------------------------------------------
+[MEA_2016_8_1] [LIFE_ENVADP_ADAP_ANIM_STRUCT_HUNTING]
+A fox gave birth to an offspring that had a better sense of hearing than most foxes. How could this small change most likely result in descendants that are different from the original fox?
+(A) Foxes that have a better sense of hearing may mutate more frequently than other foxes.
+(B) Foxes that have a better sense of hearing may be hunted more frequently.
+(C) Over time, descendants of this fox may hear and hunt prey better than other foxes.
+(D) Over time, descendants of this fox may become extinct.
+----------------------------------------------------------------------------------------------
+[Mercury_7018305] [LIFE_ENVADP_ADAP_ANIM_STRUCT_HUNTING]
+On a small, isolated island, a hurricane destroyed all the trees that produced a large, hard-shelled nut. Which bird population would most likely decrease?
+(A) birds with long, probing beaks
+(B) birds with thick, strong beaks
+(C) birds with thin, short beaks
+(D) birds with large, pouch beaks
+----------------------------------------------------------------------------------------------
+[MEA_2014_8_1] [LIFE_ENVADP_ADAP_ANIM_STRUCT_HUNTING]
+Mosquitoes have adapted to detect carbon dioxide using certain sensory nerves. Mosquitoes instinctually move toward greater concentrations of carbon dioxide. What is the importance of this adaptation?
+(A) It helps mosquitoes find food.
+(B) It helps mosquitoes find mates.
+(C) It helps mosquitoes find clean air.
+(D) It helps mosquitoes find shelter.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_4_16] [LIFE_ENVADP_ADAP_ANIM_STRUCT_SENSES]
+Which characteristic helps a fox find food?
+(A) sense of smell
+(B) thick fur
+(C) long tail
+(D) pointed teeth
+----------------------------------------------------------------------------------------------
+[Mercury_SC_417560] [LIFE_ENVADP_ADAP_ANIM_STRUCT_SENSES]
+Bats find their prey at night using one of their senses to detect echoes. What does the bat send out to find prey?
+(A) odors
+(B) light
+(C) sound
+(D) electricity
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2004_4_15] [LIFE_ENVADP_ADAP_ANIM_STRUCT_SENSES]
+A mother hen clucks loudly when danger is near and her chicks quickly gather around her. Which sense helps the chicks receive this warning about danger from their mother?
+(A) smell
+(B) taste
+(C) sight
+(D) sound
+----------------------------------------------------------------------------------------------
+[Mercury_417570] [LIFE_ENVADP_ADAP_ANIM_STRUCT_SENSES]
+Most South American monkeys have color vision. But the members of one genus, Aotus , also known as "owl monkeys," do not have color vision. Scientists think that the genus evolved from monkeys that did have color vision. The ability to see color was lost when it was no longer helpful. Which other trait of the genus would contribute most to making color vision unimportant?
+(A) The monkeys live in the trees of dense forests.
+(B) The monkeys make eight different sounds.
+(C) The monkeys are active only at night.
+(D) The monkeys choose mates for life.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_410872] [LIFE_ENVADP_ADAP_PLANT]
+The aloe plant can absorb a lot of water during a rain shower. The extra water is stored in its leaves. The ability to store water in its leaves is most likely an adaptation to which type of environment?
+(A) one near the ocean
+(B) one with dry conditions
+(C) one with a variety of organisms
+(D) one that receives a lot of sunlight
+----------------------------------------------------------------------------------------------
+[Mercury_SC_406042] [LIFE_ENVADP_ADAP_PLANT]
+A tropical rain forest contains many tall trees. Smaller plants with large leaves grow at the base of the tall trees. The large leaves are most likely an adaptation of the plant due to which condition?
+(A) lack of sunlight
+(B) lack of oxygen
+(C) lack of water
+(D) lack of food
+----------------------------------------------------------------------------------------------
+[Mercury_410707] [LIFE_ENVADP_ADAP_PLANT]
+Some nonnative plants can adapt to their environments more quickly than some native plants or crops can. Which adaptation would least likely help a nonnative plant to survive in a new environment?
+(A) having a large number of seeds
+(B) having a resistance to herbicides
+(C) having roots that develop rapidly
+(D) having leaves that form at a slow rate

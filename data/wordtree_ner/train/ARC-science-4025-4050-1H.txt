@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7107363] [SCI_INFERENCE_EXPDESIGN]
+A group of students compared the effects of fertilizer on the growth of tomato plants. The students gave six tomato plants Fertilizer 1 and six other tomato plants Fertilizer 2. They grew the plants under the same conditions. After several weeks, the students concluded that the tomato plants that received Fertilizer 1 grew taller than those that received Fertilizer 2. Which of the following actions would have increased the accuracy of the results of this investigation?
+(A) using different growing conditions for a group of the plants
+(B) growing a group of tomato plants without fertilizer
+(C) growing different types of plants with each fertilizer
+(D) applying a combination of fertilizers to all the plants
+----------------------------------------------------------------------------------------------
+[Mercury_7130498] [SCI_INFERENCE_EXPDESIGN]
+A student is investigating the effect of different nutrients on the growth of seedling plants. Which of these would be an independent (manipulated) variable in the investigation?
+(A) water
+(B) sunlight
+(C) soil nutrients
+(D) seedling plants
+----------------------------------------------------------------------------------------------
+[Mercury_7068863] [SCI_INFERENCE_EXPDESIGN]
+A student investigated the effect of iron on the growth of plants. Four identical plants received a different amount of iron supplement when being watered. This investigation could have been improved if there were
+(A) earthworms in the soil.
+(B) fewer plants in the experiment.
+(C) plants that received water without iron supplements.
+(D) plants that received different amounts of sunlight.
+----------------------------------------------------------------------------------------------
+[TIMSS_2011_8_pg106] [SCI_INFERENCE_EXPDESIGN]
+A student sets up an investigation to test the strength of magnets. He has several magnets of different sizes, shapes, and masses. He uses the magnets to lift metal paper clips. How is the strength of a magnet defined in the investigation?
+(A) by the mass of the magnet lifting the metal paper clips
+(B) by the size of the magnet lifting the metal paper clips
+(C) by the number of metal paper clips lifted by the magnet
+(D) by the time the metal paper clips stay on the magnet
+----------------------------------------------------------------------------------------------
+[Mercury_7012968] [SCI_INFERENCE_EXPDESIGN]
+A student plans to conduct an experiment to see how quickly mice learn to navigate a maze to reach a reward at the other end. Which of these will help lead to the most accurate conclusion?
+(A) make the maze bigger
+(B) provide different food rewards
+(C) use a reward other than food
+(D) use the same maze and reward each day
+----------------------------------------------------------------------------------------------
+[Mercury_7211978] [SCI_INFERENCE_EXPDESIGN]
+Students were investigating the relationship between the length and period of a pendulum. They made a pendulum by using string to suspend a 0.5-kg mass from a fixed support. The students changed the length of the string and measured the time it took for the pendulum to complete ten cycles of motion. By dividing each time measurement by ten, they were able to calculate the period of the pendulum. What was the independent variable?
+(A) the length of the pendulum
+(B) the period of the pendulum
+(C) the type of string used in making the pendulum
+(D) the amount of mass used in making the pendulum
+----------------------------------------------------------------------------------------------
+[Mercury_7206448] [SCI_INFERENCE_EXPDESIGN]
+Scientists study the reaction of some bacteria to antibiotics, hoping to learn about a new strain of resistant bacteria. This method of gaining scientific knowledge is best described as
+(A) observing changes in a single trial.
+(B) testing for a desired trait.
+(C) repeating steps in a procedure.
+(D) controlling changes in conditions.
+----------------------------------------------------------------------------------------------
+[Mercury_7218260] [SCI_INFERENCE_EXPDESIGN, EARTH_GEO_ROCK_SED]
+A hillside along a highway has exposed layers of undisturbed sedimentary rock. Which method would be best for scientists to use to determine the relative age of these sedimentary rock layers?
+(A) apply the law of superposition
+(B) calculate the rate of radiometric decay
+(C) apply the law of crosscutting relationships
+(D) calculate the rate of tectonic plate movement
+----------------------------------------------------------------------------------------------
+[Mercury_190278] [SCI_INFERENCE_EXPRUN]
+In which of these investigations would pictures from a camera be most useful?
+(A) studying bird calls
+(B) studying exothermic reactions
+(C) studying the growth of plants
+(D) studying the diffusion of molecules
+----------------------------------------------------------------------------------------------
+[Mercury_7112753] [SCI_INFERENCE_EXPRUN]
+In order to locate a beetle population, scientists must use a highly specialized piece of equipment. Which factor would most likely limit the ability to locate beetles?
+(A) climate
+(B) expense
+(C) sample size
+(D) politics
+----------------------------------------------------------------------------------------------
+[Mercury_7083580] [SCI_INFERENCE_FORMLAWS]
+Changes should be made to a scientific theory when
+(A) public support of the theory decreases.
+(B) the theory is more than 100 years old.
+(C) new technology provides updated information.
+(D) financial gain can be made by adding data.

@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[Mercury_401311] [EARTH_WEATHER_ERO_DEPOSITION]
+Which process is most directly related to constructing new land?
+(A) erosion
+(B) polluting
+(C) deposition
+(D) weathering
+----------------------------------------------------------------------------------------------
+[Mercury_7014368] [EARTH_WEATHER_ERO_DEPOSITION]
+Long shore currents are ocean waves that strike beaches at extremely small angles. In areas where long shore currents exist, what effect do they have on land areas?
+(A) They build mountains.
+(B) They cause earthquakes.
+(C) They move sand, creating sandbars.
+(D) They create inland saltwater rivers.
+----------------------------------------------------------------------------------------------
+[Mercury_184258] [EARTH_WEATHER_ERO_DEPOSITION]
+Which of the following stream characteristics most directly affects stream depositions?
+(A) gradient
+(B) elevation
+(C) base level
+(D) water quality
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401653] [EARTH_WEATHER_ERO_DEPOSITION, EARTH_GEO_FORMATIONS]
+Which land form is the result of the constructive force of a glacier?
+(A) valleys carved by a moving glacier
+(B) piles of rocks deposited by a melting glacier
+(C) grooves created in a granite surface by a glacier
+(D) bedrock hills roughened by the passing of a glacier
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2008_4_17] [EARTH_WEATHER_ERO_DEPOSITION, EARTH_WEATHER_EXTREME]
+After a rainstorm, a big pile of rocks blocks part of a mountain road. Which event most likely caused the rocks to move onto the road?
+(A) a tsunami
+(B) a blizzard
+(C) a landslide
+(D) a hurricane
+----------------------------------------------------------------------------------------------
+[Mercury_SC_415409] [EARTH_WEATHER_ERO_DEPOSTITION, EARTH_GEO_FORMATIONS]
+During a rainstorm, leaves wash down a gully on a hillside. The water slows down at the foot of the hill and fans out, depositing the leaves. What geologic structure is formed in a similar way?
+(A) a basalt column
+(B) a stalactite
+(C) a fault line
+(D) a delta
+----------------------------------------------------------------------------------------------
+[AIMS_2008_4_16] [EARTH_WEATHER_ERO_EROSION]
+Which of the following can cause erosion?
+(A) falling leaves
+(B) flowing water
+(C) growing grass
+(D) rising temperatures
+----------------------------------------------------------------------------------------------
+[NAEP_2009_4_S11+2] [EARTH_WEATHER_ERO_EROSION]
+Roger poured water over a pile of sand. Some of the sand washed away. This process is similar to which of the following?
+(A) The eruption of a volcano
+(B) The erosion of the walls of a canyon
+(C) The uplifting of mountain ranges
+(D) The forming of dunes or mounds in a desert
+----------------------------------------------------------------------------------------------
+[MCAS_2000_4_4] [EARTH_WEATHER_ERO_EROSION]
+Why are the rocks and pebbles found on riverbeds usually smooth?
+(A) The rocks and pebbles in riverbeds are not very old.
+(B) The rocks and pebbles rub against each other as water flows over them.
+(C) Rivers can only flow over smooth rocks and pebbles.
+(D) Organisms in the rivers break down the rocks and pebbles.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408661] [EARTH_WEATHER_ERO_EROSION]
+Which would cause the most soil to erode from a river bank in just a few days?
+(A) animals climbing up the river bank
+(B) acid rain falling onto the river bank
+(C) heat from the sun drying the river bank
+(D) water from a flood flowing over the river bank
+----------------------------------------------------------------------------------------------
+[AIMS_2009_4_9] [EARTH_WEATHER_ERO_EROSION]
+Wind can cause erosion that changes the surface of the Earth. Wind erosion can have negative effects on the environment by removing soil and polluting the air during dust storms. Which of the following land forms are created by wind erosion?
+(A) arches and faults
+(B) sand dunes and arches
+(C) meanders and moraines
+(D) moraines and sand dunes
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2006_4_4] [EARTH_WEATHER_ERO_EROSION]
+The movement of soil by wind or water is called
+(A) condensation
+(B) evaporation
+(C) erosion
+(D) friction
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2016_4_16] [EARTH_WEATHER_ERO_EROSION]
+Which process occurs when rocks and soil slide down a mountain?
+(A) erosion
+(B) migration
+(C) recycling
+(D) maintenance
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400237] [EARTH_WEATHER_ERO_EROSION]
+What causes the most soil and rock erosion?
+(A) sun
+(B) wind
+(C) water
+(D) gravity
+----------------------------------------------------------------------------------------------
+[Mercury_SC_408584] [EARTH_WEATHER_ERO_EROSION]
+At some places in Florida, sand on the beaches is being reduced. New sand is brought from other areas and spread on the beaches. What process causes this reduction to the beach sand?
+(A) earthquakes
+(B) erosion
+(C) landslides
+(D) weathering
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400528] [EARTH_WEATHER_ERO_EROSION]
+The prairie grass ecosystem once had a deep layer of topsoil which was protected by the grasses that covered it. Removal of these grasses for farmland is causing the soil to be eroded mainly by
+(A) wind and rain.
+(B) animal movement.
+(C) crops grown in the soil.
+(D) increased temperatures.
+----------------------------------------------------------------------------------------------
+[MCAS_2001_5_17] [EARTH_WEATHER_ERO_EROSION]
+Why are some rocks smoother and rounder than others?
+(A) They have the shapes of the minerals from which they are made.
+(B) They were smoothed by the action of wind and water.
+(C) They were squeezed up through the soil.
+(D) They hardened in rounded pockets of soil.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_401304] [EARTH_WEATHER_ERO_EROSION]
+Which event takes the most time to produce measurable changes?
+(A) flooding
+(B) earthquake
+(C) soil erosion
+(D) volcanic eruption
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400535] [EARTH_WEATHER_ERO_EROSION]
+Which of these is most likely caused by the action of water, wind, and animals?
+(A) mountains
+(B) erosion
+(C) earthquakes
+(D) volcanic eruptions
+----------------------------------------------------------------------------------------------
+[Mercury_SC_402060] [EARTH_WEATHER_ERO_EROSION]
+What happens when water flows over a rock for a long period of time?
+(A) erosion
+(B) flooding
+(C) breakage
+(D) evaporation
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400852] [EARTH_WEATHER_ERO_EROSION]
+Grooves running down the sides of a riverbank are most likely caused by
+(A) wind.
+(B) rocks.
+(C) leaves.
+(D) rainwater.
+----------------------------------------------------------------------------------------------
+[MEA_2016_5_10] [EARTH_WEATHER_ERO_EROSION]
+A student finds a round, smooth pebble on a beach. Which action made the pebble smooth?
+(A) rain falling
+(B) wind blowing
+(C) snow melting
+(D) waves moving
+----------------------------------------------------------------------------------------------
+[Mercury_7166093] [EARTH_WEATHER_ERO_EROSION]
+Plants can help prevent erosion or contribute to erosion. Which describes how plants could contribute to erosion?
+(A) Plants slow the runoff of water and soil.
+(B) Plant roots grow in rocks, breaking the rocks.
+(C) Plant roots hold the soil in place against wind.
+(D) Plants break the impact of raindrops before they hit the soil.
+----------------------------------------------------------------------------------------------
+[TIMSS_2003_8_pg34] [EARTH_WEATHER_ERO_EROSION]
+A small, fast-moving river in is in a V-shaped valley on the slope of a mountain. If you follow the river to where it passes through a plain, what will the river most likely look like compared with how it looked on the mountain?
+(A) Much the same
+(B) Deeper and faster
+(C) Slower and wider
+(D) Straighter
+----------------------------------------------------------------------------------------------
+[Mercury_7113943] [EARTH_WEATHER_ERO_EROSION]
+A large quantity of heavy rain falling in a short time period will most likely
+(A) reduce the amount of nutrients in the soil.
+(B) increase the number of minerals in the soil.
+(C) reduce oxygen levels in the soil.
+(D) increase the temperature of the soil.

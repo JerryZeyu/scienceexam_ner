@@ -1,0 +1,175 @@
+----------------------------------------------------------------------------------------------
+[CSZ_2008_5_CSZ20249] [LIFE_INTERDEP_ECOFEATURES]
+Salt concentration, water temperature, plankton, and the whale shark might all be used in a description of an ocean
+(A) climate.
+(B) food web.
+(C) ecosystem.
+(D) population.
+----------------------------------------------------------------------------------------------
+[ACTAAP_2011_5_9] [LIFE_INTERDEP_ECOFEATURES]
+Which set of descriptions correctly states the difference between a population and a community?
+(A) Population: one species in an area Community: one species worldwide
+(B) Population: organisms in a small area Community: organisms in a large area
+(C) Population: living parts of an area Community: living and nonliving parts of an area
+(D) Population: one type of organism in an area Community: many types of organisms in an area
+----------------------------------------------------------------------------------------------
+[ACTAAP_2010_5_4] [LIFE_INTERDEP_ECOFEATURES]
+Which list is correctly ordered from smallest to largest?
+(A) Biosphere, organism, ecosystem, population
+(B) Community, organism, ecosystem, biosphere
+(C) Organism, population, community, ecosystem
+(D) Population, ecosystem, community, biosphere
+----------------------------------------------------------------------------------------------
+[VASoL_2007_5_7] [LIFE_INTERDEP_ECOFEATURES]
+Which of these animals is most likely to be found living and feeding on the forest floors of Virginia?
+(A) Bat
+(B) Trout
+(C) Deer mouse
+(D) Golden eagle
+----------------------------------------------------------------------------------------------
+[Mercury_7268013] [LIFE_INTERDEP_ECOFEATURES]
+In which way are rainforests and coral reefs different from ecosystems with few species?
+(A) There are more prey than predators.
+(B) The food web is more stable and lasting.
+(C) Organisms often must compete for food.
+(D) Plant populations are the primary producers.
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_8_27] [LIFE_INTERDEP_ECOFEATURES]
+In which oceanic zone do clams and crabs survive by burrowing in the sand?
+(A) oceanic
+(B) intertidal
+(C) deep ocean
+(D) open ocean
+----------------------------------------------------------------------------------------------
+[NAEP_2000_8_S21+1] [LIFE_INTERDEP_ECOFEATURES]
+Which group of organisms would all be found living in a tropical rain forest?
+(A) Lizards, insects, cacti, kangaroos
+(B) Vines, palm trees, tree frogs, monkeys
+(C) Evergreens, moose, weasels, mink
+(D) Lichens, mosses, caribou, polar bears
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_8_44] [LIFE_INTERDEP_ECOFEATURES]
+Populations living in one place form a
+(A) community
+(B) system
+(C) habitat
+(D) species
+----------------------------------------------------------------------------------------------
+[Mercury_417153] [LIFE_INTERDEP_ECOFEATURES]
+What adaptation is necessary in intertidal ecosystems but not in reef ecosystems?
+(A) the ability to live in salt water
+(B) the ability to use oxygen in respiration
+(C) the ability to cope with daily dry periods
+(D) the ability to blend into the surroundings
+----------------------------------------------------------------------------------------------
+[Mercury_417145] [LIFE_INTERDEP_ECOFEATURES]
+Which marine ecosystem is independent of sunlight?
+(A) estuary
+(B) whale fall
+(C) black smoker
+(D) open ocean
+----------------------------------------------------------------------------------------------
+[Mercury_417136] [LIFE_INTERDEP_ECOFEATURES]
+Estuaries are called "the nurseries of the sea" because many species lay eggs and develop their young in estuaries. Which two features of estuaries support this role most?
+(A) concentrated nutrients and a steep salt gradient
+(B) abundant shelter and concentrated nutrients
+(C) a steep salt gradient and shallow water
+(D) shallow water and abundant shelter
+----------------------------------------------------------------------------------------------
+[Mercury_7271180] [LIFE_INTERDEP_ECOFEATURES]
+What is the relationship between a community and a population?
+(A) A population is smaller than a community.
+(B) A population is larger than a community.
+(C) A population includes communities of organisms interacting.
+(D) A community includes populations of organisms interacting.
+----------------------------------------------------------------------------------------------
+[Mercury_184800] [LIFE_INTERDEP_ECOFEATURES]
+A short plant with a thick, fleshy stem, extensive roots, and a short blooming period would most likely be found in which of the following environments?
+(A) prairie
+(B) desert
+(C) coniferous forest
+(D) deciduous forest
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416516] [LIFE_INTERDEP_ECOFEATURES]
+How is a pond different from a lake?
+(A) Ponds have moving water.
+(B) Ponds are smaller and shallower.
+(C) Ponds are not surrounded by land.
+(D) Ponds have a different amount of salt.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_413081] [LIFE_INTERDEP_ECOFEATURES]
+What is a main feature of plains?
+(A) a flat, level surface
+(B) a high, steep peak
+(C) a low, shallow basin
+(D) a gentle, gradual slope
+----------------------------------------------------------------------------------------------
+[TIMSS_2007_4_pg81] [LIFE_INTERDEP_ECOFEATURES]
+There are different types of desert. What do they all have in common?
+(A) warm winters
+(B) long summers
+(C) low rainfall
+(D) low day and night temperatures
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400924] [LIFE_INTERDEP_ECOFEATURES]
+In a zoo located in a warm region, which should be included in the polar bear exhibit?
+(A) food bowl with fruit
+(B) hot, bright lights
+(C) cold-water pool
+(D) tall palm trees
+----------------------------------------------------------------------------------------------
+[Mercury_7103180] [LIFE_INTERDEP_ECOFEATURES]
+Which biome has the most vegetation?
+(A) desert
+(B) forest
+(C) grassland
+(D) tundra
+----------------------------------------------------------------------------------------------
+[Mercury_417146] [LIFE_INTERDEP_ECOFEATURES]
+Most of the oxygen in the atmosphere is made by algae. Where do most of the algae live?
+(A) coastal ocean
+(B) deep ocean
+(C) ponds
+(D) lakes
+----------------------------------------------------------------------------------------------
+[Mercury_7112735] [LIFE_INTERDEP_ECOFEATURES]
+A species of mouse spends the day sleeping in its burrow to avoid high daytime temperatures. It is processing what little water it needs from the seeds it collects. To which environment is this mouse best adapted?
+(A) rainforest
+(B) marine
+(C) desert
+(D) tundra
+----------------------------------------------------------------------------------------------
+[LEAP_2011_8_10436] [LIFE_INTERDEP_ECOFEATURES]
+In which group of animals below are all of the members well adapted to living in a forest ecosystem?
+(A) field mouse, rabbit, pheasant
+(B) gull, tree frog, grasshopper
+(C) coyote, antelope, bison
+(D) squirrel, deer, woodpecker
+----------------------------------------------------------------------------------------------
+[Mercury_7176190] [LIFE_INTERDEP_ECOFEATURES]
+The Halifax River has a major flood plain in Port Orange, Florida. Minerals are deposited into the soil of the flood plain when the water overflows the banks of the river. These minerals can reduce the absorption of the soil in the flood plain and affect the growth of plants in the area. Which best describes the role of the deposited minerals in the flood plain ecosystem?
+(A) a trophic level
+(B) a limiting factor
+(C) a territorial boundary
+(D) a food-chain component
+----------------------------------------------------------------------------------------------
+[LEAP__7_10347] [LIFE_INTERDEP_ECOFEATURES, EARTH_HUMIMP_RES_TREES]
+Which resource is most likely found in large amounts in forest ecosystems?
+(A) iron
+(B) wood
+(C) plastic
+(D) petroleum
+----------------------------------------------------------------------------------------------
+[Mercury_7195440] [LIFE_INTERDEP_ECOFEATURES, EARTH_HUMIMP_WHAT_HABITATDEST]
+Approximately 50 million acres of tropical rainforest are cleared each year. Which effect most likely would result from the clearing of these forests?
+(A) a decrease in soil erosion
+(B) a decrease in biodiversity
+(C) an improvement in air quality
+(D) an improvement in water quality
+----------------------------------------------------------------------------------------------
+[Mercury_417140] [LIFE_INTERDEP_ECOFEATURES, EARTH_HUMIMP_WHAT_POLL]
+Where is the biological magnification of pollutants most likely to be the greatest?
+(A) in an estuary
+(B) in an open ocean
+(C) at an intertidal zone
+(D) at a hydrothermal vent

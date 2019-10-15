@@ -1,0 +1,76 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7239348] [LIFE_INTERDEP_POPDYN]
+Which of the following best explains what will occur when a population grows larger than the carrying capacity of its environment?
+(A) The emigration rate will decrease.
+(B) The competition rate will decrease.
+(C) The birth rate will increase.
+(D) The death rate will increase.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405487] [LIFE_INTERDEP_POPDYN]
+One year, the oak trees in a park began producing more acorns than usual. The next year, the population of chipmunks in the park also increased. Which best explains why there were more chipmunks the next year?
+(A) Shady areas increased.
+(B) Food sources increased.
+(C) Oxygen levels increased.
+(D) Available water increased.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2014_4_28] [LIFE_INTERDEP_POPDYN]
+Large birds have been eating small animals in an area. If all of the large birds died from a disease, the number of small animals in the area would probably
+(A) decrease
+(B) increase
+(C) remain the same
+----------------------------------------------------------------------------------------------
+[Mercury_406781] [LIFE_INTERDEP_POPDYN]
+Which interaction between animals best controls the population of a species?
+(A) wild animals marking their territories
+(B) remora fish traveling with sharks
+(C) lions preying on zebras
+(D) wolves traveling in packs
+----------------------------------------------------------------------------------------------
+[Mercury_7198380] [LIFE_INTERDEP_POPDYN]
+Different species of herbivorous rodents lived in the same ecosystem. Which factor most likely increased, causing more competition for resources among the rodents?
+(A) the fertility of the soil
+(B) the population of producers in the area
+(C) the amount of food scraps left by predators
+(D) the rate at which primary consumers moved into the area
+----------------------------------------------------------------------------------------------
+[LEAP_2012_8_10441] [LIFE_INTERDEP_POPDYN]
+A lizard species mostly eats fruit from one particular type of tree. If a virus kills most these trees, which individual lizards will most likely survive?
+(A) lizards that can climb higher in the fruit trees
+(B) lizards that have darker coloration
+(C) lizards that can find other types of food
+(D) lizards that produce more offspring
+----------------------------------------------------------------------------------------------
+[Mercury_7138513] [LIFE_INTERDEP_POPDYN]
+An island has many kinds of birds, no native species of snakes, and few large predators. Brown snakes eat bird eggs. What is the most likely result of brown snakes being released accidentally on the island?
+(A) more snakes and fewer birds
+(B) more snakes and more birds
+(C) fewer snakes and fewer birds
+(D) fewer snakes and more birds
+----------------------------------------------------------------------------------------------
+[Mercury_7191170] [LIFE_INTERDEP_POPDYN, EARTH_HUMIMP_WHAT_HABITATDEST]
+Residential construction is expanding in Florida. The expansion has caused fragmentation of habitats. One of the results of the increased construction is a decrease in the number of large predators such as the coyote, black bear, and panther. Which will be the most immediate local result of this fragmentation?
+(A) decrease in middle-sized predators
+(B) large predators will become extinct
+(C) increase in population of prey species
+(D) increase in population of top carnivores
+----------------------------------------------------------------------------------------------
+[Mercury_189560] [LIFE_INTERDEP_POPDYN, LIFE_FUNCT_ENVCOND_ANIM]
+An increase in phosphate levels in a lake increases the population of algae in the lake. Increased algae blocks sunlight into the lake and results in a decrease in dissolved oxygen in the lake's water. Which of the following should be expected as a result?
+(A) Plant populations in the lake increase.
+(B) More predatory birds feed on lake animals.
+(C) Phosphate levels in the lake decrease.
+(D) Fish populations in the lake decline.
+----------------------------------------------------------------------------------------------
+[AKDE&ED_2012_4_23] [LIFE_INTERDEP_RELSPECIES]
+Which statement best identifies a living thing that depends on another living thing to survive?
+(A) A wolf drinks water.
+(B) A moose eats a plant.
+(C) A spruce tree grows in soil.
+(D) A salmonberry plant absorbs sunlight.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_414245] [LIFE_INTERDEP_RELSPECIES]
+In what way can bacteria be good for the human body?
+(A) Bacteria help the body have strong bones.
+(B) Bacteria help maintain body temperature.
+(C) Bacteria help deliver oxygen to the cells.
+(D) Bacteria help break down food.

@@ -1,0 +1,174 @@
+----------------------------------------------------------------------------------------------
+[Mercury_185203] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SENSES, LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM]
+What part of the body receives information from the senses?
+(A) heart
+(B) brain
+(C) lungs
+(D) stomach
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416158] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL]
+What are the two main jobs of the skeletal system?
+(A) support and protect the body
+(B) digest food and carry messages for the body
+(C) get rid of wastes and defend the body from disease
+(D) sense changes in the environment and carry food through the body
+----------------------------------------------------------------------------------------------
+[Mercury_SC_LBS11007] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL]
+Which of these would best be shown as a 3-D model?
+(A) color spectrum
+(B) magnetic field
+(C) skeletal system
+(D) water cycle
+----------------------------------------------------------------------------------------------
+[NCEOGA_2013_5_34] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL]
+Which system of the human body provides protection to most of the major organs?
+(A) skeletal system
+(B) circulatory system
+(C) respiratory system
+(D) muscular system
+----------------------------------------------------------------------------------------------
+[Mercury_7083440] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL]
+Which body system is most affected by a disease that causes the bones to become weak and brittle?
+(A) excretory
+(B) muscular
+(C) skeletal
+(D) nervous
+----------------------------------------------------------------------------------------------
+[Mercury_7213658] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL]
+Which system supports the body, protects internal organs, and makes blood cells?
+(A) muscular system
+(B) circulatory system
+(C) nervous system
+(D) skeletal system
+----------------------------------------------------------------------------------------------
+[Mercury_7251685] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL]
+Which activity most effectively ensures the proper functioning of osteocytes?
+(A) increasing the respiratory rate
+(B) consuming mineral-rich foods
+(C) reducing stressful exercise
+(D) drinking ion-free water
+----------------------------------------------------------------------------------------------
+[ACTAAP_2010_7_11] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL, LIFE_FUNCT_FEATANDFUNCT_ANIM_CIRCULATORY]
+The major organ systems in the human body interact in many ways. Which of the following statements describes one way that the skeletal system interacts with the circulatory system?
+(A) The skull protects the brain from injury.
+(B) Red blood cells carry oxygen to the bones.
+(C) The skull supports the eyes in their sockets.
+(D) Red blood cells carry oxygen to the muscles.
+----------------------------------------------------------------------------------------------
+[MEA_2016_8_4] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL, SCI_INFERENCE_INFERENCE]
+A scientist studies the remains of two extinct animals to learn more about how they lived. She determines that one animal was a carnivore and the other was an herbivore. Which of the following did the scientist most likely compare to make this conclusion?
+(A) the number of bones in the animals
+(B) the size of the animals
+(C) the body covering of the animals
+(D) the skull of the animals
+----------------------------------------------------------------------------------------------
+[AIMS_2008_4_12] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+Western coral snakes have a striped color pattern and are poisonous. Arizona mountain king snakes look like western coral snakes but are not poisonous. The color pattern of the Arizona mountain king snake is an example of
+(A) camouflage.
+(B) mimicry.
+(C) mutualism.
+(D) parasitism.
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2005_4_3] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+What is the main function of scales on a fish?
+(A) to protect the fish
+(B) to attract predators
+(C) to help the fish find food
+(D) to help the fish breathe
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2004_4_10] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+A duck's feathers are covered with a natural oil that keeps the duck dry. This is a special feature ducks have that helps them
+(A) feed their young
+(B) adapt to their environment
+(C) attract a mate
+(D) search for food
+----------------------------------------------------------------------------------------------
+[Mercury_SC_400338] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+The body of a fish is covered by scales for
+(A) decoration.
+(B) protection.
+(C) coloration.
+(D) reproduction.
+----------------------------------------------------------------------------------------------
+[Mercury_7138583] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+Which organ directly works to protect the human body from disease?
+(A) heart
+(B) kidney
+(C) pancreas
+(D) skin
+----------------------------------------------------------------------------------------------
+[Mercury_7001750] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+While running, leg muscles work to move leg bones, and the skin helps to
+(A) regulate body temperature.
+(B) sense small changes in the heart rate.
+(C) transport nutrients to muscles.
+(D) maintain oxygen levels in the blood.
+----------------------------------------------------------------------------------------------
+[Mercury_7220920] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+What is the primary function of skin cells?
+(A) to deliver messages to the brain
+(B) to generate movement of muscles
+(C) to provide a physical barrier to the body
+(D) to produce carbohydrates for energy
+----------------------------------------------------------------------------------------------
+[Mercury_182438] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+Male peacocks have large brightly colored tail feathers. What is the most likely reason for this?
+(A) to attract potential mates
+(B) to distract potential predators
+(C) to help catch food
+(D) to preserve warmth
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416172] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+What is the body's first layer of defense against germs?
+(A) liver
+(B) stomach
+(C) brain
+(D) skin
+----------------------------------------------------------------------------------------------
+[WASL_2005_5_11] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM]
+What is the function of skin on the human body?
+(A) Skin has pores that help the body sense odor.
+(B) Skin protects the body from harmful substances.
+(C) Skin brings oxygen directly into the body's bloodstream.
+----------------------------------------------------------------------------------------------
+[Mercury_7158953] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM, LIFE_FUNCT_ENVRESP_ANIM]
+Isabel goes jogging for two miles on a sunny afternoon. At the end of her run, she is warmer. As Isabel jogs, which function does the skin perform to help stabilize her body temperature?
+(A) Her skin exchanges oxygen and carbon dioxide.
+(B) Her skin produces red blood cells.
+(C) Her skin releases hormones.
+(D) Her skin discharges water.
+----------------------------------------------------------------------------------------------
+[Mercury_7126630] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM, LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST]
+The human skin plays an important role in a variety of organ systems. Which organ system is least likely to have a direct interaction with the skin?
+(A) digestive
+(B) excretory
+(C) immune
+(D) nervous
+----------------------------------------------------------------------------------------------
+[Mercury_7263165] [LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM, LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB]
+The cellular membrane surrounds every human cell. The membrane protects the cell and transmits information about the cell's surroundings to organelles inside the cell. What organ system provides a similar function in the human body?
+(A) endocrine system
+(B) skeletal system
+(C) integumentary system
+(D) lymphatic system
+----------------------------------------------------------------------------------------------
+[Mercury_SC_416156] [LIFE_FUNCT_FEATANDFUNCT_ANIM_STRUCT_SKELETAL]
+What makes up most of a human skeleton?
+(A) muscle
+(B) bone
+(C) skin
+(D) blood
+----------------------------------------------------------------------------------------------
+[ACTAAP_2008_5_7] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO]
+What do cells break down to produce energy?
+(A) food
+(B) water
+(C) chlorophyll
+(D) carbon dioxide
+----------------------------------------------------------------------------------------------
+[NYSEDREGENTS_2007_8_9] [LIFE_FUNCT_FEATANDFUNCT_CELLBIO]
+Which term describes an organism's ability to maintain a stable internal environment?
+(A) reproduction
+(B) extinction
+(C) locomotion
+(D) regulation

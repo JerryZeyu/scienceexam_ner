@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------------------------
+[Mercury_7211698] [LIFE_ENVADP_NATSEL]
+Repeated pesticide use on an insect population can result in some of the insects becoming resistant to that pesticide over time. Which process is responsible for the pesticides no longer being effective on the insects?
+(A) divergent evolution
+(B) natural selection
+(C) bottleneck effect
+(D) selective breeding
+----------------------------------------------------------------------------------------------
+[Mercury_182420] [LIFE_ENVADP_NATSEL]
+Natural selection cannot occur without
+(A) competition for unlimited resources.
+(B) gradual warming of Earth.
+(C) genetic variation in species.
+(D) asexual reproduction in species.
+----------------------------------------------------------------------------------------------
+[Mercury_SC_405973] [LIFE_ENVADP_NATSEL]
+Several kinds of birds live on a small island. A storm destroys most of the plants on which the birds feed and build their nests. Which kind of bird is most likely going to survive on the island?
+(A) the birds that have the greatest number
+(B) the birds that are most able to adapt
+(C) the birds that can fly the farthest
+(D) the birds with the strongest beaks
+----------------------------------------------------------------------------------------------
+[Mercury_7139493] [LIFE_ENVADP_NATSEL]
+Which is most likely responsible for the chinch bugs' ability to survive repeated exposure to insecticides?
+(A) species diversity
+(B) genetic diversity
+(C) ecosystem diversity
+(D) population diversity
+----------------------------------------------------------------------------------------------
+[Mercury_7213885] [LIFE_ENVADP_NATSEL]
+Over a long period of time, helpful variations in a species replace the unfavorable ones. This change can lead to
+(A) fossilization.
+(B) evolution.
+(C) geographic isolation.
+(D) genetic mutations.
+----------------------------------------------------------------------------------------------
+[Mercury_7137673] [LIFE_ENVADP_NATSEL]
+A population of plants growing on an island consisted of two varieties, one with thorns and the other without. Over a period of many years, the variety with thorns gradually disappeared. Which process most likely brought about this change in the plant population?
+(A) gene flow
+(B) genetic drift
+(C) natural selection
+(D) random mutation
+----------------------------------------------------------------------------------------------
+[MCAS_2006_9_33] [LIFE_ENVADP_NATSEL]
+Cheetahs have come close to extinction due to hunting, drought, and disease. There is now very little genetic variation in cheetah populations. Which of the following is a result of the limited genetic variation in the current cheetah populations compared to earlier cheetah populations with more variation?
+(A) Cheetahs in current populations are more resistant to new diseases.
+(B) The survival rate of young cheetahs is increased in current populations.
+(C) Cheetahs in current populations are less able to interbreed with other species.
+(D) The current cheetah populations are less likely to be able to adapt to environmental changes.
+----------------------------------------------------------------------------------------------
+[LEAP_2002_8_10388] [LIFE_ENVADP_NATSEL, LIFE_INTERDEP_POPDYN]
+Over a long period of time, some flowering plants have become dependent on honey bees to fertilize their seeds. In recent years, a form of mite has infected and killed the honey bees in many areas of the country. Since this has happened, the once bee-dependent plants with the best chance of surviving are those that
+(A) grow taller so that the few remaining honey bees will find them.
+(B) change their flowers so that wind will fertilize them.
+(C) have always attracted many other insects as well as honey bees.
+(D) have seeds that stay alive for a long time in the environment.
+----------------------------------------------------------------------------------------------
+[Mercury_7001733] [LIFE_EXTINCTION]
+Which most likely contributed to the extinction of many species and endangered the survival of others?
+(A) pollution
+(B) habitat destruction
+(C) an asteroid hitting Earth
+(D) tectonic plate movement
+----------------------------------------------------------------------------------------------
+[MEA_2010_8_16-v1] [LIFE_EXTINCTION_MASSEX]
+Which event would most likely cause a rapid extinction of organisms?
+(A) a large asteroid impact
+(B) regional drought
+(C) new glacier formation
+(D) a decrease in the growth of weeds
+----------------------------------------------------------------------------------------------
+[Mercury_7041615] [LIFE_EXTINCTION_MASSEX]
+Which of these do scientists offer as the most recent explanation as to why many plants and animals died out at the end of the Mesozoic era?
+(A) worldwide disease
+(B) global mountain building
+(C) rise of mammals that preyed upon plants and animals
+(D) impact of an asteroid created dust that blocked the sunlight
