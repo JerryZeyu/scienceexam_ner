@@ -27,6 +27,8 @@ def get_conll_bio_label(path):
                 splits = line.split(' ')
                 label_list.append(splits[-1][:-1])
     label_set = set(label_list)
+    if 'O' in label_set:
+        print(1)
     print(len(label_set))
     print(label_set)
 if __name__ == '__main__':

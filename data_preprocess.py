@@ -1,5 +1,6 @@
 import os
 import codecs
+df_q__ = df_q_[df_q_['flags'].str.contains('SUCCESS')].copy()
 path = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/finaldata'
 newpath = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/finaldata_preprocessed'
 for file in os.listdir(path):
