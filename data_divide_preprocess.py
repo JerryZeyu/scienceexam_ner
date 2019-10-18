@@ -15,9 +15,6 @@ def chunk_dataset(file_name):
             # print('ann: ',ann)
             if (int(ann[2]), int(ann[3])) in token2label.keys():
                 token2label[(int(ann[2]), int(ann[3]))].append([ann[1], ' '.join(ann[4:])])
-                print(file_name)
-                print((int(ann[2]), int(ann[3])))
-                #print([ann[1], ' '.join(ann[4:])])
             else:
                 token2label[(int(ann[2]), int(ann[3]))] = [[ann[1], ' '.join(ann[4:])]]
                 #print([ann[1], ' '.join(ann[4:])])
@@ -96,14 +93,22 @@ def write_dataset(path, file_name, questionID_location, questionID_location_list
                     #f_train.write(text[pre:questionID_location[qid]])
                     temp_content = text[pre:questionID_location[qid]]
                     for temp_line in temp_content.split('\n'):
-                        # if '[questionID]' in temp_line:
-                        #     continue
+                        if '[questionID]' in temp_line:
+                            continue
                         if '----------------------------------------------------------------------------------------------' in temp_line:
                             continue
-                        # if temp_line.strip() == 'Question':
-                        #     continue
-                        f_train.write(temp_line)
-                        f_train.write('\n')
+                        if temp_line.strip() == 'Question':
+                            continue
+                        if ('[' and ']') in temp_line and '(' not in temp_line and (temp_line.find(']', 0) - temp_line.find('[', 0)) > 2:
+                            continue
+                        if len(temp_line.strip())==0:
+                            continue
+                        if temp_line[0]=='(':
+                            f_train.write(temp_line[4:])
+                            f_train.write('\n')
+                        else:
+                            f_train.write(temp_line)
+                            f_train.write('\n')
                     pre = questionID_location[qid]
 
                 with open('train/'+str(qid[1:-1])+ '.txt', 'r+') as fn:
@@ -118,8 +123,12 @@ def write_dataset(path, file_name, questionID_location, questionID_location_list
                     for each_token_label in token2label_list:
                         for inside_each_token_label in each_token_label:
                             if text_single.find(inside_each_token_label[1], pre_) == -1:
-                                print(file_name)
-                                print(qid)
+                                # print(each_token_label)
+                                # print(inside_each_token_label[1])
+                                # print(file_name)
+                                # print(qid)
+                                pre_temp = pre_
+                                continue
                             all_tokens_list.append((inside_each_token_label[0], text_single.find(inside_each_token_label[1], pre_),
                                                     text_single.find(inside_each_token_label[1], pre_)+len(inside_each_token_label[1]),inside_each_token_label[1]))
                             pre_temp = text_single.find(inside_each_token_label[1], pre_)
@@ -130,14 +139,22 @@ def write_dataset(path, file_name, questionID_location, questionID_location_list
                 with open('valid/'+str(qid[1:-1])+ '.txt', 'w+') as f_valid:
                     temp_content_valid = text[pre:questionID_location[qid]]
                     for temp_line_valid in temp_content_valid.split('\n'):
-                        # if '[questionID]' in temp_line_valid:
-                        #     continue
+                        if '[questionID]' in temp_line_valid:
+                            continue
                         if '----------------------------------------------------------------------------------------------' in temp_line_valid:
                             continue
-                        # if temp_line_valid.strip() == 'Question':
-                        #     continue
-                        f_valid.write(temp_line_valid)
-                        f_valid.write('\n')
+                        if temp_line_valid.strip() == 'Question':
+                            continue
+                        if ('[' and ']') in temp_line_valid and '(' not in temp_line_valid and (temp_line_valid.find(']', 0) - temp_line_valid.find('[', 0)) > 2:
+                            continue
+                        if len(temp_line_valid.strip())==0:
+                            continue
+                        if temp_line_valid[0]=='(':
+                            f_valid.write(temp_line_valid[4:])
+                            f_valid.write('\n')
+                        else:
+                            f_valid.write(temp_line_valid)
+                            f_valid.write('\n')
                     pre = questionID_location[qid]
 
                 with open('valid/' + str(qid[1:-1]) + '.txt', 'r+') as fn_valid:
@@ -152,8 +169,14 @@ def write_dataset(path, file_name, questionID_location, questionID_location_list
                     for each_token_label in token2label_list:
                         for inside_each_token_label in each_token_label:
                             if text_single_valid.find(inside_each_token_label[1], pre_) == -1:
-                                print(file_name)
-                                print(qid)
+                                # print('location list: ', token2label_list)
+                                # print('pre_: ',pre_)
+                                # print(each_token_label)
+                                # print(inside_each_token_label[1])
+                                # print(file_name)
+                                # print(qid)
+                                pre_temp = pre_
+                                continue
                             all_tokens_list.append((inside_each_token_label[0],
                                                     text_single_valid.find(inside_each_token_label[1], pre_),
                                                     text_single_valid.find(inside_each_token_label[1],
@@ -168,14 +191,22 @@ def write_dataset(path, file_name, questionID_location, questionID_location_list
                 with open('test/'+str(qid[1:-1])+ '.txt', 'w+') as f_test:
                     temp_content_test = text[pre:questionID_location[qid]]
                     for temp_line_test in temp_content_test.split('\n'):
-                        # if '[questionID]' in temp_line_test:
-                        #     continue
+                        if '[questionID]' in temp_line_test:
+                            continue
                         if '----------------------------------------------------------------------------------------------' in temp_line_test:
                             continue
-                        # if temp_line_test.strip() == 'Question':
-                        #     continue
-                        f_test.write(temp_line_test)
-                        f_test.write('\n')
+                        if temp_line_test.strip() == 'Question':
+                            continue
+                        if ('[' and ']') in temp_line_test and '(' not in temp_line_test and (temp_line_test.find(']', 0) - temp_line_test.find('[', 0)) > 2:
+                            continue
+                        if len(temp_line_test.strip())==0:
+                            continue
+                        if temp_line_test[0]=='(':
+                            f_test.write(temp_line_test[4:])
+                            f_test.write('\n')
+                        else:
+                            f_test.write(temp_line_test)
+                            f_test.write('\n')
                     pre = questionID_location[qid]
                 #print(qid)
                 with open('test/' + str(qid[1:-1]) + '.txt', 'r+') as fn_test:
@@ -190,8 +221,11 @@ def write_dataset(path, file_name, questionID_location, questionID_location_list
                     for each_token_label in token2label_list:
                         for inside_each_token_label in each_token_label:
                             if text_single_test.find(inside_each_token_label[1], pre_) == -1:
-                                print(file_name)
-                                print(qid)
+                                # print(inside_each_token_label[1])
+                                # print(file_name)
+                                # print(qid)
+                                pre_temp = pre_
+                                continue
                             all_tokens_list.append((inside_each_token_label[0],
                                                     text_single_test.find(inside_each_token_label[1], pre_),
                                                     text_single_test.find(inside_each_token_label[1],
@@ -213,9 +247,9 @@ if __name__ == '__main__':
     for file in os.listdir(path):
         fileNameList.append(file.split('.')[0])
     fileNameList = set(fileNameList)
-    #fileNameList = ['ARC-science-3325-3350']
+    # fileNameList = ['ARC-science-3275-3300']
     for file_name in fileNameList:
         questionID_location, questionID_location_list, token2label = chunk_dataset(os.path.join(path,file_name))
-        # write_dataset(path, file_name, questionID_location, questionID_location_list, token2label,
-        #               train_set_qeustionID, valid_set_questionsID, test_set_questionsID)
+        write_dataset(path, file_name, questionID_location, questionID_location_list, token2label,
+                      train_set_qeustionID, valid_set_questionsID, test_set_questionsID)
 
