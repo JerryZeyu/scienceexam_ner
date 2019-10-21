@@ -100,7 +100,6 @@ def brat_to_conll(input_folder, output_filepath, tokenizer, language):
     text_filepaths = sorted(glob.glob(os.path.join(input_folder, '*.txt')))
     output_file = codecs.open(output_filepath, 'w', 'utf-8')
     for text_filepath in text_filepaths:
-        print(text_filepath)
         base_filename = os.path.splitext(os.path.basename(text_filepath))[0]
         annotation_filepath = os.path.join(os.path.dirname(text_filepath), base_filename + '.ann')
         # create annotation file if it does not exist
@@ -116,43 +115,26 @@ def brat_to_conll(input_folder, output_filepath, tokenizer, language):
         if tokenizer == 'spacy':
             sentences = get_sentences_and_tokens_from_spacy(text, spacy_nlp)
         for sentence in sentences:
-            inside = False
-            previous_token_label = 'O'
             for token in sentence:
-                token['label'] = 'O'
+                token['label'] = []
                 for entity in entities:
-                    if entity['start'] <= token['start'] < entity['end'] or \
-                            entity['start'] < token['end'] <= entity['end'] or \
-                            token['start'] < entity['start'] < entity['end'] < token['end']:
-
-                        token['label'] = entity['type'].replace('-',
-                                                                '_')  # Because the ANN doesn't support tag with '-' in it
-
-                        break
+                    if entity['start'] == token['start'] and token['end']<= entity['end']:
+                        token['label'].append('B-{0}'.format(entity['type'].replace('-','_')))
+                    elif entity['start'] < token['start'] and token['end']<= entity['end']:
+                        token['label'].append('I-{0}'.format(entity['type'].replace('-','_')))
                     elif token['end'] < entity['start']:
                         break
+                if token['label'] == []:
+                    token['label'] = ['O']
 
                 if len(entities) == 0:
                     entity = {'end': 0}
-                if token['label'] == 'O':
-                    gold_label = 'O'
-                    inside = False
-                elif inside and token['label'] == previous_token_label:
-                    gold_label = 'I-{0}'.format(token['label'])
-                    # gold_label = '{0}'.format(token['label'])
-                else:
-                    inside = True
-                    gold_label = 'B-{0}'.format(token['label'])
-                    # gold_label = '{0}'.format(token['label'])
-                if token['end'] == entity['end']:
-                    inside = False
-                previous_token_label = token['label']
                 if verbose: print(
                     '{0} {1} {2} {3} {4}\n'.format(token['text'], base_filename, token['start'], token['end'],
-                                                   gold_label))
+                                                   ' '.join(token['label'])))
                 output_file.write(
                     '{0} {1} {2} {3} {4}\n'.format(token['text'], base_filename, token['start'], token['end'],
-                                                   gold_label))
+                                                   ' '.join(token['label'])))
             if verbose: print('\n')
             output_file.write('\n')
 
