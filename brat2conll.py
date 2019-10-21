@@ -8,23 +8,30 @@ import spacy
 def replace_unicode_whitespaces_with_ascii_whitespace(string):
     return ' '.join(string.split())
 
-def get_start_and_end_offset_of_token_from_spacy(token):
-    start = token.idx
+def get_start_and_end_offset_of_token_from_spacy(temp, token):
+    start = temp + token.idx
     end = start + len(token)
     return start, end
 
 def get_sentences_and_tokens_from_spacy(text, spacy_nlp):
-    document = spacy_nlp(text)
-    # sentences
     sentences = []
-    for span in document.sents:
-        sentence = [document[i] for i in range(span.start, span.end)]
-        print('sentence: ', sentence)
+    temp = 0
+    for line in text.split('\n')[:-1]:
+        # print(line)
+        document = spacy_nlp(line)
+
+        for span in document.sents:
+            sentence = [document[i] for i in range(span.start, span.end)]
+        # print('sentence: ', sentence)
         sentence_tokens = []
         for token in sentence:
+            # print('token: ',token)
             token_dict = {}
-            token_dict['start'], token_dict['end'] = get_start_and_end_offset_of_token_from_spacy(token)
+            # print('temp: ', temp)
+            token_dict['start'], token_dict['end'] = get_start_and_end_offset_of_token_from_spacy(temp, token)
+            # print(token_dict['start'], token_dict['end'])
             token_dict['text'] = text[token_dict['start']:token_dict['end']]
+            # print('token_dict text: ', token_dict['text'])
             if token_dict['text'].strip() in ['\n', '\t', ' ', '']:
                 continue
             # Make sure that the token text does not contain any space
@@ -35,10 +42,10 @@ def get_sentences_and_tokens_from_spacy(text, spacy_nlp):
                         token_dict['text'].replace(' ', '-')))
                 token_dict['text'] = token_dict['text'].replace(' ', '-')
             sentence_tokens.append(token_dict)
+            if token == sentence[-1]:
+                temp = token_dict['end'] + 1
         sentences.append(sentence_tokens)
-    print(sentences)
     return sentences
-
 
 
 def get_entities_from_brat(text_filepath, annotation_filepath, verbose=False):
@@ -93,6 +100,7 @@ def brat_to_conll(input_folder, output_filepath, tokenizer, language):
     text_filepaths = sorted(glob.glob(os.path.join(input_folder, '*.txt')))
     output_file = codecs.open(output_filepath, 'w', 'utf-8')
     for text_filepath in text_filepaths:
+        print(text_filepath)
         base_filename = os.path.splitext(os.path.basename(text_filepath))[0]
         annotation_filepath = os.path.join(os.path.dirname(text_filepath), base_filename + '.ann')
         # create annotation file if it does not exist
