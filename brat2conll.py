@@ -19,7 +19,7 @@ def get_sentences_and_tokens_from_spacy(text, spacy_nlp):
     sentences = []
     for span in document.sents:
         sentence = [document[i] for i in range(span.start, span.end)]
-        #print('sentence: ', sentence)
+        print('sentence: ', sentence)
         sentence_tokens = []
         for token in sentence:
             token_dict = {}
@@ -36,7 +36,7 @@ def get_sentences_and_tokens_from_spacy(text, spacy_nlp):
                 token_dict['text'] = token_dict['text'].replace(' ', '-')
             sentence_tokens.append(token_dict)
         sentences.append(sentence_tokens)
-    #print(sentences)
+    print(sentences)
     return sentences
 
 

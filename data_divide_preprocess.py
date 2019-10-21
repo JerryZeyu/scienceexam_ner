@@ -21,6 +21,7 @@ def chunk_dataset(file_name):
             offset_list.append((int(ann[2]), int(ann[3])))
     offset_list_set = set(offset_list)
     sorted_offset_list = sorted(offset_list_set, key=lambda x: x[0], reverse=False)
+    #print('sorted offset list: ',sorted_offset_list)
     questionID = []
     with open(file_name + '.txt', 'r+') as ft:
         # text = ft.read()
@@ -121,6 +122,7 @@ def write_dataset(path, file_name, questionID_location, questionID_location_list
                     for item in question_location_list:
                         token2label_list.append(token2label[item])
                     for each_token_label in token2label_list:
+                        #print('each token label: ', each_token_label)
                         for inside_each_token_label in each_token_label:
                             if text_single.find(inside_each_token_label[1], pre_) == -1:
                                 # print(each_token_label)
@@ -167,6 +169,7 @@ def write_dataset(path, file_name, questionID_location, questionID_location_list
                     for item in question_location_list:
                         token2label_list.append(token2label[item])
                     for each_token_label in token2label_list:
+                        #print('each token label: ',each_token_label)
                         for inside_each_token_label in each_token_label:
                             if text_single_valid.find(inside_each_token_label[1], pre_) == -1:
                                 # print('location list: ', token2label_list)
@@ -247,7 +250,8 @@ if __name__ == '__main__':
     for file in os.listdir(path):
         fileNameList.append(file.split('.')[0])
     fileNameList = set(fileNameList)
-    # fileNameList = ['ARC-science-3275-3300']
+    #print(fileNameList)
+    #fileNameList = ['ARC-science-25-50']
     for file_name in fileNameList:
         questionID_location, questionID_location_list, token2label = chunk_dataset(os.path.join(path,file_name))
         write_dataset(path, file_name, questionID_location, questionID_location_list, token2label,
