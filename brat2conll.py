@@ -107,10 +107,6 @@ def brat_to_conll(input_folder, output_filepath, tokenizer, language):
             codecs.open(annotation_filepath, 'w', 'UTF-8').close()
         text, entities = get_entities_from_brat(text_filepath, annotation_filepath)
         entities = sorted(entities, key=lambda entity: entity["start"])
-        # temp_entities = [entity['start'] for entity in entities]
-        # temp_entities_set = set(temp_entities)
-        # if len(temp_entities) != temp_entities_set:
-        #     print(1)
 
         if tokenizer == 'spacy':
             sentences = get_sentences_and_tokens_from_spacy(text, spacy_nlp)
