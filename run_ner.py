@@ -42,8 +42,8 @@ class Ner(BertForTokenClassification):
         sequence_output = self.dropout(valid_output)
         logits = self.classifier(sequence_output)
         #print('self number labels: ', self.num_labels)
-        labels = labels.float()
         if labels is not None:
+            labels = labels.float()
             loss_fct = nn.BCEWithLogitsLoss()
             #loss_fct = nn.CrossEntropyLoss(ignore_index=0)
             # Only keep active parts of the loss
@@ -284,6 +284,7 @@ def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer
                     "segment_ids: %s" % " ".join([str(x) for x in segment_ids]))
             # logger.info("label: %s (id = %d)" % (example.label, label_ids))
         #print('labels id shape: ', np.array(label_ids).shape)
+        #print('labels id: ',label_ids)
         features.append(
                 InputFeatures(input_ids=input_ids,
                               input_mask=input_mask,
@@ -507,7 +508,7 @@ def main():
         all_input_mask = torch.tensor([f.input_mask for f in train_features], dtype=torch.long)
         all_segment_ids = torch.tensor([f.segment_ids for f in train_features], dtype=torch.long)
         all_label_ids = torch.tensor([f.label_id for f in train_features], dtype=torch.long)
-        print('all_label_ids shape: ', all_label_ids.shape)
+        #print('all_label_ids shape: ', all_label_ids.shape)
         all_valid_ids = torch.tensor([f.valid_ids for f in train_features], dtype=torch.long)
         all_lmask_ids = torch.tensor([f.label_mask for f in train_features], dtype=torch.long)
         train_data = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label_ids,all_valid_ids,all_lmask_ids)
@@ -572,7 +573,7 @@ def main():
         all_input_mask = torch.tensor([f.input_mask for f in eval_features], dtype=torch.long)
         all_segment_ids = torch.tensor([f.segment_ids for f in eval_features], dtype=torch.long)
         all_label_ids = torch.tensor([f.label_id for f in eval_features], dtype=torch.long)
-        print('all_label_ids shape: ', all_label_ids.shape())
+        #print('all_label_ids shape: ', all_label_ids.shape)
         all_valid_ids = torch.tensor([f.valid_ids for f in eval_features], dtype=torch.long)
         all_lmask_ids = torch.tensor([f.label_mask for f in eval_features], dtype=torch.long)
         eval_data = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label_ids,all_valid_ids,all_lmask_ids)
@@ -584,39 +585,59 @@ def main():
         nb_eval_steps, nb_eval_examples = 0, 0
         y_true = []
         y_pred = []
-        label_map = {i : label for i, label in enumerate(label_list,1)}
+        label_map = {i : label for i, label in enumerate(label_list,0)}
         for input_ids, input_mask, segment_ids, label_ids,valid_ids,l_mask in tqdm(eval_dataloader, desc="Evaluating"):
             input_ids = input_ids.to(device)
             input_mask = input_mask.to(device)
             segment_ids = segment_ids.to(device)
             valid_ids = valid_ids.to(device)
             label_ids = label_ids.to(device)
+            #print('label_ids', label_ids)
             l_mask = l_mask.to(device)
 
             with torch.no_grad():
                 logits = model(input_ids, segment_ids, input_mask,valid_ids=valid_ids,attention_mask_label=l_mask)
 
             #logits = torch.argmax(F.log_softmax(logits,dim=2),dim=2)
-            logits = F.sigmoid(logits, dim=2)
-            print('logits: ',logits)
+            #print('logits: ', logits.shape)
+            logits = F.sigmoid(logits)
+            #print('logits: ',logits.shape)
             logits = logits.detach().cpu().numpy()
+            final_logits = (logits>=0.5).astype(int)
+            print('final logits: ',final_logits.shape)
             label_ids = label_ids.to('cpu').numpy()
             input_mask = input_mask.to('cpu').numpy()
 
             for i, label in enumerate(label_ids):
                 temp_1 = []
                 temp_2 = []
+                flag = 0
                 for j,m in enumerate(label):
                     if j == 0:
                         continue
-                    elif label_ids[i][j] == len(label_map):
+                    elif flag == len(label_map)-1:
                         y_true.append(temp_1)
                         y_pred.append(temp_2)
                         break
                     else:
-                        temp_1.append(label_map[label_ids[i][j]])
-                        temp_2.append(label_map[logits[i][j]])
-
+                        temp_label_ids_list = []
+                        temp_logits_list = []
+                        for label_temp_idx, label_temp in enumerate(label_ids[i][j]):
+                            if int(label_temp) == 1:
+                                flag = label_temp_idx
+                                if flag == len(label_map)-1:
+                                    break
+                                temp_label_ids_list.append(label_map[label_temp_idx])
+                        for logit_temp_idx, logits_temp in enumerate(logits[i][j]):
+                            if flag == len(label_map)-1:
+                                    break
+                            if int(logits_temp)==1:
+                                temp_logits_list.append(label_map[logit_temp_idx])
+                        if flag != len(label_map)-1:
+                            temp_1.append(temp_label_ids_list)
+                            temp_2.append(temp_logits_list)
+        #print('y_pred: ', y_pred)
+        print('y_true: ', y_true)
         report = classification_report(y_true, y_pred,digits=4)
         logger.info("\n%s", report)
         output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
