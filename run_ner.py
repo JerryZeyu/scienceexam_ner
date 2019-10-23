@@ -7,6 +7,7 @@ import logging
 import os
 import random
 import sys
+import pickle
 
 import numpy as np
 import torch
@@ -20,12 +21,20 @@ from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler,
 from torch.utils.data.distributed import DistributedSampler
 from tqdm import tqdm, trange
 
-from seqeval.metrics import classification_report
+from multi_label_ner_performance import classification_report
 
 logging.basicConfig(format = '%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
                     datefmt = '%m/%d/%Y %H:%M:%S',
                     level = logging.INFO)
 logger = logging.getLogger(__name__)
+
+def pickle_dump_large_file(obj, filepath):
+    max_bytes = 2**31 - 1
+    bytes_out = pickle.dumps(obj)
+    n_bytes = sys.getsizeof(bytes_out)
+    with open(filepath, 'wb') as f_out:
+        for idx in range(0, n_bytes, max_bytes):
+            f_out.write(bytes_out[idx:idx + max_bytes])
 
 class Ner(BertForTokenClassification):
 
@@ -603,8 +612,9 @@ def main():
             logits = F.sigmoid(logits)
             #print('logits: ',logits.shape)
             logits = logits.detach().cpu().numpy()
-            final_logits = (logits>=0.5).astype(int)
-            print('final logits: ',final_logits.shape)
+            #print('max logits: ',np.max(logits,axis=2))
+            final_logits = (logits>=0.008).astype(int)
+            #print('final logits: ',final_logits)
             label_ids = label_ids.to('cpu').numpy()
             input_mask = input_mask.to('cpu').numpy()
 
@@ -628,23 +638,27 @@ def main():
                                 if flag == len(label_map)-1:
                                     break
                                 temp_label_ids_list.append(label_map[label_temp_idx])
-                        for logit_temp_idx, logits_temp in enumerate(logits[i][j]):
+                        for logit_temp_idx, logits_temp in enumerate(final_logits[i][j]):
                             if flag == len(label_map)-1:
                                     break
+                            #print('*************************************************')
                             if int(logits_temp)==1:
+                                #print(label_map[logit_temp_idx])
                                 temp_logits_list.append(label_map[logit_temp_idx])
                         if flag != len(label_map)-1:
                             temp_1.append(temp_label_ids_list)
                             temp_2.append(temp_logits_list)
-        #print('y_pred: ', y_pred)
-        print('y_true: ', y_true)
-        report = classification_report(y_true, y_pred,digits=4)
-        logger.info("\n%s", report)
-        output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
-        with open(output_eval_file, "w") as writer:
-            logger.info("***** Eval results *****")
-            logger.info("\n%s", report)
-            writer.write(report)
+        print('y_pred: ', y_pred)
+        #print('y_true: ', y_true)
+        pickle_dump_large_file(y_true, 'y_true.pkl')
+        pickle_dump_large_file(y_pred, 'y_pred.pkl')
+        # report = classification_report(y_true, y_pred,digits=4)
+        # logger.info("\n%s", report)
+        # output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
+        # with open(output_eval_file, "w") as writer:
+        #     logger.info("***** Eval results *****")
+        #     logger.info("\n%s", report)
+        #     writer.write(report)
 
 
 if __name__ == "__main__":
