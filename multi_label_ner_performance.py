@@ -12,6 +12,17 @@ from collections import defaultdict
 import numpy as np
 
 
+# for idx, singlechunk in enumerate(chunk):
+#     tag_temp = tag[idx]
+#     type__temp = type_[idx]
+#     for idx__, prev_tag_temp in enumerate(prev_tag):
+#         prev_type_temp = prev_type[idx__]
+#         if end_of_chunk(prev_tag_temp, tag_temp, prev_type_temp, type__temp):
+#             #print((prev_type_temp, previous_begin_offset[0], i - 1))
+#             chunks.append((prev_type_temp, previous_begin_offset[0], i - 1))
+#         if start_of_chunk(prev_tag_temp, tag_temp, prev_type_temp, type__temp):
+#             begin_offset.append(i)
+
 def get_entities(seq, suffix=False):
     """Gets entities from sequence.
 
@@ -27,35 +38,43 @@ def get_entities(seq, suffix=False):
         # >>> get_entities(seq)
         [('PER', 0, 1), ('LOC', 3, 3)]
     """
-    # for nested list
+    # for nested list ['B-LevelOfInclusion'], ['B-ScientificTools'],
     if any(isinstance(s, list) for s in seq):
         seq = [item for sublist in seq for item in sublist + [['O']]]
+    #seq = [['B-Examine', 'B-Pressure'], ['B-Measurements', 'I-Pressure']]
     print('seq: ',seq[0:100])
-    # for item_ in seq:
-    #     if len(item_) == 1:
-    #         seq_filter.append(item_[0])
-    #     else:
-    #         seq_filter.append(item_)
-    # print('seq: ', seq_filter)
     prev_tag = ['O']
     prev_type = ['']
-    begin_offset = 0
+    previous_begin_offset = 0
     chunks = []
+    #begin_offset = []
     for i, chunk in enumerate(seq + [['O']]):
         tag = [singlechunk[0] for singlechunk in chunk]
         type_ = [singlechunk.split('-')[-1] for singlechunk in chunk]
+        # print('chunk: ',chunk)
+        # print(begin_offset)
+        # print(prev_tag)
+        # print(prev_type)
+        for idx, prev_tag_temp in enumerate(prev_tag):
+            prev_type_temp = prev_type[idx]
+            if end_of_chunk(prev_tag_temp, tag, prev_type_temp, type_):
+                #print((prev_type_temp, begin_offset[idx], i - 1))
+                chunks.append((prev_type_temp, begin_offset[idx], i - 1))
+        begin_offset=[]
+
         for idx, singlechunk in enumerate(chunk):
             tag_temp = tag[idx]
             type__temp = type_[idx]
-            for prev_tag_temp in prev_tag:
-                for prev_type_temp in prev_type:
-                    if end_of_chunk(prev_tag_temp, tag_temp, prev_type_temp, type__temp):
-                        chunks.append((prev_type_temp, begin_offset, i - 1))
-                    if start_of_chunk(prev_tag_temp, tag_temp, prev_type_temp, type__temp):
-                        begin_offset = i
+            if start_of_chunk(tag_temp, type__temp):
+                begin_offset.append(i)
+            else:
+                begin_offset.append(previous_begin_offset)
+
+            #print('begin offset: ',begin_offset)
+        previous_begin_offset=i
         prev_tag = tag
         prev_type = type_
-    print('chunks: ',chunks[0:100])
+    print('chunks: ',sorted(chunks[0:100],key=lambda x: x[1]))
     return chunks
 
 
@@ -73,23 +92,40 @@ def end_of_chunk(prev_tag, tag, prev_type, type_):
     """
     chunk_end = False
 
+
     if prev_tag == 'E': chunk_end = True
     if prev_tag == 'S': chunk_end = True
 
-    if prev_tag == 'B' and tag == 'B': chunk_end = True
-    if prev_tag == 'B' and tag == 'S': chunk_end = True
-    if prev_tag == 'B' and tag == 'O': chunk_end = True
-    if prev_tag == 'I' and tag == 'B': chunk_end = True
-    if prev_tag == 'I' and tag == 'S': chunk_end = True
-    if prev_tag == 'I' and tag == 'O': chunk_end = True
+    if prev_tag == 'B' and 'I' not in tag: chunk_end = True
+    if prev_tag == 'B' and 'I' in tag:
+        for idx, tag_temp in enumerate(tag):
+            if tag_temp == 'I':
+                if type_[idx] == prev_type:
+                    chunk_end = False
+                    break
+            chunk_end = True
+    if prev_tag == 'I' and 'I' not in tag: chunk_end = True
+    if prev_tag == 'I' and 'I' in tag:
+        for idx, tag_temp in enumerate(tag):
+            if tag_temp == 'I':
+                if type_[idx] == prev_type:
+                    chunk_end = False
+                    break
+            chunk_end = True
+    # if prev_tag == 'B' and tag == 'B': chunk_end = True
+    # if prev_tag == 'B' and tag == 'S': chunk_end = True
+    # if prev_tag == 'B' and tag == 'O': chunk_end = True
+    # if prev_tag == 'I' and tag == 'B': chunk_end = True
+    # if prev_tag == 'I' and tag == 'S': chunk_end = True
+    # if prev_tag == 'I' and tag == 'O': chunk_end = True
 
-    if prev_tag != 'O' and prev_tag != '.' and prev_type != type_:
-        chunk_end = True
+    # if prev_tag != 'O' and prev_tag != '.' and prev_type != type_:
+    #     chunk_end = True
 
     return chunk_end
 
 
-def start_of_chunk(prev_tag, tag, prev_type, type_):
+def start_of_chunk(tag, type_):
     """Checks if a chunk started between the previous and current word.
 
     Args:
@@ -106,15 +142,15 @@ def start_of_chunk(prev_tag, tag, prev_type, type_):
     if tag == 'B': chunk_start = True
     if tag == 'S': chunk_start = True
 
-    if prev_tag == 'E' and tag == 'E': chunk_start = True
-    if prev_tag == 'E' and tag == 'I': chunk_start = True
-    if prev_tag == 'S' and tag == 'E': chunk_start = True
-    if prev_tag == 'S' and tag == 'I': chunk_start = True
-    if prev_tag == 'O' and tag == 'E': chunk_start = True
-    if prev_tag == 'O' and tag == 'I': chunk_start = True
-
-    if tag != 'O' and tag != '.' and prev_type != type_:
-        chunk_start = True
+    # if prev_tag == 'E' and tag == 'E': chunk_start = True
+    # if prev_tag == 'E' and tag == 'I': chunk_start = True
+    # if prev_tag == 'S' and tag == 'E': chunk_start = True
+    # if prev_tag == 'S' and tag == 'I': chunk_start = True
+    # if prev_tag == 'O' and tag == 'E': chunk_start = True
+    # if prev_tag == 'O' and tag == 'I': chunk_start = True
+    #
+    # if tag != 'O' and tag != '.' and prev_type != type_:
+    #     chunk_start = True
 
     return chunk_start
 
@@ -283,54 +319,54 @@ def classification_report(y_true, y_pred, digits=2, suffix=False):
         <BLANKLINE>
     """
     true_entities = set(get_entities(y_true, suffix))
-    # pred_entities = set(get_entities(y_pred, suffix))
-    #
-    # name_width = 0
-    # d1 = defaultdict(set)
-    # d2 = defaultdict(set)
-    # for e in true_entities:
-    #     d1[e[0]].add((e[1], e[2]))
-    #     name_width = max(name_width, len(e[0]))
-    # for e in pred_entities:
-    #     d2[e[0]].add((e[1], e[2]))
-    #
-    # last_line_heading = 'avg / total'
-    # width = max(name_width, len(last_line_heading), digits)
-    #
-    # headers = ["precision", "recall", "f1-score", "support"]
-    # head_fmt = u'{:>{width}s} ' + u' {:>9}' * len(headers)
-    # report = head_fmt.format(u'', *headers, width=width)
-    # report += u'\n\n'
-    #
-    # row_fmt = u'{:>{width}s} ' + u' {:>9.{digits}f}' * 3 + u' {:>9}\n'
-    #
-    # ps, rs, f1s, s = [], [], [], []
-    # for type_name, true_entities in d1.items():
-    #     pred_entities = d2[type_name]
-    #     nb_correct = len(true_entities & pred_entities)
-    #     nb_pred = len(pred_entities)
-    #     nb_true = len(true_entities)
-    #
-    #     p = nb_correct / nb_pred if nb_pred > 0 else 0
-    #     r = nb_correct / nb_true if nb_true > 0 else 0
-    #     f1 = 2 * p * r / (p + r) if p + r > 0 else 0
-    #
-    #     report += row_fmt.format(*[type_name, p, r, f1, nb_true], width=width, digits=digits)
-    #
-    #     ps.append(p)
-    #     rs.append(r)
-    #     f1s.append(f1)
-    #     s.append(nb_true)
-    #
-    # report += u'\n'
-    #
-    # # compute averages
-    # report += row_fmt.format(last_line_heading,
-    #                          np.average(ps, weights=s),
-    #                          np.average(rs, weights=s),
-    #                          np.average(f1s, weights=s),
-    #                          np.sum(s),
-    #                          width=width, digits=digits)
-    #
-    # return report
-    return None
+    pred_entities = set(get_entities(y_pred, suffix))
+
+    name_width = 0
+    d1 = defaultdict(set)
+    d2 = defaultdict(set)
+    for e in true_entities:
+        d1[e[0]].add((e[1], e[2]))
+        name_width = max(name_width, len(e[0]))
+    for e in pred_entities:
+        d2[e[0]].add((e[1], e[2]))
+
+    last_line_heading = 'avg / total'
+    width = max(name_width, len(last_line_heading), digits)
+
+    headers = ["precision", "recall", "f1-score", "support"]
+    head_fmt = u'{:>{width}s} ' + u' {:>9}' * len(headers)
+    report = head_fmt.format(u'', *headers, width=width)
+    report += u'\n\n'
+
+    row_fmt = u'{:>{width}s} ' + u' {:>9.{digits}f}' * 3 + u' {:>9}\n'
+
+    ps, rs, f1s, s = [], [], [], []
+    for type_name, true_entities in d1.items():
+        pred_entities = d2[type_name]
+        nb_correct = len(true_entities & pred_entities)
+        nb_pred = len(pred_entities)
+        nb_true = len(true_entities)
+
+        p = nb_correct / nb_pred if nb_pred > 0 else 0
+        r = nb_correct / nb_true if nb_true > 0 else 0
+        f1 = 2 * p * r / (p + r) if p + r > 0 else 0
+
+        report += row_fmt.format(*[type_name, p, r, f1, nb_true], width=width, digits=digits)
+
+        ps.append(p)
+        rs.append(r)
+        f1s.append(f1)
+        s.append(nb_true)
+
+    report += u'\n'
+
+    # compute averages
+    report += row_fmt.format(last_line_heading,
+                             np.average(ps, weights=s),
+                             np.average(rs, weights=s),
+                             np.average(f1s, weights=s),
+                             np.sum(s),
+                             width=width, digits=digits)
+
+    return report
+    #return None
