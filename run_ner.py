@@ -652,13 +652,13 @@ def main():
         #print('y_true: ', y_true)
         pickle_dump_large_file(y_true, 'y_true.pkl')
         pickle_dump_large_file(y_pred, 'y_pred.pkl')
-        # report = classification_report(y_true, y_pred,digits=4)
-        # logger.info("\n%s", report)
-        # output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
-        # with open(output_eval_file, "w") as writer:
-        #     logger.info("***** Eval results *****")
-        #     logger.info("\n%s", report)
-        #     writer.write(report)
+        report = classification_report(y_true, y_pred,digits=4)
+        logger.info("\n%s", report)
+        output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
+        with open(output_eval_file, "w") as writer:
+            logger.info("***** Eval results *****")
+            logger.info("\n%s", report)
+            writer.write(report)
 
 
 if __name__ == "__main__":

@@ -30,8 +30,7 @@ def get_entities(seq, suffix=False):
     # for nested list
     if any(isinstance(s, list) for s in seq):
         seq = [item for sublist in seq for item in sublist + [['O']]]
-    #print('seq: ',seq)
-    seq_filter = []
+    print('seq: ',seq[0:100])
     # for item_ in seq:
     #     if len(item_) == 1:
     #         seq_filter.append(item_[0])
@@ -56,7 +55,7 @@ def get_entities(seq, suffix=False):
                         begin_offset = i
         prev_tag = tag
         prev_type = type_
-    #print('chunks: ',chunks)
+    print('chunks: ',chunks[0:100])
     return chunks
 
 
@@ -284,53 +283,54 @@ def classification_report(y_true, y_pred, digits=2, suffix=False):
         <BLANKLINE>
     """
     true_entities = set(get_entities(y_true, suffix))
-    pred_entities = set(get_entities(y_pred, suffix))
-
-    name_width = 0
-    d1 = defaultdict(set)
-    d2 = defaultdict(set)
-    for e in true_entities:
-        d1[e[0]].add((e[1], e[2]))
-        name_width = max(name_width, len(e[0]))
-    for e in pred_entities:
-        d2[e[0]].add((e[1], e[2]))
-
-    last_line_heading = 'avg / total'
-    width = max(name_width, len(last_line_heading), digits)
-
-    headers = ["precision", "recall", "f1-score", "support"]
-    head_fmt = u'{:>{width}s} ' + u' {:>9}' * len(headers)
-    report = head_fmt.format(u'', *headers, width=width)
-    report += u'\n\n'
-
-    row_fmt = u'{:>{width}s} ' + u' {:>9.{digits}f}' * 3 + u' {:>9}\n'
-
-    ps, rs, f1s, s = [], [], [], []
-    for type_name, true_entities in d1.items():
-        pred_entities = d2[type_name]
-        nb_correct = len(true_entities & pred_entities)
-        nb_pred = len(pred_entities)
-        nb_true = len(true_entities)
-
-        p = nb_correct / nb_pred if nb_pred > 0 else 0
-        r = nb_correct / nb_true if nb_true > 0 else 0
-        f1 = 2 * p * r / (p + r) if p + r > 0 else 0
-
-        report += row_fmt.format(*[type_name, p, r, f1, nb_true], width=width, digits=digits)
-
-        ps.append(p)
-        rs.append(r)
-        f1s.append(f1)
-        s.append(nb_true)
-
-    report += u'\n'
-
-    # compute averages
-    report += row_fmt.format(last_line_heading,
-                             np.average(ps, weights=s),
-                             np.average(rs, weights=s),
-                             np.average(f1s, weights=s),
-                             np.sum(s),
-                             width=width, digits=digits)
-
-    return report
+    # pred_entities = set(get_entities(y_pred, suffix))
+    #
+    # name_width = 0
+    # d1 = defaultdict(set)
+    # d2 = defaultdict(set)
+    # for e in true_entities:
+    #     d1[e[0]].add((e[1], e[2]))
+    #     name_width = max(name_width, len(e[0]))
+    # for e in pred_entities:
+    #     d2[e[0]].add((e[1], e[2]))
+    #
+    # last_line_heading = 'avg / total'
+    # width = max(name_width, len(last_line_heading), digits)
+    #
+    # headers = ["precision", "recall", "f1-score", "support"]
+    # head_fmt = u'{:>{width}s} ' + u' {:>9}' * len(headers)
+    # report = head_fmt.format(u'', *headers, width=width)
+    # report += u'\n\n'
+    #
+    # row_fmt = u'{:>{width}s} ' + u' {:>9.{digits}f}' * 3 + u' {:>9}\n'
+    #
+    # ps, rs, f1s, s = [], [], [], []
+    # for type_name, true_entities in d1.items():
+    #     pred_entities = d2[type_name]
+    #     nb_correct = len(true_entities & pred_entities)
+    #     nb_pred = len(pred_entities)
+    #     nb_true = len(true_entities)
+    #
+    #     p = nb_correct / nb_pred if nb_pred > 0 else 0
+    #     r = nb_correct / nb_true if nb_true > 0 else 0
+    #     f1 = 2 * p * r / (p + r) if p + r > 0 else 0
+    #
+    #     report += row_fmt.format(*[type_name, p, r, f1, nb_true], width=width, digits=digits)
+    #
+    #     ps.append(p)
+    #     rs.append(r)
+    #     f1s.append(f1)
+    #     s.append(nb_true)
+    #
+    # report += u'\n'
+    #
+    # # compute averages
+    # report += row_fmt.format(last_line_heading,
+    #                          np.average(ps, weights=s),
+    #                          np.average(rs, weights=s),
+    #                          np.average(f1s, weights=s),
+    #                          np.sum(s),
+    #                          width=width, digits=digits)
+    #
+    # return report
+    return None
