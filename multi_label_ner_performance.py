@@ -42,7 +42,7 @@ def get_entities(seq, suffix=False):
     if any(isinstance(s, list) for s in seq):
         seq = [item for sublist in seq for item in sublist + [['O']]]
     #seq = [['B-Examine', 'B-Pressure'], ['B-Measurements', 'I-Pressure']]
-    print('seq: ',seq[0:100])
+    print('seq: ',len(seq))
     prev_tag = ['O']
     prev_type = ['']
     previous_begin_offset = 0
@@ -74,7 +74,8 @@ def get_entities(seq, suffix=False):
         previous_begin_offset=i
         prev_tag = tag
         prev_type = type_
-    print('chunks: ',sorted(chunks[0:100],key=lambda x: x[1]))
+    #print(len(set(chunks)))
+    #print('chunks: ',sorted(chunks[0:100],key=lambda x: x[1]))
     return chunks
 
 
@@ -320,7 +321,8 @@ def classification_report(y_true, y_pred, digits=2, suffix=False):
     """
     true_entities = set(get_entities(y_true, suffix))
     pred_entities = set(get_entities(y_pred, suffix))
-
+    print(len(true_entities))
+    print(len(pred_entities))
     name_width = 0
     d1 = defaultdict(set)
     d2 = defaultdict(set)
@@ -329,7 +331,8 @@ def classification_report(y_true, y_pred, digits=2, suffix=False):
         name_width = max(name_width, len(e[0]))
     for e in pred_entities:
         d2[e[0]].add((e[1], e[2]))
-
+    print(len(d1))
+    print(len(d2))
     last_line_heading = 'avg / total'
     width = max(name_width, len(last_line_heading), digits)
 
