@@ -25,8 +25,8 @@ def get_conll_bio_label(path):
                 if len(line) == 0 or line[0]=='\n':
                     continue
                 splits = line.split(' ')
-                #label_list.append(splits[-1][:-1])
-                label_list.extend([i.strip() for i in splits[4:]])
+                label_list.append(splits[4].strip())
+                #label_list.extend([i.strip() for i in splits[4:]])
     label_set = set(label_list)
     if 'O' in label_set:
         print(1)
