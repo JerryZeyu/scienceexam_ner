@@ -41,11 +41,12 @@ def get_entities(seq, suffix=False):
     # for nested list ['B-LevelOfInclusion'], ['B-ScientificTools'],
     if any(isinstance(s, list) for s in seq):
         seq = [item for sublist in seq for item in sublist + [['O']]]
-    #seq = [['B-Examine', 'B-Pressure'], ['B-Measurements', 'I-Pressure']]
-    print('seq: ',len(seq))
+    #seq = [['B-Examine', 'B-Pressure'], ['B-Measurements', 'I-Pressure'],['B-Examine', 'I-Pressure'],['I-Examine', 'I-Pressure']]
+    #print(seq)
+    print('seq: ',seq[0:100])
     prev_tag = ['O']
     prev_type = ['']
-    previous_begin_offset = 0
+    previous_begin_offset = {}
     chunks = []
     #begin_offset = []
     for i, chunk in enumerate(seq + [['O']]):
@@ -59,19 +60,22 @@ def get_entities(seq, suffix=False):
             prev_type_temp = prev_type[idx]
             if end_of_chunk(prev_tag_temp, tag, prev_type_temp, type_):
                 #print((prev_type_temp, begin_offset[idx], i - 1))
-                chunks.append((prev_type_temp, begin_offset[idx], i - 1))
-        begin_offset=[]
-
+                chunks.append((prev_type_temp, begin_offset[prev_type_temp], i - 1))
+        #begin_offset=[]
+        begin_offset = {}
         for idx, singlechunk in enumerate(chunk):
             tag_temp = tag[idx]
             type__temp = type_[idx]
             if start_of_chunk(tag_temp, type__temp):
-                begin_offset.append(i)
+                begin_offset[type__temp] = i
             else:
-                begin_offset.append(previous_begin_offset)
+                if type__temp not in previous_begin_offset.keys():
+                    begin_offset[type__temp] = i
+                else:
+                    begin_offset[type__temp]=previous_begin_offset[type__temp]
 
             #print('begin offset: ',begin_offset)
-        previous_begin_offset=i
+        previous_begin_offset=begin_offset.copy()
         prev_tag = tag
         prev_type = type_
     #print(len(set(chunks)))
