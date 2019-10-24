@@ -8,10 +8,19 @@ from __future__ import division
 from __future__ import print_function
 
 from collections import defaultdict
-
+import pickle
+import os
 import numpy as np
 
-
+def pickle_load_large_file(filepath):
+    max_bytes = 2**31 - 1
+    input_size = os.path.getsize(filepath)
+    bytes_in = bytearray(0)
+    with open(filepath, 'rb') as f_in:
+        for _ in range(0, input_size, max_bytes):
+            bytes_in += f_in.read(max_bytes)
+    obj = pickle.loads(bytes_in)
+    return obj
 # for idx, singlechunk in enumerate(chunk):
 #     tag_temp = tag[idx]
 #     type__temp = type_[idx]
@@ -327,6 +336,7 @@ def classification_report(y_true, y_pred, digits=2, suffix=False):
     """
     true_entities = set(get_entities(y_true, suffix))
     pred_entities = set(get_entities(y_pred, suffix))
+    #pred_entities = pickle_load_large_file('/home/zeyuzhang/PycharmProjects/scienceexam_ner_siglelabel/pred_entities.pkl')
     print(len(true_entities))
     print(len(pred_entities))
     name_width = 0

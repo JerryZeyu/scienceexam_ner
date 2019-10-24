@@ -613,7 +613,7 @@ def main():
             #print('logits: ',logits.shape)
             logits = logits.detach().cpu().numpy()
             #print('max logits: ',np.max(logits,axis=2))
-            final_logits = (logits>=0.065).astype(int)
+            final_logits = (logits>=0.085).astype(int)
             #print('final logits: ',final_logits)
             label_ids = label_ids.to('cpu').numpy()
             input_mask = input_mask.to('cpu').numpy()
