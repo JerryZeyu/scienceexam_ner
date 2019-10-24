@@ -50,6 +50,8 @@ def get_entities(seq, suffix=False):
     chunks = []
     #begin_offset = []
     for i, chunk in enumerate(seq + [['O']]):
+        if chunk == []:
+            chunk = ['O']
         tag = [singlechunk[0] for singlechunk in chunk]
         type_ = [singlechunk.split('-')[-1] for singlechunk in chunk]
         # print('chunk: ',chunk)
@@ -78,8 +80,8 @@ def get_entities(seq, suffix=False):
         previous_begin_offset=begin_offset.copy()
         prev_tag = tag
         prev_type = type_
-    #print(len(set(chunks)))
-    #print('chunks: ',sorted(chunks[0:100],key=lambda x: x[1]))
+    print(len(chunks))
+    print('chunks: ',sorted(chunks[0:100],key=lambda x: x[1]))
     return chunks
 
 
