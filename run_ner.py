@@ -49,6 +49,7 @@ class Ner(BertForTokenClassification):
                         jj += 1
                         valid_output[i][jj] = sequence_output[i][j]
         sequence_output = self.dropout(valid_output)
+        #print('sequence_output: ',sequence_output.shape)
         logits = self.classifier(sequence_output)
         #print('self number labels: ', self.num_labels)
         if labels is not None:
@@ -573,7 +574,7 @@ def main():
     model.to(device)
 
     if args.do_eval and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
-        eval_examples = processor.get_test_examples(args.data_dir)
+        eval_examples = processor.get_dev_examples(args.data_dir)
         eval_features = convert_examples_to_features(eval_examples, label_list, args.max_seq_length, tokenizer)
         logger.info("***** Running evaluation *****")
         logger.info("  Num examples = %d", len(eval_examples))
@@ -648,10 +649,10 @@ def main():
                         if flag != len(label_map)-1:
                             temp_1.append(temp_label_ids_list)
                             temp_2.append(temp_logits_list)
-        print('y_pred: ', y_pred)
+        #print('y_pred: ', y_pred)
         #print('y_true: ', y_true)
-        pickle_dump_large_file(y_true, 'y_true.pkl')
-        #pickle_dump_large_file(y_pred, 'y_pred.pkl')
+        pickle_dump_large_file(y_true, 'y_true_dev.pkl')
+        pickle_dump_large_file(y_pred, 'y_pred_dev.pkl')
         report = classification_report(y_true, y_pred,digits=4)
         logger.info("\n%s", report)
         output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
