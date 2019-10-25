@@ -1,5 +1,7 @@
 import pandas as pd
 import spacy
+import codecs
+
 def get_ARC_test_data(ARC_Easy_path, ARC_Challenge_path, plain_text_path):
     pd_easy = pd.read_csv(ARC_Easy_path)
     pd_challenge = pd.read_csv(ARC_Challenge_path)
@@ -108,9 +110,15 @@ def get_ARC_test_data(ARC_Easy_path, ARC_Challenge_path, plain_text_path):
                 file.write(answerE + '\n')
             file.write('\n')
 
+def get_sentences_and_tokens_from_spacy(plain_text_path, spacy_nlp):
+    with codecs.open(plain_text_path, 'r', 'UTF-8') as f:
+        text = f.read()
+
+
 if __name__ == '__main__':
     ARC_Easy_Test_path = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/ARC-V1-Feb2018-2/ARC-Easy/ARC-Easy-Test.csv'
     ARC_Challenge_Test_path = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/ARC-V1-Feb2018-2/ARC-Challenge/ARC-Challenge-Test.csv'
     plain_text_path = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/ARC-V1-Feb2018-2/ARC_text_questions.txt'
     get_ARC_test_data(ARC_Easy_Test_path,ARC_Challenge_Test_path, plain_text_path)
     spacy_nlp = spacy.load('en')
+    sentences = get_sentences_and_tokens_from_spacy(plain_text_path, spacy_nlp)
