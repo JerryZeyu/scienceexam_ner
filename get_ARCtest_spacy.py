@@ -160,7 +160,7 @@ if __name__ == '__main__':
     ARC_Easy_Test_path = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/ARC-V1-Feb2018-2/ARC-Easy/ARC-Easy-Test.csv'
     ARC_Challenge_Test_path = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/ARC-V1-Feb2018-2/ARC-Challenge/ARC-Challenge-Test.csv'
     plain_text_path = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/ARC-V1-Feb2018-2/ARC_text_questions'
-    output_filepath = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/ARC-V1-Feb2018-2/ARC_text_spacy.txt'
+    output_filepath = '/home/zeyuzhang/PycharmProjects/scienceexam_ner/ARC-V1-Feb2018-2/ARC_test_spacy.txt'
     get_ARC_test_data(ARC_Easy_Test_path,ARC_Challenge_Test_path, plain_text_path)
     spacy_nlp = spacy.load('en')
     text_filepaths = sorted(glob.glob(os.path.join(plain_text_path, '*.txt')))

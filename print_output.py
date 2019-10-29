@@ -14,34 +14,49 @@ def get_sentence_tokens(filepath):
     with open(filepath, 'r+') as file:
         data = []
         sentence = []
-        # label = []
+        label = []
         for line in file.readlines():
             if len(line) == 0 or line.startswith('-DOCSTART') or line[0] == "\n":
                 if len(sentence) > 0:
-                    data.append(sentence)
+                    data.append((sentence,label))
                     sentence = []
-                    # label = []
+                    label = []
                 continue
             splits = line.split(' ')
             sentence.append(splits[0])
-            # label.append([i.strip() for i in splits[4:]])
+            label.append([i.strip() for i in splits[4:]])
         if len(sentence) > 0:
-            data.append(sentence)
+            data.append((sentence,label))
             sentence = []
-            # label = []
+            label = []
     return data
 
-def token_predition_write(y_pred, sentence_tokens, output_path):
+def token_predition_write(y_pred, sentence_tokens_labels, output_path, total_precision):
     with open(output_path, 'w+') as file:
-        for idx, sentence in enumerate(sentence_tokens):
+        for idx, (sentence,label) in enumerate(sentence_tokens_labels):
             for tokenid, token in enumerate(sentence):
-                file.write('{}\t{}\n'.format(token, '\t'.join(y_pred[idx][tokenid])))
+                file.write('{}\t{}\t{}\t{}\n'.format(token, total_precision[idx][tokenid], ' '.join(y_pred[idx][tokenid]), ' '.join(['GOLD-'+item for item in label[tokenid]])))
             file.write('\n')
+
+def calculate_precision(sentence_tokens_labels, y_pred):
+    total_precision = []
+    for idx, (sentence, label) in enumerate(sentence_tokens_labels):
+        sentence_precision = []
+        for labelsid, labels in enumerate(label):
+            labels_set = set(labels)
+            y_pred_set = set(y_pred[idx][labelsid])
+            if labels_set == y_pred_set:
+                sentence_precision.append(1)
+            else:
+                sentence_precision.append(0)
+        total_precision.append(sentence_precision)
+    return total_precision
 if __name__ == '__main__':
 
     y_pred = pickle_load_large_file('y_pred_dev.pkl')
     print(len(y_pred))
-    sentence_tokens = get_sentence_tokens('/home/zeyuzhang/PycharmProjects/scienceexam_ner/bert_data/valid_spacy.txt')
-    print(len(sentence_tokens))
-    output_path = './token_prediction/dev_token_prediction.txt'
-    token_predition_write(y_pred, sentence_tokens, output_path)
+    sentence_tokens_labels = get_sentence_tokens('/home/zeyuzhang/PycharmProjects/scienceexam_ner/bert_data/valid_spacy.txt')
+    print(len(sentence_tokens_labels))
+    output_path = './entity_prediction/dev_entity_prediction.txt'
+    total_precision = calculate_precision(sentence_tokens_labels, y_pred)
+    token_predition_write(y_pred, sentence_tokens_labels, output_path, total_precision)
